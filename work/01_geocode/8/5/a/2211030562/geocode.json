@@ -1,6 +1,6 @@
 {
-  "adr_en": "SHOP A & B & C, G/F, 355-361 KING'S ROAD, HONG KONG",
-  "adr_tc": "\u9999\u6e2f\u5317\u89d2 \u82f1\u7687\u9053355\u81f3361\u865f \u5730\u4e0bA, B\u53caC\u92ea",
+  "adr_en": "McDonald's, SHOP A & B & C, G/F, 355-361 KING'S ROAD, HONG KONG",
+  "adr_tc": "\u9999\u6e2f\u5317\u89d2 \u82f1\u7687\u9053355\u81f3361\u865f \u5730\u4e0bA, B\u53caC\u92ea McDonald's",
   "geocode_en": [
     {
       "address_components": [
@@ -185,15 +185,79 @@
     {
       "address_components": [
         {
-          "long_name": "\u5730\u4e0bA, B\u53ca",
-          "short_name": "\u5730\u4e0bA, B\u53ca",
+          "long_name": "\u76ca\u65b0\u6d0b\u6a13",
+          "short_name": "\u76ca\u65b0\u6d0b\u6a13",
           "types": [
-            "subpremise"
+            "premise"
           ]
         },
         {
-          "long_name": "355",
-          "short_name": "355",
+          "long_name": "\u82f1\u7687\u9053",
+          "short_name": "\u82f1\u7687\u9053",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "\u5317\u89d2",
+          "short_name": "\u5317\u89d2",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u9999\u6e2f\u5cf6",
+          "short_name": "\u9999\u6e2f\u5cf6",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u9999\u6e2f",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "\u9999\u6e2f\u5317\u89d2\u82f1\u7687\u9053\u76ca\u65b0\u6d0b\u6a13",
+      "geometry": {
+        "location": {
+          "lat": 22.2907552,
+          "lng": 114.1976076
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 22.2921041802915,
+            "lng": 114.1989565802915
+          },
+          "southwest": {
+            "lat": 22.2894062197085,
+            "lng": 114.1962586197085
+          }
+        }
+      },
+      "place_id": "ChIJu6exgQQBBDQRi4eS3UsKXK0",
+      "plus_code": {
+        "compound_code": "75RX+82 \u9999\u6e2f\u5317\u89d2",
+        "global_code": "7PJP75RX+82"
+      },
+      "types": [
+        "establishment",
+        "food",
+        "point_of_interest",
+        "restaurant"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "238",
+          "short_name": "238",
           "types": [
             "street_number"
           ]
@@ -206,23 +270,15 @@
           ]
         },
         {
-          "long_name": "North Point",
-          "short_name": "North Point",
+          "long_name": "Fortress Hill",
+          "short_name": "Fortress Hill",
           "types": [
             "neighborhood",
             "political"
           ]
         },
         {
-          "long_name": "Hong Kong Island",
-          "short_name": "Hong Kong Island",
-          "types": [
-            "administrative_area_level_1",
-            "political"
-          ]
-        },
-        {
-          "long_name": "Hong Kong",
+          "long_name": "\u9999\u6e2f",
           "short_name": "HK",
           "types": [
             "country",
@@ -230,32 +286,38 @@
           ]
         }
       ],
-      "formatted_address": "\u5730\u4e0bA, B\u53ca, 355 King's Rd, North Point, Hong Kong",
+      "formatted_address": "Fortress Metro Tower, 238 King's Rd, Fortress Hill, \u9999\u6e2f",
       "geometry": {
         "location": {
-          "lat": 22.2907899,
-          "lng": 114.1975783
+          "lat": 22.288154,
+          "lng": 114.1936775
         },
         "location_type": "ROOFTOP",
         "viewport": {
           "northeast": {
-            "lat": 22.2921388802915,
-            "lng": 114.1989272802915
+            "lat": 22.28950298029151,
+            "lng": 114.1950264802915
           },
           "southwest": {
-            "lat": 22.2894409197085,
-            "lng": 114.1962293197085
+            "lat": 22.2868050197085,
+            "lng": 114.1923285197085
           }
         }
       },
-      "partial_match": true,
-      "place_id": "EjTlnLDkuItBLCBC5Y-KLCAzNTUgS2luZydzIFJkLCBOb3J0aCBQb2ludCwgSG9uZyBLb25nIikaJwoWChQKEgm7p7GBBAEENBGMx3QyHSBcxxIN5Zyw5LiLQSwgQuWPig",
+      "place_id": "ChIJaQqPhwEBBDQRm4Ood65vXiY",
+      "plus_code": {
+        "compound_code": "75QV+7F \u9999\u6e2f\u70ae\u53f0\u5c71",
+        "global_code": "7PJP75QV+7F"
+      },
       "types": [
-        "subpremise"
+        "establishment",
+        "food",
+        "point_of_interest",
+        "restaurant"
       ]
     }
   ],
   "licno": "2211030562",
-  "timestamp": 1564899040,
-  "version": "1564894996"
+  "timestamp": 1564966119,
+  "version": "1564966095"
 }

@@ -1,19 +1,19 @@
 {
-  "adr_en": "1/F, M/F & G/F (PTN), 294-296 KING'S ROAD, HONG KONG",
-  "adr_tc": "\u9999\u6e2f\u5317\u89d2 \u82f1\u7687\u9053294\u81f3296\u865f \u5730\u4e0b(\u90e8\u5206)\u95a3\u6a13\u53ca1\u6a13",
+  "adr_en": "\u660e\u661f\u6d77\u9bae\u9152\u5bb6, 1/F, M/F & G/F (PTN), 294-296 KING'S ROAD, HONG KONG",
+  "adr_tc": "\u9999\u6e2f\u5317\u89d2 \u82f1\u7687\u9053294\u81f3296\u865f \u5730\u4e0b(\u90e8\u5206)\u95a3\u6a13\u53ca1\u6a13 \u660e\u661f\u6d77\u9bae\u9152\u5bb6",
   "geocode_en": [
     {
       "address_components": [
         {
-          "long_name": "Continental Mansion",
-          "short_name": "Continental Mansion",
+          "long_name": "2/F",
+          "short_name": "2/F",
           "types": [
-            "premise"
+            "floor"
           ]
         },
         {
-          "long_name": "294",
-          "short_name": "294",
+          "long_name": "294-296",
+          "short_name": "294-296",
           "types": [
             "street_number"
           ]
@@ -26,8 +26,8 @@
           ]
         },
         {
-          "long_name": "Fortress Hill",
-          "short_name": "Fortress Hill",
+          "long_name": "North Point",
+          "short_name": "North Point",
           "types": [
             "neighborhood",
             "political"
@@ -50,38 +50,34 @@
           ]
         }
       ],
-      "formatted_address": "Continental Mansion, 294 King's Rd, Fortress Hill, Hong Kong",
+      "formatted_address": "2/F, 294-296 King's Rd, North Point, Hong Kong",
       "geometry": {
-        "bounds": {
-          "northeast": {
-            "lat": 22.290084,
-            "lng": 114.1957901
-          },
-          "southwest": {
-            "lat": 22.289648,
-            "lng": 114.195342
-          }
-        },
         "location": {
-          "lat": 22.2898186,
-          "lng": 114.1954892
+          "lat": 22.2899769,
+          "lng": 114.1955764
         },
         "location_type": "ROOFTOP",
         "viewport": {
           "northeast": {
-            "lat": 22.29121498029151,
-            "lng": 114.1969150302915
+            "lat": 22.2913258802915,
+            "lng": 114.1969253802915
           },
           "southwest": {
-            "lat": 22.2885170197085,
-            "lng": 114.1942170697085
+            "lat": 22.2886279197085,
+            "lng": 114.1942274197085
           }
         }
       },
-      "partial_match": true,
-      "place_id": "ChIJc75TuQMBBDQRIgqTfzDzfX4",
+      "place_id": "ChIJZe31uwMBBDQR07MrFlqBx8A",
+      "plus_code": {
+        "compound_code": "75QW+X6 Hong Kong",
+        "global_code": "7PJP75QW+X6"
+      },
       "types": [
-        "premise"
+        "establishment",
+        "food",
+        "point_of_interest",
+        "restaurant"
       ]
     }
   ],
@@ -89,22 +85,15 @@
     {
       "address_components": [
         {
-          "long_name": "\u865f \u5730\u4e0b",
-          "short_name": "\u865f \u5730\u4e0b",
+          "long_name": "2/F",
+          "short_name": "2/F",
           "types": [
-            "subpremise"
+            "floor"
           ]
         },
         {
-          "long_name": "Continental Mansion",
-          "short_name": "Continental Mansion",
-          "types": [
-            "premise"
-          ]
-        },
-        {
-          "long_name": "294",
-          "short_name": "294",
+          "long_name": "294-296",
+          "short_name": "294-296",
           "types": [
             "street_number"
           ]
@@ -117,8 +106,8 @@
           ]
         },
         {
-          "long_name": "Fortress Hill",
-          "short_name": "Fortress Hill",
+          "long_name": "North Point",
+          "short_name": "North Point",
           "types": [
             "neighborhood",
             "political"
@@ -133,7 +122,7 @@
           ]
         },
         {
-          "long_name": "Hong Kong",
+          "long_name": "\u9999\u6e2f",
           "short_name": "HK",
           "types": [
             "country",
@@ -141,42 +130,38 @@
           ]
         }
       ],
-      "formatted_address": "\u865f \u5730\u4e0b, Continental Mansion, 294 King's Rd, Fortress Hill, Hong Kong",
+      "formatted_address": "2/F, 294-296 King's Rd, North Point, \u9999\u6e2f",
       "geometry": {
-        "bounds": {
-          "northeast": {
-            "lat": 22.290084,
-            "lng": 114.1957901
-          },
-          "southwest": {
-            "lat": 22.289648,
-            "lng": 114.195342
-          }
-        },
         "location": {
-          "lat": 22.2898186,
-          "lng": 114.1954892
+          "lat": 22.2899769,
+          "lng": 114.1955764
         },
         "location_type": "ROOFTOP",
         "viewport": {
           "northeast": {
-            "lat": 22.29121498029151,
-            "lng": 114.1969150302915
+            "lat": 22.2913258802915,
+            "lng": 114.1969253802915
           },
           "southwest": {
-            "lat": 22.2885170197085,
-            "lng": 114.1942170697085
+            "lat": 22.2886279197085,
+            "lng": 114.1942274197085
           }
         }
       },
-      "partial_match": true,
-      "place_id": "EkjomZ8g5Zyw5LiLLCBDb250aW5lbnRhbCBNYW5zaW9uLCAyOTQgS2luZydzIFJkLCBGb3J0cmVzcyBIaWxsLCBIb25nIEtvbmciJhokChYKFAoSCXO-U7kDAQQ0ESIKk38w831-EgromZ8g5Zyw5LiL",
+      "place_id": "ChIJZe31uwMBBDQR07MrFlqBx8A",
+      "plus_code": {
+        "compound_code": "75QW+X6 \u9999\u6e2f",
+        "global_code": "7PJP75QW+X6"
+      },
       "types": [
-        "subpremise"
+        "establishment",
+        "food",
+        "point_of_interest",
+        "restaurant"
       ]
     }
   ],
   "licno": "2211030508",
-  "timestamp": 1564899040,
-  "version": "1564894996"
+  "timestamp": 1564966119,
+  "version": "1564966095"
 }
