@@ -1,0 +1,866 @@
+{
+  "fehd": {
+    "ADR_EN": "PORTION OF SHOP NO. 1, G/F, CHEUNG FAI BUILDING, 41-51 CHEUNG WAH STREET, 364-368 SHUN NING ROAD, 401-405 PO ON ROAD, KOWLOON",
+    "ADR_TC": "\u4e5d\u9f8d\u4fdd\u5b89\u9053401-405\u865f,\u9806\u5bdc\u9053364-368\u865f, \u660c\u83ef\u885741-51\u865f,\u660c\u6689\u5927\u5ec8\u5730\u4e0b1\u865f\u92ea\u90e8\u4efd",
+    "DIST": "63",
+    "EXPDATE": "2019-11-17",
+    "INFO": "",
+    "LICNO": "2263804906",
+    "SS_EN": "CHOO CHOO",
+    "SS_TC": "CHOO CHOO",
+    "TYPE": "RL"
+  },
+  "geocode_tc": {
+    "address_components": [
+      {
+        "long_name": "\u660c\u6689\u5927\u5ec8",
+        "short_name": "\u660c\u6689\u5927\u5ec8",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "364-368",
+        "short_name": "364-368",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "\u9806\u5be7\u9053",
+        "short_name": "\u9806\u5be7\u9053",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "\u8607\u5c4b",
+        "short_name": "\u8607\u5c4b",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "\u4e5d\u9f8d",
+        "short_name": "\u4e5d\u9f8d",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "\u9999\u6e2f",
+        "short_name": "HK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "\u9999\u6e2f\u8607\u5c4b\u9806\u5be7\u9053364-368\u865f\u660c\u6689\u5927\u5ec8",
+    "geometry": {
+      "location": {
+        "lat": 22.340549,
+        "lng": 114.154683
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 22.3418979802915,
+          "lng": 114.1560319802915
+        },
+        "southwest": {
+          "lat": 22.3392000197085,
+          "lng": 114.1533340197085
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJJ59BwlEHBDQR7jJnmMEu9qw",
+    "plus_code": {
+      "compound_code": "85R3+6V \u9999\u6e2f\u8607\u5c4b",
+      "global_code": "7PJP85R3+6V"
+    },
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ]
+  },
+  "licno": "2263804906",
+  "place_en": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "Cheung Fai Building",
+          "short_name": "Cheung Fai Building",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "364-368",
+          "short_name": "364-368",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Shun Ning Road",
+          "short_name": "Shun Ning Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "So Uk",
+          "short_name": "So Uk",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kowloon",
+          "short_name": "Kowloon",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "Cheung Fai Building, <span class=\"street-address\">364-368 Shun Ning Rd</span>, <span class=\"locality\">So Uk</span>, <span class=\"country-name\">Hong Kong</span>",
+      "formatted_address": "Cheung Fai Building, 364-368 Shun Ning Rd, So Uk, Hong Kong",
+      "formatted_phone_number": "3707 1034",
+      "geometry": {
+        "location": {
+          "lat": 22.340549,
+          "lng": 114.154683
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.3418831802915,
+            "lng": 114.1560185302915
+          },
+          "southwest": {
+            "lat": 22.3391852197085,
+            "lng": 114.1533205697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c1ff906eaaf413f39cdfc311683757dceaa5262e",
+      "international_phone_number": "+852 3707 1034",
+      "name": "CHOO CHOO",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1500"
+            },
+            "open": {
+              "day": 0,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "2200"
+            },
+            "open": {
+              "day": 0,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2200"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2200"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2200"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2200"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2200"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1500"
+            },
+            "open": {
+              "day": 6,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "2200"
+            },
+            "open": {
+              "day": 6,
+              "time": "1800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:00 PM",
+          "Tuesday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:00 PM",
+          "Wednesday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:00 PM",
+          "Thursday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:00 PM",
+          "Friday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:00 PM",
+          "Saturday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:00 PM",
+          "Sunday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:00 PM"
+        ]
+      },
+      "photos": [
+        {
+          "height": 4140,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116332871992155767577/photos\">Eva HO</a>"
+          ],
+          "photo_reference": "CmRaAAAArYA44EZl9KNxlx5K3kVWJiSde7Y8tkFFZC76vxlmhGgthJAYdgIIOrMuwULanKSW1F4cUlzeDqDqKmYSjWwy8hfR__JzNHSrzFXtlr8Je5nxtaQHhj2hUxMM2DN624X2EhARAcF_0I4uDnDcNM4HTkMpGhTobjcRNfjvk9RdURxjYkYmZkXthA",
+          "width": 5520
+        },
+        {
+          "height": 1184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109793671100627610246/photos\">Ai Mei Lam</a>"
+          ],
+          "photo_reference": "CmRaAAAAqvK_at_tKJe6B1zDDjT6lg3rkqvk1ASPQhUDOL_V7swMGnTQtunVlalPO0ymzT14GxGwjKblgICoyBQskIdR_XVw-Pc2uN8hTzFysUchOCeA6ABK3ngGZyGs9WZPFXcuEhAn6jV-wYgb8J7S4-xXamC4GhTn28wo88M2AJhJ50l1v9DoSFe1LA",
+          "width": 1776
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118375974739559701753/photos\">CHOO CHOO</a>"
+          ],
+          "photo_reference": "CmRaAAAAoFnq5Kh7-F-4A_jtBlBBKzX1ehcL1NKx3k1Tcim6_isEOIQOWY52XiHgRrMkVh9OdNwrR8qAotmW67Gczp2d0OYW5LtAszYGF8sRuTOMnEYPxaSrKSmSMtcleC6e0Bw5EhCCqThjjIPYhcZqbEQkYUdhGhSIInpaD_CCdalr1dDbsyC57TQQ5w",
+          "width": 2048
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112870818429857294305/photos\">\u9e7f\u53c1\u5152</a>"
+          ],
+          "photo_reference": "CmRaAAAA13nEMGWjPeOyovqDU8pJVCDTRGqmgozriB2QUfByAyERqfnVReEA04lBBIRxuzlprqPSLELB3FBf_W-Y2TDxPbLm5YD3sCU9ZM_D4G8JCzKccss4pfgXqjUhSB-rzYBQEhDCPqJ3qTAZjTrU3WSvO3qQGhR2DbMINyKR5qAq-jUpM7GZNdhaLg",
+          "width": 4288
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117761641738556097902/photos\">Kim Hung Ngan</a>"
+          ],
+          "photo_reference": "CmRaAAAAalm8KZyG-kRYPBmRjpq3agtXkmHg1nhkP8Su3cN5qU9ilEpHsTbVriAnTBgrTy_Q4t89u2mUDMDstDDp0QVIriGuz9UZP-Tkm9MYnDxxrPDfurxc8OnzUfV6P9MF1hLPEhBCXJ8QswWmcYO84qa2Yf-sGhRcB2OWjdafNGUTgy2XTOL4S0Xklg",
+          "width": 2976
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109081850272217546492/photos\">Andy Tang</a>"
+          ],
+          "photo_reference": "CmRaAAAAWyUsvB8xGiFm15-CvOso_lna6xy_k7m_-2n7hx-AFmVfGKjtPGyyfeVqMsLqOKn1JohZvx0XQtfy8Ma7puUv8sM88sLzDu0J1C9vQWbkTVqLyN0c2SvEqVGe2AehVUttEhDrYVNWoqHhT160qjRJgJFSGhRRlEc7GDM2jhPBnFPWZcfurhJXlg",
+          "width": 4160
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109081850272217546492/photos\">Andy Tang</a>"
+          ],
+          "photo_reference": "CmRaAAAAnDUf4yTtzC0k1AXSlGofY8Qx9N7epz7XNtKCDuoiT5bA-7isXA6JEjxoh6Sy3tcorbV4rydQl_0h7LFFGrfQhjO2YuPgz-JHsYvClD13vxXqq5tpLo5cDigYy01V_jhGEhDmm2jAVt9ccoyjl8GqHCWuGhQw9rR9SbCgCAT8fFt5pI3C9mJ4Qw",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116754936035114420887/photos\">Johnson Ho</a>"
+          ],
+          "photo_reference": "CmRaAAAA7WAXdYNqBfvrY-pc3UqnwxdPtfXSSrkI4TGBUucnb8QfKWgVmnZFIG6AcKhBIQ14cMa0432trsJ_UoIJ8Qx99W792KYA4MTLURBQ7I_yDc0PSWLU4LwqBYjUs9En8uYLEhAsdlPlWV6akQL6aTCNZo9CGhS4dup38E9_WhmEVcWpPymkLBvpFQ",
+          "width": 3024
+        },
+        {
+          "height": 4234,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118375974739559701753/photos\">CHOO CHOO</a>"
+          ],
+          "photo_reference": "CmRaAAAAF5Rczf7fH2nD2orRP17HXv6Iw21SGHOBqUeA0g3kAp6u9JgJGbzzTE1f8EuGWkyvdwLYAFHzOqTGSpgoobgh-ti7IOz0P3JHvOvOKCuLxj6Fba26RuER6WNIMzoxYlnHEhA4HjB2oVHTfAypxXFnQtfSGhQhLDj7uvh9zDFT28zkNfUeZiuQ0w",
+          "width": 3648
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109081850272217546492/photos\">Andy Tang</a>"
+          ],
+          "photo_reference": "CmRaAAAAQRDO_GjaHH-8bzZ0y9Na9Ut3GwqKcRq9HroMcRRdUsi9orGdAp7hbV29fYB4wkYyC7Yfqrk3gLcmq2hgzIc35Mf1gW_jSuH_-w1ulfDcWHZQZTTMqfnwTix7cusHkUlkEhB0GnwVLX6V4WDAadK70wjDGhQVhDivEn0VrlVhpAAkqGCxRqmt3w",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJJ59BwlEHBDQR7jJnmMEu9qw",
+      "plus_code": {
+        "compound_code": "85R3+6V So Uk, Hong Kong",
+        "global_code": "7PJP85R3+6V"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJJ59BwlEHBDQR7jJnmMEu9qw",
+      "reviews": [
+        {
+          "author_name": "Vinci Mouse",
+          "author_url": "https://www.google.com/maps/contrib/118116485591729601712/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-btpbEFiCU_Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfG6vl_nhehrvM8t4HtZ2KjenXtfQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "in the last week",
+          "text": "Food is good. the design of the restaurant is nice. I ate on the upper floor.. Staffs are nice.\nit was a bit dusty (maybe due to the environment of this restaurant which is near a bunch a garage) so i got something on my glass of water but the staff immediately changed my glass.\nThe food/quality/price is good.\nSo i recommend it.",
+          "time": 1564732850
+        },
+        {
+          "author_name": "Tsz Kiu Wong",
+          "author_url": "https://www.google.com/maps/contrib/117833932506589256971/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-oSMTsz3QQTA/AAAAAAAAAAI/AAAAAAAAAKs/JK8sI8daVZs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Fantastic food and great environment for a romantic meal.",
+          "time": 1564114579
+        },
+        {
+          "author_name": "Chungyinagnes Tsang",
+          "author_url": "https://www.google.com/maps/contrib/117581360676803492343/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-RfVDy09WVcM/AAAAAAAAAAI/AAAAAAAAAAs/USaLbVyJt3Q/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "5 months ago",
+          "text": "Came here once at lunch and it was good so I came again for dinner.\n\nOrdered seafood paella, was surprised it was a small portion. Rice itself was so-so but seafood was yummy, especially the squid and scallop!!!\n\nWe also ordered ribs with sweet potato. Wow absolutely fantastic!!!superb!!!\n\nWas a good experience eating here except that we didn\u2019t understand what took 45minutes to cook for these two dishes... \ud83d\ude44\ud83d\ude44\ud83d\ude44",
+          "time": 1549939044
+        },
+        {
+          "author_name": "Colin Suppiah",
+          "author_url": "https://www.google.com/maps/contrib/104206611360887067236/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-A_e30Q61Mi8/AAAAAAAAAAI/AAAAAAAARpg/17WIyfmjHNs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "9 months ago",
+          "text": "Probably one of the best restaurant in town. Price may be on the high side but it was absolutely worth it. We had two of the pork main meals and both came out superb. The pork belly meal must be taken with the accompanied bread else it might be too overwhelming in flavour. The cheese ball dessert deserves the praises given. The place is small, therefore a booking must be made. There is a service charge. Expect to pay HKD 350 per person.",
+          "time": 1540562169
+        },
+        {
+          "author_name": "CHUNG Wai Kin",
+          "author_url": "https://www.google.com/maps/contrib/109000940723947732233/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-S5NC13oh5JA/AAAAAAAAAAI/AAAAAAAAqH0/et9qaQxHG3I/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "5 months ago",
+          "text": "Quality food with interesting interior design",
+          "time": 1550963454
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=12463200427814892270",
+      "user_ratings_total": 146,
+      "utc_offset": 480,
+      "vicinity": "Cheung Fai Building, 364-368 Shun Ning Road, So Uk",
+      "website": "https://www.choochooasia.com/"
+    },
+    "status": "OK"
+  },
+  "place_tc": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "\u660c\u6689\u5927\u5ec8",
+          "short_name": "\u660c\u6689\u5927\u5ec8",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "364-368",
+          "short_name": "364-368",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "\u9806\u5be7\u9053",
+          "short_name": "\u9806\u5be7\u9053",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "\u8607\u5c4b",
+          "short_name": "\u8607\u5c4b",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u4e5d\u9f8d",
+          "short_name": "\u4e5d\u9f8d",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u9999\u6e2f",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u8607\u5c4b</span><span class=\"street-address\">\u9806\u5be7\u9053364-368\u865f</span>\u660c\u6689\u5927\u5ec8",
+      "formatted_address": "\u9999\u6e2f\u8607\u5c4b\u9806\u5be7\u9053364-368\u865f\u660c\u6689\u5927\u5ec8",
+      "formatted_phone_number": "3707 1034",
+      "geometry": {
+        "location": {
+          "lat": 22.340549,
+          "lng": 114.154683
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.3418831802915,
+            "lng": 114.1560185302915
+          },
+          "southwest": {
+            "lat": 22.3391852197085,
+            "lng": 114.1533205697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c1ff906eaaf413f39cdfc311683757dceaa5262e",
+      "international_phone_number": "+852 3707 1034",
+      "name": "CHOO CHOO",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1500"
+            },
+            "open": {
+              "day": 0,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "2200"
+            },
+            "open": {
+              "day": 0,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2200"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2200"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2200"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2200"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2200"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1500"
+            },
+            "open": {
+              "day": 6,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "2200"
+            },
+            "open": {
+              "day": 6,
+              "time": "1800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "\u661f\u671f\u4e00: 12:00 \u2013 15:00, 18:00 \u2013 22:00",
+          "\u661f\u671f\u4e8c: 12:00 \u2013 15:00, 18:00 \u2013 22:00",
+          "\u661f\u671f\u4e09: 12:00 \u2013 15:00, 18:00 \u2013 22:00",
+          "\u661f\u671f\u56db: 12:00 \u2013 15:00, 18:00 \u2013 22:00",
+          "\u661f\u671f\u4e94: 12:00 \u2013 15:00, 18:00 \u2013 22:00",
+          "\u661f\u671f\u516d: 12:00 \u2013 15:00, 18:00 \u2013 22:00",
+          "\u661f\u671f\u65e5: 12:00 \u2013 15:00, 18:00 \u2013 22:00"
+        ]
+      },
+      "photos": [
+        {
+          "height": 4140,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116332871992155767577/photos\">Eva HO</a>"
+          ],
+          "photo_reference": "CmRaAAAADB3o8z7mxpFdf00XTvqoRzhLIMsi7Dvts0vw6JreHaAh_yfOU34VRzD7g4k5-pCItErwzbdkhyZ1injUB5Dwo4EOYLSPQ_xfIITbnXL1YStnn_cf5dtsifgynRAk3nQlEhAbHg98d2asU4A0KDsy_tmEGhQOR4lpjt6ZQxKCAT-4Fo-a5RZc0g",
+          "width": 5520
+        },
+        {
+          "height": 1184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109793671100627610246/photos\">Ai Mei Lam</a>"
+          ],
+          "photo_reference": "CmRaAAAAxy0cZ33-BXuFdB1mrkE2iUHmQTNGfqyoHuWaGlFkFbCLmOAUxyPkRN2e7bnYXD34BhS9pyyUu73pX6H-8YMS5YcpPJSRAlgwCpijjc498WoWUIteaPuRUhrxzWhxGZwdEhA9EljPxkrr-4TdIruSH6rdGhRobuf5kgz09ekCt74EGMHs8d7h7A",
+          "width": 1776
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118375974739559701753/photos\">CHOO CHOO</a>"
+          ],
+          "photo_reference": "CmRaAAAAaqpTUYuyN3Z9hHGvf-T4YRNLEe9U1F2ud_pqqa5NRtTJsjYbrB33d8moMFV_XA9UN7CxIl6QlE2qixzaJhXeOCmm0hFcGNeDgQD3Nuq_xxkOTnpguTiMx3guzAjMSFh_EhAMwY8_HgNC2JZ4K1dOiIYHGhSpKsliBqNukf8wJUdxup02CQyCNg",
+          "width": 2048
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112870818429857294305/photos\">\u9e7f\u53c1\u5152</a>"
+          ],
+          "photo_reference": "CmRaAAAArH1laOmd5gI_IINMpHgLoit_tfyrFTt3_aTt7vVjC-mCLLvcGMpLMH152SI14WyRcwqQhbWVqtr5wcVGZVSPGyGtxvLxB_XFEykzUDT8LmFSrJaRtC-Clp-w-3kfoHiUEhCtw1_ikdbNrVP69eT6fDMuGhTb8jnsewaPEPhiWB4XDKWv13kKbA",
+          "width": 4288
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117761641738556097902/photos\">Kim Hung Ngan</a>"
+          ],
+          "photo_reference": "CmRaAAAAhQpBbLQgnA6YhvwPub5E2TBhKScPAeO97U5Uv7Tx4TJai8VyyskrER2UKcGzvsiq0gY98AcSZuKgpwpFV8lKI7Tqc_rsxdlZuNHZYDoPKb9z9gvibgZ70hv1H8_Ua6jMEhBMVdqazMZUTSVT-9bPAWUNGhQ19unDJvELGrnAHUBGq2rn54r-Cg",
+          "width": 2976
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109081850272217546492/photos\">Andy Tang</a>"
+          ],
+          "photo_reference": "CmRaAAAAIpqiPXk_9cbp-yHcG6XJhy5dVm_znNTXpk21XuGZ9C9GaxuTBhYmqcPz8EDxUg3rojC4JFQSL6oFlKpDCQQkbmGr5K2gkZ_e3u4xQst36JirJ3c0dJ8Yg_H84JjuztDLEhAsjWIvaxF2VBZGgu9a6dHXGhTxE7FJVFPANostBZtKJJ4e3wpNHA",
+          "width": 4160
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109081850272217546492/photos\">Andy Tang</a>"
+          ],
+          "photo_reference": "CmRaAAAAin206ENGCMvNwsLOiTeJWdnDp0ACuJCK-lgMatKZmV5cIMxFnVP1RvZgLsqKPMuMx0xzeiEfrEVDoaPn_8EoYNIsvtV9PjXxQ2UlaOzMgHHgZoQoG8UH4oIgRgOIyIFgEhCUMReMLegEReyD2WqrkeMSGhRbf_OvgnL5DSKXXkvyaimrLTE4Gg",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116754936035114420887/photos\">Johnson Ho</a>"
+          ],
+          "photo_reference": "CmRaAAAAUWMYXc818eDbvUVYNx9cKpXew4QaXSXmur1tahdUPFHWBlTF-UoYfhalcFRIoyMTMBLC9h3-8HLWWU_AozX1kxvzCq4_qMAvY8UQEh9fqyByQJmpc9irU6QwhoLZbVRZEhDwJl3BV1_K6VjNiuutP1YUGhSg1mu0yLmxyaBXfKTVafBwc2E-6g",
+          "width": 3024
+        },
+        {
+          "height": 4234,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118375974739559701753/photos\">CHOO CHOO</a>"
+          ],
+          "photo_reference": "CmRaAAAAZFBJDxYGttWULRL0M9EWKUp2kHIMI07n2E15sHAyiIXJVyMfGcRwKsUu0cYqOyD9Q6RVQqzwI_R57L1VRmm3-MaVUsMJpBRcZWLizeb1q3nunMgHc3TEGVuED9iVGlI9EhBjY-otAYeFXyVRWdcacbTFGhTpc388mEFiS8EU7zVoalang6COFg",
+          "width": 3648
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109081850272217546492/photos\">Andy Tang</a>"
+          ],
+          "photo_reference": "CmRaAAAAtnpAsF2rYWVBPcxtZC4fHKb9la0nm0EJao20O59CGcrtxSaWxcK6EGhgbjiik6UwNt78CAW23qgXWrzD4ySAXPlAq2zDnpIWgJOaOwgP0ViQxwdtf0goC6HzKTMdinqREhC04WcjpARHivZm0EnEg-LmGhTtu7aIfrVSpLewB6pQBzs_f7Gx0w",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJJ59BwlEHBDQR7jJnmMEu9qw",
+      "plus_code": {
+        "compound_code": "85R3+6V \u9999\u6e2f\u8607\u5c4b",
+        "global_code": "7PJP85R3+6V"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJJ59BwlEHBDQR7jJnmMEu9qw",
+      "reviews": [
+        {
+          "author_name": "Vinci Mouse",
+          "author_url": "https://www.google.com/maps/contrib/118116485591729601712/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-btpbEFiCU_Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfG6vl_nhehrvM8t4HtZ2KjenXtfQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "\u672c\u661f\u671f",
+          "text": "Food is good. the design of the restaurant is nice. I ate on the upper floor.. Staffs are nice.\nit was a bit dusty (maybe due to the environment of this restaurant which is near a bunch a garage) so i got something on my glass of water but the staff immediately changed my glass.\nThe food/quality/price is good.\nSo i recommend it.",
+          "time": 1564732850
+        },
+        {
+          "author_name": "Zoe Chow",
+          "author_url": "https://www.google.com/maps/contrib/108196796953070088269/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-T4l4qqPPrPU/AAAAAAAAAAI/AAAAAAAAIAc/sL7DKiMCfPc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "\u98df\u7269\u8d85\u8b9a\uff0c\u6709\u9a5a\u559c\u3002\n\u8766\u818f\u610f\u7c89\u5341\u5206\u6fc3\u90c1\u5f88\u9999\u4f46\u4e0d\u6703\u904e\u54b8\u3002\n\u725b\u6cb9\u679c\u714e\u96de\u8089\u534a\u719f\u86cb\u6c99\u5f8b\uff0c\u96de\u714e\u5f97\u5f88\u9999\u8106\uff0c\u6574\u500b\u5473\u9053\u5341\u5206\u593e\u3002\n\u5496\u54e9\u6f22\u5821\u6252\u86cb\u5305\u98ef\uff0c\u55ae\u662f\u8ce3\u76f8\u5df2\u7d93\u597d\u5f97\uff0c\u86cb\u6ed1\u5496\u54e9\u9999\uff0c\u6f22\u5821\u90fdok \u3002\n\u8fa3\u9152\u716e\u8706\u610f\u7c89\uff0c\u9019\u500b\u5473\u9053\u662f\u4e0d\u932f\uff0c\u6709\u8fa3\u9999\uff0c\u53ea\u53ef\u60dc\u8706\u6709\u6c99\uff0c\u6211\u54cb\u500b\u500b\u98df\u5230\u6c99\u6c99\u8072\ud83d\ude14\uff0c\u6263\u4e00\u7c92\u661f\n\u751c\u54c1\u53eb\u505aShiro \uff0c\u767d\u8272\u5481\u89e3\uff0c\u4f8d\u61c9\u89e3\u91cb\u5404\u90e8\u5206\u662f\u4ec0\u9ebc\u98df\u6750\uff0c\u597d\u6709\u5fc3\u6a5f\uff0c\u96d6\u7136\u6bd4\u8f03\u8cb4\uff0c\u4f46\u4fc2\u597d\u7279\u5225\uff0c\u975e\u4e00\u822c\u9910\u5ef3\u98df\u5230\n\n\u7d50\u8ad6\uff0c\u4fc2\u9577\u6c99\u7063\u5462\u5340\u6709\u9593\u5481\u6b63\u7684\u9910\u5ef3\uff0c\u4ee5\u5f8clunch \u90fd\u8981\u591a\u591a\u652f\u6301\uff01\uff01",
+          "time": 1562163410
+        },
+        {
+          "author_name": "Kim Hung Ngan",
+          "author_url": "https://www.google.com/maps/contrib/117761641738556097902/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-Bi3fJkJMhaY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reP6wWK_c1BSWP3d4lmubUUTnfAPw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 \u500b\u6708\u524d",
+          "text": "\u6574\u9ad4\u98df\u7269\u8cea\u7d20\u3001\u5473\u9053\u53ca\u670d\u52d9ok\uff0c\u74b0\u5883\u4e0d\u932f\uff0c\u98df\u7269\u64fa\u8a2d\u4e5f\u4e0d\u5dee\uff0c\u53ea\u662f\u9650\u5236\u7528\u9910\u6642\u9593\u4e00\u500b\u534a\u9418\uff0c\u4e0d\u7b97\u662f\u8ac7\u5929\u8aaa\u5730\u7684\u5730\u65b9\uff0c\u7d14\u7cb9\u98df\u98ef\u9084\u662f\u53ef\u4ee5\u7684\u3002",
+          "time": 1559461039
+        },
+        {
+          "author_name": "Cheuk hung Chow",
+          "author_url": "https://www.google.com/maps/contrib/100497163625660846282/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-CaHW5KMUV70/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfXhe4oco3QA9vkGoXVdxYpozMptQ/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 \u500b\u6708\u524d",
+          "text": "\u7528\u5fc3\u5236\u4f5c\u7684\u5c0f\u5e97\uff0c\u98df\u7269\u8cea\u7d20\u9ad8\uff0c\u6027\u50f9\u6bd4\u9ad8\uff0c\u54e1\u5de5\u4e5f\u5f88\u53cb\u5584\uff0c\u6703\u518d\u56de\u4f86\u3002",
+          "time": 1558792278
+        },
+        {
+          "author_name": "tze fung ng",
+          "author_url": "https://www.google.com/maps/contrib/110646651394719588341/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-iPnSJjNFGwU/AAAAAAAAAAI/AAAAAAAAABM/DA40uzsuLzo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 \u500b\u6708\u524d",
+          "text": "\u672c\u4eba\u8cfc\u8cb7\u4e09\u767e\u591a\u5143\u7684\u9ed1\u725b\u5b89\u683c\u65af\u725b\u6252 \u4e00 \u662f\u8981\u534a\u751f\uff0c \u4ed6\u5011\u5c31\u7d66\u6211\u5168\u719f\u7684\u51fa\u54c1\uff0c \u662f\u4e0d\u662f\u6d6a\u8cbb\u4e86\u6211\u7684\u725b\u6252\uff1f",
+          "time": 1554802768
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=12463200427814892270",
+      "user_ratings_total": 146,
+      "utc_offset": 480,
+      "vicinity": "\u8607\u5c4b\u9806\u5be7\u9053364-368\u865f\u660c\u6689\u5927\u5ec8",
+      "website": "https://www.choochooasia.com/"
+    },
+    "status": "OK"
+  },
+  "timestamp": 1565104433,
+  "version": "1565104415"
+}

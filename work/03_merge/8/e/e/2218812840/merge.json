@@ -1,0 +1,824 @@
+{
+  "fehd": {
+    "ADR_EN": "GROUND FLOOR, NOS. 40-42 GOUGH STREET, CENTRAL, HONG KONG",
+    "ADR_TC": "\u9999\u6e2f\u4e2d\u74b0\u6b4c\u8ce6\u885740\u81f342\u865f\u5730\u4e0b",
+    "DIST": "18",
+    "EXPDATE": "2020-01-29",
+    "INFO": "",
+    "LICNO": "2218812840",
+    "SS_EN": "BEDU",
+    "SS_TC": "BEDU",
+    "TYPE": "RL"
+  },
+  "geocode_en": {
+    "address_components": [
+      {
+        "long_name": "Hong Kong Island",
+        "short_name": "Hong Kong Island",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hong Kong",
+        "short_name": "HK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "40 Gough Street Central, Hong Kong",
+    "geometry": {
+      "location": {
+        "lat": 22.2842179,
+        "lng": 114.1521263
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 22.2855668802915,
+          "lng": 114.1534752802915
+        },
+        "southwest": {
+          "lat": 22.2828689197085,
+          "lng": 114.1507773197085
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJo17QtpMBBDQRfKm05rWlgm4",
+    "plus_code": {
+      "compound_code": "75M2+MV Hong Kong",
+      "global_code": "7PJP75M2+MV"
+    },
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ]
+  },
+  "geocode_tc": {
+    "address_components": [
+      {
+        "long_name": "Hong Kong Island",
+        "short_name": "Hong Kong Island",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "\u9999\u6e2f",
+        "short_name": "HK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "40 Gough Street Central, \u9999\u6e2f",
+    "geometry": {
+      "location": {
+        "lat": 22.2842179,
+        "lng": 114.1521263
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 22.2855668802915,
+          "lng": 114.1534752802915
+        },
+        "southwest": {
+          "lat": 22.2828689197085,
+          "lng": 114.1507773197085
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJo17QtpMBBDQRfKm05rWlgm4",
+    "plus_code": {
+      "compound_code": "75M2+MV \u9999\u6e2f",
+      "global_code": "7PJP75M2+MV"
+    },
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ]
+  },
+  "licno": "2218812840",
+  "place_en": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "Hong Kong Island",
+          "short_name": "Hong Kong Island",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Central",
+          "short_name": "Central",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "40 Gough Street Central, <span class=\"locality\">Central</span>, <span class=\"country-name\">Hong Kong</span>",
+      "formatted_address": "40 Gough Street Central, Central, Hong Kong",
+      "formatted_phone_number": "2320 4450",
+      "geometry": {
+        "location": {
+          "lat": 22.2842179,
+          "lng": 114.1521263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.28559678029151,
+            "lng": 114.1534861802915
+          },
+          "southwest": {
+            "lat": 22.2828988197085,
+            "lng": 114.1507882197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c546a51e7fe56bd9ceb16c6cbf4d63b41f87828a",
+      "international_phone_number": "+852 2320 4450",
+      "name": "BEDU",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "0000"
+            },
+            "open": {
+              "day": 0,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0000"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0000"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0000"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0000"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0000"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1500"
+            },
+            "open": {
+              "day": 6,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0000"
+            },
+            "open": {
+              "day": 6,
+              "time": "1800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 12:00 \u2013 3:00 PM, 6:00 PM \u2013 12:00 AM",
+          "Tuesday: 12:00 \u2013 3:00 PM, 6:00 PM \u2013 12:00 AM",
+          "Wednesday: 12:00 \u2013 3:00 PM, 6:00 PM \u2013 12:00 AM",
+          "Thursday: 12:00 \u2013 3:00 PM, 6:00 PM \u2013 12:00 AM",
+          "Friday: 12:00 \u2013 3:00 PM, 6:00 PM \u2013 12:00 AM",
+          "Saturday: 12:00 \u2013 3:00 PM, 6:00 PM \u2013 12:00 AM",
+          "Sunday: 12:00 PM \u2013 12:00 AM"
+        ]
+      },
+      "photos": [
+        {
+          "height": 3532,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAZt36E1IyfHYcmd84EuxmdVrmtM_FyE1Dr5lFvKeE6FyDGbrkEbRRX2kR6BGPxgTclgxgyZzFzm9c33Sb9N1pD6z24NZ6hdsd9iBMFQz0Qm3UQKeLhVOqp3dUjzY3ScVxEhCBnFtSq_7ph-Gvew3HsIppGhS-5AcTIv-fGEB9OsMCJjTiHJlU2w",
+          "width": 5593
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAARLzx_9TMvZhyM4V3brw0zFq5jTY_ORiT9XcskWY0DAE8v7TwaRW9FOXo81ObWrkz4xfpfltk5oY0z_bNeql3OpYhi5v_GJcMJyws59N1fDo76qR5WhzuUymYlfmWJiEzEhDUQ_lSAxCYvnpJ6Zq06mNJGhRzw6GRi3Dq967Ie3i2e5Vq3Xzpjw",
+          "width": 5760
+        },
+        {
+          "height": 5760,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAALqrvRXmjBbOtDf2kpnSB_mssoRBTFk8Ald6oLHLguZ87Q3yANSOyAiXJXJ2XfQj8jxaGM8HAZOV36KhRNqpXAJDdYtNx8xD0qcKYsgg4Yx0TQYblDmN90GgSsfejU2g5EhA8-pP5EHnDJ6jc_tTnN63bGhSYopVYLXTlRrd8e2MGWmkXxf-sQQ",
+          "width": 3840
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAadg-rFV-dyYFwU3OH_h2ZW7nJvF8Hppz9Ndv6fVxg0TBaBaMt7wUETDthl_t5Ubh-30VYZv3apcDssfT-d1acTlGLrg4LhWpDF_q7kT6JhqbV1Zl2KW39LgLW8HO6740EhDnrHc8qc5jx__HrYTORBLnGhTa9PSOwE5JhmtCfOWDCIKIOm-PZw",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAwtSZsl_sgWMZeHlXaGMtm7uYVgXHW6oB9Pfho8PwgC-u740BH_9FKY9NFgy7nhLYX4P34jLirvBvAeQ2erPaVxw6zYLKe2Sabi_83tmwiuPyS3ZdbHQCL0KQ2zaXUXSAEhAiVn8pDbzr607Koh_t8ZcBGhRrBXK-D6JoL6zKwmJPL0aPX-q3Dw",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAABPOnuVv1KPqpm3D5YMN97MCroH55wwUUCtHPl4LvkPSp9JbZl9PmmSRR1ZCLvWJvnC3mgHRX3mr_cn1oEb0usyZnAx1Ie_0JKx2cGqsaHshvBAU5HjRalObJOn33rV10EhAvHQOSfPAOwnvcUk3nwdRYGhTusNPhN5wRFWYv9wj3r1zdl0XtUA",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAA_vuL-kqiyvNCBr11hLkwQcN0KZGsldq5vvTV68OaRHBSCSOlC-TqdPItOpys7jivZl41n7-ZDNdKvOt-bpS8zVM2P82iSkJ3XDnyjqMS7RsE5_HU2_yJiINC66sT6YnGEhCWKhtBuKoCcxftQMHzm2AjGhRdFzXH6mDYT42gVYH3QeWl4Vcd5A",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAfYOmcZAlRBAHj8ekNkZxCUIkT0f3H9GEnGSAEhbCZ8el40GE0CaJXGGFXJkpJCL_ORR906MiOcI7WZcmb-FKZ9YkrzvKv8yLhrBzp4e1ZOkfmwmxKHJRigRDizQRHCZYEhAxLmRbNf5PzcmRwQHlkkF8GhQKXK5919TA-h1MZ8r1Mt2xwKGI9A",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAA2FG4PDi6_EQEwVp3mABhxaLxmTgbIje93lkt0LpjFoHaeMmAP2Uj8OixdA_ZNAt4daw160UnKTMhARwuvQ_f_jnz0Qlc2grUsWKT78Ipa_hTQRu93zcOdEKWMbljtBzIEhDO8duqdHQI4iCgb67W7kdhGhQFVHLxVXm187s_87FdalbDSHXrkA",
+          "width": 5760
+        },
+        {
+          "height": 1984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105923522796383904559/photos\">Karl yu</a>"
+          ],
+          "photo_reference": "CmRaAAAAcCbY0KD4EvICL8gy4sWUb8RD8O-T_uwX-b-FTI8xq-j8gK0xN_vfSI5mtB1njdXcR063p1z3Z3nhFhjDGTBn98pkpyP-ayUFknl5fSAaLs8-A9oLS9ryZOLpoms1JQm-EhDqO1vPSinwPrT6SSWFgCs4GhSF_rnn31yqDM_tp0yRDoV-EiHyog",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJo17QtpMBBDQRfKm05rWlgm4",
+      "plus_code": {
+        "compound_code": "75M2+MV Hong Kong",
+        "global_code": "7PJP75M2+MV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJo17QtpMBBDQRfKm05rWlgm4",
+      "reviews": [
+        {
+          "author_name": "Jayla Fan",
+          "author_url": "https://www.google.com/maps/contrib/113018874978892032114/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-A5U4MAdE6SM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdPBoLxh7WPuupPMaWtmRjXKskAOQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Yummy yummy yummy! Simple menu to share every bite with friends. Seated at the bar table so I could look at how the kitchen works, I really enjoyed the food! Nice vibes too.",
+          "time": 1560001348
+        },
+        {
+          "author_name": "Anupam Arora",
+          "author_url": "https://www.google.com/maps/contrib/102782555650611490100/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-LC38n7mNyc8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfnXVwPkGNiS9SH7hATPTUm6EN9AA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a week ago",
+          "text": "Spacious, unlike many in & around Central. A bit of walk from central MTR station. Food presentation, taste, service is very good. In general ~hkd200pp for lunch on weekends. Overall good place for meeting friends",
+          "time": 1564307268
+        },
+        {
+          "author_name": "CK Leong",
+          "author_url": "https://www.google.com/maps/contrib/116320683113954365762/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-Ni5z2IH9M6U/AAAAAAAAAAI/AAAAAAAAAhs/SE7EiOrOPdc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 weeks ago",
+          "text": "Quaint restaurant in central serving Middle Eastern. Though menu has limited choices but the offering is sufficient to satisfy my appetite. Must have the lamb, fattoush, hummus. Seats are limited. Advisable to reserve",
+          "time": 1562592135
+        },
+        {
+          "author_name": "Tim Alvner",
+          "author_url": "https://www.google.com/maps/contrib/117930777157428553573/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-cDmOlgaWfLk/AAAAAAAAAAI/AAAAAAAAAGw/0wPRCRC_21o/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a week ago",
+          "text": "Nice Middle Eastern-focused restaurant. It has a fairly spacious dining area with a cosy feel to it thanks to the heavy emphasis on wood decor. Meals are fairly small and slightly pricy, but the quality and style of food provides a great value. Service can be a bit slow so don't go here in a rush. Also be mindful of the desserts being very sweet and very filling.",
+          "time": 1564038281
+        },
+        {
+          "author_name": "Cal Wong",
+          "author_url": "https://www.google.com/maps/contrib/103364748312854498772/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-gTbriucFK1s/AAAAAAAAAAI/AAAAAAAAWXc/ubOuPGteDOk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Great feed, strong flavours, nice interpretation of North African cuisine. Modern setup and good ambience too.",
+          "time": 1562083085
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=7963109291822721404",
+      "user_ratings_total": 68,
+      "utc_offset": 480,
+      "vicinity": "40 Gough Street Central",
+      "website": "http://www.bedurestaurant.com/"
+    },
+    "status": "OK"
+  },
+  "place_tc": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "Hong Kong Island",
+          "short_name": "Hong Kong Island",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Central",
+          "short_name": "Central",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u9999\u6e2f",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "40 Gough Street Central, <span class=\"locality\">Central</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+      "formatted_address": "40 Gough Street Central, Central, \u9999\u6e2f",
+      "formatted_phone_number": "2320 4450",
+      "geometry": {
+        "location": {
+          "lat": 22.2842179,
+          "lng": 114.1521263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.28559678029151,
+            "lng": 114.1534861802915
+          },
+          "southwest": {
+            "lat": 22.2828988197085,
+            "lng": 114.1507882197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c546a51e7fe56bd9ceb16c6cbf4d63b41f87828a",
+      "international_phone_number": "+852 2320 4450",
+      "name": "BEDU",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "0000"
+            },
+            "open": {
+              "day": 0,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0000"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0000"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0000"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0000"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0000"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1500"
+            },
+            "open": {
+              "day": 6,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0000"
+            },
+            "open": {
+              "day": 6,
+              "time": "1800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "\u661f\u671f\u4e00: 12:00 \u2013 15:00, 18:00 \u2013 00:00",
+          "\u661f\u671f\u4e8c: 12:00 \u2013 15:00, 18:00 \u2013 00:00",
+          "\u661f\u671f\u4e09: 12:00 \u2013 15:00, 18:00 \u2013 00:00",
+          "\u661f\u671f\u56db: 12:00 \u2013 15:00, 18:00 \u2013 00:00",
+          "\u661f\u671f\u4e94: 12:00 \u2013 15:00, 18:00 \u2013 00:00",
+          "\u661f\u671f\u516d: 12:00 \u2013 15:00, 18:00 \u2013 00:00",
+          "\u661f\u671f\u65e5: 12:00 \u2013 00:00"
+        ]
+      },
+      "photos": [
+        {
+          "height": 3532,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAO3_1WArEmPCdQiy6Qwi9OM5QsPGgVuZAzGVjTV4WRKIKLeUdS6cch7Z7Isj1k3W0lp-4JWWUVeP4TvUCV5HzWM3X_dXojwsAME5DUxGV3ynwLmz1Dt4w6-fqOAbM_DG7EhA0wL1SRElrSbR_wTlze5EnGhSAut6G__k5GgXOJv5mfzgI7SjkBg",
+          "width": 5593
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAz57Xuk_Mlo92FswjbZGlHpkAwQNw20Uuh7DFM8KiF-O_qtFbK0ESbSa__kDQiT-MJo34wo3D4steaTHL0ZLQ10FWg0__bHJQ1kIzl7k1ZnJUg4vTKRwEijLSb7LA1KVUEhBsNs9eNRwD8G4tq3mVLzxiGhS6ABLtnqxaJB2FfzZ_Uc0mVmLtgA",
+          "width": 5760
+        },
+        {
+          "height": 5760,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAyWJ6mKqyv0K77ZMu7R2ry_4aFxJKjDLkVHXUoief_epDpBEC7NfXpdLfYAiq-Rm61WoMFwpnQAer1zE9DKqWbnE-K1SWDWmI6sUAMJm8vF-x5IP1fGKyHNSVSQv51VIwEhA0jUB34AJx-qLYXuPDxtJNGhRQ1qfYqVS5B1QMnaARYFxS7fDKAg",
+          "width": 3840
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAixQS5Cd_rrF82rfrDL7IBF2UppL69N4VrepZGTGSLbnmz3vqOgVmBrt_gwytRwIUeGPeMeqN5yrAX_0sDHv_Ci5wid-AG6xFEbujVgxoCd5kpW0rL7xyg3vNdC7QcgPtEhBbR7d8CExrbFDJHiD6-SP8GhSWuTnY3zOf6VHegzkpNQ4Rn9II4Q",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAASXqZLrv6tiLrtKUHn70p3TBGaLLiQfW1oSJ7Mnnb3X2jH6PqabjkT5FOJYgV4CL3IdsXEH3tE6NN_IPecHXerDZxmY4tZuCTPWr0Aud4xx0V-z6w8aagzqjdiJoPScwvEhAGnuVLkfKOyqaNo87TBa_9GhTWBD7DM9Mvky60PgHp7NmjDa57nA",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAUm3ur17MY41TJOpObBBhhnG9BmnP14EZIzk7ZRo_vuxhuo2RfMBJMKV-UqAbnJKqBMyH7GulHyAgDyqzzYrpCKn8OsGGw7HUAr3qMWzkuqXOTJ5mGD9QlpG_hZJrt3u3EhB3NicOLxrxH8r6AmSKz-fPGhQN1Xqb_zI92q9G-kDxt177vJbyYA",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAgETalrmMZ1gtdjDSb_LUZ2rIaRgAVJeb1DWNhfve52gLnnJDKiyKYTeyJeD0Ss2RzViFFwQi2Y37ZqxYKgxSSn6sSH7I28semexF4A7g5qbWNNGAn15B7kphSBNs--4zEhAzesXtm-ajfCd5eXPAkVBUGhSzMGvWQ0h5qLyNb2GkT5Ox5xs1cg",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAkgiZG_OQn9gP1QKDqL1_jy5Nc-odeqKtylLhLz7D6Q9vj36YPMjpbefYJpvT5OyK4bAiaGNutvz79budHgJhFLdreYpKNK6y8ngcTpz5vAL7GdecJAswHzKrVuO31PEeEhAHe4SpFwQ1OYX3clfDq2MdGhQF8S7WE8HaYbzsquxkAB4-g0SZTA",
+          "width": 5760
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114230885282992497686/photos\">BEDU</a>"
+          ],
+          "photo_reference": "CmRaAAAAOrjL0N3RL-qK5644BfLKCAk9b0LF7GoyK63D5GtUAoY5RztD0CqpogiYM1wNxawHgj2S-5S900kAHSX99AXMwaX0LlOYW7X8KjcgFOTQgDuS3_4h5hZfEA6gILk6N_z6EhAlT77ZRzyOfp7KVxeAfIpkGhSeJO3WNH59ONHhrLgeOmJJL_qi9w",
+          "width": 5760
+        },
+        {
+          "height": 1984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105923522796383904559/photos\">Karl yu</a>"
+          ],
+          "photo_reference": "CmRaAAAAPVAjfEU1e-Qbpr1M9vO3fQ1J-U3ROeVbkfLE9zxjPU8u61ubAJlrrLWzcBqRKYcd_4YYCAeQzgE9pPNn3EhVlbQx-ojMELa0A3zV8QEk9St2UW9Y3_kbvOlZ9uDNhL3xEhCUuYXHF-i5LwY6Nji8iJRRGhS8CLg76MafVE2obCNb7TwwJqfIGg",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJo17QtpMBBDQRfKm05rWlgm4",
+      "plus_code": {
+        "compound_code": "75M2+MV \u9999\u6e2f",
+        "global_code": "7PJP75M2+MV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJo17QtpMBBDQRfKm05rWlgm4",
+      "reviews": [
+        {
+          "author_name": "tommy Fu",
+          "author_url": "https://www.google.com/maps/contrib/101208984060485694616/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-4s1sgR07I24/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rewkkqlnzM0Hu-m1Rra3o0JU5x43Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "\u975e\u5e38\u597d\u4e2d\u6771\u7279\u8272\u3002\u7f8e\u5473\u3002\u7f8a\u8089\u8edf\u9b06\u5316\uff0c\u5eda\u5e2b\u7cbe\u9078\u83dc\u5f0f\u6700\u597d\uff0c\u554f\u5eda\u5e2b\u90a3\u679d\u9152\u6700\u914d\u5408\u83dc\u5f0f\uff0c\u7c21\u76f4\u5b8c\u7f8e\u3002",
+          "time": 1561769372
+        },
+        {
+          "author_name": "Jayla Fan",
+          "author_url": "https://www.google.com/maps/contrib/113018874978892032114/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-A5U4MAdE6SM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdPBoLxh7WPuupPMaWtmRjXKskAOQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "Yummy yummy yummy! Simple menu to share every bite with friends. Seated at the bar table so I could look at how the kitchen works, I really enjoyed the food! Nice vibes too.",
+          "time": 1560001348
+        },
+        {
+          "author_name": "Anupam Arora",
+          "author_url": "https://www.google.com/maps/contrib/102782555650611490100/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-LC38n7mNyc8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfnXVwPkGNiS9SH7hATPTUm6EN9AA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "1 \u9031\u524d",
+          "text": "Spacious, unlike many in & around Central. A bit of walk from central MTR station. Food presentation, taste, service is very good. In general ~hkd200pp for lunch on weekends. Overall good place for meeting friends",
+          "time": 1564307268
+        },
+        {
+          "author_name": "CK Leong",
+          "author_url": "https://www.google.com/maps/contrib/116320683113954365762/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-Ni5z2IH9M6U/AAAAAAAAAAI/AAAAAAAAAhs/SE7EiOrOPdc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 \u9031\u524d",
+          "text": "Quaint restaurant in central serving Middle Eastern. Though menu has limited choices but the offering is sufficient to satisfy my appetite. Must have the lamb, fattoush, hummus. Seats are limited. Advisable to reserve",
+          "time": 1562592135
+        },
+        {
+          "author_name": "Tim Alvner",
+          "author_url": "https://www.google.com/maps/contrib/117930777157428553573/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-cDmOlgaWfLk/AAAAAAAAAAI/AAAAAAAAAGw/0wPRCRC_21o/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "1 \u9031\u524d",
+          "text": "Nice Middle Eastern-focused restaurant. It has a fairly spacious dining area with a cosy feel to it thanks to the heavy emphasis on wood decor. Meals are fairly small and slightly pricy, but the quality and style of food provides a great value. Service can be a bit slow so don't go here in a rush. Also be mindful of the desserts being very sweet and very filling.",
+          "time": 1564038281
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=7963109291822721404",
+      "user_ratings_total": 68,
+      "utc_offset": 480,
+      "vicinity": "40 Gough Street Central",
+      "website": "http://www.bedurestaurant.com/"
+    },
+    "status": "OK"
+  },
+  "timestamp": 1565104433,
+  "version": "1565104415"
+}

@@ -1,0 +1,940 @@
+{
+  "fehd": {
+    "ADR_EN": "29/F. & 30/F., 239 HENNESSY ROAD, WAN CHAI, HONG KONG",
+    "ADR_TC": "\u9999\u6e2f\u7063\u4ed4\u8ed2\u5c3c\u8a69\u9053239\u865f29\u6a13\u53ca30\u6a13",
+    "DIST": "12",
+    "EXPDATE": "2020-06-08",
+    "INFO": "",
+    "LICNO": "2212811252",
+    "SS_EN": "PIRATA",
+    "SS_TC": "PIRATA",
+    "TYPE": "RL"
+  },
+  "geocode_en": {
+    "address_components": [
+      {
+        "long_name": "30F",
+        "short_name": "30F",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "239",
+        "short_name": "239",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Hennessy Road",
+        "short_name": "Hennessy Rd",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Wan Chai",
+        "short_name": "Wan Chai",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hong Kong Island",
+        "short_name": "Hong Kong Island",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hong Kong",
+        "short_name": "HK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "29, 30F, 239 Hennessy Rd, Wan Chai, Hong Kong",
+    "geometry": {
+      "location": {
+        "lat": 22.278135,
+        "lng": 114.1760189
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 22.2794839802915,
+          "lng": 114.1773678802915
+        },
+        "southwest": {
+          "lat": 22.2767860197085,
+          "lng": 114.1746699197085
+        }
+      }
+    },
+    "place_id": "ChIJw01FD10ABDQRJBUbGzhExdo",
+    "plus_code": {
+      "compound_code": "75HG+7C Wan Chai, Hong Kong",
+      "global_code": "7PJP75HG+7C"
+    },
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ]
+  },
+  "geocode_tc": {
+    "address_components": [
+      {
+        "long_name": "30F",
+        "short_name": "30F",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "239",
+        "short_name": "239",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Hennessy Road",
+        "short_name": "Hennessy Rd",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Wan Chai",
+        "short_name": "Wan Chai",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hong Kong Island",
+        "short_name": "Hong Kong Island",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "\u9999\u6e2f",
+        "short_name": "HK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "29, 30F, 239 Hennessy Rd, Wan Chai, \u9999\u6e2f",
+    "geometry": {
+      "location": {
+        "lat": 22.278135,
+        "lng": 114.1760189
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 22.2794839802915,
+          "lng": 114.1773678802915
+        },
+        "southwest": {
+          "lat": 22.2767860197085,
+          "lng": 114.1746699197085
+        }
+      }
+    },
+    "place_id": "ChIJw01FD10ABDQRJBUbGzhExdo",
+    "plus_code": {
+      "compound_code": "75HG+7C \u9999\u6e2f\u7063\u4ed4",
+      "global_code": "7PJP75HG+7C"
+    },
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ]
+  },
+  "licno": "2212811252",
+  "place_en": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "30F",
+          "short_name": "30F",
+          "types": [
+            "subpremise"
+          ]
+        },
+        {
+          "long_name": "239",
+          "short_name": "239",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hennessy Road",
+          "short_name": "Hennessy Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Wan Chai",
+          "short_name": "Wan Chai",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong Island",
+          "short_name": "Hong Kong Island",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "29, 30F, <span class=\"street-address\">239 Hennessy Rd</span>, <span class=\"locality\">Wan Chai</span>, <span class=\"country-name\">Hong Kong</span>",
+      "formatted_address": "29, 30F, 239 Hennessy Rd, Wan Chai, Hong Kong",
+      "formatted_phone_number": "2887 0270",
+      "geometry": {
+        "location": {
+          "lat": 22.278135,
+          "lng": 114.1760189
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.2794012302915,
+            "lng": 114.1773785302915
+          },
+          "southwest": {
+            "lat": 22.2767032697085,
+            "lng": 114.1746805697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b4428bcc2ff9269aa110ad6e20933b8fd86031d8",
+      "international_phone_number": "+852 2887 0270",
+      "name": "Pirata Hong Kong",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1430"
+            },
+            "open": {
+              "day": 0,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "2230"
+            },
+            "open": {
+              "day": 0,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1430"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2230"
+            },
+            "open": {
+              "day": 1,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1430"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2230"
+            },
+            "open": {
+              "day": 2,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1430"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2230"
+            },
+            "open": {
+              "day": 3,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1430"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2230"
+            },
+            "open": {
+              "day": 4,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1430"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2300"
+            },
+            "open": {
+              "day": 5,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1430"
+            },
+            "open": {
+              "day": 6,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "2300"
+            },
+            "open": {
+              "day": 6,
+              "time": "1830"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 12:00 \u2013 2:30 PM, 6:30 \u2013 10:30 PM",
+          "Tuesday: 12:00 \u2013 2:30 PM, 6:30 \u2013 10:30 PM",
+          "Wednesday: 12:00 \u2013 2:30 PM, 6:30 \u2013 10:30 PM",
+          "Thursday: 12:00 \u2013 2:30 PM, 6:30 \u2013 10:30 PM",
+          "Friday: 12:00 \u2013 2:30 PM, 6:30 \u2013 11:00 PM",
+          "Saturday: 12:00 \u2013 2:30 PM, 6:30 \u2013 11:00 PM",
+          "Sunday: 12:00 \u2013 2:30 PM, 6:30 \u2013 10:30 PM"
+        ]
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114912932224007410609/photos\">Eric Leung</a>"
+          ],
+          "photo_reference": "CmRaAAAAN8AR27s8gQHyE89ZKp5Rls5GatKVPWrk3o_4VBtFFTnKu0LG9kAlugIwicLcIjlGdCOf-WcfOXjPjPGo6Oc6fL1IlUTLNVuWrbvioyB2PljYxpAkwe5bC7wMVisWFztMEhARBhEhkLFpTKUV9Ex_xZRkGhSIrOMcaFOnauD4RFAbrGyzZ-pGIQ",
+          "width": 2340
+        },
+        {
+          "height": 2666,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118330409589104683282/photos\">Hina Shimomura</a>"
+          ],
+          "photo_reference": "CmRaAAAABJozh3OmtO7Sa4xqIWLklLUtlr_jTeLHkDTu5EXzE6ElNJiOstxVIBHe9pN9O3XWfkmcGe0j948khkWOzM4KAdUH3lhIYIdScEx5VyAwU6bG7yF8lng3ZSHtGM-Fqfn9EhDVAUEphIDJJ9HSCX4xXkyhGhQoETE8sUbLeQPWZ_5H2Jet4l1scg",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102893904999844155909/photos\">Emma McCartan</a>"
+          ],
+          "photo_reference": "CmRaAAAAveMn4FVRHlMBS9P4Ke3BS40Z-jDQ2dhUGKcuWWjXSxb-TA2gCrE4qoEfGucTHjnWgJmp9PC9-aTFjh9D7OyeWQtDjRd4mMYBLiM67dQ-pKnU7tVoAjB_Z06RVZbX9S6oEhC9oIdWM8FlOrctXRn7hVBVGhRoRL3mY1EsFkqX6KhBv30YNFc3Og",
+          "width": 4160
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104847955425600408197/photos\">Katerina Lin</a>"
+          ],
+          "photo_reference": "CmRaAAAAeWx-YvGrZucL82ON_YLU-3sHiPT5LZ6IDcFGcD2gg0dKNv8inpvokRfFYu20xuKLNfIZD7Obe3QWpqWerQ3h3ZhBawBqgtyl-l9HbgT5XeGUO39cYy15rXF6sRpQzl3IEhAmm2xA4ueatW3m2MlYF7YbGhQ6Z5v9h51i7_9oBatdOFUHbvrM6g",
+          "width": 1800
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108081918932954220766/photos\">Francois Jeulin</a>"
+          ],
+          "photo_reference": "CmRaAAAA6gee03FtBgANxaZzlGmRkMgX9iURnCvZ4zZpZji26t6rETQ89MuEDBZgieZY4pDXquupACdHOYeYQ58X25m-Cjx6_6xkkg0wX4n8dUkrK7s6eoPn0GmQ7NJkZH5P6no_EhAg2i8_IsAM0xQclbPw-_fjGhTQEBcad-kdT15PkEJ2tfdIJiL2JA",
+          "width": 5312
+        },
+        {
+          "height": 2828,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104659753395950280521/photos\">Ferng Lin Ooi</a>"
+          ],
+          "photo_reference": "CmRaAAAAiWNk_KHRviQykaobhojGp4lo8Mz7CuIWZ7wNRgB4lAHWdum_Q5csR556IavuvJ_c8LNbb266m0VeNRASvzX9dTFptIycYnUJIQ-tajmhVRzDKu-1xJ22a6H_JkagyTEJEhDTOfPjlYVhduiSvSKhAoQiGhSRFYxgzOOsoYRlmcUuftr5oR818w",
+          "width": 4242
+        },
+        {
+          "height": 3022,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113094499008960966495/photos\">Gary Mak</a>"
+          ],
+          "photo_reference": "CmRaAAAAULIsvskiEG7KKFpsUdSPC4M6o546O1Bvk3PGNWPaH3IvoNc3eQemZXCM8bJBn3nvIZerMbsu1zwnADTjuCT_I6sw7sPAiNspwGBoF6Da55nUdlQCw-aK2iQ3HRKmyK6tEhDxma_HkgMm3hhPTScOQOp6GhSth_93iIEK8Am5l43DOGBJMz8xPg",
+          "width": 3428
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116486424168489440991/photos\">Edwina Richard</a>"
+          ],
+          "photo_reference": "CmRaAAAAtiQtVVmAHPD6iHu6ktlldnodQ25yDvmch0maceR0N841BnRN2Fc0CWLk3L2zs3BZ4bXuPFqLYKnss8Zq5XiGK1YXy-TiEMCG7OItnDGCNE7vZ98BdTRBaYkoI7zvZGlOEhChNKgL1fKYv_t-aEIjaYM-GhRolu5IE1KaUcwRdCYfOT4F_pNwQA",
+          "width": 3840
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117641308666003701938/photos\">Goldy Ng</a>"
+          ],
+          "photo_reference": "CmRaAAAARF_P-1QFEU2IxSj3NAZPTABUW0cqhiq9equDYCHsFEtMAJzbZeNtP_9qXsPS877GfObP1_tNBxO2w1cnNXnRS1UhoiEwVyn0JAR-8FJivaeFg2KJHNACOfPAW5hFGTs6EhBTenoJ_mTgff8FztrYmhtMGhTN3yKNx7isSYhWC9eyUdzYrXYaNg",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115493428598689601794/photos\">Ray S.W. Lui</a>"
+          ],
+          "photo_reference": "CmRaAAAAL477UxkH6ZnHXR1c9RvE6oaY78QA5LnUet7pkljZsrB7_OlLgl9LEoyeJJyZa7hKtpEqkxb8pKi0aAyR8nzAJVtd67O1EG8toP-P6sd8t19TPRGh_RPs_NOUJslztrx9EhDWvPoipDOs4thNbxhNANg3GhTQlVkzK9E1dHtDZQGggLgNiWfeAw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJw01FD10ABDQRJBUbGzhExdo",
+      "plus_code": {
+        "compound_code": "75HG+7C Wan Chai, Hong Kong",
+        "global_code": "7PJP75HG+7C"
+      },
+      "price_level": 3,
+      "rating": 4.2,
+      "reference": "ChIJw01FD10ABDQRJBUbGzhExdo",
+      "reviews": [
+        {
+          "author_name": "gemma kang",
+          "author_url": "https://www.google.com/maps/contrib/101818293985938714559/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-s1MbCl4KY9g/AAAAAAAAAAI/AAAAAAAABZk/vCjAH77PMbY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "It is a very nice restaurant. If I rate stars for the details... service 5 stars, food 4.5 stars, wine matching 4.5 stars, location 5 stars. The manager was really cheerful and kind to explain about the food and wine. And the other staffs were very nice too. The food taste and plating were very good. I ordered fork burn, tofu salad, yellow tail fish Carpaccio, fried egg plant, and Saint-Emilion wine. They were all good. Book in advance not to wait.",
+          "time": 1564930685
+        },
+        {
+          "author_name": "J Follis",
+          "author_url": "https://www.google.com/maps/contrib/101167154487679822999/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-1SkmEKB--oQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdMD8EJtEucfWKbZ6TKI3YGU4FK3g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 weeks ago",
+          "text": "Very nice lunch. Great food. Wonderful views from the 30th floor. Our server Julie was impeccable\n!..",
+          "time": 1562816912
+        },
+        {
+          "author_name": "Martin Jirverus",
+          "author_url": "https://www.google.com/maps/contrib/107097001590213457267/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-vP-C33SSVcI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfr1NylBeleAiYY6nRJb9efZqAURA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Great restaurant! The service was splendid. The food was great! The menu was a combined menu where you could get dishes to share or order per person. Smaller portions. But if you get a 3 course you\u2019ll be full. \n\nTo find it, take the elevator to the 30th floor.",
+          "time": 1560698535
+        },
+        {
+          "author_name": "Beca Clark",
+          "author_url": "https://www.google.com/maps/contrib/106955938583500427284/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-qb3E2dcFauU/AAAAAAAAAAI/AAAAAAAABng/6OA7H7GmDFU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "Had Easter brunch at Pirata and loved it. The staff were attentive and lovely with my daughter. The food was delicious and the drinks great too. Thank you for a fab afternoon.",
+          "time": 1555907473
+        },
+        {
+          "author_name": "Colin Miles",
+          "author_url": "https://www.google.com/maps/contrib/112318298272528546204/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-Vg9h9CkXF7M/AAAAAAAAAAI/AAAAAAAAXuk/dk54OdjcDcU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 weeks ago",
+          "text": "Really top notch dinner. Artisanal theme with nuances that Europeans and locals love. Cosy, rustic, comfortable ambience and enjoyable skyline view. The vodka prosecco sorbet is a sensational finish. \nService was decent given how busy it appeared. Chianti was nice too.",
+          "time": 1562769758
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=15764081078443906340",
+      "user_ratings_total": 490,
+      "utc_offset": 480,
+      "vicinity": "30F, 29, 239 Hennessy Road, Wan Chai",
+      "website": "http://pirata.hk/"
+    },
+    "status": "OK"
+  },
+  "place_tc": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "30F",
+          "short_name": "30F",
+          "types": [
+            "subpremise"
+          ]
+        },
+        {
+          "long_name": "239",
+          "short_name": "239",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hennessy Road",
+          "short_name": "Hennessy Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Wan Chai",
+          "short_name": "Wan Chai",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong Island",
+          "short_name": "Hong Kong Island",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u9999\u6e2f",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "29, 30F, <span class=\"street-address\">239 Hennessy Rd</span>, <span class=\"locality\">Wan Chai</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+      "formatted_address": "29, 30F, 239 Hennessy Rd, Wan Chai, \u9999\u6e2f",
+      "formatted_phone_number": "2887 0270",
+      "geometry": {
+        "location": {
+          "lat": 22.278135,
+          "lng": 114.1760189
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.2794012302915,
+            "lng": 114.1773785302915
+          },
+          "southwest": {
+            "lat": 22.2767032697085,
+            "lng": 114.1746805697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b4428bcc2ff9269aa110ad6e20933b8fd86031d8",
+      "international_phone_number": "+852 2887 0270",
+      "name": "Pirata Hong Kong",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1430"
+            },
+            "open": {
+              "day": 0,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "2230"
+            },
+            "open": {
+              "day": 0,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1430"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2230"
+            },
+            "open": {
+              "day": 1,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1430"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2230"
+            },
+            "open": {
+              "day": 2,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1430"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2230"
+            },
+            "open": {
+              "day": 3,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1430"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2230"
+            },
+            "open": {
+              "day": 4,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1430"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2300"
+            },
+            "open": {
+              "day": 5,
+              "time": "1830"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1430"
+            },
+            "open": {
+              "day": 6,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "2300"
+            },
+            "open": {
+              "day": 6,
+              "time": "1830"
+            }
+          }
+        ],
+        "weekday_text": [
+          "\u661f\u671f\u4e00: 12:00 \u2013 14:30, 18:30 \u2013 22:30",
+          "\u661f\u671f\u4e8c: 12:00 \u2013 14:30, 18:30 \u2013 22:30",
+          "\u661f\u671f\u4e09: 12:00 \u2013 14:30, 18:30 \u2013 22:30",
+          "\u661f\u671f\u56db: 12:00 \u2013 14:30, 18:30 \u2013 22:30",
+          "\u661f\u671f\u4e94: 12:00 \u2013 14:30, 18:30 \u2013 23:00",
+          "\u661f\u671f\u516d: 12:00 \u2013 14:30, 18:30 \u2013 23:00",
+          "\u661f\u671f\u65e5: 12:00 \u2013 14:30, 18:30 \u2013 22:30"
+        ]
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114912932224007410609/photos\">Eric Leung</a>"
+          ],
+          "photo_reference": "CmRaAAAAjmbomzURWYFnwqsrLDzYV-1wW1AJmLlQraOB1Rx96KYDruNelD0pmxN8pV06q3oqFlNF47V4dQ8sfoLir3Igm-bHcj0SeX3_GiVaXikhPTLuAq4rHSbho7np_OEfeO27EhDx_0AcQoOKm1NChWepd1QJGhRM6qMFUWFyH1xgKS1VaEFSCSB1mw",
+          "width": 2340
+        },
+        {
+          "height": 2666,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118330409589104683282/photos\">Hina Shimomura</a>"
+          ],
+          "photo_reference": "CmRaAAAA9I4gR8ChWIcXJbYlDwBiiLCKUGdErkgLfvNFdBs-d96QNMrLKwjDnkDW-MWddoEv-AMIAQaW1gZeZkB47N8ZPk087P_IwWOEm7hIZbiGGIcUJut0NLIlMzEMJvC5wFq5EhBuRJ_0Z96SGjhNlH7Jm_ZgGhQS_skPaQEfq5ONPXzGnNUIlqp4qQ",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102893904999844155909/photos\">Emma McCartan</a>"
+          ],
+          "photo_reference": "CmRaAAAA1J_7vd78SSO4GaOOtByVMiyTapEm2Z69UvdV0BN8II7c9Rw0xuWsoHNsoNJAIn_nyA9m1y0i4Q95BHqZ1AzwE-zgJaenowGrY53jkSTBr4_uSYTM3GrhtE5x18brQM6ZEhBH5lhSiDqlKRJHsCcNNp3eGhQuYncm21cDkjigxAMqAa4G9b_2xA",
+          "width": 4160
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104847955425600408197/photos\">Katerina Lin</a>"
+          ],
+          "photo_reference": "CmRaAAAAIav5GX86D9Scxp9UEO1-F2A7TLhzRW3i1RtyxPVb_PceGjCJSAPjCZpOQmJMe50r5SR0dHx8WlNPEwdRG4ZNVmIq0i6W0MmGgkDWstZZRrx_6MBCRdWTplVi_VZnLigpEhDYp7Ukg9vj88vgguhzvj-gGhQ8eyGzOKS_TCPDqODfo-i57f1hXA",
+          "width": 1800
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108081918932954220766/photos\">Francois Jeulin</a>"
+          ],
+          "photo_reference": "CmRaAAAAaDcqJr3ey29XK0OVWLoji6ZIbicnTTNDGa9naFraAMWX-4666GQOo86odzsCv0O7MQ_mIQki46PTWpWaAmqq1_dMHBVPNu_gINMqbanAjVDmpcOlDegjEB6yJkL-gJseEhB_VgbdWVDB--zWWEefoQdeGhQpEockRK_zQYd3Ikbhsrrk6a1lyw",
+          "width": 5312
+        },
+        {
+          "height": 2828,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104659753395950280521/photos\">Ferng Lin Ooi</a>"
+          ],
+          "photo_reference": "CmRaAAAAAUnZB5piV_itkTfboPds9gKGGyZbE3HTdmikU9R5HdQcxcrFmgv1rr1rBiCiq3VK4lAoraJtp-j4K5TPkXlhWINVMEeBwBb9tW3wxoHIWeOMfi_U8YbIHdcRcqvXG2mwEhDa6SA4PwbPUkMECPoKByapGhR2SLjl5Yf-jlgt00PaXQekVnvwpA",
+          "width": 4242
+        },
+        {
+          "height": 3022,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113094499008960966495/photos\">Gary Mak</a>"
+          ],
+          "photo_reference": "CmRaAAAA5lBge0j0KU1sxUqjvrK6K9VMbYKhRxxr2m-Jtbl2fnQFy6M8KaCoWkTWRwyO0XGJniGOMYMdquIcf0tA1otknrHcvbZOQ0LXl-rhFtBdoxgki1hZxHB523ZgpmuEmBl_EhBGyqD7uHGtSfKtiBzpXO9yGhQsgKPrtMp3YbNYr7REdzDQGD4RUQ",
+          "width": 3428
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116486424168489440991/photos\">Edwina Richard</a>"
+          ],
+          "photo_reference": "CmRaAAAAi580xpsYyrP7UPhCzbFeTgxVPsS7o3X3sj9tvj4wEE8MMDC4fJWsl5WfUtFG9lD5MhlarNVUKRYRzcJfCrXnlL8SWnj8bU3hGOrDCo1sOJO0l1uCbIUdPz55RpICuPHPEhChkJPPVDRAVjoSRtkcM6W-GhQQ6xnEA1G2WYZwNjtNHPPiX3FG3w",
+          "width": 3840
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117641308666003701938/photos\">Goldy Ng</a>"
+          ],
+          "photo_reference": "CmRaAAAA-kYKn3ilZ1Px7nVxBzbMRjadQzPMd4tSfEnbpdv5CHcpJcQ3l96WDToDt3__xOp15Rd6MC8IuDtZwFnaG9A8BCq8l5Dof5xaShRb9FZCnL2yeJURkDKJ97hZUuNKpOD9EhDBU30OOoWnh8ldKfDjIn6vGhQ21lp1a5ZXzhdllReXeTJQAudAaw",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115493428598689601794/photos\">Ray S.W. Lui</a>"
+          ],
+          "photo_reference": "CmRaAAAAJdlzeiPLkLNwSI4jRDWDu9isl2_dxLKFi4PXhyMv9qL5dYa2LADq__edyJ2a_djFpJlfNLWqN8By34KE5orfazk78_cj57oXYQPPYUJXVP0kXBIGDJRWPDUOBhCVdjA9EhDpPeC2FOqOdyh7ktQVSYprGhQcsnaZidSA0mduqyBzohUeI29sIw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJw01FD10ABDQRJBUbGzhExdo",
+      "plus_code": {
+        "compound_code": "75HG+7C \u9999\u6e2f\u7063\u4ed4",
+        "global_code": "7PJP75HG+7C"
+      },
+      "price_level": 3,
+      "rating": 4.2,
+      "reference": "ChIJw01FD10ABDQRJBUbGzhExdo",
+      "reviews": [
+        {
+          "author_name": "gemma kang",
+          "author_url": "https://www.google.com/maps/contrib/101818293985938714559/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-s1MbCl4KY9g/AAAAAAAAAAI/AAAAAAAABZk/vCjAH77PMbY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "\u672c\u661f\u671f",
+          "text": "It is a very nice restaurant. If I rate stars for the details... service 5 stars, food 4.5 stars, wine matching 4.5 stars, location 5 stars. The manager was really cheerful and kind to explain about the food and wine. And the other staffs were very nice too. The food taste and plating were very good. I ordered fork burn, tofu salad, yellow tail fish Carpaccio, fried egg plant, and Saint-Emilion wine. They were all good. Book in advance not to wait.",
+          "time": 1564930685
+        },
+        {
+          "author_name": "J Follis",
+          "author_url": "https://www.google.com/maps/contrib/101167154487679822999/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-1SkmEKB--oQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdMD8EJtEucfWKbZ6TKI3YGU4FK3g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 \u9031\u524d",
+          "text": "Very nice lunch. Great food. Wonderful views from the 30th floor. Our server Julie was impeccable\n!..",
+          "time": 1562816912
+        },
+        {
+          "author_name": "Martin Jirverus",
+          "author_url": "https://www.google.com/maps/contrib/107097001590213457267/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-vP-C33SSVcI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfr1NylBeleAiYY6nRJb9efZqAURA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "Great restaurant! The service was splendid. The food was great! The menu was a combined menu where you could get dishes to share or order per person. Smaller portions. But if you get a 3 course you\u2019ll be full. \n\nTo find it, take the elevator to the 30th floor.",
+          "time": 1560698535
+        },
+        {
+          "author_name": "Beca Clark",
+          "author_url": "https://www.google.com/maps/contrib/106955938583500427284/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-qb3E2dcFauU/AAAAAAAAAAI/AAAAAAAABng/6OA7H7GmDFU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 \u500b\u6708\u524d",
+          "text": "Had Easter brunch at Pirata and loved it. The staff were attentive and lovely with my daughter. The food was delicious and the drinks great too. Thank you for a fab afternoon.",
+          "time": 1555907473
+        },
+        {
+          "author_name": "Colin Miles",
+          "author_url": "https://www.google.com/maps/contrib/112318298272528546204/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-Vg9h9CkXF7M/AAAAAAAAAAI/AAAAAAAAXuk/dk54OdjcDcU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 \u9031\u524d",
+          "text": "Really top notch dinner. Artisanal theme with nuances that Europeans and locals love. Cosy, rustic, comfortable ambience and enjoyable skyline view. The vodka prosecco sorbet is a sensational finish. \nService was decent given how busy it appeared. Chianti was nice too.",
+          "time": 1562769758
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=15764081078443906340",
+      "user_ratings_total": 490,
+      "utc_offset": 480,
+      "vicinity": "30F, 29, 239 Hennessy Road, Wan Chai",
+      "website": "http://pirata.hk/"
+    },
+    "status": "OK"
+  },
+  "timestamp": 1565104433,
+  "version": "1565104415"
+}

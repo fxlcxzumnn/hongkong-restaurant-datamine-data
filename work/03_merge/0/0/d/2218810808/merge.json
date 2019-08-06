@@ -1,0 +1,773 @@
+{
+  "fehd": {
+    "ADR_EN": "G/F., 53 PEEL STREET, CENTRAL, HONG KONG",
+    "ADR_TC": "\u9999\u6e2f\u4e2d\u74b0\u5351\u5229\u885753\u865f\u5730\u4e0b",
+    "DIST": "18",
+    "EXPDATE": "2020-03-12",
+    "INFO": "#F#G#H",
+    "LICNO": "2218810808",
+    "SS_EN": "CHI CHI CHAM",
+    "SS_TC": "\u5431\u5431\u6715",
+    "TYPE": "RL"
+  },
+  "geocode_en": {
+    "address_components": [
+      {
+        "long_name": "53",
+        "short_name": "53",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Peel Street",
+        "short_name": "Peel St",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Central",
+        "short_name": "Central",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hong Kong",
+        "short_name": "HK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "\u865f, 53 Peel St, Central, Hong Kong",
+    "geometry": {
+      "location": {
+        "lat": 22.2826453,
+        "lng": 114.1526359
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 22.2839942802915,
+          "lng": 114.1539848802915
+        },
+        "southwest": {
+          "lat": 22.2812963197085,
+          "lng": 114.1512869197085
+        }
+      }
+    },
+    "place_id": "ChIJTeBfnnsABDQRssGuOuQH8_Q",
+    "plus_code": {
+      "compound_code": "75M3+33 Central, Hong Kong",
+      "global_code": "7PJP75M3+33"
+    },
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ]
+  },
+  "licno": "2218810808",
+  "place_en": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "53",
+          "short_name": "53",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Peel Street",
+          "short_name": "Peel St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Central",
+          "short_name": "Central",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong Island",
+          "short_name": "Hong Kong Island",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "\u865f, <span class=\"street-address\">53 Peel St</span>, <span class=\"locality\">Central</span>, <span class=\"country-name\">Hong Kong</span>",
+      "formatted_address": "\u865f, 53 Peel St, Central, Hong Kong",
+      "formatted_phone_number": "2386 9718",
+      "geometry": {
+        "location": {
+          "lat": 22.2826453,
+          "lng": 114.1526359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.2839853302915,
+            "lng": 114.1539990302915
+          },
+          "southwest": {
+            "lat": 22.2812873697085,
+            "lng": 114.1513010697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "bbb41d031533a46d1327db32d831714853c1193c",
+      "international_phone_number": "+852 2386 9718",
+      "name": "Chi Chi Cham - \u5431\u5431\u6715",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0100"
+            },
+            "open": {
+              "day": 1,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0100"
+            },
+            "open": {
+              "day": 2,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0100"
+            },
+            "open": {
+              "day": 3,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0100"
+            },
+            "open": {
+              "day": 4,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0100"
+            },
+            "open": {
+              "day": 5,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0100"
+            },
+            "open": {
+              "day": 6,
+              "time": "1600"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 12:00 \u2013 3:00 PM, 4:00 PM \u2013 1:00 AM",
+          "Tuesday: 12:00 \u2013 3:00 PM, 4:00 PM \u2013 1:00 AM",
+          "Wednesday: 12:00 \u2013 3:00 PM, 4:00 PM \u2013 1:00 AM",
+          "Thursday: 12:00 \u2013 3:00 PM, 4:00 PM \u2013 1:00 AM",
+          "Friday: 12:00 \u2013 3:00 PM, 4:00 PM \u2013 1:00 AM",
+          "Saturday: 4:00 PM \u2013 1:00 AM",
+          "Sunday: Closed"
+        ]
+      },
+      "photos": [
+        {
+          "height": 979,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100158107793359567112/photos\">Chi Chi Cham - \u5431\u5431\u6715</a>"
+          ],
+          "photo_reference": "CmRaAAAA3e3LqLimPyb5m4AJEcskYZ3ORQoV9_T58a6lJwY37veTthUUQqOBdkX51_jnTTr70e4L-5ZTyGP4fJYRq2AI5tK3agYxx37zOQUuDfD2TSq1yrCW2gvkF0ZTl_xLHOgtEhCxkC6vNWpSmzWiQ3Po3JozGhTMjcCNKXzlw2L7xIGsrKErcLkxBQ",
+          "width": 2341
+        },
+        {
+          "height": 3780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103556073408028619706/photos\">Titus Phoon</a>"
+          ],
+          "photo_reference": "CmRaAAAAwxSwVzcwD3yJr3k2NHGA4w9c1W7GybdINw3ayCPJF7DF0ay3J0Y5Rgwi6aNtCYZXXJIg3Ja-kal7_uWMa5LK-I7p8rDMB83Nc_1SkxKJnwpfTnO8A2BqCHWZ8dN1zwFdEhCPRssl_op_8tATeGUwo3dJGhRuAOJzeOj9Yl2pxr-aeXpwuSRJYg",
+          "width": 2835
+        },
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100166834150675371881/photos\">Gary Ho</a>"
+          ],
+          "photo_reference": "CmRaAAAAJHsOLMT95ZF1n76LiibRNndulXSMr9SKax9QyTDmj4q0DHY0QyuzU6tAA0FLBTN17QpG8EvrVgb-qC5Vcd_YY63yFklpjc39zNjBiX9aHcQrQnQiXh6tI7XzKzWe45QEEhBDrRzji7DVKPMAoIp_-hhNGhT2IpprjizsVtmI4TuqfPkP_s3Hqg",
+          "width": 2592
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118301081530229248211/photos\">K L</a>"
+          ],
+          "photo_reference": "CmRaAAAACdGVpQFb9PixgRoUBHcm0Q9idp3rQAFMZaswaSB2pzkj3i7uPEav81prjc2phDQyTq57Y7hwQqbWkSRfAAlxwaPB-HMg2WfGShjkxCt_m6BHw8ZWYiu1i0CAHCrJwf-IEhABAj7ERg3iLGSDaFDnMDzeGhTP-uloqUNPRHA86DY2uD3mEwhttQ",
+          "width": 1920
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108981754446549836515/photos\">Ka Va Lau</a>"
+          ],
+          "photo_reference": "CmRaAAAA4xLwCdyZRKJTWjOyfahiOGVLIx7hmd1wj3fi3ZOO4SbjRqfm4rIRsq4lXfqmSeVgcBnEf36ZKbeh_NTkp_5CQP0yhoMOT_mhAClolRLGCxm9gGXri2op_LncYMtt5JbBEhB-BKubmfzMoOzeq6pZbTUUGhTF30rZ9Ms1qP6LwwegXczHRU9wEg",
+          "width": 4208
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105361247106352062219/photos\">LLL Winnie</a>"
+          ],
+          "photo_reference": "CmRaAAAAmvbxw2bXfWIpx4G-NFbrZ0zBXtJ18gGUsIoU8Q6v8X3ZK_KzdiOKH14JFzqbOnO6aJZ0dsBb-DLnJ8nzXKrpuH_PLAIwabeTj9ztfndG6Fe8U3ba_1QDvhhfeMVnVd_ZEhDN_RAj3A_szph9OUYbON64GhQYvmlDYOna5_wsQ6wRVl9_tb4eiA",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114498837246986115515/photos\">Jacky Pang</a>"
+          ],
+          "photo_reference": "CmRaAAAAeipg6GWR-SSUOaop0HBKBlxWqziiNGr-prDWmXMown3Gc1BmBTOk7rTKpHCcFMho28XjEMne5i4XrUhnxT1RQkMNltFHZXpIkidzP4tAvn5nnvpnNZJ7eQCkkaPi5ljeEhA5cHEN3cH3JCBIgleKbwypGhR_yyiudpnIQeXBtrg0BBbeB6nn5g",
+          "width": 5312
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115124588704914471761/photos\">Chris Chiu</a>"
+          ],
+          "photo_reference": "CmRaAAAArRW2l7D_2tfQ03iBtfXBOxD3f538IL8CI75F_dQ2Fmn6I75ZL_XonMALGmp4W5El4io2CNY1st--7lht69BW9uSZELUpd8FzbIrwbcuNlY5JlQ7DfqJ5rgM_gl4xwG7iEhC9pTHb2Yvnrovc_nzldsXkGhTJwfUHS84taAsjjcIlG4K8adW0YQ",
+          "width": 2988
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114498837246986115515/photos\">Jacky Pang</a>"
+          ],
+          "photo_reference": "CmRaAAAAURnLB6lXQVnw_XH1r0Z_gobc_-VSBl7UgVXXKoBtsEOiz5wteVH5QRWsD6J91aVOXyH9sIZ-JhQkait6_kCvOMS0CebMcTf9FpIjDcCm7GIrzfZOeAxDc9213TUKrwbQEhDT1mafDReY9Sca-NUHUG0iGhR3fjBBh3Kfl5WSei_zf1U85rvU1A",
+          "width": 5312
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106741690285822571887/photos\">Ervin Lai</a>"
+          ],
+          "photo_reference": "CmRaAAAAkiRU-w5VE5F52eUoS4dVxPZ4WV6otYm4l4SEq04bmGjRkWCH0Sa746e3j6Mtz3T2K8qXAjq6ZlPlocUpYRs1sAk2hkfwGyeDHFKbIDQ-qKmPe-2bBgQy7UUHZZzP563vEhCbQRZLsYsHLaxnehSjQzrxGhTQkCQo9vkJpyYVRS0hoQI087V-5A",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJTeBfnnsABDQRssGuOuQH8_Q",
+      "plus_code": {
+        "compound_code": "75M3+33 Central, Hong Kong",
+        "global_code": "7PJP75M3+33"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJTeBfnnsABDQRssGuOuQH8_Q",
+      "reviews": [
+        {
+          "author_name": "A H's",
+          "author_url": "https://www.google.com/maps/contrib/107037934891677249141/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-iNixXpTrt_s/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfIRtPXVkDxUtqlJG4v5Kem72JmdQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "The food was very tasty and delicious. Prices are acceptable and the service was great. The only comment I\u2019d have is that it\u2019s quite noisy inside so it was difficult to hear our companions. Otherwise, it\u2019s a fun place and I suppose the noise adds to the hip ambiance.",
+          "time": 1557938193
+        },
+        {
+          "author_name": "William Yuen",
+          "author_url": "https://www.google.com/maps/contrib/101144101842495065472/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-IzGb3YcXHZc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reC3zjo_3Hm6gv78YyT0qOV33BugQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Great happy hour prices.\nVery good service.\nFood prices a little pricy, but great drinks make up for it.\nOnly thing is i wont touch their draft beers, see pic!",
+          "time": 1560953288
+        },
+        {
+          "author_name": "Annie Kingston",
+          "author_url": "https://www.google.com/maps/contrib/113218673617052544662/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-jGHxpitLSm0/AAAAAAAAAAI/AAAAAAAAAAc/65KlCD2AuO4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 weeks ago",
+          "text": "Chi Chi Cham .ust be the best happy hour in HKG!! Get your fill of wisely priced sake, wine, and Asahi here. I never had a bite to eat, but had major food envy for every dish around me. Just visiting Hong Kong, and I've been here two nights in a row. \ud83e\udd2d",
+          "time": 1562856559
+        },
+        {
+          "author_name": "Lisa Greene",
+          "author_url": "https://www.google.com/maps/contrib/110793661279222624852/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-YfX7GT5n0y8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcqYl1NXBlNxZiScsRklYM9V13lZA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Cute bar, nice staff, good sashimi and drinks",
+          "time": 1561222013
+        },
+        {
+          "author_name": "Sy Kevin",
+          "author_url": "https://www.google.com/maps/contrib/109427823836444723426/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-c8feg0EE-ZE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfgCxLV9e0MlxgLjYyZbsRX5S1GXg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "Really good Japanese fusion with really good interior. Staff were attentive! Generous serving as well!",
+          "time": 1556464138
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=17650460041413575090",
+      "user_ratings_total": 117,
+      "utc_offset": 480,
+      "vicinity": "\u865f, 53 Peel Street, Central",
+      "website": "http://www.chichicham.com/"
+    },
+    "status": "OK"
+  },
+  "place_tc": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "53",
+          "short_name": "53",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Peel Street",
+          "short_name": "Peel St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Central",
+          "short_name": "Central",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hong Kong Island",
+          "short_name": "Hong Kong Island",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u9999\u6e2f",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "\u865f, <span class=\"street-address\">53 Peel St</span>, <span class=\"locality\">Central</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+      "formatted_address": "\u865f, 53 Peel St, Central, \u9999\u6e2f",
+      "formatted_phone_number": "2386 9718",
+      "geometry": {
+        "location": {
+          "lat": 22.2826453,
+          "lng": 114.1526359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.2839853302915,
+            "lng": 114.1539990302915
+          },
+          "southwest": {
+            "lat": 22.2812873697085,
+            "lng": 114.1513010697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "bbb41d031533a46d1327db32d831714853c1193c",
+      "international_phone_number": "+852 2386 9718",
+      "name": "\u5431\u5431\u6715",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0100"
+            },
+            "open": {
+              "day": 1,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0100"
+            },
+            "open": {
+              "day": 2,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0100"
+            },
+            "open": {
+              "day": 3,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0100"
+            },
+            "open": {
+              "day": 4,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0100"
+            },
+            "open": {
+              "day": 5,
+              "time": "1600"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0100"
+            },
+            "open": {
+              "day": 6,
+              "time": "1600"
+            }
+          }
+        ],
+        "weekday_text": [
+          "\u661f\u671f\u4e00: 12:00 \u2013 15:00, 16:00 \u2013 01:00",
+          "\u661f\u671f\u4e8c: 12:00 \u2013 15:00, 16:00 \u2013 01:00",
+          "\u661f\u671f\u4e09: 12:00 \u2013 15:00, 16:00 \u2013 01:00",
+          "\u661f\u671f\u56db: 12:00 \u2013 15:00, 16:00 \u2013 01:00",
+          "\u661f\u671f\u4e94: 12:00 \u2013 15:00, 16:00 \u2013 01:00",
+          "\u661f\u671f\u516d: 16:00 \u2013 01:00",
+          "\u661f\u671f\u65e5: \u4f11\u9928"
+        ]
+      },
+      "photos": [
+        {
+          "height": 979,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100158107793359567112/photos\">Chi Chi Cham - \u5431\u5431\u6715</a>"
+          ],
+          "photo_reference": "CmRaAAAAuW1qFtswvPq8mkEMqq5bE_RTu0OXoR6y5677nTlAPM_iOFfc7qCIvIItMt_9Ppk4XVFHKkd6njRXnYVDjHc0l-yIWOZlM0_wPIDiLQQ3kEvZ7A_OCCPaZCedVh9nAvFNEhAp6d0LFt_gQsqi4rtWHHrpGhTQE7inl4GRlEVvSroSdU4TUCF56Q",
+          "width": 2341
+        },
+        {
+          "height": 3780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103556073408028619706/photos\">Titus Phoon</a>"
+          ],
+          "photo_reference": "CmRaAAAAxN-RF0x8FtvAaQ7TzArNUlIkzWrH0RoWql-ynK2ynfo95SzzC8_TN9MEr3NwHM00f7ggN-I2V8RI8QzEoLrl6sQ_2o842gYix3L5f8IhMSBzTnlaD1Xw06DD5puog_rcEhDvl-xY_t-bv_BKI7BVLxp1GhTxUnDI9KZImHT_PSMwt_iXMBoRmQ",
+          "width": 2835
+        },
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100166834150675371881/photos\">Gary Ho</a>"
+          ],
+          "photo_reference": "CmRaAAAAF8diIWpZrvcM0FxQTv63thW3GAAQWcwwjkGo3_czUZHdRvaluis1l0HuvqPx3kmfSn9mfjiEoPbw1U6y81ENkw-as_qvCxFKMZhZjUzbnAqAi2yEyOhM6GWt_riitQ4vEhC558iQQaIWLGOyW3vvw8LMGhS2De3EtIjCia4FhFE-tO5WNBfOvg",
+          "width": 2592
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118301081530229248211/photos\">K L</a>"
+          ],
+          "photo_reference": "CmRaAAAADt7YTSGxUUouOz2YHAfHkCuuOrz5fb_KGrkqF4LtNb7zMEjdvlmiyZvCeBDpcl7t93KfUINela817JIX9XOoJ6C8W9fuhSglX6UHpN_EyKKoYiJkc4hvy_RfLhuU1akLEhDQp1eqxZspKrNh5BKtiUn0GhQv5UlN4sIyBYr8Fz9sXOAe1ArNXQ",
+          "width": 1920
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108981754446549836515/photos\">Ka Va Lau</a>"
+          ],
+          "photo_reference": "CmRaAAAAGtMR2ENbG5vfghmkIO6I-jP9xi5d20L9PHHF0yHaM_4GkPlBlmO2KInHNnV93RT9J37htPcIrRB7E5TunOVfata3mTOZiAb91OZ5TSwrmksHX6u87zHgwwWDyoD1sSmCEhDfM2y6L-TxHR7LE4fzHB42GhRsoRoFSd_N_P2vAWIAURVcnoT6Aw",
+          "width": 4208
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105361247106352062219/photos\">LLL Winnie</a>"
+          ],
+          "photo_reference": "CmRaAAAAK5Q3qe0DFrckMBSjyU18DFSb4W7oZ3j4M4_d1nzrk82sxYRh2K99o0B1v61Rej4lZi3UgZIK0VJtPWb-vb6VxK0gG7FoYhoSlUqJv1-g38sgdGBkNXjKigmEAxdtyiRSEhACRllaO30GfPULpCJB4nZjGhQFDDLAvRTCyzIGEswb2jtfyfsASw",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114498837246986115515/photos\">Jacky Pang</a>"
+          ],
+          "photo_reference": "CmRaAAAAnyNxGWNH58C6n1w7wj_UWGEzw31qUktDpJ91rDxptBICZFlbc_Bpl2Zz88wy9chjVT-vcEdkNroGjRe7OSNiFMrZ8fXNyU8lHOXjenRymjYChVqNSVAqfGTH1ExRfzhjEhDclbFl9QMCN57D4bqV2o2gGhTZPZr0mfARXCm_rZWHw0mIOmtewQ",
+          "width": 5312
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115124588704914471761/photos\">Chris Chiu</a>"
+          ],
+          "photo_reference": "CmRaAAAAr8KMIPCD-FZ8Dy4YdfvrjN-8RWoqkE7I1zHfSuo8yiHTbrV0GVn0erBWtcduTjSZYdOvqF9oDslpSF2b9i1ZvZw1cMyJKHKNygb6l1BJAE_Y4VdATQ7TO8zsOJm9BkTxEhBHuDI0gtfwP60WD4c_KAThGhT5tenas3dP8tVjOOOgIqDBD62FYw",
+          "width": 2988
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114498837246986115515/photos\">Jacky Pang</a>"
+          ],
+          "photo_reference": "CmRaAAAAmgKj5Kw4gM-C0Z0YljEuVQdCpRFN0-B_WcqFaYvyPcD3nlXUCt4R8IZXQAtixfDQ7w95UaF0EVw7C-GTmCjB93c9OlFaR1HYYAkKuLFlI2KA38dy1VS5L-M9XvUQwVCEEhBa-K8cDTbCNUFSgHC1xwJhGhTGGKRmZL2LzpimVXcho47y7ulMJA",
+          "width": 5312
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106741690285822571887/photos\">Ervin Lai</a>"
+          ],
+          "photo_reference": "CmRaAAAAuMJu6mUHHyd3B69TXKX1kERu7Q31iF5hviYqAUFWAkRwHp5GFScAfoGiLJ6QITqwTrSb0XNkdTLnvPKH5eef7gtnbklbwaxJB5ntqemhOvFPy7W2soeCDvRREwWfUGjFEhAv-aLda9sc94vwjvRNL7RxGhQYXUsWS1EJv-1QaamyKLzubdYZrQ",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJTeBfnnsABDQRssGuOuQH8_Q",
+      "plus_code": {
+        "compound_code": "75M3+33 \u9999\u6e2f\u4e2d\u74b0",
+        "global_code": "7PJP75M3+33"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJTeBfnnsABDQRssGuOuQH8_Q",
+      "reviews": [
+        {
+          "author_name": "A H's",
+          "author_url": "https://www.google.com/maps/contrib/107037934891677249141/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-iNixXpTrt_s/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfIRtPXVkDxUtqlJG4v5Kem72JmdQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 \u500b\u6708\u524d",
+          "text": "The food was very tasty and delicious. Prices are acceptable and the service was great. The only comment I\u2019d have is that it\u2019s quite noisy inside so it was difficult to hear our companions. Otherwise, it\u2019s a fun place and I suppose the noise adds to the hip ambiance.",
+          "time": 1557938193
+        },
+        {
+          "author_name": "William Yuen",
+          "author_url": "https://www.google.com/maps/contrib/101144101842495065472/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-IzGb3YcXHZc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reC3zjo_3Hm6gv78YyT0qOV33BugQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "Great happy hour prices.\nVery good service.\nFood prices a little pricy, but great drinks make up for it.\nOnly thing is i wont touch their draft beers, see pic!",
+          "time": 1560953288
+        },
+        {
+          "author_name": "Annie Kingston",
+          "author_url": "https://www.google.com/maps/contrib/113218673617052544662/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-jGHxpitLSm0/AAAAAAAAAAI/AAAAAAAAAAc/65KlCD2AuO4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 \u9031\u524d",
+          "text": "Chi Chi Cham .ust be the best happy hour in HKG!! Get your fill of wisely priced sake, wine, and Asahi here. I never had a bite to eat, but had major food envy for every dish around me. Just visiting Hong Kong, and I've been here two nights in a row. \ud83e\udd2d",
+          "time": 1562856559
+        },
+        {
+          "author_name": "Lisa Greene",
+          "author_url": "https://www.google.com/maps/contrib/110793661279222624852/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-YfX7GT5n0y8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcqYl1NXBlNxZiScsRklYM9V13lZA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "Cute bar, nice staff, good sashimi and drinks",
+          "time": 1561222013
+        },
+        {
+          "author_name": "Sy Kevin",
+          "author_url": "https://www.google.com/maps/contrib/109427823836444723426/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-c8feg0EE-ZE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfgCxLV9e0MlxgLjYyZbsRX5S1GXg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 \u500b\u6708\u524d",
+          "text": "Really good Japanese fusion with really good interior. Staff were attentive! Generous serving as well!",
+          "time": 1556464138
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=17650460041413575090",
+      "user_ratings_total": 117,
+      "utc_offset": 480,
+      "vicinity": "\u865f, 53 Peel Street, Central",
+      "website": "http://www.chichicham.com/"
+    },
+    "status": "OK"
+  },
+  "timestamp": 1565104433,
+  "version": "1565104415"
+}
