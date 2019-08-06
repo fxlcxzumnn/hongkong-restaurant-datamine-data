@@ -466,6 +466,844 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJTcl2h5r4AzQRmMZa6G8YQoQ": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Cheong Fat Building",
+              "short_name": "Cheong Fat Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "21",
+              "short_name": "21",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kwong Fai Circuit",
+              "short_name": "Kwong Fai Circuit",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Kwai Chung",
+              "short_name": "Kwai Chung",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Cheong Fat Building, <span class=\"street-address\">21 Kwong Fai Circuit</span>, <span class=\"locality\">Kwai Chung</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Cheong Fat Building, 21 Kwong Fai Circuit, Kwai Chung, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3678884,
+              "lng": 114.1325556
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3692412802915,
+                "lng": 114.1338943802915
+              },
+              "southwest": {
+                "lat": 22.3665433197085,
+                "lng": 114.1311964197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "bf85148bb4fc8b18e9830a47ff31d47309113357",
+          "name": "Cheong Fat Building",
+          "photos": [
+            {
+              "height": 5312,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAelpSo3YDFagZuRX7OtPLgxY5OJJ3H4Hja5s9yAx5tOwBd3xBCeH0ntsdKYgKcTPFQWEXGEyNpioe4YRRSYO3XuGTesLIlKbFFu7-4z_rBCrkWcPjpqGITeiKKxVuf8RtEhAALjg3QD6WTKHruucvC-nTGhQJKA0IbkZi9k2TYt1buBoC3Y6wiw",
+              "width": 2988
+            },
+            {
+              "height": 2988,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAu-nL7HqPK6GvSbFwtftpYOL6r8-8fWoZu1-kd28jbWIuyVN6oADRun-DWac9iEdXv1UR0v82QD3BgXrSdPsmN0xLXxqrYl7ovPWKu7RYTthf-T9limLODLYgmOO1z4tNEhAtqz8sTy0AiRSR1mbEp7kQGhTYV1vUklSk7q-bi0AMiFhyQCoSxA",
+              "width": 5312
+            }
+          ],
+          "place_id": "ChIJTcl2h5r4AzQRmMZa6G8YQoQ",
+          "reference": "ChIJTcl2h5r4AzQRmMZa6G8YQoQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Cheong+Fat+Building&ftid=0x3403f89a8776c94d:0x8442186fe85ac698",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJTcl2h5r4AzQRmMZa6G8YQoQ",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u660c\u767c\u6a13",
+              "short_name": "\u660c\u767c\u6a13",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "21",
+              "short_name": "21",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5149\u8f1d\u570d",
+              "short_name": "\u5149\u8f1d\u570d",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u8475\u6d8c",
+              "short_name": "\u8475\u6d8c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u8475\u6d8c</span><span class=\"street-address\">\u5149\u8f1d\u570d21\u865f</span>\u660c\u767c\u6a13",
+          "formatted_address": "\u9999\u6e2f\u8475\u6d8c\u5149\u8f1d\u570d21\u865f\u660c\u767c\u6a13",
+          "geometry": {
+            "location": {
+              "lat": 22.3678884,
+              "lng": 114.1325556
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3692412802915,
+                "lng": 114.1338943802915
+              },
+              "southwest": {
+                "lat": 22.3665433197085,
+                "lng": 114.1311964197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "bf85148bb4fc8b18e9830a47ff31d47309113357",
+          "name": "\u660c\u767c\u6a13",
+          "photos": [
+            {
+              "height": 5312,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAeJsSHYu6SDd9qs23PO2gfWl711iDHabRhVjUaMeUQsjHqKfONy3ai8HsqH6oUcOzQOm9H7kOu4ShR_Cb842Wnmg4c6M50uhEnTecvGYNoo1oCh-vGF1DEj-F6wIdcxXsEhAOgO5ZtSSv80LC39D0W-YtGhT_LIhC8wBdb1jROGAMcHeR7Bxsdg",
+              "width": 2988
+            },
+            {
+              "height": 2988,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAtegal6PLfQ-KO0rfnTYaV3pSAJ20U4xAl8omeGpcNy7W93D8XoAZJsxNVAaBVI50walRAFFUXYJR-VLYPitEd1IBx_pUHLb4daC3kRSNQzoa0WXXIgIlf0TTi10p4qV7EhAkz10OMyuI4Ixq6lUJeA4FGhShknteWqeCxsPa0v1VqNFCx_XgrQ",
+              "width": 5312
+            }
+          ],
+          "place_id": "ChIJTcl2h5r4AzQRmMZa6G8YQoQ",
+          "reference": "ChIJTcl2h5r4AzQRmMZa6G8YQoQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E6%98%8C%E7%99%BC%E6%A8%93&ftid=0x3403f89a8776c94d:0x8442186fe85ac698",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJk-qPh5r4AzQREa8mzmpY8Aw": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Cheong Fat Building",
+              "short_name": "Cheong Fat Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "21",
+              "short_name": "21",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kwong Fai Circuit",
+              "short_name": "Kwong Fai Circuit",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Kwai Chung",
+              "short_name": "Kwai Chung",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u865f \u5730\u4e0b 6 \u865f \u8216, Cheong Fat Building, <span class=\"street-address\">21 Kwong Fai Circuit</span>, <span class=\"locality\">Kwai Chung</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u865f \u5730\u4e0b 6 \u865f \u8216, Cheong Fat Building, 21 Kwong Fai Circuit, Kwai Chung, Hong Kong",
+          "formatted_phone_number": "2420 3619",
+          "geometry": {
+            "location": {
+              "lat": 22.3678679,
+              "lng": 114.1326539
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3692303302915,
+                "lng": 114.1339675802915
+              },
+              "southwest": {
+                "lat": 22.3665323697085,
+                "lng": 114.1312696197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "67775a4f8b1ac81cbdb1091c074648c90a08db58",
+          "international_phone_number": "+852 2420 3619",
+          "name": "Tea & Coffee Cafe",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 7:00 AM \u2013 6:00 PM",
+              "Tuesday: 7:00 AM \u2013 6:00 PM",
+              "Wednesday: 7:00 AM \u2013 6:00 PM",
+              "Thursday: 7:00 AM \u2013 6:00 PM",
+              "Friday: 7:00 AM \u2013 6:00 PM",
+              "Saturday: 7:00 AM \u2013 6:00 PM",
+              "Sunday: 7:00 AM \u2013 6:00 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 2268,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111502982496661338579/photos\">Roth Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAA8_rqva-ETBH9HwI7F--D1ZRuc_kClE1pSPIZgNZziC9SbW0cdnxp7h8XIRIad74WazDkQSWCGx37R7tO18G48nW-s3qCVW_upwE8iVHNe5VK-Gm4mcAmF7xJFfebWTMvEhC-7VXeoLS7342VUpfI3ZQoGhSkSV8QVhrUtGYlcAjPBFCpQGeYhg",
+              "width": 4032
+            },
+            {
+              "height": 4128,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105975297248337980765/photos\">348 Home</a>"
+              ],
+              "photo_reference": "CmRaAAAAsDOV9qKWexp2O7fNqxv1nU52G0psQqc_4MWFmubxqc1wbIuUP1sQSEnHMm2CA71jiXnVHkIK9mAS4lja8cNR8s8KqOeMcVWplyevENkvayFPGaCVyXF0LYZxceXq3F1BEhAgW_Rfa-sCW80379OPRfqnGhThRsGxU3CfaBIHojVYXga81F8oBw",
+              "width": 2322
+            },
+            {
+              "height": 1920,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107715414981262944320/photos\">Tin Lee</a>"
+              ],
+              "photo_reference": "CmRaAAAATZMTTFYv9or8t5LxSzE8hQjzBmB7meZjnfNuf7xDZM2Moq47BdjaOAXFpdyvF7TXsUR1GNRPV__6ErFRTjkeCjMZuTRsGFp5l9zf84uOpFHxq8cj1ugRvnqf1rYP2mIxEhAhhH0p4oOrVKucwW1yFLzuGhRDuF633bG6hdUd_isKmXGUWp20qQ",
+              "width": 1920
+            },
+            {
+              "height": 2048,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104788116020188571828/photos\">C HENRY</a>"
+              ],
+              "photo_reference": "CmRaAAAA4gInLCb_03bDwARI_dJVJlJWp-Jn9mTeIcMgYUDj4oyEBcByrRfrzVVk7xeOwV-qDy32ABTIvlEpNmgCX3AySjRr_vbejA3AkkRn395dQbjgGJGt2zNZL2sLXLyS8q9KEhC6_c_FZzeXoUqbE0uuxkiFGhQnLKuPmoaitwpa3Oo7ZdEuBX6cQQ",
+              "width": 1536
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111502982496661338579/photos\">Roth Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAAIOWy_hcDSrPoDdxtbCSGLY0_9qc0vCiWg4YqGOgXW_bijhYsiKx9YsMwiUDX1onvLR5C4cecYpVw2BHllLYbC2xfacyUkg4qQ7JpJDAKcsbf9scC6u3wm5VLtv1OOQRAEhAsblgxZY6bLZkMxfV3TIH_GhQSIfXiyJ3um9oDx9znOr586OgzQA",
+              "width": 2268
+            },
+            {
+              "height": 1436,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101520246450066503265/photos\">Michael Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAA7kxUr4HdH0n6wTGZ5IXSeaLu6jx511viPFf7QdrvlFibEcZA1q1IxWyDRdhnH1J9CCo6hqRS2o63Lpk3GGDXXboKVv-OiGO39-3tOAkqmN-y7kjrnO9t2-GduYdP0vINEhAnlfQu06sJuK-vGOR-51H_GhSwUySoDki6hjfaavhEgAEv9XKVHQ",
+              "width": 2048
+            },
+            {
+              "height": 1737,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101520246450066503265/photos\">Michael Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAAZpw81ZPzV2EUUrYeFe2GsMpoVhJgf56hit2Marbkk9JLvQlDUbKQpiCu9y1H3D7DHoxlv1ql1aAtHIPhUvOS6KijAchTx64UL7BksH4btzmfX6PjJwx28ze_tJ9juiY9EhD0zBSc5xIFfSO0y9jFWMPsGhRievwb4tNUxKYXWrTxeC77GZCbrA",
+              "width": 2931
+            },
+            {
+              "height": 1130,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101520246450066503265/photos\">Michael Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAAlDouztIkppzLIou_wZHm8dU94CwhGNm7i2Bo615GjXUFhn9gi70zN4LmuteQdKbcCp30BLUwDj8IL6Jhp-8B7x-tE0OVI3cgvw7cl9R9SdP9uGV5GIkWm9KKbc5P6j9YEhB7A_DMsSiR8XYoqXEnNa-6GhTS4GMs0iWWhuI8tUh8nOq6pi7c1Q",
+              "width": 2048
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115815135313571382773/photos\">A Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAF2y-dGMVpAWXYX1QarwuygWnDsy2PX8w5cx1SvlGukuACR1_zA34DNkSRCKu1Hz8xXJorSRu78WVjdIzRv1Sqgb_DH-vfQwCWhDIZ6wn--5LkirKxADhvxJm4k2VjozoEhC-S70tIHkvD4p3e6-sqEN2GhTBJF5w2tPxxMRP_jvqyoeDb9b3rQ",
+              "width": 4032
+            },
+            {
+              "height": 1920,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107715414981262944320/photos\">Tin Lee</a>"
+              ],
+              "photo_reference": "CmRaAAAAEK8Z5lgIszl-cacXOLYxPGfmCqPB6vwXPaGYBQ1eXiMvmld_BhaKnbCqWDVqt7TRMYslkX7goA0GcmeBpwfKJKRSyS01c6FCE9fiAI8whehVZav4E2idjeujC-YaxGK9EhCzWwDj5aCytyWiDU3y-0yVGhThNlpHR9vhKh1qyqQlbw8uO1LafA",
+              "width": 1920
+            }
+          ],
+          "place_id": "ChIJk-qPh5r4AzQREa8mzmpY8Aw",
+          "plus_code": {
+            "compound_code": "949M+43 Hong Kong",
+            "global_code": "7PJP949M+43"
+          },
+          "price_level": 1,
+          "rating": 3.7,
+          "reference": "ChIJk-qPh5r4AzQREa8mzmpY8Aw",
+          "reviews": [
+            {
+              "author_name": "Mariko Muranishi",
+              "author_url": "https://www.google.com/maps/contrib/110982899407803332130/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-RxqlIs0vxuQ/AAAAAAAAAAI/AAAAAAAAK48/I8RGWsNgOxI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "5 months ago",
+              "text": "I love the food here. It\u2019s always crowded with nice local people",
+              "time": 1550022400
+            },
+            {
+              "author_name": "Erika Smith",
+              "author_url": "https://www.google.com/maps/contrib/108831402688716955096/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-MRlhqHtgVpA/AAAAAAAAAAI/AAAAAAAAD4c/Zm1loOsPGmI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 1,
+              "relative_time_description": "10 months ago",
+              "text": "No English menu yet says western restaurant, no English spoken inside and not willing to serve anyway.",
+              "time": 1537758330
+            },
+            {
+              "author_name": "A Chiu",
+              "author_url": "https://www.google.com/maps/contrib/115815135313571382773/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-uYzsFJdcJgc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdNViLFusQ3CQ52jXg5HZiSvwp8VQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "a year ago",
+              "text": "Food is average. I order the mustard egg croissant (\u82a5\u672b\u788e\u86cb\u725b\u89d2\u5305). Mustard is not enough, I will say this is an egg croissant instead. Coffee taste not good but the HK style tea is excellent.",
+              "time": 1523117137
+            },
+            {
+              "author_name": "savona ling",
+              "author_url": "https://www.google.com/maps/contrib/113441738210154356518/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-SdIe25B3XM8/AAAAAAAAAAI/AAAAAAAACG4/eXtNI2KImyI/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a year ago",
+              "text": "Good local food!",
+              "time": 1530962539
+            },
+            {
+              "author_name": "Tristan Currie",
+              "author_url": "https://www.google.com/maps/contrib/101782346521418783699/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-cs2ZqcB8-Vc/AAAAAAAAAAI/AAAAAAAABTU/tCfU65dFhpI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 years ago",
+              "text": "Best milk tea in town. Friendly staff",
+              "time": 1479630247
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=932342338614112017",
+          "user_ratings_total": 121,
+          "utc_offset": 480,
+          "vicinity": "Cheong Fat Building, \u865f \u5730\u4e0b 6 \u865f \u8216, 21 Kwong Fai Circuit, Kwai Chung"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJk-qPh5r4AzQREa8mzmpY8Aw",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Cheong Fat Building",
+              "short_name": "Cheong Fat Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "21",
+              "short_name": "21",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kwong Fai Circuit",
+              "short_name": "Kwong Fai Circuit",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Kwai Chung",
+              "short_name": "Kwai Chung",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u865f \u5730\u4e0b 6 \u865f \u8216, Cheong Fat Building, <span class=\"street-address\">21 Kwong Fai Circuit</span>, <span class=\"locality\">Kwai Chung</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "\u865f \u5730\u4e0b 6 \u865f \u8216, Cheong Fat Building, 21 Kwong Fai Circuit, Kwai Chung, \u9999\u6e2f",
+          "formatted_phone_number": "2420 3619",
+          "geometry": {
+            "location": {
+              "lat": 22.3678679,
+              "lng": 114.1326539
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3692303302915,
+                "lng": 114.1339675802915
+              },
+              "southwest": {
+                "lat": 22.3665323697085,
+                "lng": 114.1312696197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "67775a4f8b1ac81cbdb1091c074648c90a08db58",
+          "international_phone_number": "+852 2420 3619",
+          "name": "Tea & Coffee Cafe",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 07:00 \u2013 18:00",
+              "\u661f\u671f\u4e8c: 07:00 \u2013 18:00",
+              "\u661f\u671f\u4e09: 07:00 \u2013 18:00",
+              "\u661f\u671f\u56db: 07:00 \u2013 18:00",
+              "\u661f\u671f\u4e94: 07:00 \u2013 18:00",
+              "\u661f\u671f\u516d: 07:00 \u2013 18:00",
+              "\u661f\u671f\u65e5: 07:00 \u2013 18:00"
+            ]
+          },
+          "photos": [
+            {
+              "height": 2268,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111502982496661338579/photos\">Roth Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAAmOYpeev3EF5Fv4EliM_mxF7o217i-EpGQvC1yYvKPRDdzUm8NjyMGMa5u_v8nNC56xY4IvggibqCcRBeXlnVL-jAQUdVP8bjSdcA0kzjtGaX_cQvyhHhIOIzdFcyIUckEhCBabhM6W9UDKLklYRYZYm3GhQYU397NkkO9w8gBqVUKI3NKX3dIg",
+              "width": 4032
+            },
+            {
+              "height": 4128,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105975297248337980765/photos\">348 Home</a>"
+              ],
+              "photo_reference": "CmRaAAAAkdzGNTqj0Dnocz9m5XNCw-Q-EEUoRN9IPniQarOd2dZIO7lSIXrGSsb0JLne1XB3GBzCQhkJFAH2Wd0t-C_7EM7ClJq9urkKeOlHUibgpAb4dhkigDgiq6WXR1jCi67dEhBmrqBZ782PXXqG7IBson7-GhSuvou9BXTUF-XrKWeDJ11LCzigQA",
+              "width": 2322
+            },
+            {
+              "height": 1920,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107715414981262944320/photos\">Tin Lee</a>"
+              ],
+              "photo_reference": "CmRaAAAAMpEvUP3Rt4gJWuQPjSPk_HfQ45M5PoF-_UZlL4fKZ0iVBtMLtv-kwiZS5E7sZvmLfDEPFGmQAHkcFqcaDh0_3JYVW-ps08UP_cv8rvuYxDigSZwVClZnMaiPvEQvlI20EhA5ViZtUEdENR8xIM04Uv9-GhTQz6jqfkR9Dr1CsGnHE4joWZy1gw",
+              "width": 1920
+            },
+            {
+              "height": 2048,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104788116020188571828/photos\">C HENRY</a>"
+              ],
+              "photo_reference": "CmRaAAAAJKY5HV-d9GqhiLcknXCs7CxFuj0j3hT92QMo-FTOs5BLGyzMNO4teSQ7zHY1je2GmcTnc6I_SASB0MCh89BBqCSgE7Tuob_4r-jOZAkHrvWYdxceeK5NzP2jxvYtzYHcEhAMs_pdmuD-qVIOFMWxz1xuGhSxGtIL-7xFF9tzi27RzjhH4a6jbQ",
+              "width": 1536
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111502982496661338579/photos\">Roth Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAAzY0dFY8G1kq8Q_yr7rdBw5hLJ8yVfTIGTDab0yzmwA7apHP_bzll_X04uZDd60Xpt4YXeHn4a9tsRSCxEFS9e-1YhgGqqAK2054wMXmxlS7F_iB_5dZzvOP3SdttmbNkEhC_rkdU0YL6Py_0y5vpBM7iGhT4zIZlwAgP95tiSAP9Gh7tavyFWw",
+              "width": 2268
+            },
+            {
+              "height": 1436,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101520246450066503265/photos\">Michael Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAAqgUi4sWPFBZ2ZDok-lhNcuso_RcFj2Bq3n-VMPjb7g_t-Ni0DrANPrUS6ISlyYrJsl0EiHit98js2jGn7OaNBWnDVBl23degvbBvomqOuomWxprTGx6-atT11MexW_auEhBV81ohsmhzsVkuOh-lt_fjGhS_TMwg4vJtKdqUQHqIVjZKUHFUHA",
+              "width": 2048
+            },
+            {
+              "height": 1737,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101520246450066503265/photos\">Michael Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAADLwJV3MAxfQm3-iT2lz96KDoHazugLTLVos4uA2szgFzoR-ZBglRnj8kDtKYjMLSFEYbdXZoJq9qR5EyPgn4i43YvYShH96qffmz7xSTq5hf2slYvuRYszPGSNn5mb6_EhCUfjA3JjwR9oNFWHH07CjBGhS4blkYRjyg-MN5GiMTegYKeyLJIg",
+              "width": 2931
+            },
+            {
+              "height": 1130,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101520246450066503265/photos\">Michael Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAAp7asxpyWC4GYjJSfUv-DjlPExXKE1hHEAHZQ26yN2ElNpBkDIUGxZ2_Yf1zjVOQCOJQXIoRQf1nuc4SAux2fc5T2eAeuqnZkq2Z3xyJPFBIOmdEaA03xCzr4zUcqFMgbEhDNykrHvyKCLMqoc_LQXdN-GhSiVuAq-IVcrfZux9T8rpfOK7qyJA",
+              "width": 2048
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115815135313571382773/photos\">A Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAj5t20QN5BbqzczsSTjYG8hM8EQBCWcaJvdF9m-SDvoQpSEGzL6dE_-SdFmRb9IGroQn9CIx8tlO9MIGtmh687iz-J7iZE76pHvWlTodds886sRiVbicSNBMC-VUdWkgBEhDvTR5HVzXxWJGvg0jNlmT1GhTT-1YoIHLxueQng8mks1sBRDC5oA",
+              "width": 4032
+            },
+            {
+              "height": 1920,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107715414981262944320/photos\">Tin Lee</a>"
+              ],
+              "photo_reference": "CmRaAAAAYNWZfkuFsPg7rSYkzD8l8IotGtKZxKxoFUEuZzwChXmUF8Ua9nRgUZfCZM0ziaa-256d1uEVByQ5VCxc-hirgP1fYz0gFM8D53qVhFfX-wWjb1ItdkzrnN1fDcaJ3g6YEhAM6hKeva2AZ9AU10wlDLaKGhQdBpxyhUsCqAn5gfJS9PVXearhNA",
+              "width": 1920
+            }
+          ],
+          "place_id": "ChIJk-qPh5r4AzQREa8mzmpY8Aw",
+          "plus_code": {
+            "compound_code": "949M+43 \u9999\u6e2f",
+            "global_code": "7PJP949M+43"
+          },
+          "price_level": 1,
+          "rating": 3.7,
+          "reference": "ChIJk-qPh5r4AzQREa8mzmpY8Aw",
+          "reviews": [
+            {
+              "author_name": "milo Ho",
+              "author_url": "https://www.google.com/maps/contrib/116562805296649760320/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-v-vEM_u5cxg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcrkDxU3cS1jsKDoisri6ndEpAD7w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "4 \u500b\u6708\u524d",
+              "text": "\u50f9\u9322\u6709\u9ede\u8cb4\uff0c\u4e0d\u904e\u50f9\u56de\u7968\u50f9\u3002\u5348\u9910\u51cd\u98f2\u52a0\u4e8c\u868a\uff0c\u6709\u7d05\u767d\u897f\u9910\u6e6f\u9001\u3002\u5730\u65b9\u7d30\u5750\u5f97\u903cd\u540c\u5514\u8212\u670d\u3002",
+              "time": 1553144634
+            },
+            {
+              "author_name": "chuikarwai jacky",
+              "author_url": "https://www.google.com/maps/contrib/104198107213542369964/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-xYKKARu5Oo4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc7JdxCAGfU050vqSB2XyUFISV9Sg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u65e9\u9910\u9078\u64c7\u591a\uff0c\u6709\u6c34\u6e96\uff0c$\u5408\u7406!",
+              "time": 1556778854
+            },
+            {
+              "author_name": "HC",
+              "author_url": "https://www.google.com/maps/contrib/102318521156502986951/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-RN0pyQuDNMM/AAAAAAAAAAI/AAAAAAAAAME/fShl7w7IeZ0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "6 \u500b\u6708\u524d",
+              "text": "Bit overpriced. The fish and chips are pretty good.\n\u6709\u5572\u8cb4, \u91ce\u98df\u9ebb\u9ebb\u5730",
+              "time": 1547112652
+            },
+            {
+              "author_name": "Leo Tam",
+              "author_url": "https://www.google.com/maps/contrib/104581691734670681556/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-aB7NezUifuU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf_3kSqrx_KiwQSOaXyvRpVK8Sc_Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 \u500b\u6708\u524d",
+              "text": "\u98df\u7269Ok\uff0c\u4f46\u5730\u65b9\u7a0d\u70ba\u64e0\u8feb\uff0c\u5976\u8336\u5496\u5561OK",
+              "time": 1557274955
+            },
+            {
+              "author_name": "Helen Tsang",
+              "author_url": "https://www.google.com/maps/contrib/104762816007483265980/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-cunzNQky3tc/AAAAAAAAAAI/AAAAAAAAFGQ/olH2BQ05r0I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u8a66\u904e\u771f\u4fc2\u597d\u5473\u5976\u8336\u98df\u7269\u3002",
+              "time": 1555771189
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=932342338614112017",
+          "user_ratings_total": 121,
+          "utc_offset": 480,
+          "vicinity": "Cheong Fat Building, \u865f \u5730\u4e0b 6 \u865f \u8216, 21 Kwong Fai Circuit, Kwai Chung"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -779,6 +1617,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

@@ -466,6 +466,965 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJAZ6eccYABDQRP_dVWKZEWQU": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "74-76",
+              "short_name": "74-76",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Hak Po Street",
+              "short_name": "Hak Po St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Mong Kok",
+              "short_name": "Mong Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">74-76 Hak Po St</span>, <span class=\"locality\">Mong Kok</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "74-76 Hak Po St, Mong Kok, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.317798,
+              "lng": 114.1731499
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3190984302915,
+                "lng": 114.1742666302915
+              },
+              "southwest": {
+                "lat": 22.31640046970849,
+                "lng": 114.1715686697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "ca454a6cf358851d59f2b7bbd997048a1d302c99",
+          "name": "74-76 Hak Po St",
+          "place_id": "ChIJAZ6eccYABDQRP_dVWKZEWQU",
+          "plus_code": {
+            "compound_code": "859F+47 Hong Kong",
+            "global_code": "7PJP859F+47"
+          },
+          "reference": "ChIJAZ6eccYABDQRP_dVWKZEWQU",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=74-76+Hak+Po+St,+Mong+Kok,+Hong+Kong&ftid=0x340400c6719e9e01:0x55944a65855f73f",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJAZ6eccYABDQRP_dVWKZEWQU",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "74-76",
+              "short_name": "74-76",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u9ed1\u5e03\u8857",
+              "short_name": "\u9ed1\u5e03\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u65fa\u89d2",
+              "short_name": "\u65fa\u89d2",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u65fa\u89d2</span><span class=\"street-address\">\u9ed1\u5e03\u885774-76\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u65fa\u89d2\u9ed1\u5e03\u885774-76\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.317798,
+              "lng": 114.1731499
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3190984302915,
+                "lng": 114.1742666302915
+              },
+              "southwest": {
+                "lat": 22.31640046970849,
+                "lng": 114.1715686697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "ca454a6cf358851d59f2b7bbd997048a1d302c99",
+          "name": "\u9ed1\u5e03\u885774-76\u865f",
+          "place_id": "ChIJAZ6eccYABDQRP_dVWKZEWQU",
+          "plus_code": {
+            "compound_code": "859F+47 \u9999\u6e2f",
+            "global_code": "7PJP859F+47"
+          },
+          "reference": "ChIJAZ6eccYABDQRP_dVWKZEWQU",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E9%BB%91%E5%B8%83%E8%A1%9774-76%E8%99%9F&ftid=0x340400c6719e9e01:0x55944a65855f73f",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJDcs2dMYABDQRnqiE6sngvJY": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "5",
+              "short_name": "5",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Yim Po Fong Street",
+              "short_name": "Yim Po Fong St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Mong Kok",
+              "short_name": "Mong Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">5 Yim Po Fong St</span>, <span class=\"locality\">Mong Kok</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "5 Yim Po Fong St, Mong Kok, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.317843,
+              "lng": 114.173387
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3192122802915,
+                "lng": 114.1747947802915
+              },
+              "southwest": {
+                "lat": 22.3165143197085,
+                "lng": 114.1720968197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "3754fe1161143bdd7a21c8a5369a684d5e329e7e",
+          "name": "5 Yim Po Fong St",
+          "place_id": "ChIJDcs2dMYABDQRnqiE6sngvJY",
+          "plus_code": {
+            "compound_code": "859F+49 Hong Kong",
+            "global_code": "7PJP859F+49"
+          },
+          "reference": "ChIJDcs2dMYABDQRnqiE6sngvJY",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=5+Yim+Po+Fong+St,+Mong+Kok,+Hong+Kong&ftid=0x340400c67436cb0d:0x96bce0c9ea84a89e",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJDcs2dMYABDQRnqiE6sngvJY",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "5",
+              "short_name": "5",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u67d3\u5e03\u623f\u8857",
+              "short_name": "\u67d3\u5e03\u623f\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u65fa\u89d2",
+              "short_name": "\u65fa\u89d2",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u65fa\u89d2</span><span class=\"street-address\">\u67d3\u5e03\u623f\u88575\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u65fa\u89d2\u67d3\u5e03\u623f\u88575\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.317843,
+              "lng": 114.173387
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3192122802915,
+                "lng": 114.1747947802915
+              },
+              "southwest": {
+                "lat": 22.3165143197085,
+                "lng": 114.1720968197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "3754fe1161143bdd7a21c8a5369a684d5e329e7e",
+          "name": "\u67d3\u5e03\u623f\u88575\u865f",
+          "place_id": "ChIJDcs2dMYABDQRnqiE6sngvJY",
+          "plus_code": {
+            "compound_code": "859F+49 \u9999\u6e2f",
+            "global_code": "7PJP859F+49"
+          },
+          "reference": "ChIJDcs2dMYABDQRnqiE6sngvJY",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E6%9F%93%E5%B8%83%E6%88%BF%E8%A1%975%E8%99%9F&ftid=0x340400c67436cb0d:0x96bce0c9ea84a89e",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJm-6bdsYABDQR_qUp1orK1Ds": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Ngai Hing Mansion",
+              "short_name": "Ngai Hing Mansion",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "2-24",
+              "short_name": "2-24",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Pak Po Street",
+              "short_name": "Pak Po St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Mong Kok",
+              "short_name": "Mong Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u865f \u5730\u4e0b 14 \u865f \u8216, Ngai Hing Mansion, <span class=\"street-address\">2-24 Pak Po St</span>, <span class=\"locality\">Mong Kok</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u865f \u5730\u4e0b 14 \u865f \u8216, Ngai Hing Mansion, 2-24 Pak Po St, Mong Kok, Hong Kong",
+          "formatted_phone_number": "2336 7370",
+          "geometry": {
+            "location": {
+              "lat": 22.3177752,
+              "lng": 114.1734096
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3190806302915,
+                "lng": 114.1747696302915
+              },
+              "southwest": {
+                "lat": 22.3163826697085,
+                "lng": 114.1720716697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "6270388ca70268512646ecf726fdae1487e50958",
+          "international_phone_number": "+852 2336 7370",
+          "name": "\u70cf\u9f8d\u71d2 Oolong BBQ",
+          "opening_hours": {
+            "open_now": false,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0400"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0400"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1800"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 6:00 PM \u2013 3:00 AM",
+              "Tuesday: 6:00 PM \u2013 3:00 AM",
+              "Wednesday: 6:00 PM \u2013 3:00 AM",
+              "Thursday: 6:00 PM \u2013 3:00 AM",
+              "Friday: 6:00 PM \u2013 4:00 AM",
+              "Saturday: 6:00 PM \u2013 4:00 AM",
+              "Sunday: 6:00 PM \u2013 12:00 AM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3780,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102504187986945429241/photos\">KL MO</a>"
+              ],
+              "photo_reference": "CmRaAAAA3A6Cs1l2M6vcrtIuM4UNa5dRPi518ce2K7sWQ4ZyxtnFyfoCiGr97pn6Gdp0qGE3383I_0x4APXPzWdkuxWvubhviDDxDYk8pF9FBqlTL9uKb2FN1fOnu8TqDOvx-A9HEhCbURDnw_25RnOiMaclzykgGhRjpoKUSOyBiUy6Nrpx3p8snsCM4w",
+              "width": 6720
+            },
+            {
+              "height": 1064,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAAk-bEgAzhyj-dHjgwBnhWFe0PYwoL8jlC4s1xc68m-7LcuGrxoCKFpQflu8EIyqg_JJMKCg2xqcniKBC6nO8YvXz9BV-gKgbbnAGY7Q0MfBnRbUVFuikyJbhTwBjf-AWEEhBSHP9llSRpihThox5YleMKGhTYe4vknbzJhCE6Q6gzDs-BFtITzQ",
+              "width": 1600
+            },
+            {
+              "height": 2976,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAAIBRcO5H1S7KU69KEuE2L3UOIgd2GP7ZHF2SV3XBpdCseyLGd5apAmhJ0925mZjfPlOXNXEIvlk9e9PvsQpJBApanr7oQVqEg_KFl-PXjA3-TSnQvKVwZ1oTxUWQl0TT0EhC4WjmBs3ycrDeY-cI207IlGhRW1kGBZIMzgTZdIl1NX4Vnr2Galg",
+              "width": 3968
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116754936035114420887/photos\">Johnson Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAAjvISgs6nO0z40nqewDTZQUgbNuRLaRhoTaxXKs8oMkS3vubAmXPw96J60qZeV1uZU0NtuHWQ_drBCSkuvux-GJrW2nir693HGN7XVEzJx7Im5onwzT-yjh2km7Bs5quGEhBPZLuh5f5rMJB_kcVbaD7AGhSox4ppoyxgfUaCNGJ7iAThu-1lJA",
+              "width": 4032
+            },
+            {
+              "height": 1064,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAAHuPWnIl7CA9rINlLHiXYgKS4EgHXNxFpfjte91Qd-FTU76QQfXa3l_gRi6GrgfoHLE0UDiqkL9HbUtfMQpEMGl-50BkoE52zDV9DmVHyEsV-ml3gFs4MTsf6lwN7SiKXEhAycK_gfZJsRI36YNJRYLFPGhRLv-sjmthWef_0psSfHdJlwNJySA",
+              "width": 1600
+            },
+            {
+              "height": 1600,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAAoYxuxeVfYN2_NCGq2nxQpM7nUTIly_9uJtkn1Y4zVZ1QMLIhtsImYVDMiPvdwWNKRx86HFD0rxBEGBS5pCiqciL8u0DTBqErokTyLBLkltOItNnSOevJpg7pfsfurwvqEhB1OeFT2tTqtcMOFXQhcHsnGhQu0XCEj_GFoGyJ3cLqZN8_iYLfOg",
+              "width": 1200
+            },
+            {
+              "height": 3464,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116083624576133757808/photos\">Juana ,Wai Man Ng</a>"
+              ],
+              "photo_reference": "CmRaAAAAxTvgPeHfOPDNGX_HYFx3Yf-AKMXr8hQ1VaiD5h3M_4gOXj1o5DkPdMGne38052rd2X3UHRkOltjgY2tpdYJrvX4CmllmxbR-6gvZjdW8BzuID3kxQhZb02chGxN0O8e4EhBIsysMxDGH8JOnB7lum-HYGhRgbh7qssyODPN0gARAaOznhks1XA",
+              "width": 4618
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103554594309151993659/photos\">ivy ma</a>"
+              ],
+              "photo_reference": "CmRaAAAAtlmNXnb3GAkaQTG5UhQW4Kk8I-3TDFuh_ipWqvLxyd4TATL0tTt-QNJ6Kr6IJhyo8-lUveT0NYn4QlgNx6yfHbPxmX-GKyQ3YuZ6kd1DTpkD71dHw27Fd0EjfxcLrr8qEhBHBzppsXHR2AxZvYWSaY-uGhTETBnlXwwNHPNcvTfgNZ0RLOO8tg",
+              "width": 1960
+            },
+            {
+              "height": 769,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117377762110860852590/photos\">SPCA663 Little B</a>"
+              ],
+              "photo_reference": "CmRaAAAAQosM4Pqd18jYzk6GffxXyTmAaBRH_-pvjMpkY4Abke6NXvWUhsm1OK7vL2Evb87NkIRlpNedplph7okbVCFP7IxorZw8zDmxLSO_CdgE1mHWKUBmZZYJ1mUhXLea_OTCEhAvFtGChAmEFFBwrTxHemehGhQkncZr0zBW5B14UskiuFtYPqtRLQ",
+              "width": 769
+            },
+            {
+              "height": 2819,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111651283957672309959/photos\">KEN KU</a>"
+              ],
+              "photo_reference": "CmRaAAAAPosa1sJz5FkesF-C3pa8IWIAGclmvhxIj8lG_K38vQtjNp70vqPgXUnk8mSal-tBy74O-aeasivjHqS8DMOMbUk9bDfLCgwHdgOdx6U738-8wLFm3MW3fK6S2ILigq4XEhAncvrzDKfue-zBcXnU3ErYGhTOrMGrn_YyYSgR1Gq76mcApCFbZA",
+              "width": 3760
+            }
+          ],
+          "place_id": "ChIJm-6bdsYABDQR_qUp1orK1Ds",
+          "plus_code": {
+            "compound_code": "859F+49 Hong Kong",
+            "global_code": "7PJP859F+49"
+          },
+          "rating": 3.8,
+          "reference": "ChIJm-6bdsYABDQR_qUp1orK1Ds",
+          "reviews": [
+            {
+              "author_name": "P. H Chiu",
+              "author_url": "https://www.google.com/maps/contrib/111594306912985681484/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-dlfyIDbuM_w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdB8Jvsv1y_h5N2CRypg3C9ehfv5Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "6 months ago",
+              "text": "Good quality of food and reasonable price",
+              "time": 1547895289
+            },
+            {
+              "author_name": "Chan Yuen Him",
+              "author_url": "https://www.google.com/maps/contrib/100428994786620544463/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-IR0p48jJ_6I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcb9ZpvzuvkZHmZ_7bShhOGI-vIbw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "9 months ago",
+              "text": "Mouth-watering BBQ experience! Needa try the tamago-yaki, eel and beef. However, the gas stove is a bit weak that the cooking time is a bit slow, advised not to visit if you are too hungry and cannot afford the wait haha.",
+              "time": 1540609869
+            },
+            {
+              "author_name": "Steven",
+              "author_url": "https://www.google.com/maps/contrib/102801321727154187922/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-HwwfRSW2Gsg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcF6f-uPznezU6fnpbpZCRhSfBJvg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 2,
+              "relative_time_description": "6 months ago",
+              "text": "Mediocre. Slow. Lack of character. Not sure why it's still around",
+              "time": 1548941893
+            },
+            {
+              "author_name": "SPCA663 Little B",
+              "author_url": "https://www.google.com/maps/contrib/117377762110860852590/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-zoB0Xi2JM8k/AAAAAAAAAAI/AAAAAAAAAzE/gw8Cf-2YTPo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "8 months ago",
+              "text": "A very nice place for a meal.",
+              "time": 1541902371
+            },
+            {
+              "author_name": "Isaac Yu",
+              "author_url": "https://www.google.com/maps/contrib/114637628972963313994/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-r0uFfh6cPXk/AAAAAAAAAAI/AAAAAAAAAH8/wQE4XfKmUio/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "7 months ago",
+              "text": "Makes sense. Friendly staff.",
+              "time": 1545760070
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=4311293440947758590",
+          "user_ratings_total": 58,
+          "utc_offset": 480,
+          "vicinity": "Ngai Hing Mansion, \u865f \u5730\u4e0b 14 \u865f \u8216, 2-24 Pak Po Street, Mong Kok",
+          "website": "http://www.facebook.com/oolongbbq"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJm-6bdsYABDQR_qUp1orK1Ds",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Ngai Hing Mansion",
+              "short_name": "Ngai Hing Mansion",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "2-24",
+              "short_name": "2-24",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Pak Po Street",
+              "short_name": "Pak Po St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Mong Kok",
+              "short_name": "Mong Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u865f \u5730\u4e0b 14 \u865f \u8216, Ngai Hing Mansion, <span class=\"street-address\">2-24 Pak Po St</span>, <span class=\"locality\">Mong Kok</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "\u865f \u5730\u4e0b 14 \u865f \u8216, Ngai Hing Mansion, 2-24 Pak Po St, Mong Kok, \u9999\u6e2f",
+          "formatted_phone_number": "2336 7370",
+          "geometry": {
+            "location": {
+              "lat": 22.3177752,
+              "lng": 114.1734096
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3190806302915,
+                "lng": 114.1747696302915
+              },
+              "southwest": {
+                "lat": 22.3163826697085,
+                "lng": 114.1720716697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "6270388ca70268512646ecf726fdae1487e50958",
+          "international_phone_number": "+852 2336 7370",
+          "name": "\u70cf\u9f8d\u71d2 Oolong BBQ",
+          "opening_hours": {
+            "open_now": false,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0300"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0400"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0400"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1800"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 18:00 \u2013 03:00",
+              "\u661f\u671f\u4e8c: 18:00 \u2013 03:00",
+              "\u661f\u671f\u4e09: 18:00 \u2013 03:00",
+              "\u661f\u671f\u56db: 18:00 \u2013 03:00",
+              "\u661f\u671f\u4e94: 18:00 \u2013 04:00",
+              "\u661f\u671f\u516d: 18:00 \u2013 04:00",
+              "\u661f\u671f\u65e5: 18:00 \u2013 00:00"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3780,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102504187986945429241/photos\">KL MO</a>"
+              ],
+              "photo_reference": "CmRaAAAA2gGMPypn1TprXMYr48xJ3841ybsebseVRuLYpeu88gf-0iriwfZN-sgcKlACOsMmf3zVak1gaZMhxCGmk3GaDTcMMJ2QDDw-9o7Qf6l-3DpgK0fhfdqed4uJfXsbsBu2EhBf6Re5oNBXfv7YethQm4ZjGhSCQtcrgi2e6mcIWa20bZwF6yvEIQ",
+              "width": 6720
+            },
+            {
+              "height": 1064,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAAuyMKgVdOZXWMu4elC-xjI23i719mvIRx3iTQFeYC_U9e259uAxnxwskruhdq7Wva5mjhsvzbVTN-i322C_R1aeADsQoknYNAOktqdtnYPssEuejyREvyhI1eJA02VTHEEhDRxh5YhRPKOvFx4rWF41hYGhTOMpgTLLcrU0P3GsBadEqOLUZqbQ",
+              "width": 1600
+            },
+            {
+              "height": 2976,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAAo2hBHp6PfoUVVjdv1SekrOBkYtQMKfEvVS0Tg_EAOylrUVihP3vuTETjtxEjFO3F6SXa1QTz0MMFhlCmLMiWc7dbUZzSlRWx6GlB2h-zeWbFfNV8qR6hFv447vVTJ0WMEhD25hPgXzeHBIndwX1lDnUzGhRYeTbLZ6B34XpCeEIU5g00r_uzXQ",
+              "width": 3968
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116754936035114420887/photos\">Johnson Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAABlG031UIoA9D5Dm-ZZmMe5wyhzI9TfjwCzIEPrt977_FhcmFUq5J-FzrKun6UkCN-NZgM8fozSexjleVzthw7j3SHtEXGSZeJfoZpM9rutXMnq-FtpwbAN3ZtnyqGKo_EhB13XMR_lI2AG2hu4uKsuMAGhRxgx0Xf1INdNKOGV27V0OtLMbNjA",
+              "width": 4032
+            },
+            {
+              "height": 1064,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAAlAHoqFuPwwzT-PbqHwtwmc-uTjAkoSsabUMUTTOZzUxFDURMooWFIoGh0Q1wMTcoSj7sWuB9h0RvMC1ozXqUkhe0BTIxFCiOxg9JbHNfksxsbCk4DWrqrxlxUTJMMBIBEhD8Bqd7QU-KlC6kqkT8zcRnGhSEeIwSYGrQWlRiqNzcKh74jX7fYA",
+              "width": 1600
+            },
+            {
+              "height": 1600,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117007660297215348548/photos\">on on mo</a>"
+              ],
+              "photo_reference": "CmRaAAAA84482Dm_ITU-W2Fjwx3mDNBbvV3S4Z5ZiRZ15vcXJGlgpUCHECmujnXueIZ5RUJtgssMhcunit60GxeyrqjgKPODrKLeZUZP-QQnbXTpVW1qmvd8ELT9UY6xDsAkAiFIEhA9m-KKIVlHeGW2xsjA_xPKGhT2kPr9rF6yB-IpOh3XYM9oPGDi8Q",
+              "width": 1200
+            },
+            {
+              "height": 3464,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116083624576133757808/photos\">Juana ,Wai Man Ng</a>"
+              ],
+              "photo_reference": "CmRaAAAA2P2PcVZeDAhgoPz7Z8ltnX55VAP4oMe8kwTrvkDZxExqweR0ip8US02xRoB_jp6ALT9DswqDvQYn9VeIY5HMUmuCDD_HJW7t7lR7FOVFQcOvfZvxLKCrbEUkYQyHefnuEhC440HvFrySgL5FgL8ffJlWGhTztaAJHToT5PYC5z50S-1gZ1V9QQ",
+              "width": 4618
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103554594309151993659/photos\">ivy ma</a>"
+              ],
+              "photo_reference": "CmRaAAAAqn9HrOrixDNa1ZQUgb4mpaE4DYvQHAQFKnnTMJOxGOEKp2ygZG0XXsk0_j07dXip27lz7ajCJsr7v2Jm1dDZNazRgy2wIugOU7HxVKVwWNGblBOKUYtXl4RqPFwTMfH2EhDQ6xa6xIV1RKOz7UeSCTN8GhQHZCmD4b_l0Cwx8w7qZ7mA8hlXZw",
+              "width": 1960
+            },
+            {
+              "height": 769,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117377762110860852590/photos\">SPCA663 Little B</a>"
+              ],
+              "photo_reference": "CmRaAAAAveBO-p1E1HrO3xXGqlLUtySmL5YC74QjXqyVeawx3tz7Quqj-iLbwDyv-WFX_3KUV0oKRn_mBEGhWLH5d7ELeav0hNwmZ1gaHG3Ghsur6aPd7Nn7P17TObFPZaUoFmJ8EhAAHGMvCDbhvqjjUZO5IGiUGhS23Ed5lTetMDqZy6CAhxkbAtnomw",
+              "width": 769
+            },
+            {
+              "height": 2819,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111651283957672309959/photos\">KEN KU</a>"
+              ],
+              "photo_reference": "CmRaAAAAK7wsDPDzhZ8GGJlWSQ4SWZG6kcN-3XPmDt8lfZcIIbJqrGch-rwJjNShjGz_PWrEtlPugPHuIuu5q8enmJUlj8Ipz9qJZSiJgXxA-BCWeh2QYI2uyuLJY8Wmbch-H1pKEhDF_0fSgPCXAWgvr7VZ0AtSGhTdcngGTZDkT_UZY2H-aqOlUkTKrg",
+              "width": 3760
+            }
+          ],
+          "place_id": "ChIJm-6bdsYABDQR_qUp1orK1Ds",
+          "plus_code": {
+            "compound_code": "859F+49 \u9999\u6e2f",
+            "global_code": "7PJP859F+49"
+          },
+          "rating": 3.8,
+          "reference": "ChIJm-6bdsYABDQR_qUp1orK1Ds",
+          "reviews": [
+            {
+              "author_name": "Ling Tong",
+              "author_url": "https://www.google.com/maps/contrib/105717279574554764284/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-WQK6Gf02Htc/AAAAAAAAAAI/AAAAAAAALRk/K-js4SdGblA/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "4 \u500b\u6708\u524d",
+              "text": "\u53c8\u4e00\u500b\u4e32\u71d2\u597d\u53bb\u8655\uff01\n\n\u65e9\u5e7e\u65e5\u548c\u540c\u4e8b\u53bb\u4e86\u98df\u65fa\u89d2\u5b89\u5b89\u71d2\u4e32\u71d2\uff0c\u4eca\u65e5\u4e00\u6536\u5de5\u53c8\u60f3\u518d\u98df\u4e32\u71d2\u3002\u6240\u4ee5\u4e00\u6536\u5de5\u5c31\u62c9\u7740\u540c\u4e8b\u4e00\u8d77\u518d\u98df\u3002\u4f46\u662f\u4eca\u6b21\u6211\u5011\u4f86\u4e86\u5b89\u5b89\u71d2\u65c1\u908a\u7684\u4e00\u9593\u53eb\u505a\u70cf\u9f8d\u71d2\u7684\u4e32\u71d2\u9910\u5ef3\u3002\u9910\u5ef3\u7684\u9910\u724c\u597d\u641e\u7b11\uff0c\u5beb\u7740\u70cf\u9f8d\u5bf6\u9451\uff0c\u4e00\u6253\u958b\u5168\u90e8\u90fd\u662f\u9910\u5ef3\u7684\u7f8e\u98df\u5716\u9452\u3002\n\n\u6211\u5011\u9996\u5148\u88ab\u9910\u5ef3\u7684\u51ac\u83c7\u9e79\u86cb\u9ec3\u81d8\u8178\u7af9\u7b52\u98ef\u5438\u5f15\u7740\uff0c\u6240\u4ee5\u7acb\u5373\u53eb\u4e86\u4e00\u500b\uff0c$46.5\u3002\u4e00\u9001\u5230\u4e0a\u67b1\u5df2\u7d93\u805e\u5230\u597d\u9999\u7684\u9e79\u86cb\u9ec3\u81d8\u8178\u5473\u3002\u6709\u5982\u5176\u540d\uff0c\u98ef\u88e1\u9762\u5c31\u662f\u4e00\u4e9b\u51ac\u83c7\u7c92\uff0c\u9e79\u86cb\u9ec3\u7c92\uff0c\u81d8\u8178\u7c92\uff0c\u98ef\u7c92\u5206\u660e\uff0c\u786c\u8eab\u6709\u54ac\u53e3\u3002\u71b1\u9a30\u9a30\u7684\u7af9\u7b52\u98ef\uff0c\u6696\u809a\u53c8\u98fd\u809a\u3002\n\n\u8591\u8525\u7206\u5ee3\u5cf6\u8814\uff0c$48.5\u3002\u4ea6\u90fd\u4e0d\u932f\u3002\u56e0\u70ba\u6709\u8591\u8525\u7206\u904e\uff0c\u6240\u4ee5\u6c92\u6709\u8814\u8165\u5473\u3002\u98df\u5230\u898b\u5e95\u7684\u6642\u5019\uff0c\u9084\u898b\u5230\u5e95\u90e8\u6709\u597d\u591a\u8591\u8525\u3002\n\n\u849c\u84c9\u725b\u6cb9\u7117\u96dc\u83cc\uff0c$33.5\u3002\u672a\u98df\u90fd\u5df2\u7d93\u805e\u5230\u597d\u9999\u849c\u84c9\u725b\u6cb9\u5473\u3002\u5e73\u6642\u98dfBBQ\u71d2\u70e4\uff0c\u81ea\u5df1\u90fd\u6703\u7528\u932b\u7d19\u6574\u725b\u6cb9\u91d1\u83c7\u98df\uff0c\u4eca\u6b21\u4e0d\u7528\u81ea\u5df1\u6574\u5c31\u5df2\u7d93\u98df\u5230\u849c\u84c9\u725b\u6cb9\u7117\u96dc\u83cc\uff0c\u771f\u597d\u3002\u849c\u84c9\u548c\u725b\u6cb9\u548c\n\n\u83cc\u985e\u662f\u4e00\u7a2e\u4e0d\u80fd\u6297\u62d2\u7684\u914d\u642d\u3002\u56e0\u70ba\u600e\u6a23\u6574\u90fd\u6703\u597d\u597d\u98df\u3002\u4e09\u8005\u7684\u5473\u9053\u4e92\u76f8\u63d0\u5347\u4e86\u5404\u81ea\u7684\u9999\u5473\u548c\u5473\u9053\u3002\n\n\u7099\u71d2\u96d9\u91cd\u829d\u58eb\u4e38\uff0c$19.5\u3002\u9019\u500b\u96d9\u91cd\u829d\u58eb\u4e38\u90fd\u5e7e\u641e\u7b11\u3002\u4e00\u4e32\u6709\u4e09\u7c92\u3002\u6bcf\u7c92\u7684\u982d\u90e8\u548c\u5c3e\u90e8\u90fd\u958b\u4e86\u4e00\u500b\u6d1e\u3002\u7576\u6211\u54ac\u7b2c\u4e00\u53e3\u7684\u6642\u5019\uff0c\u5c3e\u90e8\u7684\u829d\u58eb\u5c31\u51fa\u4f86\u4e86\u3002\u829d\u58eb\u597dcheese\u3002\u829d\u58eb\u4e38\u53c8\u6709\u54ac\u53e3\uff0c\u5920\u5f48\u7259\uff0c\u597d\u5473\u9053\u3002\n\n\u71d2\u58a8\u9b5a\u4e38\uff0c$19.5\u3002\u8ddf\u7099\u71d2\u96d9\u91cd\u829d\u58eb\u4e38\u540c\u4e00\u500b\u50f9\u9322\u3002\u5e73\u6642\u81ea\u5df1\u51fa\u53bb\u98dfBBQ\u71d2\u70e4\u90fd\u6703\u71d2\u58a8\u9b5a\u4e38\uff0c\u6240\u4ee5\u71d2\u58a8\u9b5a\u4e38\u4e00\u5411\u90fd\u662f\u6211\u81f3\u611b\u3002\n\n\u7279\u9078\u539a\u5207\u677e\u962a\u8c6c\uff0c$49\u3002\u9910\u5ef3\u5c07\u677e\u677f\u8c6c\u6392\u5217\u5f97\u597d\u7cbe\u7f8e\u3002\u4e00\u689d\u689d\u677e\u962a\u8c6c\u5728\u789f\u4e0a\u3002\u8089\u8cea\u90fd\u5e7e\u5ae9\uff0c\u4e0d\u8001\u8eab\u3002\u677e\u962a\u8c6c\u4e0a\u9762\u9084\u6709\u4e00\u689d\u689d\u71d2\u904e\u7684\u75d5\u8de1\u3002\n\n\u9ed1\u677e\u9732\u58a8\u9b5a\u6ed1\uff0c$48\u3002\u9910\u5ef3\u5c07\u9ed1\u677e\u9732\u58a8\u9b5a\u6ed1\u71d2\u6210\u4e00\u6574\u584a \u3002\u7136\u5f8c\u905e\u4e0a\u5200\u53c9\uff0c\u65b9\u4fbf\u6211\u548c\u540c\u4e8b\u5207\u5272\u3002\u672c\u8eab\u58a8\u9b5a\u6ed1\u662f\u8edf\u5f48feel\uff0c\u4f46\u7d93\u71d2\u88fd\u5f8c\uff0c\u5916\u908a\u5fae\u786c\u8106\uff0c\u5167\u5916\u53e3\u611f\u4e0d\u540c\uff0c\u52a0\u4e0a\u6709\u9910\u5ef3\u7279\u8abf\u7684\u8abf\u5473\u7c89\uff0c\u5473\u9053\u548c\u53e3\u611f\u7684\u78ba\u4e0d\u932f\u3002\n\n\u518d\u52a0\u5fcc\u5ec9$13.5\uff0c\u6d25\u8def\u70cf\u9f8d\u8336$16.5\uff0c\u8ce3\u55ae\u5169\u4eba\u4e00\u5171$295\uff0c\u5e73\u5747\u6bcf\u500b\u4eba$147.5\u3002",
+              "time": 1553582034
+            },
+            {
+              "author_name": "P. H Chiu",
+              "author_url": "https://www.google.com/maps/contrib/111594306912985681484/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-dlfyIDbuM_w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdB8Jvsv1y_h5N2CRypg3C9ehfv5Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "6 \u500b\u6708\u524d",
+              "text": "Good quality of food and reasonable price",
+              "time": 1547895289
+            },
+            {
+              "author_name": "ANGEL S",
+              "author_url": "https://www.google.com/maps/contrib/116781732911023318276/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-WNSmulNuGxE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdlhCRl5N-MF6kAt9qRhQgAVUiesw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "10 \u500b\u6708\u524d",
+              "text": "\u5f88\u559c\u6b61\u7684\u4e32\u71d2\u5e97\u4e4b\u4e00\n\u81ea\u5df1\u71d2\u73a9\u7684\u5f88\u958b\u5fc3\n\u98df\u6750\u65b0\u9bae\n\u4efd\u91cf\u8db3\n\u9084\u6709\u624b\u5de5\u5564\u9152\n\u725b\u8089\u8ddf\u83dc\u57d4\u86cb\u5f88\u63a8\u85a6",
+              "time": 1538209103
+            },
+            {
+              "author_name": "Daniel Kan",
+              "author_url": "https://www.google.com/maps/contrib/104509899903302095968/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-dKVW7eriUiY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfezMJO7fH5z_4vL99UzuvOTqrrXg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "6 \u500b\u6708\u524d",
+              "text": "\u98df\u7269\u771f\u7684\u4e0d\u932f\u3002\u53ef\u60dc\u5730\u65b9\u592a\u7d30\u3002",
+              "time": 1548437548
+            },
+            {
+              "author_name": "Alex Live",
+              "author_url": "https://www.google.com/maps/contrib/111945288463838667319/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-0n7bF9AXke8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdxUP7_dfzW6I_vG41H5FoCRj13nw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "1 \u5e74\u524d",
+              "text": "\u6bcf\u6b21\u8d70\u904e\u9019\u88e1\u7e3d\u6703\u88ab\u5b83\u9999\u5674\u5674\u7684\u6c23\u5473\u6df1\u6df1\u5438\u5f15\u8457\uff0c\u50cf\u6211\u9019\u6a23\u8def\u904e\u7684\u9014\u4eba\u90fd\u6703\u6309\u8010\u4e0d\u4f4f\u5f80\u5167\u770b\uff0c\u7136\u5f8c\u5c31\u6703\u770b\u5230\u88e1\u9762\u7684\u4eba\u6b63\u8208\u9ad8\u91c7\u70c8\u5730\u5403\u8457\u9762\u524d\u4e00\u4e32\u4e32\u4e00\u6392\u6392\u7684\u91cd\u6176\u5f0f\u6599\u7406\uff0c\u98a8\u5473\u7d55\u4f73\uff1b\u800c\u81ea\u5df1\u537b\u6c92\u5f97\u5403\uff0c\u5fc3\u7406\u96e3\u514d\u7522\u751f\u4e0d\u5e73\u8861\u5427\u3002\n\n\u56de\u5230\u5bb6\u88e1google\u9019\u908a\u7684\u71d2\u70e4\u98df\u8086\u4e0d\u77e5\u9053\u70ba\u4ec0\u9ebc\u537b\u627e\u4e0d\u5230\uff0c\u82b1\u4e86\u534a\u500b\u5c0f\u6642\u9084\u662f\u627e\u4e0d\u5230\uff0c\u60f1\u7f9e\u6210\u6012\u4e0b\u4e0a\u9031\u5c31\u76f4\u63a5\u8dd1\u5230\u9019\u88e1\u5617\u8a66\u9019\u7a2e\u9b27\u5e02\u71d2\u70e4\u3002\u539f\u4f86\u53eb\u505a\u70cf\u9f8d\u71d2\uff01\n\n\u5e97\u92ea\u4f4d\u65bc\u8857\u89d2\uff0c\u5e97\u7684\u5169\u908a\u958b\u653e\u5f0f\u5411\u8457\u5916\u9762\uff0c\u6240\u4ee5\u6cb9\u7159\u5473\u4e0d\u7b97\u592a\u91cd\u3002\u9762\u7a4d\u4e0d\u7b97\u5927\uff0c\u958b\u982d\u5750\u5728\u88e1\u9762\u6bd4\u8f03\u64e0\uff0c\u4f46\u9084\u597d\uff0c\u4e0d\u6703\u6709\u4e0d\u8212\u670d\u7684\u611f\u89ba\uff1b\u52a0\u4e0a\u9019\u7a2e\u7565\u5e36\u9732\u5929\u60c5\u612b\u7684\u4e00\u6d41\u74b0\u5883\uff0c\u64e0\u4e00\u4e0b\u53c8\u4f55\u59a8\uff1f\n\n\u81f3\u65bc\u98df\u7269\uff0c\u9664\u4e86\u5f88\u591a\u4e00\u4e32\u4e32\u7684\u98df\u7269\u53ef\u9078\u64c7\u4e4b\u5916\uff0c\u5e97\u5bb6\u4e5f\u70ba\u5ba2\u4eba\u63d0\u4f9b\u4e0d\u592a\u50b3\u7d71\u7684\u98df\u7269\uff0c\u88cf\u9762\u6211\u9ede\u4e86\u9435\u677f\u9c3b\u9b5a\u3001\u7af9\u7b52\u98ef\u3001\u8912\u4ed4\u83c7\u3002\u9c3b\u9b5a\u548c\u5916\u9762\u8cb7\u7684\u5dee\u4e0d\u591a\uff0c\u9bae\u751c\u591a\u6c41\uff0c\u4f46\u5728\u9435\u677f\u4e0a\u70e4\u53c8\u662f\u5225\u756a\u98a8\u5473\uff1b\u7af9\u7b52\u98ef\u6bd4\u8f03\u5c11\u5403\uff0c\u5e97\u54e1\u8010\u5fc3\u7684\u89e3\u91cb\u8981\u71d2\u5341\u5206\u9418\uff0c\u4e94\u5206\u9418\u53cd\u4e00\u6b21\uff0c\u5473\u9053\u4e0d\u7b97\u592a\u7279\u5225\uff0c\u4f46\u53ef\u53e3\u4e14\u5fd7\u5728\u904e\u766e\uff0c\u5c0f\u670b\u53cb\u7684\u8a71\u6703\u559c\u6b61\u7684\u3002\n\n\u8d77\u521d\u4ee5\u70ba\u4e00\u4e32\u4e32\u7684\u98df\u7269\u7e3d\u5403\u4e0d\u98fd\uff0c\u5b9a\u6703\u4e00\u53eb\u518d\u53eb\uff0c\u57cb\u55ae\u6703\u50f9\u683c\u4e0d\u83f2\u3002\u6211\u548c\u592a\u592a\u6700\u5f8c\u90fd\u5403\u5f97\u62b1\u8457\u809a\u5b50\u8aac\u98fd\uff0c\u50f9\u9322\u76f8\u82e5\uff0c\u624d\u4e09\u767e\u591a\uff0c\u5176\u5be6\u8ddf\u5927\u5c3e\u7be4\u7684\u71d2\u70e4\u5834\u81ea\u52a9\u9910\u5dee\u4e0d\u591a\u3002\n\n\u9806\u5e36\u4e00\u63d0\uff0c\u9019\u88e1\u9644\u8fd1\u6709\u4e00\u5bb6I Love You Dessert\uff0c\u5982\u679c\u9084\u672a\u98fd\u5b83\u5011\u7684\u751c\u54c1\u7d55\u5c0d\u63a8\u85a6\uff0c\u503c\u5f97\u4e00\u8a66\u3002",
+              "time": 1516939603
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=4311293440947758590",
+          "user_ratings_total": 58,
+          "utc_offset": 480,
+          "vicinity": "Ngai Hing Mansion, \u865f \u5730\u4e0b 14 \u865f \u8216, 2-24 Pak Po Street, Mong Kok",
+          "website": "http://www.facebook.com/oolongbbq"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -779,6 +1738,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

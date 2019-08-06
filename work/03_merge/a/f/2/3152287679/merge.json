@@ -255,6 +255,382 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJ17N6-d4ABDQRYlksL221tCg": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Loong King Mansion",
+              "short_name": "Loong King Mansion",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "23-35H",
+              "short_name": "23-35H",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Ma Tau Wai Road",
+              "short_name": "Ma Tau Wai Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Hok Yuen",
+              "short_name": "Hok Yuen",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Loong King Mansion, <span class=\"street-address\">23-35H Ma Tau Wai Rd</span>, <span class=\"locality\">Hok Yuen</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Loong King Mansion, 23-35H Ma Tau Wai Rd, Hok Yuen, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3091546,
+              "lng": 114.1878726
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3105047802915,
+                "lng": 114.1891082302915
+              },
+              "southwest": {
+                "lat": 22.30780681970849,
+                "lng": 114.1864102697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "759a7c7f18fa89461c85eff773191e1a0931db34",
+          "name": "Loong King Mansion",
+          "photos": [
+            {
+              "height": 1458,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102562771523492360012/photos\">IMV VBC</a>"
+              ],
+              "photo_reference": "CmRaAAAAtyRnb0HfCQbWBRX69pqLAbhKp5xXCPx8xCbF4J8VlMHHkKrZcsu02rBczZWuXO66em473fRjNpEyYhYLD6vqPEtChb95F34psq-wyLc7ScE5xPZ0CjO42lkakn1TBTtHEhAqX74YO7juDjWweQpXm7FeGhQvqSwePEW5htJyFmeQOIC9IDSTcw",
+              "width": 2592
+            }
+          ],
+          "place_id": "ChIJ17N6-d4ABDQRYlksL221tCg",
+          "reference": "ChIJ17N6-d4ABDQRYlksL221tCg",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Loong+King+Mansion&ftid=0x340400def97ab3d7:0x28b4b56d2f2c5962",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJ17N6-d4ABDQRYlksL221tCg",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u9686\u57fa\u5927\u6a13",
+              "short_name": "\u9686\u57fa\u5927\u6a13",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "23-35H",
+              "short_name": "23-35H",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u99ac\u982d\u570d\u9053",
+              "short_name": "\u99ac\u982d\u570d\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u9db4\u5712",
+              "short_name": "\u9db4\u5712",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u9db4\u5712</span><span class=\"street-address\">\u99ac\u982d\u570d\u905323-35H\u865f</span>\u9686\u57fa\u5927\u6a13",
+          "formatted_address": "\u9999\u6e2f\u9db4\u5712\u99ac\u982d\u570d\u905323-35H\u865f\u9686\u57fa\u5927\u6a13",
+          "geometry": {
+            "location": {
+              "lat": 22.3091546,
+              "lng": 114.1878726
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3105047802915,
+                "lng": 114.1891082302915
+              },
+              "southwest": {
+                "lat": 22.30780681970849,
+                "lng": 114.1864102697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "759a7c7f18fa89461c85eff773191e1a0931db34",
+          "name": "\u9686\u57fa\u5927\u6a13",
+          "photos": [
+            {
+              "height": 1458,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102562771523492360012/photos\">IMV VBC</a>"
+              ],
+              "photo_reference": "CmRaAAAA_dddnChjb1dePsTDaJ9u9J5iTGXO56A27FeNd39Qn5PmXgJOtXuQWsBbjNljuM96XXvpvwzd6MDXRK8N-MgfBz1OgDWYZtW8F6YO6pG7jFs-Q3ElaxYKf6QWX-W3z8QLEhDJttKDN1RS-6_DNJF3X403GhSCoXNCLHHw8AsJIAvmv8K-NETOWA",
+              "width": 2592
+            }
+          ],
+          "place_id": "ChIJ17N6-d4ABDQRYlksL221tCg",
+          "reference": "ChIJ17N6-d4ABDQRYlksL221tCg",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%9A%86%E5%9F%BA%E5%A4%A7%E6%A8%93&ftid=0x340400def97ab3d7:0x28b4b56d2f2c5962",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJlxJG-N4ABDQRbA0KiSYxBBQ": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Loong King Mansion",
+              "short_name": "Loong King Mansion",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "23-35\u865f",
+              "short_name": "23-35\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Ma Tau Wai Road",
+              "short_name": "Ma Tau Wai Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Hung Hom",
+              "short_name": "Hung Hom",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Loong King Mansion, <span class=\"street-address\">23-35\u865f Ma Tau Wai Rd</span>, <span class=\"locality\">Hung Hom</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Loong King Mansion, 23-35\u865f Ma Tau Wai Rd, Hung Hom, Hong Kong",
+          "formatted_phone_number": "2330 1082",
+          "geometry": {
+            "location": {
+              "lat": 22.3090156,
+              "lng": 114.1878927
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.31025853029151,
+                "lng": 114.1892404302915
+              },
+              "southwest": {
+                "lat": 22.3075605697085,
+                "lng": 114.1865424697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "ef67320de23e91439e1a79a4c9c33ae356e1c792",
+          "international_phone_number": "+852 2330 1082",
+          "name": "Stamp Cafe",
+          "place_id": "ChIJlxJG-N4ABDQRbA0KiSYxBBQ",
+          "plus_code": {
+            "compound_code": "855Q+J5 Hong Kong",
+            "global_code": "7PJP855Q+J5"
+          },
+          "reference": "ChIJlxJG-N4ABDQRbA0KiSYxBBQ",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1442331822243057004",
+          "utc_offset": 480,
+          "vicinity": "Loong King Mansion, 23-35\u865f Ma Tau Wai Road, Hung Hom"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJlxJG-N4ABDQRbA0KiSYxBBQ",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u9686\u57fa\u5927\u6a13",
+              "short_name": "\u9686\u57fa\u5927\u6a13",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "23-35\u865f",
+              "short_name": "23-35\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u99ac\u982d\u570d\u9053",
+              "short_name": "\u99ac\u982d\u570d\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u7d05\u78e1",
+              "short_name": "\u7d05\u78e1",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u7d05\u78e1</span><span class=\"street-address\">\u99ac\u982d\u570d\u905323-35\u865f</span>\u9686\u57fa\u5927\u6a13",
+          "formatted_address": "\u9999\u6e2f\u7d05\u78e1\u99ac\u982d\u570d\u905323-35\u865f\u9686\u57fa\u5927\u6a13",
+          "formatted_phone_number": "2330 1082",
+          "geometry": {
+            "location": {
+              "lat": 22.3090156,
+              "lng": 114.1878927
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.31025853029151,
+                "lng": 114.1892404302915
+              },
+              "southwest": {
+                "lat": 22.3075605697085,
+                "lng": 114.1865424697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "ef67320de23e91439e1a79a4c9c33ae356e1c792",
+          "international_phone_number": "+852 2330 1082",
+          "name": "Stamp Cafe",
+          "place_id": "ChIJlxJG-N4ABDQRbA0KiSYxBBQ",
+          "plus_code": {
+            "compound_code": "855Q+J5 \u9999\u6e2f",
+            "global_code": "7PJP855Q+J5"
+          },
+          "reference": "ChIJlxJG-N4ABDQRbA0KiSYxBBQ",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1442331822243057004",
+          "utc_offset": 480,
+          "vicinity": "\u7d05\u78e1\u99ac\u982d\u570d\u905323-35\u865f\u9686\u57fa\u5927\u6a13"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -345,6 +721,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

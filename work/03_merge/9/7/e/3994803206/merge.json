@@ -267,6 +267,197 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJzX6fYKfwAzQRSgVf_7kvMDQ": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Comet Mansion",
+              "short_name": "Comet Mansion",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "45",
+              "short_name": "45",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Fung Cheung Road",
+              "short_name": "Fung Cheung Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Yuen Long",
+              "short_name": "Yuen Long",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Comet Mansion, <span class=\"street-address\">45 Fung Cheung Rd</span>, <span class=\"locality\">Yuen Long</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Comet Mansion, 45 Fung Cheung Rd, Yuen Long, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.4425159,
+              "lng": 114.0324707
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4438645802915,
+                "lng": 114.0336838802915
+              },
+              "southwest": {
+                "lat": 22.4411666197085,
+                "lng": 114.0309859197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "5114e7196b8a268ba01b7d99a90bea808418e948",
+          "name": "Comet Mansion",
+          "photos": [
+            {
+              "height": 4000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108135921111965741017/photos\">Matthew Li</a>"
+              ],
+              "photo_reference": "CmRaAAAAAjPFfAXfBZT985JKhokEdXNPG1vQrBVFIwQV-vcOuGhI1CXdVwy6KkDtydrEkZ7T5E70pHIQqhuq0QYhOrB6xhylsWN3OLpgmCmwj9rgSNAO7zZqYLBsVsfHuti-LkLCEhC_Vj84BMTOC7ZJ34qPxgokGhQkSTY3jfCZ6Gm4lFTY4R5eMF6fGA",
+              "width": 3000
+            }
+          ],
+          "place_id": "ChIJzX6fYKfwAzQRSgVf_7kvMDQ",
+          "reference": "ChIJzX6fYKfwAzQRSgVf_7kvMDQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Comet+Mansion&ftid=0x3403f0a7609f7ecd:0x34302fb9ff5f054a",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJzX6fYKfwAzQRSgVf_7kvMDQ",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u91d1\u99ac\u5927\u5ec8",
+              "short_name": "\u91d1\u99ac\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "45",
+              "short_name": "45",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u9cf3\u7fd4\u8def",
+              "short_name": "\u9cf3\u7fd4\u8def",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5143\u6717",
+              "short_name": "\u5143\u6717",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5143\u6717</span><span class=\"street-address\">\u9cf3\u7fd4\u8def45\u865f</span>\u91d1\u99ac\u5927\u5ec8",
+          "formatted_address": "\u9999\u6e2f\u5143\u6717\u9cf3\u7fd4\u8def45\u865f\u91d1\u99ac\u5927\u5ec8",
+          "geometry": {
+            "location": {
+              "lat": 22.4425159,
+              "lng": 114.0324707
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4438645802915,
+                "lng": 114.0336838802915
+              },
+              "southwest": {
+                "lat": 22.4411666197085,
+                "lng": 114.0309859197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "5114e7196b8a268ba01b7d99a90bea808418e948",
+          "name": "\u91d1\u99ac\u5927\u5ec8",
+          "photos": [
+            {
+              "height": 4000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108135921111965741017/photos\">Matthew Li</a>"
+              ],
+              "photo_reference": "CmRaAAAAb8kdaeVG7nf3JH6nntMeAu5qL0_hERyrDyK1mEYtaAu585snaG0YIGkXakHh9KG7GbXFV-OXuaID8foDPrhBmlpsAlENgsO0Uyc54DUJpfOr0tDmkgmI3pUdqy5nH7XcEhBWNVoI4r_jNRd_pjDa0FCgGhSc64TdHZNd33lO5Tn2u5_TksCocg",
+              "width": 3000
+            }
+          ],
+          "place_id": "ChIJzX6fYKfwAzQRSgVf_7kvMDQ",
+          "reference": "ChIJzX6fYKfwAzQRSgVf_7kvMDQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%87%91%E9%A6%AC%E5%A4%A7%E5%BB%88&ftid=0x3403f0a7609f7ecd:0x34302fb9ff5f054a",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -359,6 +550,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

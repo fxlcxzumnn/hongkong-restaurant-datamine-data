@@ -177,6 +177,137 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJH__dO1z2AzQR2op9qrVZKbk": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Hang Tau Village",
+              "short_name": "Hang Tau Village",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"locality\">Hang Tau Village</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Hang Tau Village, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.494296,
+              "lng": 114.103407
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.5046047,
+                "lng": 114.1194144
+              },
+              "southwest": {
+                "lat": 22.4839866,
+                "lng": 114.0873996
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "624fdf9ca18a3a411a2e4b635d4ad6cc767a6ce1",
+          "name": "Hang Tau Village",
+          "place_id": "ChIJH__dO1z2AzQR2op9qrVZKbk",
+          "reference": "ChIJH__dO1z2AzQR2op9qrVZKbk",
+          "scope": "GOOGLE",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "url": "https://maps.google.com/?q=Hang+Tau+Village,+Hong+Kong&ftid=0x3403f65c3bddff1f:0xb92959b5aa7d8ada",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJH__dO1z2AzQR2op9qrVZKbk",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5751\u982d\u6751",
+              "short_name": "\u5751\u982d\u6751",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5751\u982d\u6751</span>",
+          "formatted_address": "\u9999\u6e2f\u5751\u982d\u6751",
+          "geometry": {
+            "location": {
+              "lat": 22.494296,
+              "lng": 114.103407
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.5046047,
+                "lng": 114.1194144
+              },
+              "southwest": {
+                "lat": 22.4839866,
+                "lng": 114.0873996
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "624fdf9ca18a3a411a2e4b635d4ad6cc767a6ce1",
+          "name": "\u5751\u982d\u6751",
+          "place_id": "ChIJH__dO1z2AzQR2op9qrVZKbk",
+          "reference": "ChIJH__dO1z2AzQR2op9qrVZKbk",
+          "scope": "GOOGLE",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%9D%91%E9%A0%AD%E6%9D%91&ftid=0x3403f65c3bddff1f:0xb92959b5aa7d8ada",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -239,6 +370,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

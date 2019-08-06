@@ -396,6 +396,810 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJaTW-fJr4AzQR6NVNyZs911g": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Kwong Fai Building",
+              "short_name": "Kwong Fai Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "7",
+              "short_name": "7",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kwong Fai Circuit",
+              "short_name": "Kwong Fai Circuit",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Kwai Chung",
+              "short_name": "Kwai Chung",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Kwong Fai Building, <span class=\"street-address\">7 Kwong Fai Circuit</span>, <span class=\"locality\">Kwai Chung</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Kwong Fai Building, 7 Kwong Fai Circuit, Kwai Chung, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3675357,
+              "lng": 114.1327181
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3689733802915,
+                "lng": 114.1341002802915
+              },
+              "southwest": {
+                "lat": 22.36627541970849,
+                "lng": 114.1314023197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "767f38262185f48dcd49ccac993379f2f5373641",
+          "name": "Kwong Fai Building",
+          "place_id": "ChIJaTW-fJr4AzQR6NVNyZs911g",
+          "reference": "ChIJaTW-fJr4AzQR6NVNyZs911g",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Kwong+Fai+Building&ftid=0x3403f89a7cbe3569:0x58d73d9bc94dd5e8",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJaTW-fJr4AzQR6NVNyZs911g",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5149\u8f1d\u5927\u5ec8",
+              "short_name": "\u5149\u8f1d\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "7",
+              "short_name": "7",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5149\u8f1d\u570d",
+              "short_name": "\u5149\u8f1d\u570d",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u8475\u6d8c",
+              "short_name": "\u8475\u6d8c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u8475\u6d8c</span><span class=\"street-address\">\u5149\u8f1d\u570d7\u865f</span>\u5149\u8f1d\u5927\u5ec8",
+          "formatted_address": "\u9999\u6e2f\u8475\u6d8c\u5149\u8f1d\u570d7\u865f\u5149\u8f1d\u5927\u5ec8",
+          "geometry": {
+            "location": {
+              "lat": 22.3675357,
+              "lng": 114.1327181
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3689733802915,
+                "lng": 114.1341002802915
+              },
+              "southwest": {
+                "lat": 22.36627541970849,
+                "lng": 114.1314023197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "767f38262185f48dcd49ccac993379f2f5373641",
+          "name": "\u5149\u8f1d\u5927\u5ec8",
+          "place_id": "ChIJaTW-fJr4AzQR6NVNyZs911g",
+          "reference": "ChIJaTW-fJr4AzQR6NVNyZs911g",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%85%89%E8%BC%9D%E5%A4%A7%E5%BB%88&ftid=0x3403f89a7cbe3569:0x58d73d9bc94dd5e8",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJq6q-fJr4AzQRKpn3dtucESI": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Kwong Fai Building",
+              "short_name": "Kwong Fai Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "7-9",
+              "short_name": "7-9",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kwong Fai Circuit",
+              "short_name": "Kwong Fai Circuit",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Kwai Chung",
+              "short_name": "Kwai Chung",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">Hong Kong</span>, <span class=\"locality\">Kwai Chung</span>, <span class=\"street-address\">Kwong Fai Circuit, 7-9\u865f</span>, Kwong Fai Building, \u5730\u8216 B2 \u865f",
+          "formatted_address": "Hong Kong, Kwai Chung, Kwong Fai Circuit, 7-9\u865f, Kwong Fai Building, \u5730\u8216 B2 \u865f",
+          "formatted_phone_number": "2442 5522",
+          "geometry": {
+            "location": {
+              "lat": 22.3675357,
+              "lng": 114.1327181
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3689733802915,
+                "lng": 114.1341002802915
+              },
+              "southwest": {
+                "lat": 22.36627541970849,
+                "lng": 114.1314023197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "fb00c130cdee7db67fe6c1d80f275f1bfa69ee2d",
+          "international_phone_number": "+852 2442 5522",
+          "name": "\u96f2\u8cb4\u8ed2\u7c73\u7dda\u5c08\u9580\u5e97",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 7:00 AM \u2013 10:00 PM",
+              "Tuesday: 7:00 AM \u2013 10:00 PM",
+              "Wednesday: 7:00 AM \u2013 10:00 PM",
+              "Thursday: 7:00 AM \u2013 10:00 PM",
+              "Friday: 7:00 AM \u2013 10:00 PM",
+              "Saturday: 7:00 AM \u2013 10:00 PM",
+              "Sunday: 7:00 AM \u2013 10:00 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105221436595548959703/photos\">joeken wong</a>"
+              ],
+              "photo_reference": "CmRaAAAA1089kiu7TNJ-PBcb8l7auJ-zDB1rbqjGsJ877z6usnwUq6gzseDBw9Ya8r-uyElzD0KV2KxsdlkX-Oayl2uJZYP3hy6JqJwOhcd30Ri6xbPwrMexFa8GniZ9iKDe8dihEhCOTo07lLG726ShPUzeAbFZGhQFPOYMLRRapA95jCbsg3uOdd9mKg",
+              "width": 3024
+            },
+            {
+              "height": 1200,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106649788883301595595/photos\">blues more</a>"
+              ],
+              "photo_reference": "CmRaAAAA7iZVoqGmuuDe4iL0-JrWogbAhV1TQbLwkD_2VVRhcMzAb6pGviXSBB0j4Kh-cNYx7NUqONvhuoZrNLjfp4bOeszmgx7OpJ2F-p4HN4c9kZkV5lQ9EyGO6Rsj8ezXCqf5EhB-t9GdBvCcyl7LGOm2guNHGhSrTzkP9Y3zVfrH31Q4ZZINeFr4zw",
+              "width": 1600
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105221436595548959703/photos\">joeken wong</a>"
+              ],
+              "photo_reference": "CmRaAAAAOcD7-T3CVUmaRHK2C6x6H8jJugdxjdNJxcdIlUGZ64MKusCog_KhQ-w0gHTBZIfXQa0it8kvXjE6l4cvpV6N5PCtARo50PYE2qqAtL2weiNN071m0jnLR3GTPuWL8_5aEhDqLl_KrawvtACsnSj4cZTWGhTHtzxgXJqXzrFFhzhxFAgwngQnww",
+              "width": 3024
+            },
+            {
+              "height": 1440,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110815654318796693880/photos\">Mel Leung</a>"
+              ],
+              "photo_reference": "CmRaAAAAZAgmNHA7fhnF9m8k_FsluNQjSoujst3e1FZ_12OfDca3xw9ppY2mhu3UtQbuNw2tKHX3S85xK1MInw-hA2ycMFei04kefQyERXsojylVYaoetC-ZGJVF-H7mklTdJzqdEhB73yhQgDcJQHKy4z98WPy5GhQg23PhWcj6y4fl_Hiie79_mOjwrw",
+              "width": 2560
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109843109140186053682/photos\">Arthur Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAA1um1cMoGfLmCnUOz1DP7lwqtTk3ok6e9GntMacVZSwysZx0Gf-cB8kdF3fBPzvrWI5IkTlJQJhQcpwN6QVv6dYgmGQGp9sbxVRXNz_WOtvgUbEl0-EfIO8hQBJaEHO_sEhDIJKPAKGfB3Bi2xc7w7S3uGhS0bYZuliCSHy_DZiHj2VcPxsYUDQ",
+              "width": 3024
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAAzOr6OVeGY6h08wRit-E4vrSutHU6KrAfT0bWBJENYuFmxqt7gPAYwNxOyvC9nKLsXX_0dFw6GBhu0v8huT0FWqHyZwJWMbrodYDVmUt1EwNPCFZZ3k2GKETeqlj9uxQGEhDruddE5B7kV-ZB1bTO9P8fGhSJxa9A5rAxKTGPbAD4vMgOO7hRbg",
+              "width": 4608
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAA5kdXTdKTUh5biq-8IaheUHypAjiycj5EQ53m2DLabxPCh6RVxVen8z_n_ajD3Gtd_aKRIfDDj8JRIekbhN2nKGfU6ImOdQOc44xq15maCMUZFAvnqarjiK3bjgFwwKOCEhD4KqemDxuBcu8v5OgOf0xaGhR5SNSP0CNDnLuGm7XJLpfHLhe25g",
+              "width": 5504
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAA9ZNVZEpE92jH1v7rqx-qKbDqFZEKcioxlRYlEv7xYMYkclVpR0gyPiX4RynWKUQXHQTEh4tafrShrWETQo0l_UJodceT4noISuU-ako59bRAIQ2w-SQ8Z9B33HyM-7WMEhDe96YUBAoGcnepyQDVSLi1GhT8wBJzK8V6-gO_LbETc54lEa8wXw",
+              "width": 4608
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109843109140186053682/photos\">Arthur Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAi19oKbznEyGccSS_BfIGFaK2jVQ0CJ47gIt2_IccRJ6Y-_mRYrjmUNHTR0gcGqSPpx3o_o2se-p8YIsh_XgBr2tevLrkcXIIWZG-7OEu_PQSAyLsHSaFl-8FDBhPknMzEhBWBJC6aoFRRP78zdZ9QkQPGhTG91KfWBw1_mml82y5EfZufBcO6g",
+              "width": 3024
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAAtsrkc-i40Dh5HAFu253rpJf0Y0842QAzq6-tgmi3-WBhL_TbvUXXtHGm5PQtx54Y2Nmh9oXb8clC2wZUEq4R7isJaz-UkUIYx3XHHI3ESEfLhi3x7HcLFaLFiqsSQr4rEhDOuxHfQBkg0R9oKeu9ebryGhRYj4Dg7J2Vn4U_ORLUEj6NlrWfMw",
+              "width": 4608
+            }
+          ],
+          "place_id": "ChIJq6q-fJr4AzQRKpn3dtucESI",
+          "plus_code": {
+            "compound_code": "949M+23 Hong Kong",
+            "global_code": "7PJP949M+23"
+          },
+          "price_level": 1,
+          "rating": 3.5,
+          "reference": "ChIJq6q-fJr4AzQRKpn3dtucESI",
+          "reviews": [
+            {
+              "author_name": "HC",
+              "author_url": "https://www.google.com/maps/contrib/102318521156502986951/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-RN0pyQuDNMM/AAAAAAAAAAI/AAAAAAAAAME/fShl7w7IeZ0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "4 months ago",
+              "text": "Food is ok, side dishes are somewhat overpriced. kind of dingy atmosphere. Personally prefer the nearby tamjai/samgor over \u96f2\u8cb4\u9999 for flavor and value for money",
+              "time": 1554368918
+            },
+            {
+              "author_name": "\u5609\u6770JOE",
+              "author_url": "https://www.google.com/maps/contrib/116394481458102135725/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-S_IODvX4KgA/AAAAAAAAAAI/AAAAAAAAAH4/3ctXEZ3fP7w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "7 months ago",
+              "text": "Yummy \ud83d\ude0b",
+              "time": 1544247652
+            },
+            {
+              "author_name": "Ching Sze",
+              "author_url": "https://www.google.com/maps/contrib/114390803745538883115/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-eOCMBMDREUU/AAAAAAAAAAI/AAAAAAAAGTU/D2Tj-P4ekow/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "a year ago",
+              "text": "Nothing special but is over priced.",
+              "time": 1521290065
+            },
+            {
+              "author_name": "Tony Chan",
+              "author_url": "https://www.google.com/maps/contrib/110874207909223726546/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-V4R1_RxRCks/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf4kAGZomzvk2lb8Vs9IJ6kV7I0TA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "7 months ago",
+              "text": "Good",
+              "time": 1546412364
+            },
+            {
+              "author_name": "LKW. SLIME",
+              "author_url": "https://www.google.com/maps/contrib/107312797786748816723/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-9aWHxJR7AwU/AAAAAAAAAAI/AAAAAAAAAwg/yNd9ebddhIo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "8 months ago",
+              "text": "good",
+              "time": 1541940334
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=2454915738301339946",
+          "user_ratings_total": 173,
+          "utc_offset": 480,
+          "vicinity": "Kwong Fai Building, \u5730\u8216 B2 \u865f, 7-9 Kwong Fai Circuit, Kwai Chung",
+          "website": "http://gmg.hk/"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJq6q-fJr4AzQRKpn3dtucESI",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5149\u8f1d\u5927\u5ec8",
+              "short_name": "\u5149\u8f1d\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "7-9",
+              "short_name": "7-9",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5149\u8f1d\u570d",
+              "short_name": "\u5149\u8f1d\u570d",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u8475\u6d8c",
+              "short_name": "\u8475\u6d8c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u8475\u6d8c</span><span class=\"street-address\">\u5149\u8f1d\u570d7-9\u865f</span>\u5149\u8f1d\u5927\u5ec8\u5730\u8216 B2 \u865f",
+          "formatted_address": "\u9999\u6e2f\u8475\u6d8c\u5149\u8f1d\u570d7-9\u865f\u5149\u8f1d\u5927\u5ec8\u5730\u8216 B2 \u865f",
+          "formatted_phone_number": "2442 5522",
+          "geometry": {
+            "location": {
+              "lat": 22.3675357,
+              "lng": 114.1327181
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3689733802915,
+                "lng": 114.1341002802915
+              },
+              "southwest": {
+                "lat": 22.36627541970849,
+                "lng": 114.1314023197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "fb00c130cdee7db67fe6c1d80f275f1bfa69ee2d",
+          "international_phone_number": "+852 2442 5522",
+          "name": "\u96f2\u8cb4\u8ed2\u7c73\u7dda\u5c08\u9580\u5e97",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 07:00 \u2013 22:00",
+              "\u661f\u671f\u4e8c: 07:00 \u2013 22:00",
+              "\u661f\u671f\u4e09: 07:00 \u2013 22:00",
+              "\u661f\u671f\u56db: 07:00 \u2013 22:00",
+              "\u661f\u671f\u4e94: 07:00 \u2013 22:00",
+              "\u661f\u671f\u516d: 07:00 \u2013 22:00",
+              "\u661f\u671f\u65e5: 07:00 \u2013 22:00"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105221436595548959703/photos\">joeken wong</a>"
+              ],
+              "photo_reference": "CmRaAAAAIwgfLGLh2PS4Y6g3iM099Xa_3zzh_PZAGK_2uIL0gU_kk1svHxYH84bk2hV6ylwRgce9bAgTGxgVkkaPjtpX9_YPXvh0ZNYwZ3YhXgs4unQA50mwjXcEsbAulsB-fUPPEhC1KAxMaF_M4kHcBifYMqmLGhRCKy7dK1KAACj0wgCZzPU4d6Vxag",
+              "width": 3024
+            },
+            {
+              "height": 1200,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106649788883301595595/photos\">blues more</a>"
+              ],
+              "photo_reference": "CmRaAAAAWIGjN0P6b_2tN2xXBfMYgkLvWxjwimBr_cC_7vIrIazuGrXpow3GxYsqH_JA8-fpD0YJ0asaxh_VSUtEPa1cf8o-q0deT5_2i1DEQqNUzCDmzFEFwFf_rpdc23LnzbGLEhCKU5W1MiXndUO8Pu5YDB9tGhT2cLCu6XoLy-XQ97sBvDoO9tQGTw",
+              "width": 1600
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105221436595548959703/photos\">joeken wong</a>"
+              ],
+              "photo_reference": "CmRaAAAAsvoTPTEcmd6CTa2X5UcoO2bLHjsuM6eDISIKC-tEho73yfBMHT_CcGVKqTnsDY8NaP9NFZ-iUAtQF-k1fqZETh7R3L6egAbV9RH1Vfsm_HUnIcMjdDOjIF641mg08zvxEhDT_t9d4u3q49bWDiTtQTwXGhQAJlO-0bGrLJmAV_I1wlKvpFxFOA",
+              "width": 3024
+            },
+            {
+              "height": 1440,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110815654318796693880/photos\">Mel Leung</a>"
+              ],
+              "photo_reference": "CmRaAAAAEAFhIJCf8M20IM66Qdewy5lYHB3nM4Eif5__Mh9D-nF3-YwgsvZw-gMVvkizb5iOj8RBx_pfF2TNjYK1FUywP7eBu-hiFfuXJF_Q2KuP-Y1yurux1IlguZv61Ns6G1pBEhBcVNu6rFWD3GfwBn_OXqtAGhQiVQRHZFKX3aNgxeRxY288dSKw2w",
+              "width": 2560
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109843109140186053682/photos\">Arthur Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAx_u5JaUlyrSKolWUEbNg2DdJR6N0FHAoo90PpQE2w7pzuQ77mzFUY3vc918sLxY7Gj_BoMpmGTlfGpDAQK4sH_nQ2akrSsxVQOVaByNOiNKVQTr7vltLuJpOBPJHwdrOEhA5LIz40-6Zlqb0FujLwsQ5GhS8PMIm1suvGx1IbL5EaQtP0rsDyw",
+              "width": 3024
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAA5aVvluV4R1V2WZ6Z8jMQCa5XvaLJKMcRFrhRyTepKcNUVQlvjOZMpGFBEI6wJ9OFpFL5TGK6nK_DiMP87Yut4nfY4Wr6iZEE1auKbAsDM3Cqr_v9hgnT_racqEUuewCqEhBCmZK41gmjH5fGT-rW47t6GhTwgqfTnhbSn2sxrzT1RjDCxSZfKw",
+              "width": 4608
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAArNL0FN-mmTE5LDVxScfMT6e_3pyQsZI4F9z10JxmdVYQ0qhO6S-3qcYTp5cofNeEKST-_KqBmLSTcPijUOdO_W8hgsZlSPWEeLTP8h4eggV6WaTwUiXf91tQrFGirQC2EhANhsQllajKpyRzo5ZczT79GhRIDpDtvt9FmEHSSDJzqw-5mhSPRQ",
+              "width": 5504
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAAwOk3MZN9mcgLPkbVhynHUaNu4lizawVldWhwleGpK8He7hdavX-NBDdq20oO1XyhWliue0oZ3ulNd5q8EmRnYrgE0DBOYB34NHYlGPfU55u2dbIZMkT94HDeNsO6cJ7AEhB5WgcXIC2PpWXofSb8StBwGhSL0mwdeXV_lS5V8bAPBo1bwsvJ7Q",
+              "width": 4608
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109843109140186053682/photos\">Arthur Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAE7EDHPAx2qyIUu1SEP11ZW_2ZZu3AIfwbRCseo_kcTyzOUOphow7m55OaKoXJEqm7__84inYtbbw9PCwRV8IF7YMG_woAu8bmLXeU5gdZ-8Pp2Bw5oP_-3CjtF96G6JXEhCDVpp1TM8CNDN7B5_e-OsFGhT8h9e_8jd9K0WcG_Xo9NodaqKiTQ",
+              "width": 3024
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117165336089765167775/photos\">Neville Shum</a>"
+              ],
+              "photo_reference": "CmRaAAAAZL5j4Je3BX03cFlXruDIyikZBYXRyRFXLsiL3EwLBStSbE7WoSxZnbBbsZPufJLmtQk4XcZuhMBGRlEnKK_0qvuWVcFLVbHU89VBH72WSBdYwbFYpd1Z0Al8gXvftXYSEhDwFtIfoSvzZRgeUW3L6wzvGhT4bedvpChz5uM2R8lxzR82i7qesg",
+              "width": 4608
+            }
+          ],
+          "place_id": "ChIJq6q-fJr4AzQRKpn3dtucESI",
+          "plus_code": {
+            "compound_code": "949M+23 \u9999\u6e2f",
+            "global_code": "7PJP949M+23"
+          },
+          "price_level": 1,
+          "rating": 3.5,
+          "reference": "ChIJq6q-fJr4AzQRKpn3dtucESI",
+          "reviews": [
+            {
+              "author_name": "Sunny Li",
+              "author_url": "https://www.google.com/maps/contrib/104265655484214877523/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-UN2OUkuytG0/AAAAAAAAAAI/AAAAAAAAAYk/qxlUmRaEEG4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 2,
+              "relative_time_description": "1 \u9031\u524d",
+              "text": "\u500b\u9b5a\u5507\u96e3\u98df\u5230\u7672 \u6c92\u5473\u53c8UN\n\u5783\u573e",
+              "time": 1563949309
+            },
+            {
+              "author_name": "karen chan",
+              "author_url": "https://www.google.com/maps/contrib/113092843915432922372/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-xIPPwxMxEm4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reStVLVPR0ZnbYlfEKuBT0DCfUjlA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "\u8c6c\u5927\u8178\uff0c\u96de\u7ffc\u90fd\u597d\u597d\u5473",
+              "time": 1562155935
+            },
+            {
+              "author_name": "Chan Sing",
+              "author_url": "https://www.google.com/maps/contrib/100693479817324711368/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-Sfh4TnB5WGg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdof6eN_e1NHvUJtmRcUdZLwO2HTQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "2 \u500b\u6708\u524d",
+              "text": "\u65e9\u9910\u53c8OK, \u4efd\u91cf\u5920\u5605~",
+              "time": 1558060676
+            },
+            {
+              "author_name": "Neville Shum",
+              "author_url": "https://www.google.com/maps/contrib/117165336089765167775/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-l_1AYxLZQWE/AAAAAAAAAAI/AAAAAAAAADg/wE-YgI37Wdg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "6 \u500b\u6708\u524d",
+              "text": "\u7121\u8ad6\u4f55\u6642\u4f55\u65e5\u53bb\u5403\uff0c\u5473\u9053\u4f9d\u7136\u5982\u4e00\uff0c\u98df\u7269\u8cea\u7d20\u5f88\u7a69\u5b9a\uff0c\u503c\u5f97\u63a8\u4ecb\uff01",
+              "time": 1548769449
+            },
+            {
+              "author_name": "HC",
+              "author_url": "https://www.google.com/maps/contrib/102318521156502986951/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-RN0pyQuDNMM/AAAAAAAAAAI/AAAAAAAAAME/fShl7w7IeZ0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "4 \u500b\u6708\u524d",
+              "text": "Food is ok, side dishes are somewhat overpriced. kind of dingy atmosphere. Personally prefer the nearby tamjai/samgor over \u96f2\u8cb4\u9999 for flavor and value for money",
+              "time": 1554368918
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=2454915738301339946",
+          "user_ratings_total": 173,
+          "utc_offset": 480,
+          "vicinity": "\u8475\u6d8c\u5149\u8f1d\u570d7-9\u865f\u5730\u8216 B2 \u865f\u5149\u8f1d\u5927\u5ec8",
+          "website": "http://gmg.hk/"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -710,6 +1514,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

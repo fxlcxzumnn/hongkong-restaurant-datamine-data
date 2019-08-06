@@ -463,6 +463,830 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJO7CjflkABDQRpdIMesc4MTM": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "28\u865f",
+              "short_name": "28\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Harbour Road",
+              "short_name": "Harbour Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Wan Chai",
+              "short_name": "Wan Chai",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">28\u865f Harbour Rd</span>, <span class=\"locality\">Wan Chai</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "28\u865f Harbour Rd, Wan Chai, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.28030159999999,
+              "lng": 114.1762934
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2816598302915,
+                "lng": 114.1777796302915
+              },
+              "southwest": {
+                "lat": 22.27896186970849,
+                "lng": 114.1750816697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "380bbfea7e5a3d7beb8236372d4827a67d763080",
+          "name": "\u7063\u666f\u4e2d\u5fc3\u5927\u5ec8",
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115123830863315493152/photos\">Edward Chin</a>"
+              ],
+              "photo_reference": "CmRaAAAAs4fbMv-KT0VwGNRVFkmzRE8KZeCwRsZWuUEKBpGJRrGZqhCH9GoPEggRVF-kyamu8cCaLFaswWX7HOOw9CT9wFix-3eQ4zYmn1W29OSIN-EoY04bjrGW5Id9oN1tlZb_EhBcZYwKlacjVKxnI99zh4LIGhTFv5TaAHi_zCNaW4mhe7ZsnLs8xw",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115123830863315493152/photos\">Edward Chin</a>"
+              ],
+              "photo_reference": "CmRaAAAAjU4hgApUdBSYtq54qYeevjODe4IVDrhJUDaddxE6E3Aq9DrvU_nSBgLRyaIoZVj4isVfV8BGyR5Vcl1GDevCFAnYNeUrhPm3BBCGIBJXU5cH6ki0XpdwUxq96LHKmqxBEhBcKAODfe0pHDVE63URgsnxGhQB7HSBj65WMdai5dMInCqJYFoGHg",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJO7CjflkABDQRpdIMesc4MTM",
+          "plus_code": {
+            "compound_code": "75JG+4G Hong Kong",
+            "global_code": "7PJP75JG+4G"
+          },
+          "reference": "ChIJO7CjflkABDQRpdIMesc4MTM",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=3688791999190454949",
+          "utc_offset": 480,
+          "vicinity": "28\u865f Harbour Road, Wan Chai"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJO7CjflkABDQRpdIMesc4MTM",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "28\u865f",
+              "short_name": "28\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6e2f\u7063\u9053",
+              "short_name": "\u6e2f\u7063\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u7063\u4ed4",
+              "short_name": "\u7063\u4ed4",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u7063\u4ed4</span><span class=\"street-address\">\u6e2f\u7063\u905328\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u7063\u4ed4\u6e2f\u7063\u905328\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.28030159999999,
+              "lng": 114.1762934
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2816598302915,
+                "lng": 114.1777796302915
+              },
+              "southwest": {
+                "lat": 22.27896186970849,
+                "lng": 114.1750816697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "380bbfea7e5a3d7beb8236372d4827a67d763080",
+          "name": "\u7063\u666f\u4e2d\u5fc3\u5927\u5ec8",
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115123830863315493152/photos\">Edward Chin</a>"
+              ],
+              "photo_reference": "CmRaAAAARuVSNagUqns2MkLNu6swFlIYapazk3_bdvnjLAJ-9H5oXFV-tyWwXTEdJPDNTuwwqzVtIvDMwVmggQVBHxqbZi9RBhn96neiDCm4gGqWNLeGpEeAcRKI0jdAZYt44YroEhAJyu8WfqPmxEBT5fpeBdVZGhQD5f2mBtQN4oOjXTUUuMh9XhOfaA",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115123830863315493152/photos\">Edward Chin</a>"
+              ],
+              "photo_reference": "CmRaAAAA4RcZ8N_tKB5G7ytnHJDFT1hL-kAqddRHRH1CG58-Jv3Lqq4yanEayK2aimiez0ft5u0ivtBx1HKldw1STwX4QsBVzeDDxV84pdTNyfD57bLMo_A1hV4RfFs1N5BOwSwWEhBGF35PBAQ3Bhx8zsqRTeHmGhR9xxbfLKsFdX41GvWLPz6mgCOdJQ",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJO7CjflkABDQRpdIMesc4MTM",
+          "plus_code": {
+            "compound_code": "75JG+4G \u9999\u6e2f",
+            "global_code": "7PJP75JG+4G"
+          },
+          "reference": "ChIJO7CjflkABDQRpdIMesc4MTM",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=3688791999190454949",
+          "utc_offset": 480,
+          "vicinity": "\u7063\u4ed4\u6e2f\u7063\u905328\u865f"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJYcNOeVkABDQRse3_DlbduKA": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "28",
+              "short_name": "28",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Harbour Road",
+              "short_name": "Harbour Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Wan Chai",
+              "short_name": "Wan Chai",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">Hong Kong</span>, <span class=\"locality\">Wan Chai</span>, <span class=\"street-address\">Harbour Rd, 28\u865f</span>Shop 10, Brim 28, 1/F,",
+          "formatted_address": "Hong Kong, Wan Chai, Harbour Rd, 28\u865fShop 10, Brim 28, 1/F,",
+          "formatted_phone_number": "3102 9438",
+          "geometry": {
+            "location": {
+              "lat": 22.2803999,
+              "lng": 114.176327
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2819590302915,
+                "lng": 114.1776563802915
+              },
+              "southwest": {
+                "lat": 22.2792610697085,
+                "lng": 114.1749584197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "c8edd0e49d2c5db606a219119dfa1167217748bd",
+          "international_phone_number": "+852 3102 9438",
+          "name": "The Trafalgar Brewing Company",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1100"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 11:00 AM \u2013 1:00 AM",
+              "Tuesday: 11:00 AM \u2013 1:00 AM",
+              "Wednesday: 11:00 AM \u2013 1:00 AM",
+              "Thursday: 11:00 AM \u2013 1:00 AM",
+              "Friday: 11:00 AM \u2013 1:00 AM",
+              "Saturday: 11:00 AM \u2013 1:00 AM",
+              "Sunday: 11:00 AM \u2013 1:00 AM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106867028036888859869/photos\">Winnie Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAAgtXNfvT2eQcvi0HGMhhroJP9vugzp_-AQKKmn9WcHJ8RSxhPbDoIctSQdspvJ1A5Es4HiuAZfaFZ1PYinrymo9fbYCBqCb-ye3bA-Zj8MEVtao5js5TFA9HRTPp225XbEhAORspOV2Hb8lYb0QbK-ojwGhQAwVhjmuYMTMprVPjRpZaYT_iU-w",
+              "width": 4032
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106824801867947930109/photos\">Joe Tsang</a>"
+              ],
+              "photo_reference": "CmRaAAAAIMDl9xGVKQkKb4z7fdmf-JL2YLQAQ3yRNsH5l-3l8AgBe-ld6xegIF5ZWEdw0ZbcOaOd5PbzAZuOoZknQocPIg5XbQKvPng_ePZDNv9KyyljzxAmEnTsqPKcMUAVpfubEhCU18n5A3egiu8qGajD_iqaGhRRU3LczX2dO8UPG7Zs2AfgyJPuTQ",
+              "width": 3840
+            },
+            {
+              "height": 1080,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114890961356281185359/photos\">Mike K.</a>"
+              ],
+              "photo_reference": "CmRaAAAA0WPPFkAXCNkBarZCJM0vDeJcNiPrioUAMMM_u8fCCH-00_aFdRHFMZC6M4ULDQZPTjwUcCcXzCSApF8EFbd0tCtPHrbQOLisZoqKYfruvYExBqFUfktws2kOGUe4AXMOEhBhdBQPL97J13qCxeM07Li8GhRye6WQ29oQ9zRt9KBcNvUwG9bBlA",
+              "width": 1920
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116790447482636951796/photos\">Kim Yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAAF2nj8DZ-Z2kF9LAQlKldKhUesLyb-OUi2bMjmMBIbtC_BIM-b_iciwl67JfUOrwXXFX51rVUYad7-_u3rLUPHfpRBBxJ9Uuhodw6jkV10Nu4ffLERnouWycPcoynT9WcEhDJrvrMvGx_MwwYXftoLYdUGhR5OXKYwx6NrVcOsL_3IVLsFROi6A",
+              "width": 2880
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100971897174690372504/photos\">Wing Hin Ng</a>"
+              ],
+              "photo_reference": "CmRaAAAAmmq6cJhLly3mjXBU_oLA5-UdPo4btw3IC9LSTcUFW-O8d_aWqY50DFGvOX58e7nwZttDUTv9sJIUGKoLSwSUhMXGQ82bRmotZZ0t0JuGZoNPaq3Hqhizse7EuHABP_RWEhDpBl9NvscOWJV0i6TcO4K5GhQDZ7P9PJC2UFWf7nrip3JBtEs0cA",
+              "width": 3024
+            },
+            {
+              "height": 2988,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109133880477247942153/photos\">Baldwin Ng</a>"
+              ],
+              "photo_reference": "CmRaAAAApwlAUguOjZ4OrFvhPyOEjvyzPso23bO1La0pIwvQRfIeXSym-vLT5oth5t0z2W_143EJEoOPjGJxWpHUstHy9pQTS0gY7RXGRJnQGgV2u-DDcd6qz1xfm3mSF9HMaUj6EhART04zuFbcCO_dqZWC1wGaGhTvHuzEU2lN78m48xnHDA_bGOTwuA",
+              "width": 5312
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116790447482636951796/photos\">Kim Yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAACfpiB5qMZR7MEOFWEWvOIRXyvWfGZas3mE6TU9GKy--i4GpVeSXmqseqjOXDeLdNSk4GGurIUbfhzAFrKxuTDrMmpI59Xqj8iECRTiFuxXXBOywafLZaF4dCJmYV1CnXEhDIUsPX1NWsSjOcJa7KZVTSGhScPT5HudkDmD095jBV7pFwuMlQ8Q",
+              "width": 2880
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106867028036888859869/photos\">Winnie Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAAZUHA1l4q24POzaRaPXagpXVNhKBMH81F3CMz15dcoh0xxHfLXNrEM7tFp431TmsCw1rZHMohWdi1g2aIjoO0ZNBfs2ei08ug4JgZMQkaKcPlEqcdRYorI5GHBMJxwyx7EhBt3Y103wAp0go4wth-N-zBGhSw1mFYbENnyOW1E3f_5_nl5mXvZA",
+              "width": 3024
+            },
+            {
+              "height": 3120,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108234922145215520840/photos\">D S</a>"
+              ],
+              "photo_reference": "CmRaAAAApoTQ4gH6yIP8ffFIDIwEziNByVn_IlYDGuQb2_SOsXw1E7n-QzUV_vpd35eCtYDQt_9zfN-2e3A5avTSMVIFiuaGBKPvuS25n6RnCRzSEmo1WdcQ2dlR8at054Czm_bcEhDPryRCiNVm9qHYdtRVaqE3GhRWPcqYFSJVZlED-MUPM2mU2Q6cgQ",
+              "width": 4160
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116790447482636951796/photos\">Kim Yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAAVMMnS2RsZ2g02gonWED2j0N1_HiDTk4-L5MexlN0TmnUHf9NnHH4H9Eg4ALnbVrBbpL1m5twablfU4aRHSD3gGT46qIi7aX7bBUzuri0Fn_sIlx7ZH94Hnn6h41ZVpZxEhCy2Gf2A5G1HUFgWjlmRTlSGhS1Q21FS6wOThVrykJlAaz1YgknwQ",
+              "width": 2880
+            }
+          ],
+          "place_id": "ChIJYcNOeVkABDQRse3_DlbduKA",
+          "plus_code": {
+            "compound_code": "75JG+5G Hong Kong",
+            "global_code": "7PJP75JG+5G"
+          },
+          "price_level": 2,
+          "rating": 3.8,
+          "reference": "ChIJYcNOeVkABDQRse3_DlbduKA",
+          "reviews": [
+            {
+              "author_name": "Lil Pants",
+              "author_url": "https://www.google.com/maps/contrib/105713710017279987392/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-kADSfJh_Pf0/AAAAAAAAAAI/AAAAAAAAARI/rQVJPCiT5D8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "2 weeks ago",
+              "text": "The food wasn't particularly impressive (such as the pasta) but the establishment is very spacious. You'll be better off ordering a sandwich or burger since it's hard to go wrong with them. Their risotto was pretty okay actually for a restaurant that doesn't specialize in Italian cuisine. Good for hanging out and watching sports with your friends. The bar also has a good assortment of draft beer.",
+              "time": 1563531039
+            },
+            {
+              "author_name": "Pistachios Wan",
+              "author_url": "https://www.google.com/maps/contrib/102647239794354777590/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-rqcAi_Tp7NU/AAAAAAAAAAI/AAAAAAAAGpk/H_lnObff0sY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "a week ago",
+              "text": "Nice environment! Good service! I love the burger and the buffalo wings! Juicy and delicious!",
+              "time": 1564104258
+            },
+            {
+              "author_name": "Winnie Choi",
+              "author_url": "https://www.google.com/maps/contrib/106867028036888859869/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-r4iOb7mv518/AAAAAAAAAAI/AAAAAAAAA-w/vkR1YA6YTYM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "in the last week",
+              "text": "A nice restaurant in Wanchai where you could have awesome dining experience and watching sports at the same.  The salad is delicious and the taste of ice coffee is impressive.",
+              "time": 1564768603
+            },
+            {
+              "author_name": "Sharon Greaney",
+              "author_url": "https://www.google.com/maps/contrib/113736038541371893402/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-eADULN6nqnM/AAAAAAAAAAI/AAAAAAAAAH0/1bJTzgDmdXE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 months ago",
+              "text": "Nice local pub. Not cheap. Like most pubs here. They do a good lunch time set menu.",
+              "time": 1559715427
+            },
+            {
+              "author_name": "Abhishek Rathi",
+              "author_url": "https://www.google.com/maps/contrib/117164053609789733987/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-0Y5MQKDZGwI/AAAAAAAAAAI/AAAAAAAAAEY/mJ9g9HwIQSQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "4 weeks ago",
+              "text": "Good sports bar. Draft beers on the tap needs to be of better quality.",
+              "time": 1562506834
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=11581249803471809969",
+          "user_ratings_total": 243,
+          "utc_offset": 480,
+          "vicinity": "Shop 10, Brim 28, 1/F,, 28 Harbour Road, Wan Chai"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJYcNOeVkABDQRse3_DlbduKA",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "28",
+              "short_name": "28",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6e2f\u7063\u9053",
+              "short_name": "\u6e2f\u7063\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u7063\u4ed4",
+              "short_name": "\u7063\u4ed4",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u7063\u4ed4</span><span class=\"street-address\">\u6e2f\u7063\u905328\u865f</span>Shop 10, Brim 28, 1/F,",
+          "formatted_address": "\u9999\u6e2f\u7063\u4ed4\u6e2f\u7063\u905328\u865fShop 10, Brim 28, 1/F,",
+          "formatted_phone_number": "3102 9438",
+          "geometry": {
+            "location": {
+              "lat": 22.2803999,
+              "lng": 114.176327
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2819590302915,
+                "lng": 114.1776563802915
+              },
+              "southwest": {
+                "lat": 22.2792610697085,
+                "lng": 114.1749584197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "c8edd0e49d2c5db606a219119dfa1167217748bd",
+          "international_phone_number": "+852 3102 9438",
+          "name": "The Trafalgar Brewing Company",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1100"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1100"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 11:00 \u2013 01:00",
+              "\u661f\u671f\u4e8c: 11:00 \u2013 01:00",
+              "\u661f\u671f\u4e09: 11:00 \u2013 01:00",
+              "\u661f\u671f\u56db: 11:00 \u2013 01:00",
+              "\u661f\u671f\u4e94: 11:00 \u2013 01:00",
+              "\u661f\u671f\u516d: 11:00 \u2013 01:00",
+              "\u661f\u671f\u65e5: 11:00 \u2013 01:00"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106867028036888859869/photos\">Winnie Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAA-8YPDsuQgZDknMmjoYKuVl3PZDWf1qubMUMR3aRBfGLq_a_LsOeEVIRGz0oLLjGHND_hUcCQHdSlDn_-s7NQkjAzbltFDR5fhKhuRJeEmwKwJhb-0UerEGsLQ_kNCSJ9EhCNeJqGbR49Uc6tXUHUGzniGhQMsd3ermb3LYJ2ZjFi8pyRMvDldA",
+              "width": 4032
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106824801867947930109/photos\">Joe Tsang</a>"
+              ],
+              "photo_reference": "CmRaAAAA69dmfUr96IR0F-ZfrWOzfeHGvIeEathyeKmMOhA5jq74LXwgaAhm_3_A-GvQDosb_9YwJ9pIkXbLuxjzvpxvWc77xPqlCXbPukAubJNv8yvVkSECUNuGuPfOZciwaInuEhDBY-Vc5dmzqGYggI8PYk6NGhTEPxqYbbwT8_wfkJ_bTZ7lQ152Sg",
+              "width": 3840
+            },
+            {
+              "height": 1080,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114890961356281185359/photos\">Mike K.</a>"
+              ],
+              "photo_reference": "CmRaAAAAAzcPnh7456fHKqLX_XwhQkCRsiwlaSPFj2Tvldan6YbZ2ZCFLgr2w_qKuFIag1Z_QdEfKMfXHW2OO7BxRXL26idtrVy7QY7KddWmC6KKSTY-9prtlb6sHvYMLe8ig8KxEhBfWtSXu9JgJAWETjHBdHWbGhRTPvHETjU1Xg8GmWwEsrQrcyxe7A",
+              "width": 1920
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116790447482636951796/photos\">Kim Yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAAEddyrz0y06SNFprEw0YokbdAw4f8uDBTXEZMBv-oVclZL2a_v7564cxv0P4xIzkWP-DuNVZKQDqYPryoOMxArC__4WppemhYeKncHNEuYT4AghpUGZIdJTIzT5FgfdJgEhC131iz5LSawNDurdbYf3ubGhQuzCXD8TtbVySSgpcuCHm9-0V2qA",
+              "width": 2880
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100971897174690372504/photos\">Wing Hin Ng</a>"
+              ],
+              "photo_reference": "CmRaAAAAMh1k8Dw9EnLb4IIdg8aRka5IilweXg5wj-9SIA0De6gfQWumCHm2xTluaEdVfeEEAJF-O_NTEcNgM_cSwMy82sxV5kQYA9hTOsI8Am2WtR1CzyzbZ5NUfxMDdhUarnw2EhB-rDHpL3SoC9nxqIo50VKIGhS078SOLXQYetlYzVL3vxat2ATR5Q",
+              "width": 3024
+            },
+            {
+              "height": 2988,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109133880477247942153/photos\">Baldwin Ng</a>"
+              ],
+              "photo_reference": "CmRaAAAAFUf164nLUuniCnoVpmk1pF_PVpcgz9X-dXZdh4owgkkVMmeC8qKC-fu4q9quRBP3UHcyFOPOjJVCWc-GaxcuTAg0qjnWi7fc_YyAIvZ-qr-mYCC6SHj2-LnHw1Ls8tKbEhDTUmnAfxa1SU1tCiaCKphYGhQdfD9ucGVvPY3mbtiaU9Kb1CV9nQ",
+              "width": 5312
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116790447482636951796/photos\">Kim Yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAALVLen29L634x1Coe7MPPzcxkAYrrMigAzxlWbjo2jkNPPp1ogKsRPojQjLnNXvvJ6H60CzB1LcSbDXZxxu4Y7mNDWJW8vM9u3LZPTE-LOYgr0t-tp-uUSjQAtCH0EPvbEhA9_5DZbyceNaN1zl0iazQBGhSPA3-CT1PcPFSOJj4w2ylvCrdovg",
+              "width": 2880
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106867028036888859869/photos\">Winnie Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAA05wSXR_YFY4gDiAJqDuqmOWL3LfjIMiGLl9Xk88Cooqqud5NIvoD_QCdrD9tpea3a3VZ9ioWlVihqGifbxkCnd_xOEGysZNzIvcUwJ_71btJwKDH2Bn0OI2rtFuIeLsPEhCLprEDIv3cTu7br7dO-3V2GhSLCSxgFekNndVAc_vPLSK0NKrjGg",
+              "width": 3024
+            },
+            {
+              "height": 3120,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108234922145215520840/photos\">D S</a>"
+              ],
+              "photo_reference": "CmRaAAAAnA1JXbf1bEBcFFBK9uSLw9MXsohwcuhwn_IYnowdLDIpyVp1CxKsal-1JIYpSo9_tVsZOSKfviOxfJe7FGwPjFWERwELpnPU_-0AzzLYef-7Hz9lxygYQ_63OKnw5GSAEhAmHeFLgteEVkxU1fV_u3-tGhRQK6zhPjKmrc3H79JCfNhBVlWWTA",
+              "width": 4160
+            },
+            {
+              "height": 2160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116790447482636951796/photos\">Kim Yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAA4unA2R3r8u0JCsijz97uJm-e2n-Jlf70Gfe5056ldA8V8VG4g4cOx3zmvd5-DrHvSOiiKqZjPxYYegKVIP8RwC0XSbZpTEiy7QyzMatHykFA-77QbInggbRouV2P7zqoEhCpvAQuQuhmvcCu-Ep8hjErGhT-TwLuyHwmC3SQsEk2Qy393OZ52w",
+              "width": 2880
+            }
+          ],
+          "place_id": "ChIJYcNOeVkABDQRse3_DlbduKA",
+          "plus_code": {
+            "compound_code": "75JG+5G \u9999\u6e2f",
+            "global_code": "7PJP75JG+5G"
+          },
+          "price_level": 2,
+          "rating": 3.8,
+          "reference": "ChIJYcNOeVkABDQRse3_DlbduKA",
+          "reviews": [
+            {
+              "author_name": "\u52a0\u83f2\u5b89\u8fea",
+              "author_url": "https://www.google.com/maps/contrib/107466582784326545375/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-U8w4sucMjXQ/AAAAAAAAAAI/AAAAAAAAl_I/Q_1H1iq_JDM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 \u5e74\u524d",
+              "text": "\u53ef\u60a0\u9592\u7528\u9910\u53ca\u6e96\u8a31\ueb33\u5e36\u5bf5\u7269",
+              "time": 1486204731
+            },
+            {
+              "author_name": "Lil Pants",
+              "author_url": "https://www.google.com/maps/contrib/105713710017279987392/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-kADSfJh_Pf0/AAAAAAAAAAI/AAAAAAAAARI/rQVJPCiT5D8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "2 \u9031\u524d",
+              "text": "The food wasn't particularly impressive (such as the pasta) but the establishment is very spacious. You'll be better off ordering a sandwich or burger since it's hard to go wrong with them. Their risotto was pretty okay actually for a restaurant that doesn't specialize in Italian cuisine. Good for hanging out and watching sports with your friends. The bar also has a good assortment of draft beer.",
+              "time": 1563531039
+            },
+            {
+              "author_name": "Pistachios Wan",
+              "author_url": "https://www.google.com/maps/contrib/102647239794354777590/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-rqcAi_Tp7NU/AAAAAAAAAAI/AAAAAAAAGpk/H_lnObff0sY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "1 \u9031\u524d",
+              "text": "Nice environment! Good service! I love the burger and the buffalo wings! Juicy and delicious!",
+              "time": 1564104258
+            },
+            {
+              "author_name": "Winnie Choi",
+              "author_url": "https://www.google.com/maps/contrib/106867028036888859869/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-r4iOb7mv518/AAAAAAAAAAI/AAAAAAAAA-w/vkR1YA6YTYM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "\u672c\u661f\u671f",
+              "text": "A nice restaurant in Wanchai where you could have awesome dining experience and watching sports at the same.  The salad is delicious and the taste of ice coffee is impressive.",
+              "time": 1564768603
+            },
+            {
+              "author_name": "Sharon Greaney",
+              "author_url": "https://www.google.com/maps/contrib/113736038541371893402/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-eADULN6nqnM/AAAAAAAAAAI/AAAAAAAAAH0/1bJTzgDmdXE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 \u500b\u6708\u524d",
+              "text": "Nice local pub. Not cheap. Like most pubs here. They do a good lunch time set menu.",
+              "time": 1559715427
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=11581249803471809969",
+          "user_ratings_total": 243,
+          "utc_offset": 480,
+          "vicinity": "Shop 10, Brim 28, 1/F,, 28 \u6e2f\u7063\u9053, \u7063\u4ed4"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -770,6 +1594,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

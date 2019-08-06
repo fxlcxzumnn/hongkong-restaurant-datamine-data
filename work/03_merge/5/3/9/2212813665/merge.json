@@ -565,6 +565,789 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJ3e8j81YABDQR3dBLvV7DMUA": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "902",
+              "short_name": "902",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "Tower 535",
+              "short_name": "Tower 535",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "535",
+              "short_name": "535",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Jaffe Road",
+              "short_name": "Jaffe Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Causeway Bay",
+              "short_name": "Causeway Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "902, Tower 535, <span class=\"street-address\">535 Jaffe Rd</span>, <span class=\"locality\">Causeway Bay</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "902, Tower 535, 535 Jaffe Rd, Causeway Bay, Hong Kong",
+          "formatted_phone_number": "2577 5796",
+          "geometry": {
+            "location": {
+              "lat": 22.2812913,
+              "lng": 114.1838754
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2825571302915,
+                "lng": 114.1852266802915
+              },
+              "southwest": {
+                "lat": 22.2798591697085,
+                "lng": 114.1825287197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "e965c54b60533c584dc2863db440d90d5f6f44b4",
+          "international_phone_number": "+852 2577 5796",
+          "name": "Hong Kong Japanese Club",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1730"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1800"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:30 PM",
+              "Tuesday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:30 PM",
+              "Wednesday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:30 PM",
+              "Thursday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:30 PM",
+              "Friday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:30 PM",
+              "Saturday: 12:00 \u2013 3:00 PM, 6:00 \u2013 10:30 PM",
+              "Sunday: 12:00 \u2013 3:00 PM, 5:30 \u2013 10:00 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103961072965627845799/photos\">Elsie Wong</a>"
+              ],
+              "photo_reference": "CmRaAAAAh5SRs3Pmeiztgrwpk1jIjadmYbionAxSKmjag4D-WoMhQLf4toOaTc_GEzLNrkai_o8Qddx7l-WwQL7W0_LiP4ol1ab9DD84hbkRpE_u8xEssD2ekYUoB0q2UBfAveqiEhDD6qJ18IRpcz_84sKVgtY-GhTVO_i22QWjqFqPM2tna3Y3wp2nAw",
+              "width": 2268
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105086079104773283388/photos\">Roderick Kar</a>"
+              ],
+              "photo_reference": "CmRaAAAApJ758i06Vv5881GaV6qI7Hg7bP2YAhM8MI6sSVDE3kblur6IIzlD9O14voDlblac7xLGcbVYaJYdh9Bdg2j3snhC0wLAP68zKlMA_iifGtu-jpBUr9kyPPPWMcwci2xZEhCQ9VU_VJKlmrcDLcQ2OoZ8GhT4W-CnbAN4OfVbDs4obsByRWnMag",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111875377290422564637/photos\">Stef Lynn</a>"
+              ],
+              "photo_reference": "CmRaAAAABWkZQ1UAtQtPJnyeOjOaxYILYv1vxHx-OfRga0R0svcPuNDB0IdzFJN3gKUVqhpqXG5L5Jl3Hkb6UX4zb8HG3j9X_qZxf09y3Ye7lA4uEvK4LcEOjHE2FfYW8sygMJr1EhA_jNC-Hpsw6kyhbqauJ_MnGhTja3ra29268eiB5xXw0a6XbMNdyw",
+              "width": 3024
+            },
+            {
+              "height": 1175,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112175795221739859188/photos\">Ricky Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAH4j3aVOIaKIGcQcSPFwjexVITS1ThSNHmSo_1FnS1VN1TlJs3ECWOR6C-UIMupa_nVG3FkwtGIf4TUJoUEtp2yVG5HCjc0dbiUaEWlgqXpsp0aL8NYl54WqflRS4efJOEhC1EYCCChe3iOAj3SLD7OzKGhRIob0r-8H1g68JtdEhSS_bc_XaJA",
+              "width": 1600
+            },
+            {
+              "height": 5056,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107132172594690344085/photos\">Mark Anthony W</a>"
+              ],
+              "photo_reference": "CmRaAAAAhTUW4qgChpThnKmQiHzl9rXGEuiSvCiUBZz2EjaHsAZzSHxXB0M79u8LPwfL60FCgQFx3iG9zuX-wwqUWkVaW6ioxqRG_2R_7PzYIwbbAJu7dHOiXKPt2LcehbbivkI1EhB9cpbp0mFHE7DVW4M5b90-GhTSgIs96de2boXdXTP1GCw3iRp0IQ",
+              "width": 3792
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111789226002308728443/photos\">Terry Chui</a>"
+              ],
+              "photo_reference": "CmRaAAAA2j3VxZYL26OvT6MD7e3Kah1dqyZlQIdJJM5DaBang2M_Q03wikPQ37nA6h_3oAxhTVM5TF6JeTbWFQmwPau3CUnwwjP0tACQ17YAFxFN3NMNs4UGhIRTjW8ueh73ZxH5EhDeXfJseP4Oy47m1HTyRVBeGhSGhqxny1kRt9R0735TrJ3fSeCtmQ",
+              "width": 3024
+            },
+            {
+              "height": 2340,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118307835926857111309/photos\">Peter Lo</a>"
+              ],
+              "photo_reference": "CmRaAAAAEBWzNabAUQni-kNNHeueKzMwMYut_C1Afq5-TYytD4p99PBHi4_TU7yofstTN_qMOqDsou3zDhIzjWjRDgkUyY-r7UU0XZYgavKfI8tR78pWIb5DAbuKxeXH_ORCnyijEhDo5bONNDbodKHKiVFLJz0PGhSzjBojE-Qp9NX8uyaMtuFjSxG8qA",
+              "width": 4160
+            },
+            {
+              "height": 2340,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118307835926857111309/photos\">Peter Lo</a>"
+              ],
+              "photo_reference": "CmRaAAAAedAWzZEAkhIcjgdfyoGrNYxAEByE8IKOUQVuWTxUfNfgY-qcEFwAhZDSziUQVCCLa7J___Y4CJrolPznCvoSwts00qdAYIf6BzTGrpBkE0YaW_amxYwGh_COxzGLWCnhEhAoqS0KYqQqjrBFN6R_uJOFGhSj_Qe9_5CUQ7sNzDmXCFVa5n5yEA",
+              "width": 4160
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105086079104773283388/photos\">Roderick Kar</a>"
+              ],
+              "photo_reference": "CmRaAAAAEtRMZGLYkkx_YYc5QNlvOg16_UBuTVX60Y1k-3UeQNLKea14VwJeq1rNJdm5cfeMIBXXetbZooLk5xuHHaRY0kD-Aw0mDFu2fPuCfIU98Ze2sJZBJqwe26hfPgak2E6REhDeXXuJ4tFcLSdwtqkh1hQaGhRB86CyLYS5JGYTYT_7_2FP9OVLjQ",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105086079104773283388/photos\">Roderick Kar</a>"
+              ],
+              "photo_reference": "CmRaAAAAteAjKMMlFDcN0jYbyIPOVGVN4h2SQ4FuiDupG6YWVwy60OdULJifptJLWP5giJwKdNOwRIMAAYgfG0ef-ukJsy6yJgeQ5klULNsZ0Ep34fLzknJaE1GfjfopKBZRufVaEhDm-6VWXrZQfx1Vm2gjY1HjGhTeZKnIpW3OFCSA3Yv598fU_SBS2w",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJ3e8j81YABDQR3dBLvV7DMUA",
+          "plus_code": {
+            "compound_code": "75JM+GH Hong Kong",
+            "global_code": "7PJP75JM+GH"
+          },
+          "rating": 4.2,
+          "reference": "ChIJ3e8j81YABDQR3dBLvV7DMUA",
+          "reviews": [
+            {
+              "author_name": "Mark Anthony W",
+              "author_url": "https://www.google.com/maps/contrib/107132172594690344085/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-ePE7CceJ7tE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdgta7rWrsus2ZhvEY-9_-9ncmwAg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "8 months ago",
+              "text": "Decent food with a very resonable price, service was really good.",
+              "time": 1542123207
+            },
+            {
+              "author_name": "steve park",
+              "author_url": "https://www.google.com/maps/contrib/111760485477255050048/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-FoxeVjXnbxY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reh7mGTn7rmOaqyDN98A_ARUmf6uA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "4 months ago",
+              "text": "Great food and service.",
+              "time": 1554184398
+            },
+            {
+              "author_name": "Ricky Lai",
+              "author_url": "https://www.google.com/maps/contrib/112175795221739859188/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-N5xZ0HuvoMI/AAAAAAAAAAI/AAAAAAAAPeU/WIhuQT89dIQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a year ago",
+              "text": "The institute has been moved around in Causeway Bay a few times.  It has 2 restaurants (technically 3 but actually 2, One higher end and one casual).  There are many fancier JAPANESE restaurants in town but I will go this one for authentic JAPANESE food.  It\u2019s a membership club though.",
+              "time": 1518316487
+            },
+            {
+              "author_name": "Henry Chan",
+              "author_url": "https://www.google.com/maps/contrib/104767505692787591444/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-KUWw5EOiewY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdf1tuX7OpJAkh8yA2UNaQWtmM-qQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "9 months ago",
+              "text": "Expansive genuine Japanese food even to its members.",
+              "time": 1540296084
+            },
+            {
+              "author_name": "Tony King",
+              "author_url": "https://www.google.com/maps/contrib/113365301786947879910/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-JuEbkaCgX70/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfz5-gEYwaOxKKvRsvAKtvQtZkplg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 2,
+              "relative_time_description": "5 months ago",
+              "text": "What a purpose of the club in 21st century?",
+              "time": 1551968147
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=4625693103956414685",
+          "user_ratings_total": 31,
+          "utc_offset": 480,
+          "vicinity": "902, Tower 535, 535 Jaffe Road, Causeway Bay",
+          "website": "http://www.hkjapaneseclub.org/en/"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJ3e8j81YABDQR3dBLvV7DMUA",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "902",
+              "short_name": "902",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "Tower 535",
+              "short_name": "Tower 535",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "535",
+              "short_name": "535",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Jaffe Road",
+              "short_name": "Jaffe Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Causeway Bay",
+              "short_name": "Causeway Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "902, Tower 535, <span class=\"street-address\">535 Jaffe Rd</span>, <span class=\"locality\">Causeway Bay</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "902, Tower 535, 535 Jaffe Rd, Causeway Bay, \u9999\u6e2f",
+          "formatted_phone_number": "2577 5796",
+          "geometry": {
+            "location": {
+              "lat": 22.2812913,
+              "lng": 114.1838754
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2825571302915,
+                "lng": 114.1852266802915
+              },
+              "southwest": {
+                "lat": 22.2798591697085,
+                "lng": 114.1825287197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "e965c54b60533c584dc2863db440d90d5f6f44b4",
+          "international_phone_number": "+852 2577 5796",
+          "name": "Hong Kong Japanese Club",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1730"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1500"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1800"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 12:00 \u2013 15:00, 18:00 \u2013 22:30",
+              "\u661f\u671f\u4e8c: 12:00 \u2013 15:00, 18:00 \u2013 22:30",
+              "\u661f\u671f\u4e09: 12:00 \u2013 15:00, 18:00 \u2013 22:30",
+              "\u661f\u671f\u56db: 12:00 \u2013 15:00, 18:00 \u2013 22:30",
+              "\u661f\u671f\u4e94: 12:00 \u2013 15:00, 18:00 \u2013 22:30",
+              "\u661f\u671f\u516d: 12:00 \u2013 15:00, 18:00 \u2013 22:30",
+              "\u661f\u671f\u65e5: 12:00 \u2013 15:00, 17:30 \u2013 22:00"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103961072965627845799/photos\">Elsie Wong</a>"
+              ],
+              "photo_reference": "CmRaAAAA4l9L6-wQp3h-hmH7-nDMF8cL_GpDSdqiKTbIYHwAHxc8zncNZ-GwyFI64OGpOe0H0LNZVtUcd9ANriUte8EoOv5g4oxrNrVrdzj6G3KnoAYo2ebyzp2beLsLiF5NHsk_EhAetvHfy612wqyUyCxbeLtRGhT4cgIepJ9bo8vgamU2slQWfK_zOA",
+              "width": 2268
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105086079104773283388/photos\">Roderick Kar</a>"
+              ],
+              "photo_reference": "CmRaAAAAXbYh4Yd9k3X9W1QAnn-2vac5ERTqyqZV-EOoOwbdpWnByR4WzRahSOVTNqTpEA6HJJU3v95_Yd3Ur6WMxO-hQWL3dAFsEObtdq8b7zoYH-WoaHnvO0pwCCxhwwlmCw6IEhBl_8LWodNKo9F4zC4hLu_5GhTp8nFxcHPfyaeljuBbKgWzsgE8sA",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111875377290422564637/photos\">Stef Lynn</a>"
+              ],
+              "photo_reference": "CmRaAAAANW7HaZ4KN7TyndKkkGzcu2tZx-cwhmq4MXZ_FFA-r8JL_gWWCqEz1K-8NWAvxTlCB4i2Av59SmY5AgWS8W0YkcbZNS7qEao8Oy27D8uraRrv5BQO_SGoCT8J5mv-CmNIEhB12PzE9aIVtzK7jcvB3i-uGhRMmTA23KW8ZuQiYOnhmeEOjTceCg",
+              "width": 3024
+            },
+            {
+              "height": 1175,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112175795221739859188/photos\">Ricky Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAS8egcOn2s9RIPyjEvNyBOrUP_6YXfC1pNNAEhIAmMf3b5Oml-HiMsMLKX0oKkFiueOWqRRHNsTvw61zrqAVt-Gc42QW_BadzLu1IkQczwT8d-9aKojAum0_kWrgRNepwEhBf4NhTzD0mMOZsuJmL6zMKGhSiOkLOchlzSV_XA38jk_8tIlg_wA",
+              "width": 1600
+            },
+            {
+              "height": 5056,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107132172594690344085/photos\">Mark Anthony W</a>"
+              ],
+              "photo_reference": "CmRaAAAApu3360ifJlg2vigRfplWVxrXIe2oWAQijTOo7HFaDkPtsFHGXyRKvcfR0WQfR6GgWm9pa4l9XJm_iMCq4Szb03dK5EhmUZi8dr8P8OLdtKohIPpHQibWvPrKOrSvbQtcEhB5uZVmmGTjXhsxYVARNOYjGhQ0i81IcS7OHn0L0ixF03w_HtjAhw",
+              "width": 3792
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111789226002308728443/photos\">Terry Chui</a>"
+              ],
+              "photo_reference": "CmRaAAAAfPG_7TvgLWa85PLJtc45OnWLlVK02ixVumMVAjpWOTTOSgnsGc8ejrDOmSqxoIBIp0aEgT06Wz_mqCOUX9E73-SzKwOMcOpX3VWCg7zEcXGv4BRl7vvpuULjfQ3xIi1HEhCnX2QYpIKtSJjqgK9kBHlXGhTRKVgwLUbWQZa37-YOOuncUVBcrw",
+              "width": 3024
+            },
+            {
+              "height": 2340,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118307835926857111309/photos\">Peter Lo</a>"
+              ],
+              "photo_reference": "CmRaAAAAaPcVU57s4gDV3zoAyfZx7OACq0d5dp4tENKtD4PV4SW8cdBrHehmxJEUtH395kIGzGXXMKM6UTYh28ZqYFyynF9Pv7UZm88x5a8Q3eiwVKalSm80CZg1WANXmznUioTVEhBBW_LUbGg13R841wzwyMNlGhSWz9yVzRhIUzxmPoTQN8OiCfHHPw",
+              "width": 4160
+            },
+            {
+              "height": 2340,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118307835926857111309/photos\">Peter Lo</a>"
+              ],
+              "photo_reference": "CmRaAAAAOvHcGVAZjqoWYouOvSzU7jQpBckM-1mLkQ0O_9WCekpnBTvNhslMOYsIWKfRhHQ_nX6ZpBp2fpsu9OlKeAPvLtsIX9Ph8Hp3I7VZMKuodX7EhvYaaHq2P1I7_42HEyfIEhBPHDMoxYL2tXF6oC79TnbbGhR0vzoJkB1wPyHsJ4mGURJLlrrQMQ",
+              "width": 4160
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105086079104773283388/photos\">Roderick Kar</a>"
+              ],
+              "photo_reference": "CmRaAAAApCxCTZMzJtTZMz2jzPei70GDgFY7uIEsquxqM39G19wGf5paU2lwPp7AoI0FA8vsJ-cHSabbvFhrsjN15auC-YYrmAYTC3NpS8z378A3bVzUjGV--XlLcPx0cdmYSSYqEhD46fPolIFWsE7DNQ7XzvrTGhQts1R10xVF4q13xv-SuAkJ6DJU9Q",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105086079104773283388/photos\">Roderick Kar</a>"
+              ],
+              "photo_reference": "CmRaAAAAJ5hRDuiB4rxJ7ecbEDjtwQHxpg24Du_51pEUuvdMAcsco2te8b_xWF-jokb_cltaNZq-RrfeF_Tye6f0RRswS9pVByOKZaSDG87MOJYvlNzl9ngwZyPdEOBzQlmdkhJVEhB7LMSl1YdfZaSu-xZRCY91GhSkdKOlehvsBJPlgCLOVBfYWr8i_w",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJ3e8j81YABDQR3dBLvV7DMUA",
+          "plus_code": {
+            "compound_code": "75JM+GH \u9999\u6e2f",
+            "global_code": "7PJP75JM+GH"
+          },
+          "rating": 4.2,
+          "reference": "ChIJ3e8j81YABDQR3dBLvV7DMUA",
+          "reviews": [
+            {
+              "author_name": "Mark Anthony W",
+              "author_url": "https://www.google.com/maps/contrib/107132172594690344085/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-ePE7CceJ7tE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdgta7rWrsus2ZhvEY-9_-9ncmwAg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "8 \u500b\u6708\u524d",
+              "text": "Decent food with a very resonable price, service was really good.",
+              "time": 1542123207
+            },
+            {
+              "author_name": "steve park",
+              "author_url": "https://www.google.com/maps/contrib/111760485477255050048/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-FoxeVjXnbxY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reh7mGTn7rmOaqyDN98A_ARUmf6uA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "4 \u500b\u6708\u524d",
+              "text": "Great food and service.",
+              "time": 1554184398
+            },
+            {
+              "author_name": "Ricky Lai",
+              "author_url": "https://www.google.com/maps/contrib/112175795221739859188/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-N5xZ0HuvoMI/AAAAAAAAAAI/AAAAAAAAPeU/WIhuQT89dIQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u5e74\u524d",
+              "text": "The institute has been moved around in Causeway Bay a few times.  It has 2 restaurants (technically 3 but actually 2, One higher end and one casual).  There are many fancier JAPANESE restaurants in town but I will go this one for authentic JAPANESE food.  It\u2019s a membership club though.",
+              "time": 1518316487
+            },
+            {
+              "author_name": "Henry Chan",
+              "author_url": "https://www.google.com/maps/contrib/104767505692787591444/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-KUWw5EOiewY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdf1tuX7OpJAkh8yA2UNaQWtmM-qQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "9 \u500b\u6708\u524d",
+              "text": "Expansive genuine Japanese food even to its members.",
+              "time": 1540296084
+            },
+            {
+              "author_name": "Thomas Yeh",
+              "author_url": "https://www.google.com/maps/contrib/118357593794100794913/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-ESlfY9f8kK0/AAAAAAAAAAI/AAAAAAAAU18/iKAPnfioEag/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u5e74\u524d",
+              "text": "\u4e00\u6708\u4e8c\u5341\u4e94\u65e5\u665a\u4e0a\uff0c\u5728\u6b64\u53c3\u52a0\u516c\u53f8\u7684\u5e74\u7d42\u805a\u9910\uff0c\u98df\u7269\u4e0d\u932f\uff0c\u5834\u6240\u4e5f\u597d\u3002",
+              "time": 1517060489
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=4625693103956414685",
+          "user_ratings_total": 31,
+          "utc_offset": 480,
+          "vicinity": "902, Tower 535, 535 Jaffe Road, Causeway Bay",
+          "website": "http://www.hkjapaneseclub.org/en/"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -953,6 +1736,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

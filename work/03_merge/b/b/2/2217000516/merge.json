@@ -157,6 +157,147 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJX2EMn9VXATQRLa10-ybPu-c": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Mui Wo",
+              "short_name": "Mui Wo",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "1 Chung Hau Road, Mui Wo, Lantau Island, New Territories, <span class=\"locality\">Mui Wo</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "1 Chung Hau Road, Mui Wo, Lantau Island, New Territories, Mui Wo, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.267599,
+              "lng": 113.998039
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2689479802915,
+                "lng": 113.9993879802915
+              },
+              "southwest": {
+                "lat": 22.2662500197085,
+                "lng": 113.9966900197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "f6fbe67035a458e6bf98d6007a9111e172c7e42e",
+          "name": "\u5f97\u4ed4\u8a18(\u751f\u5229)",
+          "place_id": "ChIJX2EMn9VXATQRLa10-ybPu-c",
+          "plus_code": {
+            "compound_code": "7X9X+26 Hong Kong",
+            "global_code": "7PJM7X9X+26"
+          },
+          "reference": "ChIJX2EMn9VXATQRLa10-ybPu-c",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=16698167809740680493",
+          "utc_offset": 480,
+          "vicinity": "1 Chung Hau Road, Mui Wo, Lantau Island, New Territories"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJX2EMn9VXATQRLa10-ybPu-c",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Mui Wo",
+              "short_name": "Mui Wo",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "1 Chung Hau Road, Mui Wo, Lantau Island, New Territories, <span class=\"locality\">Mui Wo</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "1 Chung Hau Road, Mui Wo, Lantau Island, New Territories, Mui Wo, \u9999\u6e2f",
+          "geometry": {
+            "location": {
+              "lat": 22.267599,
+              "lng": 113.998039
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2689479802915,
+                "lng": 113.9993879802915
+              },
+              "southwest": {
+                "lat": 22.2662500197085,
+                "lng": 113.9966900197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "f6fbe67035a458e6bf98d6007a9111e172c7e42e",
+          "name": "\u5f97\u4ed4\u8a18(\u751f\u5229)",
+          "place_id": "ChIJX2EMn9VXATQRLa10-ybPu-c",
+          "plus_code": {
+            "compound_code": "7X9X+26 \u9999\u6e2f",
+            "global_code": "7PJM7X9X+26"
+          },
+          "reference": "ChIJX2EMn9VXATQRLa10-ybPu-c",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=16698167809740680493",
+          "utc_offset": 480,
+          "vicinity": "1 Chung Hau Road, Mui Wo, Lantau Island, New Territories"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -224,6 +365,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

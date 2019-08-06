@@ -423,6 +423,826 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJaX444zMBBDQR27wJNm43-P8": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "38\u865f",
+              "short_name": "38\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Wang Chiu Road",
+              "short_name": "Wang Chiu Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Kowloon Bay",
+              "short_name": "Kowloon Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">38\u865f Wang Chiu Rd</span>, <span class=\"locality\">Kowloon Bay</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "38\u865f Wang Chiu Rd, Kowloon Bay, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3198425,
+              "lng": 114.2085281
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3212233302915,
+                "lng": 114.2102093302915
+              },
+              "southwest": {
+                "lat": 22.3185253697085,
+                "lng": 114.2075113697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "e380afef381679f25515dad06dd2c91c9ca5d2ee",
+          "name": "\u4f01\u696d\u5ee3\u5834\u4e94\u671f",
+          "photos": [
+            {
+              "height": 3456,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117377762110860852590/photos\">SPCA663 Little B</a>"
+              ],
+              "photo_reference": "CmRaAAAA5_ZRgycP_kS5PpDgpi_kjOpfgYoGBhXPclzGmqNmIcSazYXZwU1cAtGkIJYg9WLyEHdvEZQvgGxtk-8cWWr_nkTGg282CNkWjlR-TIDXLudZSkvzG20i1XrBhtiuk70_EhB17cTLRe7Gex3Prcq-AjEQGhSOY07w9NmPOKsayP7DOG821fEg9A",
+              "width": 4608
+            }
+          ],
+          "place_id": "ChIJaX444zMBBDQR27wJNm43-P8",
+          "plus_code": {
+            "compound_code": "8695+WC Hong Kong",
+            "global_code": "7PJP8695+WC"
+          },
+          "rating": 4,
+          "reference": "ChIJaX444zMBBDQR27wJNm43-P8",
+          "reviews": [
+            {
+              "author_name": "SPCA663 Little B",
+              "author_url": "https://www.google.com/maps/contrib/117377762110860852590/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-zoB0Xi2JM8k/AAAAAAAAAAI/AAAAAAAAAzE/gw8Cf-2YTPo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "9 months ago",
+              "text": "A very nice place.",
+              "time": 1540453833
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=18444553220388404443",
+          "user_ratings_total": 1,
+          "utc_offset": 480,
+          "vicinity": "38\u865f Wang Chiu Road, Kowloon Bay"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJaX444zMBBDQR27wJNm43-P8",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "38\u865f",
+              "short_name": "38\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5b8f\u7167\u9053",
+              "short_name": "\u5b8f\u7167\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d\u7063",
+              "short_name": "\u4e5d\u9f8d\u7063",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u4e5d\u9f8d\u7063</span><span class=\"street-address\">\u5b8f\u7167\u905338\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u4e5d\u9f8d\u7063\u5b8f\u7167\u905338\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.3198425,
+              "lng": 114.2085281
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3212233302915,
+                "lng": 114.2102093302915
+              },
+              "southwest": {
+                "lat": 22.3185253697085,
+                "lng": 114.2075113697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "e380afef381679f25515dad06dd2c91c9ca5d2ee",
+          "name": "\u4f01\u696d\u5ee3\u5834\u4e94\u671f",
+          "photos": [
+            {
+              "height": 3456,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117377762110860852590/photos\">SPCA663 Little B</a>"
+              ],
+              "photo_reference": "CmRaAAAAvK1TsXHcM6sKdB6c5LMNlLmXbCygchH4sluGjEnwk3KU0AyUxVyfdRYspbKJK6uC2s1dZnyMDJG87x6WNQFEKX_5XbCCh14gcQpyAJDa6RUY3QZlXvq4ycBekgRFw534EhA3pJpcT2tAcxceppKYYNfsGhRFVmzvvkrg4Ej-k0kdt08o6F23Fg",
+              "width": 4608
+            }
+          ],
+          "place_id": "ChIJaX444zMBBDQR27wJNm43-P8",
+          "plus_code": {
+            "compound_code": "8695+WC \u9999\u6e2f",
+            "global_code": "7PJP8695+WC"
+          },
+          "rating": 4,
+          "reference": "ChIJaX444zMBBDQR27wJNm43-P8",
+          "reviews": [
+            {
+              "author_name": "SPCA663 Little B",
+              "author_url": "https://www.google.com/maps/contrib/117377762110860852590/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-zoB0Xi2JM8k/AAAAAAAAAAI/AAAAAAAAAzE/gw8Cf-2YTPo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "9 \u500b\u6708\u524d",
+              "text": "A very nice place.",
+              "time": 1540453833
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=18444553220388404443",
+          "user_ratings_total": 1,
+          "utc_offset": 480,
+          "vicinity": "\u4e5d\u9f8d\u7063\u5b8f\u7167\u905338\u865f"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJt-02_TMBBDQRnz46HcTz4Nw": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Wang Chiu Road",
+              "short_name": "Wang Chiu Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Kowloon Bay",
+              "short_name": "Kowloon Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">Hong Kong</span>, <span class=\"locality\">Kowloon Bay</span>, <span class=\"street-address\">Wang Chiu Rd</span>, 38\u865f\u4f01\u696d\u5ee3\u58345\u671fMegaBox 9\u6a1325\u865f\u8216",
+          "formatted_address": "Hong Kong, Kowloon Bay, Wang Chiu Rd, 38\u865f\u4f01\u696d\u5ee3\u58345\u671fMegaBox 9\u6a1325\u865f\u8216",
+          "formatted_phone_number": "2761 9188",
+          "geometry": {
+            "location": {
+              "lat": 22.3196695,
+              "lng": 114.2086158
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3207688802915,
+                "lng": 114.2098909302915
+              },
+              "southwest": {
+                "lat": 22.3180709197085,
+                "lng": 114.2071929697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "784b1aeaeb2234ec1c94a5397f28345db97743cf",
+          "international_phone_number": "+852 2761 9188",
+          "name": "Kokonoi Sushi Restaurant",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1130"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 11:30 AM \u2013 10:00 PM",
+              "Tuesday: 11:30 AM \u2013 10:00 PM",
+              "Wednesday: 11:30 AM \u2013 10:00 PM",
+              "Thursday: 11:30 AM \u2013 10:00 PM",
+              "Friday: 11:30 AM \u2013 10:00 PM",
+              "Saturday: 11:30 AM \u2013 10:00 PM",
+              "Sunday: 11:30 AM \u2013 10:00 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114574331091620258237/photos\">hin Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAjjeuZMWyrKI6dXiN83UM5Y5-rAHUUw4efS1fQX4JddKJfDffJcyHhSxnXl2WmKyXT0taifoUA830kjH4wHdzRkLQYylx3cB019IDwgxPGdp6Gbdz0gMkzBSUx9FZ-Bs2EhA6XSrneOW3Hdz4az0y4PSeGhQhzDNU7XirR3sbVjknHokXu7RM-g",
+              "width": 5333
+            },
+            {
+              "height": 2976,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141/photos\">Melody MeOw</a>"
+              ],
+              "photo_reference": "CmRaAAAAm_8kW_rvUyVIrRGDnjTXQkyIcGn7l4LlLbLah_kXl7kUz3ZuLYVnC907ZzKqlLIhZDdp4_DT32gnoufTE-pa7lDVyDn5mEadTHrtLpHStl-Di2vKktKkhawzZeU1akEMEhAHaTU39fuNtuBe_1dfvZPbGhTORLfXteKUdLYqhFmrHp90SQy1Ww",
+              "width": 3968
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100294043195766830151/photos\">Kelvin Li</a>"
+              ],
+              "photo_reference": "CmRaAAAA1scqoUV8jTNqRcrOHQHBXius4020w1p_LvdPilUt3oKBDTp9dyPPe-Y34y5_Q9y8VTdbUVq-2_nr-WDdVtUtsQaKGP3KudLvc_X2CrHU-II7Jn0CIeUebG_VQlrHc6jxEhB1HgLPbwTYhQTMYT4xZNVAGhSeFakmlFfcyXJSBzC7SE1gRnFaLg",
+              "width": 4608
+            },
+            {
+              "height": 2134,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115072062931770763639/photos\">Adrian Lo</a>"
+              ],
+              "photo_reference": "CmRaAAAAOT8fDeZC88ZP9TMDSGGcK72ofu-PAUejefZcNTIagVVFR86-JNDLZ9DhqleYO2JZXicqAdHrb507Ag68BJHtL8Yi9hhRFao1FHonwgzE3RamlbpZ1Si-WnAQjRxq0ELOEhCBwJwwkSwDfPGDTBm8Bdt_GhTWocajSdfvea7totCE6ZBpA-DDXg",
+              "width": 4032
+            },
+            {
+              "height": 3492,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141/photos\">Melody MeOw</a>"
+              ],
+              "photo_reference": "CmRaAAAA0tXrLkBEJh3yI1sMnW-QPaqojM7MWiTda2d5fZqcvCchUxaT3TOz1Cf44dDu-RutrxgBqcE68BF-qMc6j8ZleN-wt1rUD8g78Yc4fH8-YZpo4H_A5M_af0d__Wv_sCA9EhAPnMgUkeNFIiw1tRWWBXWJGhTt7zJYjb8MkzLpVy8y-CRY0ejZDg",
+              "width": 4656
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113771313303477349199/photos\">Mocha Wong</a>"
+              ],
+              "photo_reference": "CmRaAAAACdYrbARICRJfSNgNoN6ebYS2t4rtXdEJer7zN_44J42Khacu-GVIiyTPqBNFfNeyVo7uteO0lROHKRTmJ1bVNJ_KI_6oeZiMK8pHJkT-jUf1cfWeKFlFGj8s5AX9CSesEhC2XrdSez2bAzLbGfIngIR1GhQsbg3BDuCGPBOBD7-RaUEDMrcebw",
+              "width": 4032
+            },
+            {
+              "height": 2250,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111459813153276644913/photos\">Nelson Yiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAeEuFK_FnLpIQH5I4GeD-t_DXJoWCXeTTLgJlr5Mohu7t6iDVAjogUrYvzrKMn0u2A8pFqzkKsGJ-96TOI6BY2-GZ2LSi969gfq05l6hDOpVEJi-uNZFMI33zQb_fdYSxEhAo3pB4t0wvuF8p3MunYlKuGhTZumSBBGV2xvEun4iq64lVqs4IWw",
+              "width": 4000
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110161015777013575518/photos\">Hiu Ching Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAA1S2sgc-RmUWcrBup_krTp1C-y01pcq07-pdhTtq-WtjstUD1KGjhDc2drdXO2OWyE6Sktu2cLv8Hr84-FVFoJeyRlB6rGSdagldz0tmjdPeALn2hMQvCc3tM2p_LhzoBEhCdTcZEzNPVgk4YORQUhpjGGhRaeq4fjTLW0lsVMojD8yCOHI6v_g",
+              "width": 4032
+            },
+            {
+              "height": 3968,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114319191094573625670/photos\">Alessandro Battorti</a>"
+              ],
+              "photo_reference": "CmRaAAAAWi08eDQY1VPYGmQ5575ISA6_Q0JbP-9lpIWPiAUXZXVhgHFrDPNys_EHyEmRTBtbpDFdJVwfAML5BGCdnb7cPP0kGCPSBPYkCaPOtgaxbh7M76GSAlfx_bsXtjtRy6OEEhBOkxKMZrI-sVzubwTLZld4GhSpE3BsEyxnGLIOtXyM-JvypCGUyA",
+              "width": 2976
+            },
+            {
+              "height": 3492,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141/photos\">Melody MeOw</a>"
+              ],
+              "photo_reference": "CmRaAAAATBew7pO9JjcJRphJYHIyx03CSTlpj_BFWItiTsoR4NAVbZpz1T3knh0tDbGKZdjO24uN_nptEBm3qp-pC98L-5HJu_xo-efszRf3aElM5hNgQmxbnNa_8ryYJKRrmLKeEhCvfd3-xfDPbQ0_Lrjopw2OGhR7bGLmnRdUw1YFdGUjMK1Ku8Qs-w",
+              "width": 4656
+            }
+          ],
+          "place_id": "ChIJt-02_TMBBDQRnz46HcTz4Nw",
+          "plus_code": {
+            "compound_code": "8695+VC Hong Kong",
+            "global_code": "7PJP8695+VC"
+          },
+          "rating": 3.7,
+          "reference": "ChIJt-02_TMBBDQRnz46HcTz4Nw",
+          "reviews": [
+            {
+              "author_name": "Tor Chiu",
+              "author_url": "https://www.google.com/maps/contrib/109139831390132108492/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-skILHBbUB0A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfcKwQYZPRQVFHRr0pWiMCaOuHZHw/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "3 weeks ago",
+              "text": "Pretty poor. Food is passable quality but to 3 expensive for what it is. Don't come here for the food. The only reason to come here is to entertain your toddler for a while. The tuna roll had disintegrated even before I picked it up to eat it.",
+              "time": 1562671676
+            },
+            {
+              "author_name": "Karen Almarez",
+              "author_url": "https://www.google.com/maps/contrib/116445138179761722177/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-KLe8_S0eFdc/AAAAAAAAAAI/AAAAAAAAAgs/x7EAbPXPKZE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "3 weeks ago",
+              "text": "Nice food. innovative way of serving food. \ud83d\udc4d",
+              "time": 1562762156
+            },
+            {
+              "author_name": "Rocky Lim",
+              "author_url": "https://www.google.com/maps/contrib/102224750751316266017/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-DVr37Gx3rSM/AAAAAAAAAAI/AAAAAAACAAY/XkkJXTKWLRk/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "4 months ago",
+              "text": "Weekday Lunch set at around 58 to 78 which is reasonable nearby these area.",
+              "time": 1553494297
+            },
+            {
+              "author_name": "Martin Lam",
+              "author_url": "https://www.google.com/maps/contrib/115663718129313869404/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-ULt3fZnjG0w/AAAAAAAAAAI/AAAAAAAAAVI/o5UOyaj4WYQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "4 months ago",
+              "text": "The food is tasty and surprised to get a free drink",
+              "time": 1553613081
+            },
+            {
+              "author_name": "Gma chacha",
+              "author_url": "https://www.google.com/maps/contrib/102451270327597967455/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-aWdKOihwKqY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rejRAEEXXpu3IoTOokxIa2lx7-a7A/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a week ago",
+              "text": "Kids love it.",
+              "time": 1564145918
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=15915989106756828831",
+          "user_ratings_total": 176,
+          "utc_offset": 480,
+          "vicinity": "38\u865f\u4f01\u696d\u5ee3\u58345\u671fMegaBox 9\u6a1325\u865f\u8216, Wang Chiu Road, Kowloon Bay",
+          "website": "https://www.facebook.com/KokonoiSushi/"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJt-02_TMBBDQRnz46HcTz4Nw",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5b8f\u7167\u9053",
+              "short_name": "\u5b8f\u7167\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d\u7063",
+              "short_name": "\u4e5d\u9f8d\u7063",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u4e5d\u9f8d\u7063</span><span class=\"street-address\">\u5b8f\u7167\u9053</span>38\u865f\u4f01\u696d\u5ee3\u58345\u671fMegaBox 9\u6a1325\u865f\u8216",
+          "formatted_address": "\u9999\u6e2f\u4e5d\u9f8d\u7063\u5b8f\u7167\u905338\u865f\u4f01\u696d\u5ee3\u58345\u671fMegaBox 9\u6a1325\u865f\u8216",
+          "formatted_phone_number": "2761 9188",
+          "geometry": {
+            "location": {
+              "lat": 22.3196695,
+              "lng": 114.2086158
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3207688802915,
+                "lng": 114.2098909302915
+              },
+              "southwest": {
+                "lat": 22.3180709197085,
+                "lng": 114.2071929697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "784b1aeaeb2234ec1c94a5397f28345db97743cf",
+          "international_phone_number": "+852 2761 9188",
+          "name": "\u4e5d\u4e95\u58fd\u53f8",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1130"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2200"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1130"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 11:30 \u2013 22:00",
+              "\u661f\u671f\u4e8c: 11:30 \u2013 22:00",
+              "\u661f\u671f\u4e09: 11:30 \u2013 22:00",
+              "\u661f\u671f\u56db: 11:30 \u2013 22:00",
+              "\u661f\u671f\u4e94: 11:30 \u2013 22:00",
+              "\u661f\u671f\u516d: 11:30 \u2013 22:00",
+              "\u661f\u671f\u65e5: 11:30 \u2013 22:00"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114574331091620258237/photos\">hin Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAVXWvkqwckWCq2ccyWC3lgdVRryiFA_EjAjW7uqymphy-55edbFzihYc3klWU-w86gXS_qwqrP2RYqySCWCgzKAhRrRu_pKHgJFocsEDw5mW3ewJylMH_IrgY6TooHKtdEhByCn0fI3FuaML1Q5yyePQNGhRWIryY_TJqhfS_fMxgceMZb5MaTQ",
+              "width": 5333
+            },
+            {
+              "height": 2976,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141/photos\">Melody MeOw</a>"
+              ],
+              "photo_reference": "CmRaAAAAwxdp-d333i7-jFRodK0Xc78lhpHsCDpe1fbFrwy33e-tPO7nwVWHOEMFTsg9gvrzOTz94n6Kqnlzjd_Pk1Nb_LSBl1gJTzAHaLAYfgZrp3HMToDj5AoG5obTxWia9RxKEhAfexD_DdMXaO-MAvV3pYuPGhTZ9h-ecvmG0KN8z5tzIEPRO9NOww",
+              "width": 3968
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100294043195766830151/photos\">Kelvin Li</a>"
+              ],
+              "photo_reference": "CmRaAAAAaYnHhaOfZm28VG9rHCse2GYZf0pgGlu9hwqpOmG4YX2GR3JNR1qMnbdbbcM1P3kiB8SUKViK9NYHQiH2vhlgXF7TuwO0GATMpo7_pDJ8VB9NjZajwNwKHrg8d6OqyWihEhCugRGqkJx5TDyoBqZWKULeGhRugHkIee6hAsEW4brN6VoylynqoQ",
+              "width": 4608
+            },
+            {
+              "height": 2134,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115072062931770763639/photos\">Adrian Lo</a>"
+              ],
+              "photo_reference": "CmRaAAAAykLXJTtB497mF-msi3okYlaDLMVuDT4sbuc45Mp89EVtXG_ruphrrOZBD4U41UCmlwwz23-qpYtpQkkhFdGFiIQda_YOQ0N73UCBFrulEqmP9lkCOhaP-8SZVNPcqipqEhDlLGugnr7O_Iv3A_KVmpwgGhQaVL-tjwvYC7zk96WuOufFHtQGSg",
+              "width": 4032
+            },
+            {
+              "height": 3492,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141/photos\">Melody MeOw</a>"
+              ],
+              "photo_reference": "CmRaAAAAe6dFVGOZQ8C1A1iZnEJNSpkAvrd1VXe6-Cog_M9Xys1dwQqbgQHo1_csXnN4JZVpqcfZmx6Sg6O_hfWY-FmXSKyhorbIx-Qe1MsYAA3HP4xF6dFXGhcu4KSif9ra72qxEhC7XvjEidyTK210HWyoeF4BGhR9zAJm4OMCddw3S_6DNVonkoAqFg",
+              "width": 4656
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113771313303477349199/photos\">Mocha Wong</a>"
+              ],
+              "photo_reference": "CmRaAAAABPJE3HKPM2ezLFFnoN4z5pMG5l6KTQ_Nq4OX5qUwTPcCdN4BjBMRq9ii2AAhJfx8yYRDGMWArj8yuyr3Zpg_G6n_FUZI-lbwSGs47BpO2geZlAhatev_LbVhvbAxC1hBEhBt08MK3GTtJG14_4wS56-dGhSMmzVN4qeJ7Ovc75H3BIPB5hUxwg",
+              "width": 4032
+            },
+            {
+              "height": 2250,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111459813153276644913/photos\">Nelson Yiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAZJ7n0GxsubEWhGD8jlonjsJO6w5atsLdichtfegEfsxgm273QFafNiqLRfQmTwO0SaAlfrcwUOYYrizQNRrMf6xg655uTFFTv3NT52pj8jypClM-kI3DREpwi-P-6vHmEhDWFvuhtIOQmSKFm70yM2ikGhQyxxTUXmKMRGfF8kABM87Sc78eBw",
+              "width": 4000
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110161015777013575518/photos\">Hiu Ching Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAAMInKlqbxQ8Sw58hhCJthksJ_0Kl43bEgVylnHYtFtIuEk7un66zL0iJCL0488LPGErNemxXwip2A46MlKgt2GpfCa6hbnLJg4bTvJeKGvpu3Ly1XgwySCgzzGlENXv4UEhCiTUBkv_0VMDSKOoB5fiY_GhRBaW2g1038qUBcS3DAhqR5VwkSfQ",
+              "width": 4032
+            },
+            {
+              "height": 3968,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114319191094573625670/photos\">Alessandro Battorti</a>"
+              ],
+              "photo_reference": "CmRaAAAAzYaVkdz87CWR6hip03gm3XJzEwrlQ9ul_FI6yOXfzNoV9fyjRxsdEgggtmTu9_1kPM_H1GIFuOfvNw2sJ-HNE9rfBBD9YNgl0BmbaJwL-SkJVeCwh0R8lyGOtj1HpQkiEhCPQRO4Cz5DSLrqg8riAxjbGhQk7ATQ-5XdlIN_m_cB8PWM6z4i3Q",
+              "width": 2976
+            },
+            {
+              "height": 3492,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141/photos\">Melody MeOw</a>"
+              ],
+              "photo_reference": "CmRaAAAAEX-juGAt7Av9yTwMJRdjsUCdKZd8zaNuEswdvlgzZ66uezqeTprBEu0RWPoWn4dZxhpNeunrV4OvFsR4JJ_p4rFBRliTbKo2Bw8gJyE1MhnY0ty9J-dcSCLVwNe2c-ptEhAmJL8Vzfxf2gQQ0sPtRtq7GhTrGqTMnbq1m0pW_s-2I7jG0gIqsQ",
+              "width": 4656
+            }
+          ],
+          "place_id": "ChIJt-02_TMBBDQRnz46HcTz4Nw",
+          "plus_code": {
+            "compound_code": "8695+VC \u9999\u6e2f",
+            "global_code": "7PJP8695+VC"
+          },
+          "rating": 3.7,
+          "reference": "ChIJt-02_TMBBDQRnz46HcTz4Nw",
+          "reviews": [
+            {
+              "author_name": "Alessandro Battorti",
+              "author_url": "https://www.google.com/maps/contrib/114319191094573625670/reviews",
+              "language": "it",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-tWlzXx9rHsk/AAAAAAAAAAI/AAAAAAAAAPc/dEz0Tlj_XrM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "Simpaticissimo ristorante di suschi all'interno del centro commerciale MEGA CUBE, cibo di ottima qualit\u00e0, si prenota con il tablet e i piatti arrivano attraverso un nastro oppure un treno dalla forma dell'alta velocit\u00e0... Veloce, curato... Inoltre un rubinetto con acqua calda posizionato a lato del tavolo ti permette di avere sempre il the a disposizione, molto buono anche quello... Da provare.. Magari con i bambini..",
+              "time": 1562220714
+            },
+            {
+              "author_name": "kelvinTM",
+              "author_url": "https://www.google.com/maps/contrib/116998837005995175357/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-m3wuuWi1Cks/AAAAAAAAAAI/AAAAAAAAQJ4/LZHhxtBesIk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "2 \u500b\u6708\u524d",
+              "text": "\u5c0d\u65bc\u73fe\u6642\u7684\u7d93\u71df\u65b9\u5f0f\uff0c\u8ca0\u8cac\u6559\u6388\u65b0\u4eba\u7684\u71df\u904b\u7d93\u7406\u5289\u5cb8\u79c0\u4fdd\u8b49\u54c1\u8cea\u4e0d\u8b8a\u3002\u4ed6\u8aaa\uff0c\u751f\u714e\u5305\u76ae\u7684\u539a\u5ea6\u3001\u5927\u5c0f\u7b49\u5747\u6709\u6307\u6a19\uff0c\u6bcf\u6240\u5206\u5e97\u7684\u7210\u5177\u4e5f\u6709\u898f\u5b9a\uff0c\u81ea\u5df1\u66f4\u6bcf\u65e5\u5230\u4e00\u9593\u5206\u5e97\u4e86\u89e3",
+              "time": 1557936985
+            },
+            {
+              "author_name": "Hannie Chu",
+              "author_url": "https://www.google.com/maps/contrib/118003847396082262975/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-CNqOQjv-2HA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfdUXoKrzfdWCOFUM-qWQ6J29f1iQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 1,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u98df\u5230\u809a\u67ef\uff0c\u98df\u7269\u5514\u65b0\u9bae\uff0c\u98ef\u4e00\u4fc2\u53c8\u6fd5\u53c8\u6797\uff0c\u4e00\u4fc2\u786c\u5230\u54ac\u5514\u5230\uff0c\u61c9\u8a72\u4fc2\u525b\u716e\u597d\u65e2\u98efmix\u57cb\u9694\u591c\u98ef\uff0c\u50f9\u9322\u504f\u9ad8",
+              "time": 1557034980
+            },
+            {
+              "author_name": "Joe Chan",
+              "author_url": "https://www.google.com/maps/contrib/115324397317514300324/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-TjfamLWS0Fg/AAAAAAAAAAI/AAAAAAAAAS8/7hFxtz09KHg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "\u98df\u7269\u7a2e\u985e\u6bd4\u8f03\u5c11\uff0c\u50f9\u683c\u5408\u7406\uff0c\u81ea\u52d5\u9001\u9910\u662f\u8ce3\u9ede\u3002",
+              "time": 1561347552
+            },
+            {
+              "author_name": "WilL CC",
+              "author_url": "https://www.google.com/maps/contrib/105320327627793213448/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-ohU3ZUCQqvU/AAAAAAAAAAI/AAAAAAAAemk/gi7-mOiycNg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "\u672c\u661f\u671f",
+              "text": "\u98df\u7269\u6c34\u6e96\u4e0d\u932f\uff0c\u5c24\u5176\u662f\u70b8\u7269",
+              "time": 1564844478
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=15915989106756828831",
+          "user_ratings_total": 176,
+          "utc_offset": 480,
+          "vicinity": "38\u865f\u4f01\u696d\u5ee3\u58345\u671fMegaBox 9\u6a1325\u865f\u8216, \u5b8f\u7167\u9053, \u4e5d\u9f8d\u7063",
+          "website": "https://www.facebook.com/KokonoiSushi/"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -722,6 +1542,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

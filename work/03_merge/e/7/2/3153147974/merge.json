@@ -215,6 +215,149 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJo0CCFd0GBDQRPtaTnpgLxFc": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Yuk Wah Crescent",
+              "short_name": "Yuk Wah Cres",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsz Wan Shan",
+              "short_name": "Tsz Wan Shan",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">Yuk Wah Cres</span>, <span class=\"locality\">Tsz Wan Shan</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Yuk Wah Cres, Tsz Wan Shan, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.346706,
+              "lng": 114.20193
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3480549802915,
+                "lng": 114.2032789802915
+              },
+              "southwest": {
+                "lat": 22.34535701970849,
+                "lng": 114.2005810197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "16187bb8148b6a6d91cd180c0897422c67405b75",
+          "name": "Yuk Wah Crescent",
+          "place_id": "ChIJo0CCFd0GBDQRPtaTnpgLxFc",
+          "reference": "ChIJo0CCFd0GBDQRPtaTnpgLxFc",
+          "scope": "GOOGLE",
+          "types": [
+            "route"
+          ],
+          "url": "https://maps.google.com/?q=Yuk+Wah+Cres,+Tsz+Wan+Shan,+Hong+Kong&ftid=0x340406dd158240a3:0x57c40b989e93d63e",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJo0CCFd0GBDQRPtaTnpgLxFc",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u6bd3\u83ef\u91cc",
+              "short_name": "\u6bd3\u83ef\u91cc",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u6148\u96f2\u5c71",
+              "short_name": "\u6148\u96f2\u5c71",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u6148\u96f2\u5c71</span><span class=\"street-address\">\u6bd3\u83ef\u91cc</span>",
+          "formatted_address": "\u9999\u6e2f\u6148\u96f2\u5c71\u6bd3\u83ef\u91cc",
+          "geometry": {
+            "location": {
+              "lat": 22.346706,
+              "lng": 114.20193
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3480549802915,
+                "lng": 114.2032789802915
+              },
+              "southwest": {
+                "lat": 22.34535701970849,
+                "lng": 114.2005810197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "16187bb8148b6a6d91cd180c0897422c67405b75",
+          "name": "\u6bd3\u83ef\u91cc",
+          "place_id": "ChIJo0CCFd0GBDQRPtaTnpgLxFc",
+          "reference": "ChIJo0CCFd0GBDQRPtaTnpgLxFc",
+          "scope": "GOOGLE",
+          "types": [
+            "route"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E6%85%88%E9%9B%B2%E5%B1%B1%E6%AF%93%E8%8F%AF%E9%87%8C&ftid=0x340406dd158240a3:0x57c40b989e93d63e",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -283,6 +426,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

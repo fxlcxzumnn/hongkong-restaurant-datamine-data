@@ -182,6 +182,366 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJM7EZUAwBBDQRtte49N5pQxU": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u865f\u5730\u4e0b",
+              "short_name": "\u865f\u5730\u4e0b",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "27",
+              "short_name": "27",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6d77\u7063\u8857",
+              "short_name": "\u6d77\u7063\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u9c02\u9b5a\u6d8c",
+              "short_name": "\u9c02\u9b5a\u6d8c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">Hong Kong</span>, <span class=\"locality\">\u9c02\u9b5a\u6d8c</span><span class=\"street-address\">\u6d77\u7063\u885727\u865f</span>\u865f\u5730\u4e0b",
+          "formatted_address": "Hong Kong, \u9c02\u9b5a\u6d8c\u6d77\u7063\u885727\u865f\u865f\u5730\u4e0b",
+          "formatted_phone_number": "2142 7011",
+          "geometry": {
+            "location": {
+              "lat": 22.2879003,
+              "lng": 114.2119819
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2892492802915,
+                "lng": 114.2131394302915
+              },
+              "southwest": {
+                "lat": 22.2865513197085,
+                "lng": 114.2104414697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "d3ff5d8ba8e253470521469991fc0427b11709e8",
+          "international_phone_number": "+852 2142 7011",
+          "name": "Pho Saigon",
+          "place_id": "ChIJM7EZUAwBBDQRtte49N5pQxU",
+          "plus_code": {
+            "compound_code": "76Q6+5Q Hong Kong",
+            "global_code": "7PJP76Q6+5Q"
+          },
+          "reference": "ChIJM7EZUAwBBDQRtte49N5pQxU",
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1532184704545511350",
+          "utc_offset": 480,
+          "vicinity": "\u9c02\u9b5a\u6d8c\u6d77\u7063\u885727\u865f\u865f\u5730\u4e0b"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJM7EZUAwBBDQRtte49N5pQxU",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u865f\u5730\u4e0b",
+              "short_name": "\u865f\u5730\u4e0b",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "27",
+              "short_name": "27",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6d77\u7063\u8857",
+              "short_name": "\u6d77\u7063\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u9c02\u9b5a\u6d8c",
+              "short_name": "\u9c02\u9b5a\u6d8c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u9c02\u9b5a\u6d8c</span><span class=\"street-address\">\u6d77\u7063\u885727\u865f</span>\u865f\u5730\u4e0b",
+          "formatted_address": "\u9999\u6e2f\u9c02\u9b5a\u6d8c\u6d77\u7063\u885727\u865f\u865f\u5730\u4e0b",
+          "formatted_phone_number": "2142 7011",
+          "geometry": {
+            "location": {
+              "lat": 22.2879003,
+              "lng": 114.2119819
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2892492802915,
+                "lng": 114.2131394302915
+              },
+              "southwest": {
+                "lat": 22.2865513197085,
+                "lng": 114.2104414697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "d3ff5d8ba8e253470521469991fc0427b11709e8",
+          "international_phone_number": "+852 2142 7011",
+          "name": "Pho Saigon",
+          "place_id": "ChIJM7EZUAwBBDQRtte49N5pQxU",
+          "plus_code": {
+            "compound_code": "76Q6+5Q \u9999\u6e2f",
+            "global_code": "7PJP76Q6+5Q"
+          },
+          "reference": "ChIJM7EZUAwBBDQRtte49N5pQxU",
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1532184704545511350",
+          "utc_offset": 480,
+          "vicinity": "\u9c02\u9b5a\u6d8c\u6d77\u7063\u885727\u865f\u865f\u5730\u4e0b"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "ChIJpS_cUAwBBDQR5lxxfm3qlTA": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Hoi Wan Building",
+              "short_name": "Hoi Wan Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "9-29",
+              "short_name": "9-29",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Hoi Wan Street",
+              "short_name": "Hoi Wan St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Quarry Bay",
+              "short_name": "Quarry Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Hoi Wan Building, <span class=\"street-address\">9-29 Hoi Wan St</span>, <span class=\"locality\">Quarry Bay</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Hoi Wan Building, 9-29 Hoi Wan St, Quarry Bay, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2878139,
+              "lng": 114.2117901
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2891628802915,
+                "lng": 114.2130435302915
+              },
+              "southwest": {
+                "lat": 22.2864649197085,
+                "lng": 114.2103455697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "b8b648e29c5c6f3a475362e497a946ce9a54fe7d",
+          "name": "Hoi Wan Building",
+          "place_id": "ChIJpS_cUAwBBDQR5lxxfm3qlTA",
+          "reference": "ChIJpS_cUAwBBDQR5lxxfm3qlTA",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Hoi+Wan+Building&ftid=0x3404010c50dc2fa5:0x3095ea6d7e715ce6",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJpS_cUAwBBDQR5lxxfm3qlTA",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u6d77\u7063\u5927\u5ec8",
+              "short_name": "\u6d77\u7063\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "9-29",
+              "short_name": "9-29",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6d77\u7063\u8857",
+              "short_name": "\u6d77\u7063\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u9c02\u9b5a\u6d8c",
+              "short_name": "\u9c02\u9b5a\u6d8c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u9c02\u9b5a\u6d8c</span><span class=\"street-address\">\u6d77\u7063\u88579-29\u865f</span>\u6d77\u7063\u5927\u5ec8",
+          "formatted_address": "\u9999\u6e2f\u9c02\u9b5a\u6d8c\u6d77\u7063\u88579-29\u865f\u6d77\u7063\u5927\u5ec8",
+          "geometry": {
+            "location": {
+              "lat": 22.2878139,
+              "lng": 114.2117901
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2891628802915,
+                "lng": 114.2130435302915
+              },
+              "southwest": {
+                "lat": 22.2864649197085,
+                "lng": 114.2103455697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "b8b648e29c5c6f3a475362e497a946ce9a54fe7d",
+          "name": "\u6d77\u7063\u5927\u5ec8",
+          "place_id": "ChIJpS_cUAwBBDQR5lxxfm3qlTA",
+          "reference": "ChIJpS_cUAwBBDQR5lxxfm3qlTA",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E6%B5%B7%E7%81%A3%E5%A4%A7%E5%BB%88&ftid=0x3404010c50dc2fa5:0x3095ea6d7e715ce6",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -274,6 +634,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

@@ -215,6 +215,149 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJ94Ho_YxWATQRT3MIlGnFQEc": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Pak She Sixth Lane",
+              "short_name": "Pak She Sixth Ln",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Cheung Chau",
+              "short_name": "Cheung Chau",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">Pak She Sixth Ln</span>, <span class=\"locality\">Cheung Chau</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Pak She Sixth Ln, Cheung Chau, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2115,
+              "lng": 114.0277629
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2128489802915,
+                "lng": 114.0291118802915
+              },
+              "southwest": {
+                "lat": 22.21015101970849,
+                "lng": 114.0264139197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "574d701ffb2299924511de2e00e66ca2e852d34a",
+          "name": "Pak She Sixth Lane",
+          "place_id": "ChIJ94Ho_YxWATQRT3MIlGnFQEc",
+          "reference": "ChIJ94Ho_YxWATQRT3MIlGnFQEc",
+          "scope": "GOOGLE",
+          "types": [
+            "route"
+          ],
+          "url": "https://maps.google.com/?q=Pak+She+Sixth+Ln,+Cheung+Chau,+Hong+Kong&ftid=0x3401568cfde881f7:0x4740c5699408734f",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJ94Ho_YxWATQRT3MIlGnFQEc",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5317\u793e\u516d\u91cc",
+              "short_name": "\u5317\u793e\u516d\u91cc",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u9577\u6d32",
+              "short_name": "\u9577\u6d32",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u9577\u6d32</span><span class=\"street-address\">\u5317\u793e\u516d\u91cc</span>",
+          "formatted_address": "\u9999\u6e2f\u9577\u6d32\u5317\u793e\u516d\u91cc",
+          "geometry": {
+            "location": {
+              "lat": 22.2115,
+              "lng": 114.0277629
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2128489802915,
+                "lng": 114.0291118802915
+              },
+              "southwest": {
+                "lat": 22.21015101970849,
+                "lng": 114.0264139197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "574d701ffb2299924511de2e00e66ca2e852d34a",
+          "name": "\u5317\u793e\u516d\u91cc",
+          "place_id": "ChIJ94Ho_YxWATQRT3MIlGnFQEc",
+          "reference": "ChIJ94Ho_YxWATQRT3MIlGnFQEc",
+          "scope": "GOOGLE",
+          "types": [
+            "route"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E9%95%B7%E6%B4%B2%E5%8C%97%E7%A4%BE%E5%85%AD%E9%87%8C&ftid=0x3401568cfde881f7:0x4740c5699408734f",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -283,6 +426,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

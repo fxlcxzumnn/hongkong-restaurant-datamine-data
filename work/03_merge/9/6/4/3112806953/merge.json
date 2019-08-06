@@ -164,6 +164,346 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "EjHlnLDkuIsg6aCG55m8LCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN5Zyw5LiLIOmghueZvA": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0b \u9806\u767c",
+              "short_name": "\u5730\u4e0b \u9806\u767c",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "3",
+              "short_name": "3",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Shepherd Street",
+              "short_name": "Shepherd St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tai Hang",
+              "short_name": "Tai Hang",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u5730\u4e0b \u9806\u767c, <span class=\"street-address\">3 Shepherd St</span>, <span class=\"locality\">Tai Hang</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u5730\u4e0b \u9806\u767c, 3 Shepherd St, Tai Hang, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2787,
+              "lng": 114.192613
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2800333302915,
+                "lng": 114.1939717802915
+              },
+              "southwest": {
+                "lat": 22.2773353697085,
+                "lng": 114.1912738197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "89373cfc83219f1dd7e9286944cfbb26fe915f3a",
+          "name": "\u5730\u4e0b \u9806\u767c, 3 Shepherd St",
+          "place_id": "EjHlnLDkuIsg6aCG55m8LCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN5Zyw5LiLIOmghueZvA",
+          "reference": "EjHlnLDkuIsg6aCG55m8LCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN5Zyw5LiLIOmghueZvA",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%9C%B0%E4%B8%8B+%E9%A0%86%E7%99%BC,+3+Shepherd+St,+Tai+Hang,+Hong+Kong&ftid=0x340401ab40d35a69:0x9a010d4d1f13a019",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EjHlnLDkuIsg6aCG55m8LCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN5Zyw5LiLIOmghueZvA",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0b \u9806\u767c",
+              "short_name": "\u5730\u4e0b \u9806\u767c",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "3",
+              "short_name": "3",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u65bd\u5f3c\u8857",
+              "short_name": "\u65bd\u5f3c\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5927\u5751",
+              "short_name": "\u5927\u5751",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5927\u5751</span><span class=\"street-address\">\u65bd\u5f3c\u88573\u865f</span>\u5730\u4e0b \u9806\u767c",
+          "formatted_address": "\u9999\u6e2f\u5927\u5751\u65bd\u5f3c\u88573\u865f\u5730\u4e0b \u9806\u767c",
+          "geometry": {
+            "location": {
+              "lat": 22.2787,
+              "lng": 114.192613
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2800333302915,
+                "lng": 114.1939717802915
+              },
+              "southwest": {
+                "lat": 22.2773353697085,
+                "lng": 114.1912738197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "89373cfc83219f1dd7e9286944cfbb26fe915f3a",
+          "name": "\u65bd\u5f3c\u88573\u865f\u5730\u4e0b \u9806\u767c",
+          "place_id": "EjHlnLDkuIsg6aCG55m8LCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN5Zyw5LiLIOmghueZvA",
+          "reference": "EjHlnLDkuIsg6aCG55m8LCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN5Zyw5LiLIOmghueZvA",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9D%91%E6%96%BD%E5%BC%BC%E8%A1%973%E8%99%9F%E5%9C%B0%E4%B8%8B+%E9%A0%86%E7%99%BC&ftid=0x340401ab40d35a69:0x9a010d4d1f13a019",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "EjHnmbwsIEcvRi4sIE5PLCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN55m8LCBHL0YuLCBOTw": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u767c, G/F., NO",
+              "short_name": "\u767c, G/F., NO",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "3",
+              "short_name": "3",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Shepherd Street",
+              "short_name": "Shepherd St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tai Hang",
+              "short_name": "Tai Hang",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u767c, G/F., NO, <span class=\"street-address\">3 Shepherd St</span>, <span class=\"locality\">Tai Hang</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u767c, G/F., NO, 3 Shepherd St, Tai Hang, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2787,
+              "lng": 114.192613
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2800333302915,
+                "lng": 114.1939717802915
+              },
+              "southwest": {
+                "lat": 22.2773353697085,
+                "lng": 114.1912738197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "89584ad6acd2cf481c35dda523347885f63d266a",
+          "name": "\u767c, G/F., NO, 3 Shepherd St",
+          "place_id": "EjHnmbwsIEcvRi4sIE5PLCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN55m8LCBHL0YuLCBOTw",
+          "reference": "EjHnmbwsIEcvRi4sIE5PLCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN55m8LCBHL0YuLCBOTw",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E7%99%BC,+G/F.,+NO,+3+Shepherd+St,+Tai+Hang,+Hong+Kong&ftid=0x340401ab40d35a69:0xdbe95130792457ef",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EjHnmbwsIEcvRi4sIE5PLCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN55m8LCBHL0YuLCBOTw",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u767c, G/F., NO",
+              "short_name": "\u767c, G/F., NO",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "3",
+              "short_name": "3",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u65bd\u5f3c\u8857",
+              "short_name": "\u65bd\u5f3c\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5927\u5751",
+              "short_name": "\u5927\u5751",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5927\u5751</span><span class=\"street-address\">\u65bd\u5f3c\u88573\u865f</span>\u767c, G/F., NO",
+          "formatted_address": "\u9999\u6e2f\u5927\u5751\u65bd\u5f3c\u88573\u865f\u767c, G/F., NO",
+          "geometry": {
+            "location": {
+              "lat": 22.2787,
+              "lng": 114.192613
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2800333302915,
+                "lng": 114.1939717802915
+              },
+              "southwest": {
+                "lat": 22.2773353697085,
+                "lng": 114.1912738197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "89584ad6acd2cf481c35dda523347885f63d266a",
+          "name": "\u65bd\u5f3c\u88573\u865f\u767c, G/F., NO",
+          "place_id": "EjHnmbwsIEcvRi4sIE5PLCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN55m8LCBHL0YuLCBOTw",
+          "reference": "EjHnmbwsIEcvRi4sIE5PLCAzIFNoZXBoZXJkIFN0LCBUYWkgSGFuZywgSG9uZyBLb25nIikaJwoWChQKEglpWtNAqwEENBEEKizYMmcAXRIN55m8LCBHL0YuLCBOTw",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9D%91%E6%96%BD%E5%BC%BC%E8%A1%973%E8%99%9F%E7%99%BC,+G/F.,+NO&ftid=0x340401ab40d35a69:0xdbe95130792457ef",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -246,6 +586,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

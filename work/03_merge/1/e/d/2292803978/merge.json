@@ -217,6 +217,633 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJ11eIu-34AzQRpHNrxl6b9cw": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "108-114",
+              "short_name": "108-114",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Hoi Pa Street",
+              "short_name": "Hoi Pa St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsuen Wan",
+              "short_name": "Tsuen Wan",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">108-114 Hoi Pa St</span>, <span class=\"locality\">Tsuen Wan</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "108-114 Hoi Pa St, Tsuen Wan, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3714248,
+              "lng": 114.1162053
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3728417302915,
+                "lng": 114.1175935302915
+              },
+              "southwest": {
+                "lat": 22.3701437697085,
+                "lng": 114.1148955697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "461979d2a9941c312bf5d383030c211ff9599600",
+          "name": "108-114 Hoi Pa St",
+          "place_id": "ChIJ11eIu-34AzQRpHNrxl6b9cw",
+          "plus_code": {
+            "compound_code": "94C8+HF Hong Kong",
+            "global_code": "7PJP94C8+HF"
+          },
+          "reference": "ChIJ11eIu-34AzQRpHNrxl6b9cw",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=108-114+Hoi+Pa+St,+Tsuen+Wan,+Hong+Kong&ftid=0x3403f8edbb8857d7:0xccf59b5ec66b73a4",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJ11eIu-34AzQRpHNrxl6b9cw",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "108-114",
+              "short_name": "108-114",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6d77\u58e9\u8857",
+              "short_name": "\u6d77\u58e9\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u8343\u7063",
+              "short_name": "\u8343\u7063",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u8343\u7063</span><span class=\"street-address\">\u6d77\u58e9\u8857108-114\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u8343\u7063\u6d77\u58e9\u8857108-114\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.3714248,
+              "lng": 114.1162053
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3728417302915,
+                "lng": 114.1175935302915
+              },
+              "southwest": {
+                "lat": 22.3701437697085,
+                "lng": 114.1148955697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "461979d2a9941c312bf5d383030c211ff9599600",
+          "name": "\u6d77\u58e9\u8857108-114\u865f",
+          "place_id": "ChIJ11eIu-34AzQRpHNrxl6b9cw",
+          "plus_code": {
+            "compound_code": "94C8+HF \u9999\u6e2f",
+            "global_code": "7PJP94C8+HF"
+          },
+          "reference": "ChIJ11eIu-34AzQRpHNrxl6b9cw",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E8%8D%83%E7%81%A3%E6%B5%B7%E5%A3%A9%E8%A1%97108-114%E8%99%9F&ftid=0x3403f8edbb8857d7:0xccf59b5ec66b73a4",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJveMMmTwIBDQRAuZCal0gg_4": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Tai Po",
+              "short_name": "Tai Po",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"locality\">Tai Po</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Tai Po, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.4423218,
+              "lng": 114.1655064
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4673939,
+                "lng": 114.1812944
+              },
+              "southwest": {
+                "lat": 22.424426,
+                "lng": 114.146229
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "74d387419f4cb5bf9b873faa33f7e426876ff782",
+          "name": "Tai Po",
+          "photos": [
+            {
+              "height": 2208,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104326054025009215794/photos\">\u5c71\u6c34</a>"
+              ],
+              "photo_reference": "CmRZAAAAyrmzSKVkEshcCnkpiOSLXw_-njWwJzVBZHLnUL4AbckzzQLMXWd1qCLM24RHF7i5wOmv3pOU8mHDGZQkOLmBEcl4DguhGHH867GkNEnbccYslcUelMwAww601YW3DEEZEhCkd6wVZ_8lXSrAicT2NKWJGhRdspWC8yhFV84BIgCh7rLQvoaJPQ",
+              "width": 3920
+            },
+            {
+              "height": 2016,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104326054025009215794/photos\">\u5c71\u6c34</a>"
+              ],
+              "photo_reference": "CmRZAAAAfXp6tiZB7F-wBVeI4kTRM-_TzhvQI5wOVnWJOHqb5F5_uuI6dQ4sWPXPDvEeWx9h-Erz6GTzqIwXKH0sPL-BgTLovmHMziCxOAd37CDsFGuo_YJMh53ChQB81DcZNktOEhDUXZ8at4_Paz8eZB1K9TrsGhRbd_LHrNLX08jHI6Uuq5Nsip14aQ",
+              "width": 4032
+            },
+            {
+              "height": 1836,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114441308123288407020/photos\">Little Baby Tsang</a>"
+              ],
+              "photo_reference": "CmRaAAAA31clZyO_tzQfD2qaOVbeYRzSqpjz11FJU8LPIKHgl1aKXZq_WUSsos6Hsa7t7WqUpMz-onLfAY6cPDUL5ctsgn2khTK55sdnZP0ZcDEQmJjaQpCw2hn0IVpPcS21RoYqEhDhwMNl48xd7FyyTkjFIqcUGhTJ-1_kVF5aTPEUp4NsIIOYhcPp-g",
+              "width": 3264
+            },
+            {
+              "height": 4608,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109310885422514676091/photos\">tingyat yu</a>"
+              ],
+              "photo_reference": "CmRaAAAAjAJeppU91jztF1p03zzZMS1TxQj_wK72OW78eS6owS8pIDibsEXXGQcFs4FzGVF62_Q_83WcsqwmXETo2UwBi4CG0ejESV1QPbNFgKnwKvoZCcwD1IBwOehXmeY8Ydj6EhDdY5NERo3Z_0H1CBbwPFDvGhRNdwEgD_I7_7jcQ6RPTcGzvwwbFA",
+              "width": 3456
+            },
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110874127522127337620/photos\">Sunny Wong</a>"
+              ],
+              "photo_reference": "CmRaAAAAMBMuZXHXztAONFXRvJGGwbNXNtjLxj-5T5P-kgvK8Ts2O1-Vyg_zLemNWH26zHvSlM14Gs8DXIJ6IjiRoFHWyKbGatctFZJvSMU2Lc7txWidJkBRNxolGpbFaEI7EZDuEhAYpBEHpodyadWi50TBFuraGhTNGYsiRKytoukOUzy2XXyftfcjTA",
+              "width": 5333
+            },
+            {
+              "height": 3120,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112343433508605289213/photos\">Kenny Cheung</a>"
+              ],
+              "photo_reference": "CmRaAAAAoiS93_m33MHiR6Ud2VE_r2Xmk6QbSJbf3lo82o32K_eQjqL_kus58dv2xCO_Vcif4tvilbeukRiWoygQARxILfg-s0UIVYPqaPGphuz9Hm5ePeVyvrPVdR1QQxpKK1UZEhDN440s3ff-PW-o1VwxQrY-GhR3Ki0zaoORP_DLwYNywt5A6ELMUA",
+              "width": 4160
+            },
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118279862112465014215/photos\">shiu ki chan</a>"
+              ],
+              "photo_reference": "CmRaAAAAYmF30pJetdkjq_zz0gKlON5gE3FR9v-2-iPC7xyBE2o6GlR0e8DoEvYFjnj8BOx3vgasWsnAqAyaqz9Yd4mPiM44HMLEYBeiORWf6n2L8H8970Y2s0I3ZE5yLng1Uw02EhCVO-ZM_qoBTOdGTUkNJc9WGhRyuf6YeceJ_lr3yS_JW7MEjYPKYw",
+              "width": 5333
+            },
+            {
+              "height": 4160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113601202018628257026/photos\">jaeseumin _shop</a>"
+              ],
+              "photo_reference": "CmRaAAAAkqVLCGRDL438tfZIICMSTltcCKe-7Jv5lMKMhWil1og9qMaBZAwW5sAO_NebvG9RYO4BiEZKqJjQyWBInwfnq1c0taOaJ7UC820FaXlRWlcUY3Ak1jQLziNi5Sjg_m3TEhAmjXS7mmezg00ww7dTxgeVGhTkkX4Nm4mmbgBWpTOJybRPmckJPw",
+              "width": 3120
+            },
+            {
+              "height": 2988,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116903894459097908937/photos\">Sham kaileung</a>"
+              ],
+              "photo_reference": "CmRaAAAAQFFQdwIQbUpsyxsJ6TBlaneOFC6NhjqtcsreNW89wDBPgY2sEt21ehaiOJtEy_I88EzblXGmQvYMyGIhgq9e8xdkUI3-_gJfBXoHrFmOv-Fb7gMfDOYvYKs3_jYVjnfHEhB7-mAWgSgXCzMvFFI9__FKGhRYGSRwNTgZkvYlrCgvIr565XAuUw",
+              "width": 5312
+            },
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112563307054981388236/photos\">kunyu Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAAEhGj05sPkTD3Px45rDHh2VISZi_C21zX8PUg4fgWK8wE0tQ57-zrcdOq66mWGxy365PeDMAkHHJ-kXkCfULKkEHJr3iRuIhwqIhNbeuNFfcS2XfagnLxiLkWF-8NL6HmEhAuvlTyP6RXkSyIXdGTFCD3GhTmR95WwZ7u5JsJ6iVaGV35UuYD0g",
+              "width": 2048
+            }
+          ],
+          "place_id": "ChIJveMMmTwIBDQRAuZCal0gg_4",
+          "reference": "ChIJveMMmTwIBDQRAuZCal0gg_4",
+          "scope": "GOOGLE",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "url": "https://maps.google.com/?q=Tai+Po,+Hong+Kong&ftid=0x3404083c990ce3bd:0xfe83205d6a42e602",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJveMMmTwIBDQRAuZCal0gg_4",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5927\u57d4",
+              "short_name": "\u5927\u57d4",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5927\u57d4</span>",
+          "formatted_address": "\u9999\u6e2f\u5927\u57d4",
+          "geometry": {
+            "location": {
+              "lat": 22.4423218,
+              "lng": 114.1655064
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4673939,
+                "lng": 114.1812944
+              },
+              "southwest": {
+                "lat": 22.424426,
+                "lng": 114.146229
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "74d387419f4cb5bf9b873faa33f7e426876ff782",
+          "name": "\u5927\u57d4",
+          "photos": [
+            {
+              "height": 2208,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104326054025009215794/photos\">\u5c71\u6c34</a>"
+              ],
+              "photo_reference": "CmRZAAAAnPAjGK_y_FvkiZ9ObitzK9IzvMnFWJ-fTo6SVyo0TEp4hJeZZoealuuN51GekeyCcnrhQ13DFs2qBnDe84PRg41OVgOdaT7q_yB0Fi0xuxFrFQcGuUrG1GYbf6DlNNQbEhAXiWH7ZMv0_KiA_aiMs8M2GhQ7GIn94GfcagdUGXue9J2zytM-zA",
+              "width": 3920
+            },
+            {
+              "height": 2016,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104326054025009215794/photos\">\u5c71\u6c34</a>"
+              ],
+              "photo_reference": "CmRZAAAAQLBh6KBVQn60RG7vxzMRe6nbFDC2vBNEGc8XuLwp_-SZo6RRsayP22Mt22dalc_1ULniHo2mSbO0Aby3yAMivlMpC33xVeL6m6Hh7XVgnp1rwtQHBCaCdz4Wah-1BuKLEhDHi-UA3meYzX4UdSDUcswMGhRjDHAJgdNAgOLkQKmbT4jLXDNlSg",
+              "width": 4032
+            },
+            {
+              "height": 1836,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114441308123288407020/photos\">Little Baby Tsang</a>"
+              ],
+              "photo_reference": "CmRaAAAAefJ-_6l8scfhd8uO0Za94S1odb7myUiX3eGst0N6lQwOxIQeu1EmGR5O-I8dLV2bhtnbgDFA_qLlLZhIr7NkPVKbMFSJleLCBC4X8ZvH_B5jY16XQC1u4RK285LTFRB1EhDJR3dOQ_1MIRi9zpX_LjmMGhTG0eeiFajA6b9fu74-vb8GIPHqfA",
+              "width": 3264
+            },
+            {
+              "height": 4608,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109310885422514676091/photos\">tingyat yu</a>"
+              ],
+              "photo_reference": "CmRaAAAAqqZcVeMXgHjiK3wptLSPg_D1a4Uxdii-vXuUcNKdu8bAkL0yAtdX26VP-9VIrVbBHMIaDDz5CCJMmZmaGD4W5AtAO8uXP-71KkU7COeYcpr5ldyxnUhoPDyVgQLyLOhEEhB7p7j3dzho45ChPCeGoFIxGhTT1NXhl4A9wNYXAmJDy6Ie08j9qg",
+              "width": 3456
+            },
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110874127522127337620/photos\">Sunny Wong</a>"
+              ],
+              "photo_reference": "CmRaAAAAyWgEVLIgDRo77uNsDr3XqLfLCkdxAVNF7u51mLp4R3XhXof5xtLTBjMU3g_U_wkJ6DoyGEMnp6xyjq8NJza2kLAA7oRfjIsmDNooIAUBOJmADehifVHDncAePG0UeOYzEhBaqHGuEpJF2HJXLIUHAu4kGhRdnTTSWNzSJRLCvMxl6Al9C0hmOA",
+              "width": 5333
+            },
+            {
+              "height": 3120,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112343433508605289213/photos\">Kenny Cheung</a>"
+              ],
+              "photo_reference": "CmRaAAAAoDppVfPNR3Lm3CHqut48en6z7JKz0UyKoWnZgyZ9FrdnWVMxU-8L5npzvNSHxWyzjuelYuBRoAQiTImWePwphDiPhxVXpW8DzaNFtMmzIe_GV8AmhIgsiNEKTlAKtkL4EhAaaAzPXFzYd_un5qs6KjuYGhT9ODBCFQm-HZZO6YXIXKxDHZILTA",
+              "width": 4160
+            },
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118279862112465014215/photos\">shiu ki chan</a>"
+              ],
+              "photo_reference": "CmRaAAAARP289Xgtg9FaK8XP-pJNO2iDxkxOizET1JS6Bukls47YSiK9tnOyURBGA9EqR5J5WMz79AlofLZ1vPJMje0HThWTm2808_uJUMIZzwtgkAeYleb8NfLU2-7nQDnmn64DEhCcwwc9G8x0L6e4JK33V36rGhRBmeubH919gDeCRrhcjp7JcboIhg",
+              "width": 5333
+            },
+            {
+              "height": 4160,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113601202018628257026/photos\">jaeseumin _shop</a>"
+              ],
+              "photo_reference": "CmRaAAAAtqm5enDPhCrBYTDuq9Ljbg73V2sS74mkxPrnGYcGVhI6BV1VSkGYAAWD6j_pw3-_UWsMARjhSvHzv7aKo30tFcMgG8wtcJnA9f0EG6DD3SdBI1Ma1SHgojGQ2WQjS7jtEhByUaTR_GPMEARqNgBxN94eGhR_cqROmxz7C3mxHAjOC07kSDGaVA",
+              "width": 3120
+            },
+            {
+              "height": 2988,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116903894459097908937/photos\">Sham kaileung</a>"
+              ],
+              "photo_reference": "CmRaAAAAKIog_DfjsWfSNU8MP-lr11SiZhiz07QyFZnCOqrH4narl2rR8Utx7PBdgZZnLM7bcH8796TuJe55m6DKF-UrvHiT4opFbNXp1CPRgcccKBCdsfbyVMGQQTE9qllGIT9jEhDIdowSLGJF-_SZi5mrL_pkGhT-iAQSS8fTfZuWrhDwxJQb74g8dA",
+              "width": 5312
+            },
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112563307054981388236/photos\">kunyu Ho</a>"
+              ],
+              "photo_reference": "CmRaAAAA_pwG6X7GOkWlakMw7c9t00a2jYgCqc-T2Zv3lz-f6U_vXsFMIGcbVdDuSb_3Qd539RmidnNhBylfpTov53ZwzXKkxUy0bLFnQIHTaDf1uR7TQvqM-pXkFUTVoA8g0-KqEhArcKjw_7oVINZLM77DFg-PGhQU3okrQSXirbXvwz6hYiSUkDUZ2w",
+              "width": 2048
+            }
+          ],
+          "place_id": "ChIJveMMmTwIBDQRAuZCal0gg_4",
+          "reference": "ChIJveMMmTwIBDQRAuZCal0gg_4",
+          "scope": "GOOGLE",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94&ftid=0x3404083c990ce3bd:0xfe83205d6a42e602",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "EipGLCAxMDgtMTE0IEhvaSBQYSBTdCwgVHN1ZW4gV2FuLCBIb25nIEtvbmciHRobChYKFAoSCddXiLvt-AM0EaRza8Zem_XMEgFG": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "F",
+              "short_name": "F",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "108-114",
+              "short_name": "108-114",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Hoi Pa Street",
+              "short_name": "Hoi Pa St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsuen Wan",
+              "short_name": "Tsuen Wan",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "F, <span class=\"street-address\">108-114 Hoi Pa St</span>, <span class=\"locality\">Tsuen Wan</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "F, 108-114 Hoi Pa St, Tsuen Wan, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3714248,
+              "lng": 114.1162053
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3728417302915,
+                "lng": 114.1175935302915
+              },
+              "southwest": {
+                "lat": 22.3701437697085,
+                "lng": 114.1148955697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "0f496c19d9708e321d18379402f7540a5fd5e3c9",
+          "name": "F, 108-114 Hoi Pa St",
+          "place_id": "EipGLCAxMDgtMTE0IEhvaSBQYSBTdCwgVHN1ZW4gV2FuLCBIb25nIEtvbmciHRobChYKFAoSCddXiLvt-AM0EaRza8Zem_XMEgFG",
+          "reference": "EipGLCAxMDgtMTE0IEhvaSBQYSBTdCwgVHN1ZW4gV2FuLCBIb25nIEtvbmciHRobChYKFAoSCddXiLvt-AM0EaRza8Zem_XMEgFG",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=F,+108-114+Hoi+Pa+St,+Tsuen+Wan,+Hong+Kong&ftid=0x3403f8edbb8857d7:0xf5fbb0df3d711ad",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EipGLCAxMDgtMTE0IEhvaSBQYSBTdCwgVHN1ZW4gV2FuLCBIb25nIEtvbmciHRobChYKFAoSCddXiLvt-AM0EaRza8Zem_XMEgFG",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "F",
+              "short_name": "F",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "108-114",
+              "short_name": "108-114",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6d77\u58e9\u8857",
+              "short_name": "\u6d77\u58e9\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u8343\u7063",
+              "short_name": "\u8343\u7063",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u8343\u7063</span><span class=\"street-address\">\u6d77\u58e9\u8857108-114\u865f</span>F",
+          "formatted_address": "\u9999\u6e2f\u8343\u7063\u6d77\u58e9\u8857108-114\u865fF",
+          "geometry": {
+            "location": {
+              "lat": 22.3714248,
+              "lng": 114.1162053
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3728417302915,
+                "lng": 114.1175935302915
+              },
+              "southwest": {
+                "lat": 22.3701437697085,
+                "lng": 114.1148955697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "0f496c19d9708e321d18379402f7540a5fd5e3c9",
+          "name": "\u6d77\u58e9\u8857108-114\u865fF",
+          "place_id": "EipGLCAxMDgtMTE0IEhvaSBQYSBTdCwgVHN1ZW4gV2FuLCBIb25nIEtvbmciHRobChYKFAoSCddXiLvt-AM0EaRza8Zem_XMEgFG",
+          "reference": "EipGLCAxMDgtMTE0IEhvaSBQYSBTdCwgVHN1ZW4gV2FuLCBIb25nIEtvbmciHRobChYKFAoSCddXiLvt-AM0EaRza8Zem_XMEgFG",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E8%8D%83%E7%81%A3%E6%B5%B7%E5%A3%A9%E8%A1%97108-114%E8%99%9FF&ftid=0x3403f8edbb8857d7:0xf5fbb0df3d711ad",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -361,6 +988,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

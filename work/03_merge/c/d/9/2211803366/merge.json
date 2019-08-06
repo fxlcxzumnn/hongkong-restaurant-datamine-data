@@ -470,6 +470,806 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJaz0-KQ4BBDQRAuByw7eMq9g": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "North Point Mansion",
+              "short_name": "North Point Mansion",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "692-702",
+              "short_name": "692-702",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "King's Road",
+              "short_name": "King's Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsat Tsz Mui",
+              "short_name": "Tsat Tsz Mui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "North Point Mansion, <span class=\"street-address\">692-702 King&#39;s Rd</span>, <span class=\"locality\">Tsat Tsz Mui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "North Point Mansion, 692-702 King's Rd, Tsat Tsz Mui, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2916673,
+              "lng": 114.2068442
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2931102802915,
+                "lng": 114.2082376302915
+              },
+              "southwest": {
+                "lat": 22.2904123197085,
+                "lng": 114.2055396697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "a2d86a5c4cfc614dac42f740120dd71949af65af",
+          "name": "North Point Mansion",
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114035447331132425798/photos\">Richard Li</a>"
+              ],
+              "photo_reference": "CmRaAAAACJgC_AtBkPQkjF5X5hY6gEtM-OGyCRdV-pdA4KuJcsblj0-VXlqCu1R3eihJmd9D9n_H9naPwt_NWQs1mDcU7GKTVSfhMOG7rjsLhPgkoStBDTl88YNbvj51WfOpaU2OEhDJ3E2DJgmo4d2n-Uqi8ZXmGhRJg341S5IWbH--WtkovYrDHNqs1g",
+              "width": 2795
+            }
+          ],
+          "place_id": "ChIJaz0-KQ4BBDQRAuByw7eMq9g",
+          "reference": "ChIJaz0-KQ4BBDQRAuByw7eMq9g",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=North+Point+Mansion&ftid=0x3404010e293e3d6b:0xd8ab8cb7c372e002",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJaz0-KQ4BBDQRAuByw7eMq9g",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5317\u89d2\u5927\u5ec8",
+              "short_name": "\u5317\u89d2\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "692-702",
+              "short_name": "692-702",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u82f1\u7687\u9053",
+              "short_name": "\u82f1\u7687\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u4e03\u59ca\u59b9",
+              "short_name": "\u4e03\u59ca\u59b9",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u4e03\u59ca\u59b9</span><span class=\"street-address\">\u82f1\u7687\u9053692-702\u865f</span>\u5317\u89d2\u5927\u5ec8",
+          "formatted_address": "\u9999\u6e2f\u4e03\u59ca\u59b9\u82f1\u7687\u9053692-702\u865f\u5317\u89d2\u5927\u5ec8",
+          "geometry": {
+            "location": {
+              "lat": 22.2916673,
+              "lng": 114.2068442
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2931102802915,
+                "lng": 114.2082376302915
+              },
+              "southwest": {
+                "lat": 22.2904123197085,
+                "lng": 114.2055396697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "a2d86a5c4cfc614dac42f740120dd71949af65af",
+          "name": "\u5317\u89d2\u5927\u5ec8",
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114035447331132425798/photos\">Richard Li</a>"
+              ],
+              "photo_reference": "CmRaAAAAoKr-8O8_nfxU6f3nrvHsJULoJM4ORDmfBeBFkWKhyNDu2MXwcmKi-2GjbMHfEqgM_rqZxl3pzFsLpRn0tjZm7RSIJ8usZf90XuJTLcj2EJLmWvVoybHzAGAtYiyOCJNjEhCS8-iJGAx5PKJl2Y9tZLXQGhQdy3nEtR__ZPljPIkyr0V6q9hZ0w",
+              "width": 2795
+            }
+          ],
+          "place_id": "ChIJaz0-KQ4BBDQRAuByw7eMq9g",
+          "reference": "ChIJaz0-KQ4BBDQRAuByw7eMq9g",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%8C%97%E8%A7%92%E5%A4%A7%E5%BB%88&ftid=0x3404010e293e3d6b:0xd8ab8cb7c372e002",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJlzWsKQ4BBDQRlNmOAXuIWPE": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u865f\u5730\u8216",
+              "short_name": "\u865f\u5730\u8216",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "692",
+              "short_name": "692",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u82f1\u7687\u9053",
+              "short_name": "\u82f1\u7687\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5317\u89d2",
+              "short_name": "\u5317\u89d2",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">Hong Kong</span>, <span class=\"locality\">\u5317\u89d2</span><span class=\"street-address\">\u82f1\u7687\u9053692\u865f</span>\u865f\u5730\u8216",
+          "formatted_address": "Hong Kong, \u5317\u89d2\u82f1\u7687\u9053692\u865f\u865f\u5730\u8216",
+          "formatted_phone_number": "2904 1333",
+          "geometry": {
+            "location": {
+              "lat": 22.29179989999999,
+              "lng": 114.2068961
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2931783802915,
+                "lng": 114.2082590302915
+              },
+              "southwest": {
+                "lat": 22.2904804197085,
+                "lng": 114.2055610697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "7ba63262829b879f338cb0ec3f072f395fa13b5e",
+          "international_phone_number": "+852 2904 1333",
+          "name": "\u5473\u9053\u8857",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1600"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 7:00 AM \u2013 6:00 PM",
+              "Tuesday: 7:00 AM \u2013 6:00 PM",
+              "Wednesday: 7:00 AM \u2013 6:00 PM",
+              "Thursday: 7:00 AM \u2013 6:00 PM",
+              "Friday: 7:00 AM \u2013 6:00 PM",
+              "Saturday: 7:00 AM \u2013 4:00 PM",
+              "Sunday: Closed"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAA2Aa2HCuOUeRKv-KZNxiEDR78BN3gY4oTrswGd11nMcywIX6Ar0AqGloyCVqzSv-RhjlrLj0V59YUX4484WF4bmc0Wm5_zs96kkr2DzIs_MfWMd7R3xk0YorYJrjLTUMSEhDVGfySpVWpjI0EFTBbZbvEGhQvpF_I03xFr0UOZtvqFkCO1hyOZQ",
+              "width": 3024
+            },
+            {
+              "height": 998,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100681659161188229170/photos\">Cheung KK Anthony</a>"
+              ],
+              "photo_reference": "CmRaAAAAvXPYC2XgxWpv8XPXK_un6uRzYzxEYJ1z4tdeClc1dA6BHL3sihRApA_uFWrYd5EhaEVIVW1IcsXs-AqdNcN_6x8_-55ZYWtanyqleUl-ZMQl7N4rMa-v4Tqxdq_X1W1HEhA9fuo7ppoX6v5C99IhezB8GhT_D3wraG7OZq4gDX6uE8IcHSR_Fw",
+              "width": 3512
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAkbpbuko9aQRJRM9SSoX-QoeJwuaiVfSRYtManK484D1N0FFyhtMWB8JkMgNUTsMiCrYpmGIjgy3lQ24rk0t6NwnALUAzTrDYCFxd8geEi_t1mwU8aQoEKaOF70kNwRQSEhDijwXVEfAKdTChXnHedVDTGhQzuByUB6GKtRijtGrchAKbtR0SsQ",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAqztnvaHqvMqy4kpIpZfY5z1-EgYesOXvk1Y7QmfwVHDZuQgYbc7y2SGsWv4iZlQetUrFhULDJqpVSjVWNwGYYUXpx8IqUEgu_P9gPcX_WSRcnoVDWoU7T5OgWJ6ydtwpEhCimijbQ8xJGkM_1fZX9ysjGhTWaManHHZpo2KV0z8C5tfW8mLoWw",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAA7xAAzgQ-KsaMpipvEGhYSkqknbdd0uv2DY8uF9fcIt9nikhmBJNqLjsYrVituGToAUCEQft7hLYOsYvRCoHwMHZRLcW6yTp7h5GPPFqWCG19YMbAinJE1RB5Y4FA8axyEhCqwKLgwFt4SiX97Yvy4BiMGhR0tUspp7tj6RtUQ-yGf72Sdk1fsg",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109545014454119493200/photos\">Ray Tam</a>"
+              ],
+              "photo_reference": "CmRaAAAA0MJbzrlKv0cKjVLxxnIakWdEsCFOBVcFbwc9NaErjv4HzuIwP0rM-MTsF-Pajy6BMfmqsNnnlko7dHBciPSrgctp4XaFjeebFSBf07eS_KIT4KH7Mca37YuOtrMpKRAoEhDdz_3UfAUTTdvAzXSSOx8vGhQfUK-mr_gTQQn1K37Vgq18TFsWOQ",
+              "width": 2268
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAALaWIVoJ0cr9--4i3V8sJ3MrJ78rt6HvRURZR6Ll5a_1IznKqsj2DhgMuMrxAADI1R32BzTIRQpIwGbJESf2PIrydjGhzx_LavrEsUh-wwmDFDtNRCSPy7FsIWjipfiV4EhBvaS4rgqDvVNMlL5UrJOYhGhSgjn7mirb2JfhSYBMPlbDiCcU6sg",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110782139306860791932/photos\">Joe Tam</a>"
+              ],
+              "photo_reference": "CmRaAAAAz1AcC6FzF3tHU3jH5SVFb7cGudPvwtR3PMwMaZwV20heKSjFGYPJ_v7V61WuDd66pLMUFZGdSzfvkon_qK75Ig2midl-AWLUDFyQUrybMf-6eYgmm5sNtwj5ZKTDnNYFEhBzvoJWY_VZQ9GpL779CyZMGhSbPxOgocHVSBi8XpTnpk_DU6Cx2g",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAoeDiWM2cogCwdRhbVpnt9eTMd9SsEtzF7QheKHDdTLbaoJ4ZO6nK0GySLDX1MyGAV6Ec0cnJQehRAz0Tl8ZD2--eMNq3dL7PsyFkqriai8f__pj8NJevmFqWXWCX5m71EhDV7yj0lRQWSAhTnoVq7cKlGhQuCdmj7d0qbVcfhquF7EZD68yXMg",
+              "width": 4032
+            },
+            {
+              "height": 2268,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109545014454119493200/photos\">Ray Tam</a>"
+              ],
+              "photo_reference": "CmRaAAAAPTC7C4xRvOV0WlfMFKzPBb_YJLhNiUTIEhlmWeHJlCsyigarvOToqg0ENmLzkZZkvbgQl46Sn9Ks3fwLgH6oFzWbMKpgO9t9Nss-4meXvK9PWQArfdIy4NpzdB4-O7eKEhBXacv2OQva8EHEINyO6vyBGhQsaIXShebh3RKuIXZFgt86AZxuow",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJlzWsKQ4BBDQRlNmOAXuIWPE",
+          "plus_code": {
+            "compound_code": "76R4+PQ Hong Kong",
+            "global_code": "7PJP76R4+PQ"
+          },
+          "rating": 3.8,
+          "reference": "ChIJlzWsKQ4BBDQRlNmOAXuIWPE",
+          "reviews": [
+            {
+              "author_name": "Gabriel Chung",
+              "author_url": "https://www.google.com/maps/contrib/118159534153741903137/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-1xPBjm1Qhfo/AAAAAAAAAAI/AAAAAAAAAWM/4zGwcJo2_vs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "11 months ago",
+              "text": "Delicious food with affordable price!",
+              "time": 1535514327
+            },
+            {
+              "author_name": "Ka Ho Leung x2",
+              "author_url": "https://www.google.com/maps/contrib/107536629519135009600/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-9TcJ9VXCmjw/AAAAAAAAAAI/AAAAAAAAACk/KRE2W5oXkZA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "3 years ago",
+              "text": "good",
+              "time": 1460605273
+            },
+            {
+              "author_name": "Ng Roger",
+              "author_url": "https://www.google.com/maps/contrib/117258032981799479471/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-N59nroBhNZ0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdaR3g2cHKH_6cuxBUhGQhb6g0jgw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "3 months ago",
+              "text": "\u5c0f\u98df\uff0c\u65e9\u9910\uff0c\u4fbf\u5b9c\u53d6\u52dd\u3002",
+              "time": 1554945702
+            },
+            {
+              "author_name": "Rayven Lau",
+              "author_url": "https://www.google.com/maps/contrib/101343395683812796233/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-WvSrdGOX-f8/AAAAAAAAAAI/AAAAAAAAnWs/_TsIMGDZ6iw/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 years ago",
+              "text": "\u5348\u9910\u50f9\u9322\u96d6\u7136\u6bd4\u9644\u8fd1\u7565\u8cb4\u56db\uff0c\u4e94\u868a\n\u4f46\u5473\u9053\u8f03\u5176\u4ed6\u9910\u5ef3\u597d\u98df\uff0c \u6bd4\u7f8e\u5fc3\u62b5\u98df\n\u65e9\u9910\u53ca\u4e0b\u5348\u8336\u50f9\u9322\u76f8\u5b9c\n\u5e97\u54e1\u6709\u79ae",
+              "time": 1499491038
+            },
+            {
+              "author_name": "Mini Yoshi",
+              "author_url": "https://www.google.com/maps/contrib/112622165014196426977/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-cq1lf-Lczfo/AAAAAAAAAAI/AAAAAAAA5DE/kbzVT5hMePs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "7 years ago",
+              "text": "\u4ee5\u9019\u500b\u50f9\u9322\u4f86\u8aaa\uff0c\u5473\u9053\u4e0a\u4f73\u3002\u662f\u5317\u89d2\u5340\u8336\u9910\u5ef3\u7684\u597d\u9078\u64c7\u3002",
+              "time": 1338444005
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=17390800022979664276",
+          "user_ratings_total": 19,
+          "utc_offset": 480,
+          "vicinity": "\u5317\u89d2\u82f1\u7687\u9053692\u865f\u865f\u5730\u8216"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJlzWsKQ4BBDQRlNmOAXuIWPE",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u865f\u5730\u8216",
+              "short_name": "\u865f\u5730\u8216",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "692",
+              "short_name": "692",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u82f1\u7687\u9053",
+              "short_name": "\u82f1\u7687\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5317\u89d2",
+              "short_name": "\u5317\u89d2",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5317\u89d2</span><span class=\"street-address\">\u82f1\u7687\u9053692\u865f</span>\u865f\u5730\u8216",
+          "formatted_address": "\u9999\u6e2f\u5317\u89d2\u82f1\u7687\u9053692\u865f\u865f\u5730\u8216",
+          "formatted_phone_number": "2904 1333",
+          "geometry": {
+            "location": {
+              "lat": 22.29179989999999,
+              "lng": 114.2068961
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2931783802915,
+                "lng": 114.2082590302915
+              },
+              "southwest": {
+                "lat": 22.2904804197085,
+                "lng": 114.2055610697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "7ba63262829b879f338cb0ec3f072f395fa13b5e",
+          "international_phone_number": "+852 2904 1333",
+          "name": "\u5473\u9053\u8857",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1800"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1600"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 07:00 \u2013 18:00",
+              "\u661f\u671f\u4e8c: 07:00 \u2013 18:00",
+              "\u661f\u671f\u4e09: 07:00 \u2013 18:00",
+              "\u661f\u671f\u56db: 07:00 \u2013 18:00",
+              "\u661f\u671f\u4e94: 07:00 \u2013 18:00",
+              "\u661f\u671f\u516d: 07:00 \u2013 16:00",
+              "\u661f\u671f\u65e5: \u4f11\u9928"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAVNv5LVuHgqNMAEqIYO5Ph9J9yegdDGxecpO4_B3tjOQktd8VnWD1tNIF_vbBSzpTEse8_0DoQPmHKSmzLc8Te_8o87kbhejbsKCPhEBozUsB1LzmZ0M-_84p1FvFJBu5EhBPZpdJOMKPufYl59xjEai8GhSP5LNqc6KWwD6FMJPmkf9M1LKqvQ",
+              "width": 3024
+            },
+            {
+              "height": 998,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100681659161188229170/photos\">Cheung KK Anthony</a>"
+              ],
+              "photo_reference": "CmRaAAAAy54iF2VQmBlvms_31gTb1TLvW0CRx7fDschMCmDI4qZpBqphIuIu5VbA4CdZ-zcs3dQ_Vpl4P-qDur9QhQ8r7h4XSTXZPo4zh8B_GINIxIJ2H1XPmacvu_gUshZt-_zAEhDpvG5R5ga8C4YJTDzRrquYGhRXvXcnfphL46Z1gPylkuncLmQpPw",
+              "width": 3512
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAASWoEkRFLuvq8fsZlW4wCETgcIeCb2oHQ1MnDXQd_pBzEhy19FqqaZzZBu66_154FF6dkV9sS4ljXa_edCDM3McSIkehwdOSd60rBaZS7N8t44YLeWNIe0tTfcNWYSdP9EhB9QjJZNpxRobpJVCVNPuFaGhTTw7Fqi89YBcw1Guux_z2XrgPXVw",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAKzq_xgY85L8YKbiRspQhl_hoV9VQFNvP-73T1XDSipeRltulAuKqWnM8AZZ0AyCTtrKXfldTGhb3UlVxe9hED07shqlSvIiKj9zP_tLQpFlf8OShhXc83r56aJqc8K4qEhDujTYXYibcOpikBAUWyEthGhTjzuZMXFyNWq_U0_ynci-IheliKw",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAQSb-TgflUL7RXRGyP2opjKdycOn-fIMs7I22dF3zgyYRFL4AoFtYHyzrApz-E0XdcBoKq6BUOYi1K8hWLVriKKmrCR4KgPR4jPK287QKMjxq2eyjReo2oiIhJiy2tiHwEhDVIyRdWU7BD_pWEXessuEtGhTVxZ51Ar1rBoSY0BI-zn2u6-WUoA",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109545014454119493200/photos\">Ray Tam</a>"
+              ],
+              "photo_reference": "CmRaAAAAL_134mD-DLWWjBNU80QZWIcqqR-uTJ1PC3PsOjEeEBQuVA4ZwTApJqJKnUKDhNcM1ZDzJhW3L8De8rNGq_ocxymGQm_H5NZlOGSXuaNbnXj0cC25Cv4AN9WtqPIy-e6hEhA1UzPH1qgQvnIfQ1TxHLKGGhT8FWOj8Dzo2JD53WQZG57sZxubpA",
+              "width": 2268
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAArlwwOfA4NhaDx6YM9EDx-GVqLO8vqF_JQ2D1Jxgq815ZZxxfzOCZKzPx8f4EsRooIf7VEwbuZOMF1MdGfqQLUTYO4cQW33yETwIjxVWgnSIu6xhFQ91o_TCra8KXeqEfEhAx5cne0iDZjiULzvijVkkuGhTxpHj_PhnB6DZ04MNKs4u81wQBXA",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110782139306860791932/photos\">Joe Tam</a>"
+              ],
+              "photo_reference": "CmRaAAAAfSbFTHVTtV0vWCi2524tszpK5c01VWTbL0YOppvSDphJsYA_rR8kT4H-rLpRQz1OuXgE3KCeiqA0BtpYrPdRJ36VB4pWr2oIckAFpqBBQjqnOd85ztSwZu8AWYcYCbmuEhA-EXB_CvRq1UHA5Kut8u8yGhTclitJX7ti4kzE7cjyzLg4JBJEzg",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108996877355745181240/photos\">James Lai</a>"
+              ],
+              "photo_reference": "CmRaAAAAFRKqXDZunZWJAXtCUbZ2sgrpndnye1JXIm5rcSTSoKPj2QL6oHfP27RGULhSnCdSS62_5vcvuH6iITJ42cEqVRUuegwC_6tEnnKOURGdFN3cehvIFThayhY0VdXwoA8TEhD3Yfi6NrZrLE39492zw7TmGhQzUyC27uz3D-oLVGUg15fmoW3yvA",
+              "width": 4032
+            },
+            {
+              "height": 2268,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109545014454119493200/photos\">Ray Tam</a>"
+              ],
+              "photo_reference": "CmRaAAAAwKtiafKLjZwDZjV0dzmLSt-ds3agdqb7BkGTwZOTgs9fKLyzjbCZk9345pCFeaUO3qLSKauHgONxlgTR7kSsN4E2AivG5R9flHOOwn0li58SHRbbPs_BquCsWoJSqeKhEhDdjBbWiZ8hvGa7bekcvCAJGhRDutm-GcFXJDl8ZWYvpDPWqnDFkQ",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJlzWsKQ4BBDQRlNmOAXuIWPE",
+          "plus_code": {
+            "compound_code": "76R4+PQ \u9999\u6e2f",
+            "global_code": "7PJP76R4+PQ"
+          },
+          "rating": 3.8,
+          "reference": "ChIJlzWsKQ4BBDQRlNmOAXuIWPE",
+          "reviews": [
+            {
+              "author_name": "Ng Roger",
+              "author_url": "https://www.google.com/maps/contrib/117258032981799479471/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-N59nroBhNZ0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdaR3g2cHKH_6cuxBUhGQhb6g0jgw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u5c0f\u98df\uff0c\u65e9\u9910\uff0c\u4fbf\u5b9c\u53d6\u52dd\u3002",
+              "time": 1554945702
+            },
+            {
+              "author_name": "Gabriel Chung",
+              "author_url": "https://www.google.com/maps/contrib/118159534153741903137/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-1xPBjm1Qhfo/AAAAAAAAAAI/AAAAAAAAAWM/4zGwcJo2_vs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "11 \u500b\u6708\u524d",
+              "text": "Delicious food with affordable price!",
+              "time": 1535514327
+            },
+            {
+              "author_name": "Rayven Lau",
+              "author_url": "https://www.google.com/maps/contrib/101343395683812796233/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-WvSrdGOX-f8/AAAAAAAAAAI/AAAAAAAAnWs/_TsIMGDZ6iw/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 \u5e74\u524d",
+              "text": "\u5348\u9910\u50f9\u9322\u96d6\u7136\u6bd4\u9644\u8fd1\u7565\u8cb4\u56db\uff0c\u4e94\u868a\n\u4f46\u5473\u9053\u8f03\u5176\u4ed6\u9910\u5ef3\u597d\u98df\uff0c \u6bd4\u7f8e\u5fc3\u62b5\u98df\n\u65e9\u9910\u53ca\u4e0b\u5348\u8336\u50f9\u9322\u76f8\u5b9c\n\u5e97\u54e1\u6709\u79ae",
+              "time": 1499491038
+            },
+            {
+              "author_name": "Mini Yoshi",
+              "author_url": "https://www.google.com/maps/contrib/112622165014196426977/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-cq1lf-Lczfo/AAAAAAAAAAI/AAAAAAAA5DE/kbzVT5hMePs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "7 \u5e74\u524d",
+              "text": "\u4ee5\u9019\u500b\u50f9\u9322\u4f86\u8aaa\uff0c\u5473\u9053\u4e0a\u4f73\u3002\u662f\u5317\u89d2\u5340\u8336\u9910\u5ef3\u7684\u597d\u9078\u64c7\u3002",
+              "time": 1338444005
+            },
+            {
+              "author_name": "Zhenyu QI",
+              "author_url": "https://www.google.com/maps/contrib/112020837726528679744/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-vWDBW1gAEew/AAAAAAAAAAI/AAAAAAAAMrk/rs4TyAMpDPA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "3 \u5e74\u524d",
+              "text": "\u5473\u9053ok\uff0c\u4e2d\u5348\u6642\u4eba\u5f88\u591a",
+              "time": 1455800311
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=17390800022979664276",
+          "user_ratings_total": 19,
+          "utc_offset": 480,
+          "vicinity": "\u5317\u89d2\u82f1\u7687\u9053692\u865f\u865f\u5730\u8216"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -772,6 +1572,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

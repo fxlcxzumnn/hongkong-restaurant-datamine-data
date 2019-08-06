@@ -257,6 +257,177 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJWYKQvAr6AzQRijYeQ1XsHZM": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Ho Sing Building",
+              "short_name": "Ho Sing Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "28",
+              "short_name": "28",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kam Fai Path",
+              "short_name": "Kam Fai Path",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Yuen Long",
+              "short_name": "Yuen Long",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Ho Sing Building, <span class=\"street-address\">28 Kam Fai Path</span>, <span class=\"locality\">Yuen Long</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Ho Sing Building, 28 Kam Fai Path, Yuen Long, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.4423936,
+              "lng": 114.0261755
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4438195802915,
+                "lng": 114.0275257302915
+              },
+              "southwest": {
+                "lat": 22.4411216197085,
+                "lng": 114.0248277697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "f16628547b191c74d778102d90d0fa66a97ddb53",
+          "name": "Ho Sing Building",
+          "place_id": "ChIJWYKQvAr6AzQRijYeQ1XsHZM",
+          "reference": "ChIJWYKQvAr6AzQRijYeQ1XsHZM",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Ho+Sing+Building&ftid=0x3403fa0abc908259:0x931dec55431e368a",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJWYKQvAr6AzQRijYeQ1XsHZM",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u597d\u76db\u6d0b\u6a13",
+              "short_name": "\u597d\u76db\u6d0b\u6a13",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "28",
+              "short_name": "28",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u91d1\u8f1d\u5f91",
+              "short_name": "\u91d1\u8f1d\u5f91",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5143\u6717",
+              "short_name": "\u5143\u6717",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5143\u6717</span><span class=\"street-address\">\u91d1\u8f1d\u5f9128\u865f</span>\u597d\u76db\u6d0b\u6a13",
+          "formatted_address": "\u9999\u6e2f\u5143\u6717\u91d1\u8f1d\u5f9128\u865f\u597d\u76db\u6d0b\u6a13",
+          "geometry": {
+            "location": {
+              "lat": 22.4423936,
+              "lng": 114.0261755
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4438195802915,
+                "lng": 114.0275257302915
+              },
+              "southwest": {
+                "lat": 22.4411216197085,
+                "lng": 114.0248277697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "f16628547b191c74d778102d90d0fa66a97ddb53",
+          "name": "\u597d\u76db\u6d0b\u6a13",
+          "place_id": "ChIJWYKQvAr6AzQRijYeQ1XsHZM",
+          "reference": "ChIJWYKQvAr6AzQRijYeQ1XsHZM",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%A5%BD%E7%9B%9B%E6%B4%8B%E6%A8%93&ftid=0x3403fa0abc908259:0x931dec55431e368a",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -339,6 +510,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

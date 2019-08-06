@@ -188,6 +188,557 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "EjdGLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRg": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "F",
+              "short_name": "F",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "53 Kat Hing Street",
+              "short_name": "53 Kat Hing Street",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "53",
+              "short_name": "53",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kat Hing Street",
+              "short_name": "Kat Hing St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tai O",
+              "short_name": "Tai O",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "F, 53 Kat Hing Street, <span class=\"street-address\">53 Kat Hing St</span>, <span class=\"locality\">Tai O</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "F, 53 Kat Hing Street, 53 Kat Hing St, Tai O, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2547144,
+              "lng": 113.8628046
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2560436302915,
+                "lng": 113.8641605802915
+              },
+              "southwest": {
+                "lat": 22.25334566970849,
+                "lng": 113.8614626197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "68f2bba12e6c1cfe4e7f05df926aaba8c5b5b531",
+          "name": "F, 53 Kat Hing St",
+          "place_id": "EjdGLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRg",
+          "reference": "EjdGLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRg",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=F,+53+Kat+Hing+Street,+53+Kat+Hing+St,+Tai+O,+Hong+Kong&ftid=0x340158d240c4a263:0x35aea609abfa3b2",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EjdGLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRg",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "F",
+              "short_name": "F",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "\u5409\u6176\u885753\u865f",
+              "short_name": "\u5409\u6176\u885753\u865f",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "53",
+              "short_name": "53",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5409\u6176\u8857",
+              "short_name": "\u5409\u6176\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5927\u6fb3",
+              "short_name": "\u5927\u6fb3",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5927\u6fb3</span><span class=\"street-address\">\u5409\u6176\u885753\u865f</span>\u5409\u6176\u885753\u865fF",
+          "formatted_address": "\u9999\u6e2f\u5927\u6fb3\u5409\u6176\u885753\u865f\u5409\u6176\u885753\u865fF",
+          "geometry": {
+            "location": {
+              "lat": 22.2547144,
+              "lng": 113.8628046
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2560436302915,
+                "lng": 113.8641605802915
+              },
+              "southwest": {
+                "lat": 22.25334566970849,
+                "lng": 113.8614626197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "68f2bba12e6c1cfe4e7f05df926aaba8c5b5b531",
+          "name": "\u5409\u6176\u885753\u865fF",
+          "place_id": "EjdGLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRg",
+          "reference": "EjdGLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRg",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%BE%B3%E5%90%89%E6%85%B6%E8%A1%9753%E8%99%9F%E5%90%89%E6%85%B6%E8%A1%9753%E8%99%9FF&ftid=0x340158d240c4a263:0x35aea609abfa3b2",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "EjdHLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRw": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "G",
+              "short_name": "G",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "53 Kat Hing Street",
+              "short_name": "53 Kat Hing Street",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "53",
+              "short_name": "53",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kat Hing Street",
+              "short_name": "Kat Hing St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tai O",
+              "short_name": "Tai O",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "G, 53 Kat Hing Street, <span class=\"street-address\">53 Kat Hing St</span>, <span class=\"locality\">Tai O</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "G, 53 Kat Hing Street, 53 Kat Hing St, Tai O, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2547144,
+              "lng": 113.8628046
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2560436302915,
+                "lng": 113.8641605802915
+              },
+              "southwest": {
+                "lat": 22.25334566970849,
+                "lng": 113.8614626197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "8e45fb9744391d23501138ebccc605aebf30973b",
+          "name": "G, 53 Kat Hing St",
+          "place_id": "EjdHLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRw",
+          "reference": "EjdHLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRw",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=G,+53+Kat+Hing+Street,+53+Kat+Hing+St,+Tai+O,+Hong+Kong&ftid=0x340158d240c4a263:0x7c55ae668fa27aeb",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EjdHLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRw",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "G",
+              "short_name": "G",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "\u5409\u6176\u885753\u865f",
+              "short_name": "\u5409\u6176\u885753\u865f",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "53",
+              "short_name": "53",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5409\u6176\u8857",
+              "short_name": "\u5409\u6176\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5927\u6fb3",
+              "short_name": "\u5927\u6fb3",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5927\u6fb3</span><span class=\"street-address\">\u5409\u6176\u885753\u865f</span>\u5409\u6176\u885753\u865fG",
+          "formatted_address": "\u9999\u6e2f\u5927\u6fb3\u5409\u6176\u885753\u865f\u5409\u6176\u885753\u865fG",
+          "geometry": {
+            "location": {
+              "lat": 22.2547144,
+              "lng": 113.8628046
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2560436302915,
+                "lng": 113.8641605802915
+              },
+              "southwest": {
+                "lat": 22.25334566970849,
+                "lng": 113.8614626197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "8e45fb9744391d23501138ebccc605aebf30973b",
+          "name": "\u5409\u6176\u885753\u865fG",
+          "place_id": "EjdHLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRw",
+          "reference": "EjdHLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIh0aGwoWChQKEgljosRA0lgBNBEUudTligBrDhIBRw",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%BE%B3%E5%90%89%E6%85%B6%E8%A1%9753%E8%99%9F%E5%90%89%E6%85%B6%E8%A1%9753%E8%99%9FG&ftid=0x340158d240c4a263:0x7c55ae668fa27aeb",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "EkPlnLDkuIsg5by36KiYLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIikaJwoWChQKEgljosRA0lgBNBEUudTligBrDhIN5Zyw5LiLIOW8t-iomA": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0b \u5f37\u8a18",
+              "short_name": "\u5730\u4e0b \u5f37\u8a18",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "53 Kat Hing Street",
+              "short_name": "53 Kat Hing Street",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "53",
+              "short_name": "53",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Kat Hing Street",
+              "short_name": "Kat Hing St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tai O",
+              "short_name": "Tai O",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u5730\u4e0b \u5f37\u8a18, 53 Kat Hing Street, <span class=\"street-address\">53 Kat Hing St</span>, <span class=\"locality\">Tai O</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u5730\u4e0b \u5f37\u8a18, 53 Kat Hing Street, 53 Kat Hing St, Tai O, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2547144,
+              "lng": 113.8628046
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2560436302915,
+                "lng": 113.8641605802915
+              },
+              "southwest": {
+                "lat": 22.25334566970849,
+                "lng": 113.8614626197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "ba26c47bfa3039045b8bbd6efb4085013e919a41",
+          "name": "\u5730\u4e0b \u5f37\u8a18, 53 Kat Hing St",
+          "place_id": "EkPlnLDkuIsg5by36KiYLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIikaJwoWChQKEgljosRA0lgBNBEUudTligBrDhIN5Zyw5LiLIOW8t-iomA",
+          "reference": "EkPlnLDkuIsg5by36KiYLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIikaJwoWChQKEgljosRA0lgBNBEUudTligBrDhIN5Zyw5LiLIOW8t-iomA",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%9C%B0%E4%B8%8B+%E5%BC%B7%E8%A8%98,+53+Kat+Hing+Street,+53+Kat+Hing+St,+Tai+O,+Hong+Kong&ftid=0x340158d240c4a263:0xcd8708f5ba7e4e1b",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EkPlnLDkuIsg5by36KiYLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIikaJwoWChQKEgljosRA0lgBNBEUudTligBrDhIN5Zyw5LiLIOW8t-iomA",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0b \u5f37\u8a18",
+              "short_name": "\u5730\u4e0b \u5f37\u8a18",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "\u5409\u6176\u885753\u865f",
+              "short_name": "\u5409\u6176\u885753\u865f",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "53",
+              "short_name": "53",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5409\u6176\u8857",
+              "short_name": "\u5409\u6176\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5927\u6fb3",
+              "short_name": "\u5927\u6fb3",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5927\u6fb3</span><span class=\"street-address\">\u5409\u6176\u885753\u865f</span>\u5409\u6176\u885753\u865f\u5730\u4e0b \u5f37\u8a18",
+          "formatted_address": "\u9999\u6e2f\u5927\u6fb3\u5409\u6176\u885753\u865f\u5409\u6176\u885753\u865f\u5730\u4e0b \u5f37\u8a18",
+          "geometry": {
+            "location": {
+              "lat": 22.2547144,
+              "lng": 113.8628046
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2560436302915,
+                "lng": 113.8641605802915
+              },
+              "southwest": {
+                "lat": 22.25334566970849,
+                "lng": 113.8614626197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "ba26c47bfa3039045b8bbd6efb4085013e919a41",
+          "name": "\u5409\u6176\u885753\u865f\u5730\u4e0b \u5f37\u8a18",
+          "place_id": "EkPlnLDkuIsg5by36KiYLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIikaJwoWChQKEgljosRA0lgBNBEUudTligBrDhIN5Zyw5LiLIOW8t-iomA",
+          "reference": "EkPlnLDkuIsg5by36KiYLCA1MyBLYXQgSGluZyBTdHJlZXQsIDUzIEthdCBIaW5nIFN0LCBUYWkgTywgSG9uZyBLb25nIikaJwoWChQKEgljosRA0lgBNBEUudTligBrDhIN5Zyw5LiLIOW8t-iomA",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%BE%B3%E5%90%89%E6%85%B6%E8%A1%9753%E8%99%9F%E5%90%89%E6%85%B6%E8%A1%9753%E8%99%9F%E5%9C%B0%E4%B8%8B+%E5%BC%B7%E8%A8%98&ftid=0x340158d240c4a263:0xcd8708f5ba7e4e1b",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -277,6 +828,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

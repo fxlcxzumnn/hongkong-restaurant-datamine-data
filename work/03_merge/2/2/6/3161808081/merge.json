@@ -393,6 +393,1007 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJA_SF-_EABDQR8oqxTKkApjM": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "8",
+              "short_name": "8",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Minden Avenue",
+              "short_name": "Minden Ave",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">8 Minden Ave</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "8 Minden Ave, Tsim Sha Tsui, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2967282,
+              "lng": 114.1741949
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2981440802915,
+                "lng": 114.1756683302915
+              },
+              "southwest": {
+                "lat": 22.29544611970849,
+                "lng": 114.1729703697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "a3e992ff7adb802a85c9da7e90d4ce0a9194ce0c",
+          "name": "The Pinnacle",
+          "photos": [
+            {
+              "height": 3264,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111045153196302704189/photos\">Gerry Chow</a>"
+              ],
+              "photo_reference": "CmRaAAAAf0ylcVLk8ODx1VVfa5GjkoUWHdBCwMaegZXz2eOrNXgqsCmmZAS8Zedn8ixH3KUpA6oHhi30g1AJjJNJYBAUWIGfr9XLOFdFskwZx5K6BgObgZEBc9obDhYgBB3WycDaEhCtyI_Y2Fgi9e5Kd3MX13UNGhTDWBJzlZpBWvbpQVz7OGO76QeIuQ",
+              "width": 2448
+            },
+            {
+              "height": 4592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106536591460732227447/photos\">wai lun kong</a>"
+              ],
+              "photo_reference": "CmRaAAAAx73TLxPyy5Xb1zTqMzORaE1HxdqCw25btOCpErvRqS10dvXj2b1YUQLo9Its8f3K1ZVhTYgi_0PnU1-d3CL9jLJDty448bx6JMGdRIjHs2gDSClAWLTX3RXdipISZaRpEhDobH4h5AO5RYjO5dqfUj-vGhSvFGwCIXfgn5hYLHu43EWh-jZvKw",
+              "width": 3456
+            }
+          ],
+          "place_id": "ChIJA_SF-_EABDQR8oqxTKkApjM",
+          "reference": "ChIJA_SF-_EABDQR8oqxTKkApjM",
+          "scope": "GOOGLE",
+          "types": [
+            "premise",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?q=8+Minden+Ave,+Tsim+Sha+Tsui,+Hong+Kong&ftid=0x340400f1fb85f403:0x33a600a94cb18af2",
+          "utc_offset": 480,
+          "website": "http://www.harbourpinnacle.com.hk/"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJA_SF-_EABDQR8oqxTKkApjM",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "8",
+              "short_name": "8",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u68c9\u767b\u5f91",
+              "short_name": "\u68c9\u767b\u5f91",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5c16\u6c99\u5480",
+              "short_name": "\u5c16\u6c99\u5480",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5c16\u6c99\u5480</span><span class=\"street-address\">\u68c9\u767b\u5f918\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u5c16\u6c99\u5480\u68c9\u767b\u5f918\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.2967282,
+              "lng": 114.1741949
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2981440802915,
+                "lng": 114.1756683302915
+              },
+              "southwest": {
+                "lat": 22.29544611970849,
+                "lng": 114.1729703697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "a3e992ff7adb802a85c9da7e90d4ce0a9194ce0c",
+          "name": "\u51f1\u8b7d",
+          "photos": [
+            {
+              "height": 3264,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111045153196302704189/photos\">Gerry Chow</a>"
+              ],
+              "photo_reference": "CmRaAAAAQ8HKVKOuAkTZebPKfqCqZQT3UG2G3-8S6Oh1m3UyEDhmAAoeMryZBsCz0m5rxJXyg_cWPHUT-a48S1BosrUk_oNJMobfuGW5hxh_uiEhh5EPEbuUzYhvgPVl0eBxfxfVEhCqq3WazCw9RNB2A-LoyoNbGhTuhizjVVOpyxzQcpVAmZ9tOdKkrw",
+              "width": 2448
+            },
+            {
+              "height": 4592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106536591460732227447/photos\">wai lun kong</a>"
+              ],
+              "photo_reference": "CmRaAAAAgrofvYWGD06t0u_kBdnuJRY50yrhxoyCUGkHmjLtrqHkJ6VSnHQZb2BBwlGOuZUpgD0jU43atNuianm-fdxaeyiCzwl0mPrsY0Be-mhiJdcacCzciGoFnOGHDceh7gCwEhA1hrGpCMWxYh-bYxCXaNd7GhQdeUfiQQvrOXQG1Ikbc_Wz19W0Pw",
+              "width": 3456
+            }
+          ],
+          "place_id": "ChIJA_SF-_EABDQR8oqxTKkApjM",
+          "reference": "ChIJA_SF-_EABDQR8oqxTKkApjM",
+          "scope": "GOOGLE",
+          "types": [
+            "premise",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%B0%96%E6%B2%99%E5%92%80%E6%A3%89%E7%99%BB%E5%BE%918%E8%99%9F&ftid=0x340400f1fb85f403:0x33a600a94cb18af2",
+          "utc_offset": 480,
+          "website": "http://www.harbourpinnacle.com.hk/"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJD_q05AMBBDQRhYqp1U9vRqE": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "8",
+              "short_name": "8",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Minden Avenue",
+              "short_name": "Minden Ave",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">8 Minden Ave</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "8 Minden Ave, Tsim Sha Tsui, Hong Kong",
+          "formatted_phone_number": "2869 6122",
+          "geometry": {
+            "location": {
+              "lat": 22.2967423,
+              "lng": 114.173732
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2980965802915,
+                "lng": 114.1750803802915
+              },
+              "southwest": {
+                "lat": 22.2953986197085,
+                "lng": 114.1723824197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "f9913047b25c6cb1918962d0104ecdca35568d8a",
+          "international_phone_number": "+852 2869 6122",
+          "name": "Maison Eric Kayser - Tsim Sha Tsui",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0730"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0730"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 7:00 AM \u2013 8:30 PM",
+              "Tuesday: 7:00 AM \u2013 8:30 PM",
+              "Wednesday: 7:00 AM \u2013 8:30 PM",
+              "Thursday: 7:00 AM \u2013 8:30 PM",
+              "Friday: 7:00 AM \u2013 8:30 PM",
+              "Saturday: 7:30 AM \u2013 8:30 PM",
+              "Sunday: 7:30 AM \u2013 8:30 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112875238041620652509/photos\">Simon</a>"
+              ],
+              "photo_reference": "CmRaAAAAYrXJn-hsjymRJPIeZiQTii9TMJLrctbMrJhiBs1vSNMBwiZLdsBz1oeDfnf2QLvh21Lk4XBohcMpY1Tpkd8a16XXVYnHOkH9ZOgToRiMQQSVa9zaRCO7JoJH8oS7PmF2EhA6bszneJoO5Xe6FBq__yNmGhTTNyMuIH7LuFiUwlBao10epPaEQw",
+              "width": 4032
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAAqwlzlXYVYQ-RfnII7lXdN4LHtbfx1PaV7vr5yMedL_ige4IfqE_ZlCNjDhJPKJJGyzY5jfEBvYkuFm-HRZfQV9FC3mHbkeaV7dBSXXLbbSg4qggnkZpmRc5Dssn7F3UCEhCJBkMXCqb1SoT_UMGM9Yv9GhR9LZ-LlRhopiDUiCumUyrC1cSUhw",
+              "width": 5504
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115986643174501718111/photos\">chan jeffson</a>"
+              ],
+              "photo_reference": "CmRaAAAAk3WOCc2UZn6iuKrhbgNxT7Xz-p3RXkNR3ECTBXAyHDC4CBv88d3FtxvLwsngmPry24TF1ZToX_uwLodHdtNePFYbg3TL6sXCCpPZAO94ThFlSFuiXy0KbqA4Cgi7uDUKEhASheDFbK0oKb6VMM05_8o2GhQQLdUqnCYOIWJHqFXgNkd-0XK78A",
+              "width": 4032
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAAWGCfN7IkU0b_quCie7o6851GZ7jraQgyr4M-s0OUPG8LBjrNociRA7dU2dT_RNIBFs9iylsmGlcCO8nUaZdEl1-nFKHCYCO-BfHLBtab3UOrtjwvzWqZDJ8fLqaxo0U_EhB5vYuR9eHxaYC8gEoQeAz4GhRHJQUkwWBMDpM8XUe1oTBqs32m4w",
+              "width": 5504
+            },
+            {
+              "height": 900,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101732259834287504629/photos\">YN Hoe</a>"
+              ],
+              "photo_reference": "CmRaAAAAiJRfk6oQ5oqJ26IJwpf9w7yIVvXhSxBVcSU5fA7a_naRrYmipNQtFRuEFccGt3-o16cp7AxdPm7AOlYOEvcTmnYuGcttMYLcJlrpoBZHB5NhcvF97LRhha7qEvzMQl39EhD30jT5xuzzIISUpodtwcHAGhQ17Ucz68b0lFlhTVXzfMaxceDykg",
+              "width": 1600
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103753751041772873351/photos\">Ivy C.</a>"
+              ],
+              "photo_reference": "CmRaAAAAYLjcMova1l9-10B91fDmK43Ghj-7X4AR-jhG5VR3zBGCMNdilSvs8okdpCbJ1-QRBNjSjAdjw4GYK770JX77bLKgY9RX2ocTKqp-9-eqoqZEuMARXQ4KhrJR_FljID61EhCZIFyn_q7RXcLWFCPK0oalGhRGF-tqnZ8hJ1PKp_RN7HZDx1zShQ",
+              "width": 3024
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115986643174501718111/photos\">chan jeffson</a>"
+              ],
+              "photo_reference": "CmRaAAAA8GQ-0S0czrLPIpsc9f4xaw6ulFdYLLy94OiPfeh3ow81jk0xMNkFmfA_Q35zl_L1osO9n6cswTt3PLjgi-PzcoEJ90JwQnropAk_8vp9kwTWJCTcKntz0dyMQJ7ECc9BEhBZJd3ALtoKHlE3EJyVAxhCGhRt4jaitK2eL8pbzMMguUSEnQIoPA",
+              "width": 3024
+            },
+            {
+              "height": 2264,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116721905656173936930/photos\">Lawrence Siu</a>"
+              ],
+              "photo_reference": "CmRaAAAAr15FoGBcLjoEmcx86Q9boUShvEa_UcML5YOjk30yJS8PblrXCwDSYui8WUbKJDRDzeohrbPPjbDn8GecZ95s6dmhKJ-xnTiaszoAFcFhwQaTPwjCocHdWnZ_MnS0GSI3EhChvqtXdnZ1Y8Nyl-UZgcd3GhSN6SYzAoESroMFRMaiszkNlPkrBw",
+              "width": 2812
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAAa5iuYM5-FO7X9m6YW4KcuNA4YRBWtuU-9_pnpl1GQs8ZbYHa8OrX7fHp6LOfIVzxfndsUIea9kuUFhebNqGlCA2_ZCMPlFqzY6BCwJ_u2xmM6yuJ1-IWi-ud_hqiosHiEhCK1bwluTt_S007Y05Oh1pUGhTNhbMBJcZq8O9N0hox_zJk3K-wPA",
+              "width": 5504
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAA-R8Oafb_z2qGBp89FrSFq-BdWwD-yHIU8jwlc26Vqa-2RrKd2wHBHhIgPMuOfA-dPbPxEpYFDFEN7UBE_biyafIbLjzJAoxsUOJ11jApgsBTOtcWi-jcrHkJZvOkRPcVEhAFZCU5ezpzOZQQ4Slx9-KMGhTvhEGe98dWpYleH26wqE4RlfuutQ",
+              "width": 5504
+            }
+          ],
+          "place_id": "ChIJD_q05AMBBDQRhYqp1U9vRqE",
+          "plus_code": {
+            "compound_code": "75WF+MF Tsim Sha Tsui, Hong Kong",
+            "global_code": "7PJP75WF+MF"
+          },
+          "rating": 4.3,
+          "reference": "ChIJD_q05AMBBDQRhYqp1U9vRqE",
+          "reviews": [
+            {
+              "author_name": "David Richardson",
+              "author_url": "https://www.google.com/maps/contrib/104407761403024241786/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-WLxj6pzSlMk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcn1A0zFLLHMa3GTtIRXxtj3B8brg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a week ago",
+              "text": "Great for a quick breakfast; granola with yoghurt, fresh fruit salad bowl. Pastries of course and a gluten free cookie which was almost a cake. Italian style coffee and fresh orange juice who could ask for more ?",
+              "time": 1564198810
+            },
+            {
+              "author_name": "Terence Leung",
+              "author_url": "https://www.google.com/maps/contrib/116232710170423399015/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-T09PvT3vu-8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rflqbiosg8nhhNYYFqxiX0qt8REYQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 months ago",
+              "text": "Good place for light lunch.  The bread and sandwiches is good and well balance with their coffee.",
+              "time": 1559801590
+            },
+            {
+              "author_name": "Brian Li",
+              "author_url": "https://www.google.com/maps/contrib/115614862840346256278/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-Dg0yeRZLdmo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZcuMc0PbOph-gdzAdYN_inrU7dQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "in the last week",
+              "text": "Really nice staff. The tuna croissant is to die for !",
+              "time": 1564459004
+            },
+            {
+              "author_name": "Ivy C.",
+              "author_url": "https://www.google.com/maps/contrib/103753751041772873351/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-rxkWyL6CHG4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdcQ9XBnU0Lb1T-04qsQ1Rl_Ps52g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 months ago",
+              "text": "The pastries are really pretty and d the atmosphere is great for hanging out with friends but everything was too sweet for me. I think I would go for the breads or sandwiches instead if I return next time.",
+              "time": 1559148148
+            },
+            {
+              "author_name": "Pakamon Tulyapizitchai",
+              "author_url": "https://www.google.com/maps/contrib/104333878274980693854/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-gWtl50uBAWk/AAAAAAAAAAI/AAAAAAABHT0/6a5Bip1IpiY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a month ago",
+              "text": "Nice bakery and they use stinless straw.. Love it!",
+              "time": 1560689492
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bakery",
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=11621098277153901189",
+          "user_ratings_total": 43,
+          "utc_offset": 480,
+          "vicinity": "8 Minden Avenue, Tsim Sha Tsui",
+          "website": "https://www.maison-kayser.com.hk/"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJD_q05AMBBDQRhYqp1U9vRqE",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "8",
+              "short_name": "8",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u68c9\u767b\u5f91",
+              "short_name": "\u68c9\u767b\u5f91",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5c16\u6c99\u5480",
+              "short_name": "\u5c16\u6c99\u5480",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5c16\u6c99\u5480</span><span class=\"street-address\">\u68c9\u767b\u5f918\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u5c16\u6c99\u5480\u68c9\u767b\u5f918\u865f",
+          "formatted_phone_number": "2869 6122",
+          "geometry": {
+            "location": {
+              "lat": 22.2967423,
+              "lng": 114.173732
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2980965802915,
+                "lng": 114.1750803802915
+              },
+              "southwest": {
+                "lat": 22.2953986197085,
+                "lng": 114.1723824197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "f9913047b25c6cb1918962d0104ecdca35568d8a",
+          "international_phone_number": "+852 2869 6122",
+          "name": "Eric Kayser",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0730"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2030"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0730"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 07:00 \u2013 20:30",
+              "\u661f\u671f\u4e8c: 07:00 \u2013 20:30",
+              "\u661f\u671f\u4e09: 07:00 \u2013 20:30",
+              "\u661f\u671f\u56db: 07:00 \u2013 20:30",
+              "\u661f\u671f\u4e94: 07:00 \u2013 20:30",
+              "\u661f\u671f\u516d: 07:30 \u2013 20:30",
+              "\u661f\u671f\u65e5: 07:30 \u2013 20:30"
+            ]
+          },
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112875238041620652509/photos\">Simon</a>"
+              ],
+              "photo_reference": "CmRaAAAA2XXLXQK0z9nup4lEqIo0vGgg4UgMONghJn7kCWaRNXX-vsTIPt0zhBMRBY65G-wBJWpPaYe0T0Zf9xEQ5Z7rDwnzuo6j-LmxdZkZ8VZ2yTdQPx3c5QCqTV7YpK_uwDP8EhBGkXQ_vRRQ6TI4T61lfvUKGhQ2MeiuR5e-KWnS9rLyPvEp-ekBmw",
+              "width": 4032
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAAqLAZde2OalX9HOTyCmtEZa1mqv7hK_q5EqyYCYnwgai6zyxQ5z35xBeOtE5WoM79U4UzbnSDCXNT85vhJEN3G7vzIiPaaw02vwnJWniWdj655UoqhEb5ThWVXWPXQ6OqEhDziPVonaAWBjBnFNasHxdXGhRyNOfkbu083lK0mRbsGjLez9Pu6w",
+              "width": 5504
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115986643174501718111/photos\">chan jeffson</a>"
+              ],
+              "photo_reference": "CmRaAAAAjPUiDvLpUokXAMu8QELNVegKoG0FthXfCRgUIloObKdmWAbFHaFEmDtt3UQolCWv9row0sgz_ZjP65S8NorhZyxpJGxI7Lgi_azJBqgANeA1ExDmavAF-lRd1JZfK3stEhAzz_EHgEUnbcAbqaT2XbpGGhSeS-mEfFfQ8UtBYlfvxGs59uxB2g",
+              "width": 4032
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAApJFBUrDu7NabIjsjyyI_tXKdA957MNKx1sgnC3mh3GLs41-mnqpHp3EP6C6K17He0QBmCBLZCeIrJbJI3Cqrcr1OKkoBLR3lIRl1T-hOVckbmn4VQwBnHpMOGvlUn4g5EhBBBStKkv_pyIuDFHlPg56MGhQQvGNv2nnjhhCH85UJJOu5OHVK-g",
+              "width": 5504
+            },
+            {
+              "height": 900,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101732259834287504629/photos\">YN Hoe</a>"
+              ],
+              "photo_reference": "CmRaAAAAaUP7qx6z7abT7DNGudDYy7SW7rNWNQIdn9jUM1CfSrhgzWkQWeT6NEHMUhpoBl3HtNngERR0XtySKX32GraRKAaytSifAhH9x986-5JX_tDLfJQ0IHttYQoK7ggp7NkSEhDpeIGaqax7WXZds3TUj-PzGhRvNpTWtKZHCb9oIjhkKCl_ZwFaWg",
+              "width": 1600
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103753751041772873351/photos\">Ivy C.</a>"
+              ],
+              "photo_reference": "CmRaAAAAUNs9vVca3aHJqA-G1TQpiJbB3fX5yq8luF82yZ3alertd6Ck28D-OFET1hyUrxTGl1o3bD89dtCUjaVXp8kTYtXrSAMPUdlkCQOKqiML6QkSTApOfur4i0kfS0JgCam0EhCR1uE7bXwItZUv80P1ezOSGhS4aOnk6JnDPW7xamY5czKTekOQkA",
+              "width": 3024
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115986643174501718111/photos\">chan jeffson</a>"
+              ],
+              "photo_reference": "CmRaAAAA90_NCXMZ6jdfsY8AHV5ryBBbgby27tFTEkN2zM6xv_z0wzicx_oE_nh_7xf0c5yVZeqE0SIBqS4Gb56UQcbMTBOb_1QkaHf_8Yai9LybOylcofZ16VeOBHrTX2KFrPPbEhBCyKEviLEbIABt6kZ91wkgGhR7NRQ4_8HBD2OK-A71KwMemFIfTw",
+              "width": 3024
+            },
+            {
+              "height": 2264,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116721905656173936930/photos\">Lawrence Siu</a>"
+              ],
+              "photo_reference": "CmRaAAAAzauzgnFb-8wVs-nW1cDGh8cFDqQD1V6fjWRx8fR2KXVeiNGyJL8tfoeyGJc8ka80ato-vmG57jmyw6C2Ug5q2cx_2JYFKEvi0KPDo93mMMUh7ur4K4YEDd2822-RCJmdEhDcAqFYwCLwzVRHGsic3GdEGhQ0FEkdzKOYWS0yFWE068tL2DoHow",
+              "width": 2812
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAAAVp5AHDdTLW7Daj6-ZQKvBo20nvZuenNjPRS3vbUYZ1Jgjyr9ROrA9KXcrV3E6U6SV6vA_QE5hpUBugiepiRCc3A4eaTekBwC-a9ajaI7mzalFv8ZwO9ISDiwFdRxneMEhBOs6mhoriZM5bTLXQB3k_-GhTO33szLLb9MRPPfwkx0Xrb8ghH8A",
+              "width": 5504
+            },
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117225244475245721997/photos\">Nonki Law</a>"
+              ],
+              "photo_reference": "CmRaAAAAUour09Tpni91mcMzPlUYDig4H7GFLc5TmpqfozI3nzGjXbKd0-iENTnvB1WAV99pFlJka6zx7hi-rFlAy-ZLW8-7lyGobXUCKvFU1BGHQGT2iFhJWLBwAfa9uv8F537WEhADsfy2xBkL9E-0p_TUFrbcGhTy4mPC8RUPIjDwhYQlGVsi_1kF1g",
+              "width": 5504
+            }
+          ],
+          "place_id": "ChIJD_q05AMBBDQRhYqp1U9vRqE",
+          "plus_code": {
+            "compound_code": "75WF+MF \u9999\u6e2f\u5c16\u6c99\u5480",
+            "global_code": "7PJP75WF+MF"
+          },
+          "rating": 4.3,
+          "reference": "ChIJD_q05AMBBDQRhYqp1U9vRqE",
+          "reviews": [
+            {
+              "author_name": "ChIng YUen",
+              "author_url": "https://www.google.com/maps/contrib/114732762788399252131/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-BSW0aEZZKb8/AAAAAAAAAAI/AAAAAAAAGX0/pEGvT4D4Si4/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u9031\u524d",
+              "text": "\u5728\u5c16\u6c99\u5480\u9019\u88e1 \u771f\u7684\u6709\u5f88\u591a\u5bb6\u5496\u5561\u5ef3~\n\u6240\u4ee5\u6211\u4e5f\u6709\u6642\u9593\u53bb\u63a2\u5e97\u4e00\u4e0b\u624d\u884c\ud83e\udd14\n\u9019\u6b21\u7d93\u904e\u68c9\u767b\u5f91 \u767c\u73fe\u9019\u5bb6Eric Kayse[\u6109\u5feb]\n\n\u9019\u5bb6\u5bb6\u552e\u8ce3\u9762\u5305\u8207\u5496\u5561\u7684 \u6211\u5c31\u8cb7\u4e86\u4e00\u676f\u5496\u5561\n\u5750\u4e0b\u4f86\u4f11\u606f\u4e00\u6703\u5152 \u800c\u4e14\u9084\u6709\u8857\u666f\u53ef\u4ee5\u671b\u671b\n\n\u00b7Cuppchinno HKD$40\n\u5473\u9053\u8207\u5e73\u5e38\u98f2\u958b\u7684\u4e00\u6a23 \u6c92\u6709\u592a\u5927\u7684\u5206\u5225~\n\u62c9\u82b1\u4e5f\u662f\u5fc3\u5fc3\u8036[\u8272][\u8272]\u5f88\u559c\u6b61\u9019\u500b\u62c9\u82b1\ud83d\udc9e\n\n\u4e0b\u6b21\u53bb\u8a66\u8a66\u9762\u5305\u624d\u884c\ud83e\udd14\u4e0d\u77e5\u9053\u5473\u9053\u6703\u662f\u600e\u6a23\u5462",
+              "time": 1564049118
+            },
+            {
+              "author_name": "David Richardson",
+              "author_url": "https://www.google.com/maps/contrib/104407761403024241786/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-WLxj6pzSlMk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcn1A0zFLLHMa3GTtIRXxtj3B8brg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u9031\u524d",
+              "text": "Great for a quick breakfast; granola with yoghurt, fresh fruit salad bowl. Pastries of course and a gluten free cookie which was almost a cake. Italian style coffee and fresh orange juice who could ask for more ?",
+              "time": 1564198810
+            },
+            {
+              "author_name": "Terence Leung",
+              "author_url": "https://www.google.com/maps/contrib/116232710170423399015/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-T09PvT3vu-8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rflqbiosg8nhhNYYFqxiX0qt8REYQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 \u500b\u6708\u524d",
+              "text": "Good place for light lunch.  The bread and sandwiches is good and well balance with their coffee.",
+              "time": 1559801590
+            },
+            {
+              "author_name": "Queenie Fung",
+              "author_url": "https://www.google.com/maps/contrib/113205185022328204105/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-CPY1xmfm3aU/AAAAAAAAAAI/AAAAAAAAMaE/jyje1cWaCgw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u901b\u8857\u5f8c\u5c0f\u4f11\u7684\u597d\u5730\u65b9\uff0c1\u4ef6\u751c\u9ede\u52a01\u676f\u98f2\u54c1\u7684\u5957\u9910\u8879\u552e$55\uff01",
+              "time": 1555496211
+            },
+            {
+              "author_name": "chan jeffson",
+              "author_url": "https://www.google.com/maps/contrib/115986643174501718111/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-0CBTNh0sCUQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3revTU8WuOvMdBA2Wj9sh2JQK5Pw-Q/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u5e6b\u896f\u958b\u7063\u4ed4\u5e97\uff0c\u7063\u4ed4\u56db\u9593\u540d\u9eb5\u5305\u5e97\uff0c\u9019\u9593\u7b97\u4e2d\u7d1a\u6c34\u6e96\u5427\u3002\u65b0\u958b\u5c16\u6c99\u5480\uff0c\u7b2c\u4e00\u6b21\u5e6b\u896f\u3002",
+              "time": 1555059183
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bakery",
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=11621098277153901189",
+          "user_ratings_total": 43,
+          "utc_offset": 480,
+          "vicinity": "\u5c16\u6c99\u5480\u68c9\u767b\u5f918\u865f",
+          "website": "https://www.maison-kayser.com.hk/"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "EkPlnLDkuItHMeWPikcyLCBUaGUgUGlubmFjbGUsIDggTWluZGVuIEF2ZSwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIikaJwoWChQKEgkD9IX78QAENBHyirFMqQCmMxIN5Zyw5LiLRzHlj4pHMg": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0bG1\u53caG2",
+              "short_name": "\u5730\u4e0bG1\u53caG2",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "The Pinnacle",
+              "short_name": "The Pinnacle",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "8",
+              "short_name": "8",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Minden Avenue",
+              "short_name": "Minden Ave",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u5730\u4e0bG1\u53caG2, The Pinnacle, <span class=\"street-address\">8 Minden Ave</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u5730\u4e0bG1\u53caG2, The Pinnacle, 8 Minden Ave, Tsim Sha Tsui, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2967282,
+              "lng": 114.1741949
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2981440802915,
+                "lng": 114.1756683302915
+              },
+              "southwest": {
+                "lat": 22.29544611970849,
+                "lng": 114.1729703697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "38798292d7e7d2d6da913d3fbe3eb13e9e16cd19",
+          "name": "\u5730\u4e0bG1\u53caG2, 8 Minden Ave",
+          "place_id": "EkPlnLDkuItHMeWPikcyLCBUaGUgUGlubmFjbGUsIDggTWluZGVuIEF2ZSwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIikaJwoWChQKEgkD9IX78QAENBHyirFMqQCmMxIN5Zyw5LiLRzHlj4pHMg",
+          "reference": "EkPlnLDkuItHMeWPikcyLCBUaGUgUGlubmFjbGUsIDggTWluZGVuIEF2ZSwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIikaJwoWChQKEgkD9IX78QAENBHyirFMqQCmMxIN5Zyw5LiLRzHlj4pHMg",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%9C%B0%E4%B8%8BG1%E5%8F%8AG2,+The+Pinnacle,+8+Minden+Ave,+Tsim+Sha+Tsui,+Hong+Kong&ftid=0x340400f1fb85f403:0x225734f985cf01eb",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EkPlnLDkuItHMeWPikcyLCBUaGUgUGlubmFjbGUsIDggTWluZGVuIEF2ZSwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIikaJwoWChQKEgkD9IX78QAENBHyirFMqQCmMxIN5Zyw5LiLRzHlj4pHMg",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0bG1\u53caG2",
+              "short_name": "\u5730\u4e0bG1\u53caG2",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "\u51f1\u8b7d",
+              "short_name": "\u51f1\u8b7d",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "8",
+              "short_name": "8",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u68c9\u767b\u5f91",
+              "short_name": "\u68c9\u767b\u5f91",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5c16\u6c99\u5480",
+              "short_name": "\u5c16\u6c99\u5480",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5c16\u6c99\u5480</span><span class=\"street-address\">\u68c9\u767b\u5f918\u865f</span>\u51f1\u8b7d\u5730\u4e0bG1\u53caG2",
+          "formatted_address": "\u9999\u6e2f\u5c16\u6c99\u5480\u68c9\u767b\u5f918\u865f\u51f1\u8b7d\u5730\u4e0bG1\u53caG2",
+          "geometry": {
+            "location": {
+              "lat": 22.2967282,
+              "lng": 114.1741949
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2981440802915,
+                "lng": 114.1756683302915
+              },
+              "southwest": {
+                "lat": 22.29544611970849,
+                "lng": 114.1729703697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "38798292d7e7d2d6da913d3fbe3eb13e9e16cd19",
+          "name": "\u68c9\u767b\u5f918\u865f\u5730\u4e0bG1\u53caG2",
+          "place_id": "EkPlnLDkuItHMeWPikcyLCBUaGUgUGlubmFjbGUsIDggTWluZGVuIEF2ZSwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIikaJwoWChQKEgkD9IX78QAENBHyirFMqQCmMxIN5Zyw5LiLRzHlj4pHMg",
+          "reference": "EkPlnLDkuItHMeWPikcyLCBUaGUgUGlubmFjbGUsIDggTWluZGVuIEF2ZSwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIikaJwoWChQKEgkD9IX78QAENBHyirFMqQCmMxIN5Zyw5LiLRzHlj4pHMg",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%B0%96%E6%B2%99%E5%92%80%E6%A3%89%E7%99%BB%E5%BE%918%E8%99%9F%E5%87%B1%E8%AD%BD%E5%9C%B0%E4%B8%8BG1%E5%8F%8AG2&ftid=0x340400f1fb85f403:0x225734f985cf01eb",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -701,6 +1702,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

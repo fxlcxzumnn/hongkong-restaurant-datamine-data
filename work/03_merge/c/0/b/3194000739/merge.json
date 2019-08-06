@@ -257,6 +257,177 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJkdpCrJ_wAzQRRFUfs8EO6K0": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Tung Fat Building",
+              "short_name": "Tung Fat Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "9",
+              "short_name": "9",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Ping Wui Street",
+              "short_name": "Ping Wui St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Yuen Long",
+              "short_name": "Yuen Long",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Tung Fat Building, <span class=\"street-address\">9 Ping Wui St</span>, <span class=\"locality\">Yuen Long</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Tung Fat Building, 9 Ping Wui St, Yuen Long, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.4461745,
+              "lng": 114.0222496
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4477104302915,
+                "lng": 114.0237012302915
+              },
+              "southwest": {
+                "lat": 22.44501246970849,
+                "lng": 114.0210032697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "07721df992f2ff72799b8c7401d735e7a4816ac0",
+          "name": "Tung Fat Building",
+          "place_id": "ChIJkdpCrJ_wAzQRRFUfs8EO6K0",
+          "reference": "ChIJkdpCrJ_wAzQRRFUfs8EO6K0",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Tung+Fat+Building&ftid=0x3403f09fac42da91:0xade80ec1b31f5544",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJkdpCrJ_wAzQRRFUfs8EO6K0",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u540c\u767c\u5927\u5ec8",
+              "short_name": "\u540c\u767c\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "9",
+              "short_name": "9",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5c4f\u6703\u8857",
+              "short_name": "\u5c4f\u6703\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5143\u6717",
+              "short_name": "\u5143\u6717",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5143\u6717</span><span class=\"street-address\">\u5c4f\u6703\u88579\u865f</span>\u540c\u767c\u5927\u5ec8",
+          "formatted_address": "\u9999\u6e2f\u5143\u6717\u5c4f\u6703\u88579\u865f\u540c\u767c\u5927\u5ec8",
+          "geometry": {
+            "location": {
+              "lat": 22.4461745,
+              "lng": 114.0222496
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.4477104302915,
+                "lng": 114.0237012302915
+              },
+              "southwest": {
+                "lat": 22.44501246970849,
+                "lng": 114.0210032697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "07721df992f2ff72799b8c7401d735e7a4816ac0",
+          "name": "\u540c\u767c\u5927\u5ec8",
+          "place_id": "ChIJkdpCrJ_wAzQRRFUfs8EO6K0",
+          "reference": "ChIJkdpCrJ_wAzQRRFUfs8EO6K0",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%90%8C%E7%99%BC%E5%A4%A7%E5%BB%88&ftid=0x3403f09fac42da91:0xade80ec1b31f5544",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -339,6 +510,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

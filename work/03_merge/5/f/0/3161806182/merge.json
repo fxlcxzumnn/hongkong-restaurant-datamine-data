@@ -361,6 +361,859 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJG3JcHe4ABDQR0XOpsvDuJlY": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">Hong Kong</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"street-address\">30 Mody Road</span> Mody House 4F",
+          "formatted_address": "Hong Kong, Tsim Sha Tsui, 30 Mody Road Mody House 4F",
+          "formatted_phone_number": "2267 9400",
+          "geometry": {
+            "location": {
+              "lat": 22.297089,
+              "lng": 114.174462
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2984376802915,
+                "lng": 114.1758686802915
+              },
+              "southwest": {
+                "lat": 22.2957397197085,
+                "lng": 114.1731707197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+          "id": "9ddfdfaa796e83f00aa688c068a86d1c0ca611d8",
+          "international_phone_number": "+852 2267 9400",
+          "name": "\u9152\u5009",
+          "opening_hours": {
+            "open_now": false,
+            "periods": [
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1830"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 6:30 PM \u2013 2:00 AM",
+              "Tuesday: 6:30 PM \u2013 2:00 AM",
+              "Wednesday: 6:30 PM \u2013 2:00 AM",
+              "Thursday: 6:30 PM \u2013 2:00 AM",
+              "Friday: 6:30 PM \u2013 2:00 AM",
+              "Saturday: 6:30 PM \u2013 1:00 AM",
+              "Sunday: Closed"
+            ]
+          },
+          "photos": [
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAA9oN3FGcLzHUbDmjoR5W0vmK81sa8uWJhsesLLDEAex-TQ_onl0MWCkJIk64rgMSN02jBzSKfzY28dK7afdi9PxSMm-B5Ho5yCcbR_U1iNziBADokYLVMBAEGydA-sj-dEhB3QtLxC9_1qyJmTYhjBd5uGhQHyJmNacu7K0hwJj6sQ5cs-Y6YDg",
+              "width": 2048
+            },
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAAtGBzmoBwiRsqKVImOoHAfDiPhl_bHy5_TbN6RrwJratzSanyHfOUV1QMJENHz8IBX3THaNBARfTq3Egp3sOhMtt_cIMDLmf5Qbeq8KPoCvFrqDx44Hwv6OJTNRVO2NaWEhBonobQUClnqo6PvaxukAkwGhS1jbSjMzP9xYQ3TRvSf3ep6xB9Fg",
+              "width": 2048
+            },
+            {
+              "height": 5351,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAAS_HzrdcoBGXsfhgRIp-EOJV7ulm3X2m2TnA1Vo7lBMbtcUmOJoO0UaMf79JOSBS9LBjg2k5IDY7OylKk8uqwjPn5mbnbUH5itIYUG6xOvAYk1HZuZE-vHcfm63aIhT83EhCb6iHJ1MWCUcMaNCrIQfMBGhTYky6MEANGESgoQQ-rj2a6lBBEkw",
+              "width": 3569
+            },
+            {
+              "height": 750,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAACm_9Y_nexHvRGGGpPi_bvxJAKmOThj-sn8IIWzuadnD6CFX_Mu-ExN5d_0--Pi6dd6ZpgBsBTGq3UD7xbuBR8Luf-USQQx6xZq9cje2yqbv0J0bPRz9wOHRrXb0fxsCbEhC6U8hqGYlJGzwa1zoSkXbGGhRMju_uF1zJam7jnortbb8Ub8eLzg",
+              "width": 1117
+            },
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAA0O-WcebT3FXKlori6u0YdVaawleZThQpxhLY9VACpZjDMoxzmSvT94Z330iVKmK31P-fAxfNrXfeRfnAl4NGpaBQQ8AIVP0FHMPnnV7xmfkcmVzZCR2UHyz9D_xQZToZEhAfR4D7PDUZDppCVpbCbt6zGhR_V_UoXT8bKJy0n19pW_d_COnupA",
+              "width": 2048
+            }
+          ],
+          "place_id": "ChIJG3JcHe4ABDQR0XOpsvDuJlY",
+          "plus_code": {
+            "compound_code": "75WF+RQ Tsim Sha Tsui, Hong Kong",
+            "global_code": "7PJP75WF+RQ"
+          },
+          "rating": 4.3,
+          "reference": "ChIJG3JcHe4ABDQR0XOpsvDuJlY",
+          "reviews": [
+            {
+              "author_name": "Tony King",
+              "author_url": "https://www.google.com/maps/contrib/113365301786947879910/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-JuEbkaCgX70/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfz5-gEYwaOxKKvRsvAKtvQtZkplg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "10 months ago",
+              "text": "Japanese Shouchu bar. I went here on Friday night, very busy and noisy. I felt to enjoy talking but not enjoy taste of drink.",
+              "time": 1538831395
+            },
+            {
+              "author_name": "Ian Sherwood",
+              "author_url": "https://www.google.com/maps/contrib/117525884572203168736/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-FLIThCd0GkI/AAAAAAAAAAI/AAAAAAAAAOM/0p0j5FeY6Lw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a month ago",
+              "text": "Great food.",
+              "time": 1562204878
+            },
+            {
+              "author_name": "KK S LEUNG",
+              "author_url": "https://www.google.com/maps/contrib/106473638968855427475/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-USpXDeyVNMU/AAAAAAAAAAI/AAAAAAAAAFI/Ayf-ZKPw8e0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "6 months ago",
+              "text": "",
+              "time": 1549200724
+            },
+            {
+              "author_name": "\u6e21\u908a\u6b63\u9686",
+              "author_url": "https://www.google.com/maps/contrib/108012264366312856655/reviews",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-Oaz5GpcznRQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc_aOBT5GjZjX0bBiXRfkhEcEmdJQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "8 months ago",
+              "text": "",
+              "time": 1542929048
+            },
+            {
+              "author_name": "erina ide",
+              "author_url": "https://www.google.com/maps/contrib/100950037126346894793/reviews",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-G8DevBQibjE/AAAAAAAAAAI/AAAAAAAAAEk/uBXX3VD0qCk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "9 months ago",
+              "text": "",
+              "time": 1539807658
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=6207911853933818833",
+          "user_ratings_total": 7,
+          "utc_offset": 480,
+          "vicinity": "30 Mody Road, Mody House 4F, Tsim Sha Tsui"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJG3JcHe4ABDQR0XOpsvDuJlY",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span> <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"street-address\">30 Mody Road</span> Mody House 4F",
+          "formatted_address": "\u9999\u6e2f Tsim Sha Tsui, 30 Mody Road Mody House 4F",
+          "formatted_phone_number": "2267 9400",
+          "geometry": {
+            "location": {
+              "lat": 22.297089,
+              "lng": 114.174462
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2984376802915,
+                "lng": 114.1758686802915
+              },
+              "southwest": {
+                "lat": 22.2957397197085,
+                "lng": 114.1731707197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+          "id": "9ddfdfaa796e83f00aa688c068a86d1c0ca611d8",
+          "international_phone_number": "+852 2267 9400",
+          "name": "\u9152\u5009",
+          "opening_hours": {
+            "open_now": false,
+            "periods": [
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0200"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1830"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0100"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1830"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 18:30 \u2013 02:00",
+              "\u661f\u671f\u4e8c: 18:30 \u2013 02:00",
+              "\u661f\u671f\u4e09: 18:30 \u2013 02:00",
+              "\u661f\u671f\u56db: 18:30 \u2013 02:00",
+              "\u661f\u671f\u4e94: 18:30 \u2013 02:00",
+              "\u661f\u671f\u516d: 18:30 \u2013 01:00",
+              "\u661f\u671f\u65e5: \u4f11\u9928"
+            ]
+          },
+          "photos": [
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAAmdYjfxW20oGLeDEqUEJFDBJquRt3qA_pyo6rLXtCZsUJK34JBSZAPc5p-vyN4PKgZFU3Mf2AjGKpzdwWwkZR3IFoDjloKhKRCFIX7EVp2WyyENSPy1CrTz2zZ7ua0dUeEhAO9Zu-hmPHz3a5c939rhsRGhSVFiLEC8jxEzkpyeS94AXkqvf7cA",
+              "width": 2048
+            },
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAAUP__WYuvl3A3-AEi_iXB8iascmw6ncUUAHjCHfEWF3zuuqxwp5LS7m9VSWxMHuhPkcff5nAB_jBtICjQpUC90AbI7KTVMRwQlQz6riBdbCXSprRhXLejt8dY54ha7wL2EhDeB_ZJyWgvHLNlixfX8g_7GhQhkuHoIJAhMl8lZFFLIszNjLggqA",
+              "width": 2048
+            },
+            {
+              "height": 5351,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAA9nfMohvpIOiftWWbuPYWBsXDSO5OLbgSebRHJkrNa2ZSHeYY11qBLqDWQU9nC-plTqMZ1h4M73DcjJgp1Fi5WuV3yw1kZyUSsK5tHIpxJW4cQJJeu5hwC81bgT9SQjyNEhCLpgQxRu20J6rpLvML05A2GhTVS2r-7ezZxX5gzko2K7LEx_0vGg",
+              "width": 3569
+            },
+            {
+              "height": 750,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAAT483CO0mo21yVxQravk3Y-s3TjWGnzUeGjCuZgKoSg-qrrMxYEM46zbt8FgUimOYtzH8BRlxQSQKU82JGPcckbUsvR0SxFiXq8AER4TdIUmhW4yYEdfmD3ohAtS4c34FEhDaYdQGa1xmmbgeKMwcsfxvGhQFFbc1eYdgzx5ElKT0BZ1DXW2L0w",
+              "width": 1117
+            },
+            {
+              "height": 1365,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101537752173322332957/photos\">YAMAGATA\u5b97\u6b21\u90ce</a>"
+              ],
+              "photo_reference": "CmRaAAAAlP2KtoSpQnF_fsAjNk4kZudUAGrwzzhwKr_Q3R8k_DUILN6F2ZzaaJ8Z6rTLXawc4dbdQCOW_GdxhmG1fEH-nDiwK7FNr6znPWgfoy1tJcLOC3zwE-eo1L1iyTkb3iAiEhAdmvKR_fOVlhQsJZvs_nUwGhTg__qW1GK-_V62jbJ-RATm5fAHNQ",
+              "width": 2048
+            }
+          ],
+          "place_id": "ChIJG3JcHe4ABDQR0XOpsvDuJlY",
+          "plus_code": {
+            "compound_code": "75WF+RQ \u9999\u6e2f\u5c16\u6c99\u5480",
+            "global_code": "7PJP75WF+RQ"
+          },
+          "rating": 4.3,
+          "reference": "ChIJG3JcHe4ABDQR0XOpsvDuJlY",
+          "reviews": [
+            {
+              "author_name": "Tony King",
+              "author_url": "https://www.google.com/maps/contrib/113365301786947879910/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-JuEbkaCgX70/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfz5-gEYwaOxKKvRsvAKtvQtZkplg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "10 \u500b\u6708\u524d",
+              "text": "Japanese Shouchu bar. I went here on Friday night, very busy and noisy. I felt to enjoy talking but not enjoy taste of drink.",
+              "time": 1538831395
+            },
+            {
+              "author_name": "Ian Sherwood",
+              "author_url": "https://www.google.com/maps/contrib/117525884572203168736/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-FLIThCd0GkI/AAAAAAAAAAI/AAAAAAAAAOM/0p0j5FeY6Lw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "Great food.",
+              "time": 1562204878
+            },
+            {
+              "author_name": "KK S LEUNG",
+              "author_url": "https://www.google.com/maps/contrib/106473638968855427475/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-USpXDeyVNMU/AAAAAAAAAAI/AAAAAAAAAFI/Ayf-ZKPw8e0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "6 \u500b\u6708\u524d",
+              "text": "",
+              "time": 1549200724
+            },
+            {
+              "author_name": "\u6e21\u908a\u6b63\u9686",
+              "author_url": "https://www.google.com/maps/contrib/108012264366312856655/reviews",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-Oaz5GpcznRQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc_aOBT5GjZjX0bBiXRfkhEcEmdJQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "8 \u500b\u6708\u524d",
+              "text": "",
+              "time": 1542929048
+            },
+            {
+              "author_name": "erina ide",
+              "author_url": "https://www.google.com/maps/contrib/100950037126346894793/reviews",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-G8DevBQibjE/AAAAAAAAAAI/AAAAAAAAAEk/uBXX3VD0qCk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "9 \u500b\u6708\u524d",
+              "text": "",
+              "time": 1539807658
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=6207911853933818833",
+          "user_ratings_total": 7,
+          "utc_offset": 480,
+          "vicinity": "30 Mody Road, Mody House 4F, Tsim Sha Tsui"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "ChIJb4laHe4ABDQRwGg3eKgf-DQ": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Mody House",
+              "short_name": "Mody House",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "30",
+              "short_name": "30",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Mody Road",
+              "short_name": "Mody Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Mody House, <span class=\"street-address\">30 Mody Rd</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Mody House, 30 Mody Rd, Tsim Sha Tsui, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2970894,
+              "lng": 114.174462
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2984934302915,
+                "lng": 114.1758039802915
+              },
+              "southwest": {
+                "lat": 22.29579546970849,
+                "lng": 114.1731060197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "a8a0c5dab1c8651aa10be48a09fdcd164de80066",
+          "name": "Mody House",
+          "photos": [
+            {
+              "height": 1476,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109232871413687750355/photos\">K&amp;S</a>"
+              ],
+              "photo_reference": "CmRaAAAAGBNqaSu4lcL9vI7hM7pIqLMIcux_pNg7O23CpLuNM2mxKeYfVXISCpbfTWtSGYt5psCY6nq-DL6woXCq-DVF4C80URpdX-OFyoLR6j75gGSVTyKqfA778M7HyzYAX1KgEhCmn1IVmLh7XuZMrP5HDeaLGhSBli8hOgFo923D-7lGwrz21G8mqA",
+              "width": 3000
+            }
+          ],
+          "place_id": "ChIJb4laHe4ABDQRwGg3eKgf-DQ",
+          "reference": "ChIJb4laHe4ABDQRwGg3eKgf-DQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Mody+House&ftid=0x340400ee1d5a896f:0x34f81fa8783768c0",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJb4laHe4ABDQRwGg3eKgf-DQ",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Mody House",
+              "short_name": "Mody House",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "30",
+              "short_name": "30",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Mody Road",
+              "short_name": "Mody Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Mody House, <span class=\"street-address\">30 Mody Rd</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "Mody House, 30 Mody Rd, Tsim Sha Tsui, \u9999\u6e2f",
+          "geometry": {
+            "location": {
+              "lat": 22.2970894,
+              "lng": 114.174462
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2984934302915,
+                "lng": 114.1758039802915
+              },
+              "southwest": {
+                "lat": 22.29579546970849,
+                "lng": 114.1731060197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "a8a0c5dab1c8651aa10be48a09fdcd164de80066",
+          "name": "Mody House",
+          "photos": [
+            {
+              "height": 1476,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109232871413687750355/photos\">K&amp;S</a>"
+              ],
+              "photo_reference": "CmRaAAAAH9nYngflQwgDRydpUuCCqcN3VJjT_g5VGsbPF1f-7BxslsY-tGtFYU5BIIXRcAre6c72obc43OROiWZE0bzBiFO9rbc1MzNgaikLzhQTLS31sDi6uRR4ySLGz5esG7oeEhCo-NK2WZzXjT_0G9im73pfGhQ3n1Q3j0BYAoz7hC0IvKth8-8Peg",
+              "width": 3000
+            }
+          ],
+          "place_id": "ChIJb4laHe4ABDQRwGg3eKgf-DQ",
+          "reference": "ChIJb4laHe4ABDQRwGg3eKgf-DQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Mody+House&ftid=0x340400ee1d5a896f:0x34f81fa8783768c0",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "EjM0LCBNb2R5IEhvdXNlLCAzMCBNb2R5IFJkLCBUc2ltIFNoYSBUc3VpLCBIb25nIEtvbmciHRobChYKFAoSCW-JWh3uAAQ0EcBoN3ioH_g0EgE0": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "4",
+              "short_name": "4",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "Mody House",
+              "short_name": "Mody House",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "30",
+              "short_name": "30",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Mody Road",
+              "short_name": "Mody Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "4, Mody House, <span class=\"street-address\">30 Mody Rd</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "4, Mody House, 30 Mody Rd, Tsim Sha Tsui, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2970894,
+              "lng": 114.174462
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2984934302915,
+                "lng": 114.1758039802915
+              },
+              "southwest": {
+                "lat": 22.29579546970849,
+                "lng": 114.1731060197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "c373771a57fcf711549d123aaf720b84718fff7c",
+          "name": "4, 30 Mody Rd",
+          "place_id": "EjM0LCBNb2R5IEhvdXNlLCAzMCBNb2R5IFJkLCBUc2ltIFNoYSBUc3VpLCBIb25nIEtvbmciHRobChYKFAoSCW-JWh3uAAQ0EcBoN3ioH_g0EgE0",
+          "reference": "EjM0LCBNb2R5IEhvdXNlLCAzMCBNb2R5IFJkLCBUc2ltIFNoYSBUc3VpLCBIb25nIEtvbmciHRobChYKFAoSCW-JWh3uAAQ0EcBoN3ioH_g0EgE0",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=4,+Mody+House,+30+Mody+Rd,+Tsim+Sha+Tsui,+Hong+Kong&ftid=0x340400ee1d5a896f:0x26c7cee1244a51a1",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EjM0LCBNb2R5IEhvdXNlLCAzMCBNb2R5IFJkLCBUc2ltIFNoYSBUc3VpLCBIb25nIEtvbmciHRobChYKFAoSCW-JWh3uAAQ0EcBoN3ioH_g0EgE0",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "4",
+              "short_name": "4",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "Mody House",
+              "short_name": "Mody House",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "30",
+              "short_name": "30",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Mody Road",
+              "short_name": "Mody Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "4, Mody House, <span class=\"street-address\">30 Mody Rd</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "4, Mody House, 30 Mody Rd, Tsim Sha Tsui, \u9999\u6e2f",
+          "geometry": {
+            "location": {
+              "lat": 22.2970894,
+              "lng": 114.174462
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2984934302915,
+                "lng": 114.1758039802915
+              },
+              "southwest": {
+                "lat": 22.29579546970849,
+                "lng": 114.1731060197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "c373771a57fcf711549d123aaf720b84718fff7c",
+          "name": "4, 30 Mody Rd",
+          "place_id": "EjM0LCBNb2R5IEhvdXNlLCAzMCBNb2R5IFJkLCBUc2ltIFNoYSBUc3VpLCBIb25nIEtvbmciHRobChYKFAoSCW-JWh3uAAQ0EcBoN3ioH_g0EgE0",
+          "reference": "EjM0LCBNb2R5IEhvdXNlLCAzMCBNb2R5IFJkLCBUc2ltIFNoYSBUc3VpLCBIb25nIEtvbmciHRobChYKFAoSCW-JWh3uAAQ0EcBoN3ioH_g0EgE0",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=4,+Mody+House,+30+Mody+Rd,+Tsim+Sha+Tsui,+%E9%A6%99%E6%B8%AF&ftid=0x340400ee1d5a896f:0x26c7cee1244a51a1",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -598,6 +1451,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

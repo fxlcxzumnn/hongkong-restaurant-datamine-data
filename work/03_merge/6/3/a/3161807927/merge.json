@@ -164,6 +164,344 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJ37mvTucBBDQRvQWDxKcPgjM": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "38",
+              "short_name": "38",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Hillwood Road",
+              "short_name": "Hillwood Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">38 Hillwood Rd</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "38 Hillwood Rd, Tsim Sha Tsui, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3026708,
+              "lng": 114.1740091
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3040761302915,
+                "lng": 114.1753539802915
+              },
+              "southwest": {
+                "lat": 22.3013781697085,
+                "lng": 114.1726560197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "74f493b10ca6eb658a9b56d93399bab43af4bcd5",
+          "name": "Nathan Hill",
+          "place_id": "ChIJ37mvTucBBDQRvQWDxKcPgjM",
+          "plus_code": {
+            "compound_code": "853F+3J Hong Kong",
+            "global_code": "7PJP853F+3J"
+          },
+          "reference": "ChIJ37mvTucBBDQRvQWDxKcPgjM",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=3711546256137586109",
+          "utc_offset": 480,
+          "vicinity": "38 Hillwood Road, Tsim Sha Tsui"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJ37mvTucBBDQRvQWDxKcPgjM",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "38",
+              "short_name": "38",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5c71\u6797\u9053",
+              "short_name": "\u5c71\u6797\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5c16\u6c99\u5480",
+              "short_name": "\u5c16\u6c99\u5480",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5c16\u6c99\u5480</span><span class=\"street-address\">\u5c71\u6797\u905338\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u5c16\u6c99\u5480\u5c71\u6797\u905338\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.3026708,
+              "lng": 114.1740091
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3040761302915,
+                "lng": 114.1753539802915
+              },
+              "southwest": {
+                "lat": 22.3013781697085,
+                "lng": 114.1726560197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "74f493b10ca6eb658a9b56d93399bab43af4bcd5",
+          "name": "Nathan Hill",
+          "place_id": "ChIJ37mvTucBBDQRvQWDxKcPgjM",
+          "plus_code": {
+            "compound_code": "853F+3J \u9999\u6e2f",
+            "global_code": "7PJP853F+3J"
+          },
+          "reference": "ChIJ37mvTucBBDQRvQWDxKcPgjM",
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=3711546256137586109",
+          "utc_offset": 480,
+          "vicinity": "\u5c16\u6c99\u5480\u5c71\u6797\u905338\u865f"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "EjHmqJMg6KyOLCAzOCBIaWxsd29vZCBSZCwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIiMaIQoWChQKEglBCVCr7gAENBH-aISNNoKAQRIH5qiTIOisjg": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u6a13 \u8b0e",
+              "short_name": "\u6a13 \u8b0e",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "38",
+              "short_name": "38",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Hillwood Road",
+              "short_name": "Hillwood Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Tsim Sha Tsui",
+              "short_name": "Tsim Sha Tsui",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u6a13 \u8b0e, <span class=\"street-address\">38 Hillwood Rd</span>, <span class=\"locality\">Tsim Sha Tsui</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u6a13 \u8b0e, 38 Hillwood Rd, Tsim Sha Tsui, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3026708,
+              "lng": 114.1740091
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3040761302915,
+                "lng": 114.1753539802915
+              },
+              "southwest": {
+                "lat": 22.3013781697085,
+                "lng": 114.1726560197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "18f9d9581e2168daeb5327972398c2036233b3d8",
+          "name": "\u6a13 \u8b0e, 38 Hillwood Rd",
+          "place_id": "EjHmqJMg6KyOLCAzOCBIaWxsd29vZCBSZCwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIiMaIQoWChQKEglBCVCr7gAENBH-aISNNoKAQRIH5qiTIOisjg",
+          "reference": "EjHmqJMg6KyOLCAzOCBIaWxsd29vZCBSZCwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIiMaIQoWChQKEglBCVCr7gAENBH-aISNNoKAQRIH5qiTIOisjg",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E6%A8%93+%E8%AC%8E,+38+Hillwood+Rd,+Tsim+Sha+Tsui,+Hong+Kong&ftid=0x340400eeab500941:0xb9b6d72b70148f04",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EjHmqJMg6KyOLCAzOCBIaWxsd29vZCBSZCwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIiMaIQoWChQKEglBCVCr7gAENBH-aISNNoKAQRIH5qiTIOisjg",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u6a13 \u8b0e",
+              "short_name": "\u6a13 \u8b0e",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "38",
+              "short_name": "38",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5c71\u6797\u9053",
+              "short_name": "\u5c71\u6797\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5c16\u6c99\u5480",
+              "short_name": "\u5c16\u6c99\u5480",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5c16\u6c99\u5480</span><span class=\"street-address\">\u5c71\u6797\u905338\u865f</span>\u6a13 \u8b0e",
+          "formatted_address": "\u9999\u6e2f\u5c16\u6c99\u5480\u5c71\u6797\u905338\u865f\u6a13 \u8b0e",
+          "geometry": {
+            "location": {
+              "lat": 22.3026708,
+              "lng": 114.1740091
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3040761302915,
+                "lng": 114.1753539802915
+              },
+              "southwest": {
+                "lat": 22.3013781697085,
+                "lng": 114.1726560197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "18f9d9581e2168daeb5327972398c2036233b3d8",
+          "name": "\u5c71\u6797\u905338\u865f\u6a13 \u8b0e",
+          "place_id": "EjHmqJMg6KyOLCAzOCBIaWxsd29vZCBSZCwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIiMaIQoWChQKEglBCVCr7gAENBH-aISNNoKAQRIH5qiTIOisjg",
+          "reference": "EjHmqJMg6KyOLCAzOCBIaWxsd29vZCBSZCwgVHNpbSBTaGEgVHN1aSwgSG9uZyBLb25nIiMaIQoWChQKEglBCVCr7gAENBH-aISNNoKAQRIH5qiTIOisjg",
+          "scope": "GOOGLE",
+          "types": [
+            "subpremise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E5%B0%96%E6%B2%99%E5%92%80%E5%B1%B1%E6%9E%97%E9%81%9338%E8%99%9F%E6%A8%93+%E8%AC%8E&ftid=0x340400eeab500941:0xb9b6d72b70148f04",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -246,6 +584,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

@@ -595,6 +595,809 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJEYniI2oBBDQRVKZGYcTcQBc": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0bc\u92ea\u8fd1",
+              "short_name": "\u5730\u4e0bc\u92ea\u8fd1",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "\u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2",
+              "short_name": "\u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2",
+              "types": [
+                "point_of_interest",
+                "establishment"
+              ]
+            },
+            {
+              "long_name": "Wah Fat Building",
+              "short_name": "Wah Fat Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "1M-1T",
+              "short_name": "1M-1T",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Tung Choi Street",
+              "short_name": "Tung Choi St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Mong Kok",
+              "short_name": "Mong Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Shop C, Ground Floor, Wah Fat Mansion, Nos, Dundas Street, \u865f, \u5730\u4e0bc\u92ea\u8fd1, \u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2, Wah Fat Building, <span class=\"street-address\">1M-1T Tung Choi St</span>, <span class=\"locality\">Mong Kok</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Shop C, Ground Floor, Wah Fat Mansion, Nos, Dundas Street, \u865f, \u5730\u4e0bc\u92ea\u8fd1, \u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2, Wah Fat Building, 1M-1T Tung Choi St, Mong Kok, Hong Kong",
+          "formatted_phone_number": "2885 6728",
+          "geometry": {
+            "location": {
+              "lat": 22.3159403,
+              "lng": 114.1711064
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3173023802915,
+                "lng": 114.1725314302915
+              },
+              "southwest": {
+                "lat": 22.31460441970849,
+                "lng": 114.1698334697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "18f1bb2dca4b8aa90686e6c70bcbd546858b380c",
+          "international_phone_number": "+852 2885 6728",
+          "name": "Lady 13 Kitchen",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1800"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 12:00 \u2013 5:00 PM, 6:00 \u2013 11:30 PM",
+              "Tuesday: 12:00 \u2013 5:00 PM, 6:00 \u2013 11:30 PM",
+              "Wednesday: 12:00 \u2013 5:00 PM, 6:00 \u2013 11:30 PM",
+              "Thursday: 12:00 \u2013 5:00 PM, 6:00 \u2013 11:30 PM",
+              "Friday: 12:00 \u2013 5:00 PM, 6:00 \u2013 11:30 PM",
+              "Saturday: 12:00 \u2013 5:00 PM, 6:00 \u2013 11:30 PM",
+              "Sunday: 12:00 \u2013 5:00 PM, 6:00 \u2013 11:30 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 1131,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAfbt7ghJzDsGVrTuT2sScpirG8KAVlvRXDWLz_SEPk74GWIRh7l5YGFY8T3WEhM0p2JkYYW-6f46qr2sc-MphEKT2dQEkYbYDlAIiABdJ9axNAPsSouWAmVpd08q_4JQzEhARK9x0wURc3PVTBjsyQFxKGhR1-E-YRar4nsBlhQXmXDvvhTNDGQ",
+              "width": 1800
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAA1qy90LbXMr2-PswB_7eFe_neFxdDRFbMz-lYz0YnG68oraXHcTNTazMST7DZZq6WXo4Q8LLbmRSEhuqTL1MndUG9HQCgXvul2lll3y24sbxvFEC2Nnpx450pigTDz88-EhBLm2-ItnX9Fbo2C0dwzWjyGhSa7Ub33RyyQnRqYh_m3egxAcpdQQ",
+              "width": 3024
+            },
+            {
+              "height": 2762,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAL3KD4nCNiizh5-ZO-ASP8mFtQMj6pTgUXUQaMFpVM4OU_tZmQebFRzY18qEZotAmxNwxtAIBjU65Xu1p97Rk6W-wRJaftQ6xJHbPGohfqtfSxoRWHJ56JUTiFNpODH7MEhBejYgrNE4nQy5OkvTbuF6eGhQvJcauWmZtchLJyHpr_almvw4UvQ",
+              "width": 3339
+            },
+            {
+              "height": 3648,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115984890016489606848/photos\">myrOn mAk</a>"
+              ],
+              "photo_reference": "CmRaAAAA05xV2W3dwg1GFFB-LpJroyj_woy-A7E__2MawgPubI9PlzOd2lnWNKxxo9wQBAspOcaAN2tWDix2Xjx-b0dvUBDMsogfSD8Hk4M-lmJAGqXEy51hjvx664wKPjJ7z3IeEhC_DoyGKqSRN_wumAiblDGOGhS0l4Rwqmne5ufijUJbIzj2Ei1O1A",
+              "width": 2736
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108951057701823054601/photos\">\u65b9\u6893\u65cb</a>"
+              ],
+              "photo_reference": "CmRaAAAA3egrxDbEJVNO4vPbSYLIKsSOuxD0P_dV7mqQSX4sxkQuxnJWWce5H3x3-Nc5P7f7hYAevvjJoYjWsNl0azPSzJxEm1rjqpXUXu8Yy4HUYTDgsK9jx8B30PPr4OEkFaiuEhDuwB3iHr1oREYBMSp8HdlkGhRMEQ4KvOlWzvz1n-l599YYyskFYA",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114118776566826978542/photos\">Jeff Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAAaFX6CmTfProKiSyvYFPFjDqTZUu5w0dpAhvfgFVHj0aUdivrNkloqarl_12YuzvtGmfzTOoF_1LUjeGWraqb5MweNJYcWUiEvL6ldWKS5JN2ZWkBqia0BgkmkP8swt52EhBDtOq5tV9ZVgU1R8xpVrcZGhT59nGOvO0CmHkPwp3fGHg46x-oSg",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104332442887706074275/photos\">Lydia Lee</a>"
+              ],
+              "photo_reference": "CmRaAAAAqVrDuWdOZ74KOAmkePhwSLM3QgLdRsORyTS_d234cW21zyDIAIJzLLKgLJj9pRMW4EofaIXYs8BR4jOklgfgELYGg4yAsarQnDyZu3KLH5xdkg00dMmcbUgiTtvweRDzEhDmFjDyh0RPaB8sKH76UmpdGhTuITRT_ra-quxc0SKEWzCtZvaOnw",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113403578024607450705/photos\">Terry Chiang</a>"
+              ],
+              "photo_reference": "CmRZAAAAsRauLbnk0mVyjR3lLkJQ5GqzJewVF09z-n0kNJhbkTpBPTLzFj5DcysQsmYIhwHil7OzH6PQ7F88gGSGwzwngB4nuXui99S3O1dI1KwTjQNiEAKwMQXje4ctLByD3DMNEhBIN4b7SYRTZ7zp9dYVaqE8GhQ0rCu_N092YMnWVJ8nFLsrFDQTuw",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118311373439685351380/photos\">Charles Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAABTBGY0bD8Cnf1_PBM-8x6HzTwl17h5IJB5OGQdpvb7z9nrk1GhiKm7nH_JKotkgz-ht6GFzgzwoNEo39R6vzcxpHOIdfVUFeLcQrMw1IU6-2-G6YuAipcDFTqkAONmbqEhBjrSnHPEdcC8X-5-7LNe2aGhS2JIOSr-MYAXr6apHwYQNyxlzXBQ",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAn24aHgqbKajfQxiMHEx7wDf3gPCd-HWl2hRU5z3ao4UNdiCCbrVQLhsY5FwgtSCCHpBK_MlkgTingGsHkuZ8epfKkWNFXalbX-_nB3nCUGL8VxOV-fhexQTfVsyiQSqMEhCX5l4jt6B9m2hKlond_vwlGhSmwLnZwMlMkqNm77HcMyvzMHlvjg",
+              "width": 3024
+            }
+          ],
+          "place_id": "ChIJEYniI2oBBDQRVKZGYcTcQBc",
+          "plus_code": {
+            "compound_code": "858C+9C Mong Kok, Hong Kong",
+            "global_code": "7PJP858C+9C"
+          },
+          "rating": 3.7,
+          "reference": "ChIJEYniI2oBBDQRVKZGYcTcQBc",
+          "reviews": [
+            {
+              "author_name": "Andie T",
+              "author_url": "https://www.google.com/maps/contrib/103026505857033397924/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-76GlU7K3tWY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rebpaB7rhmbdzX_wDr8sOyX3khv0A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a month ago",
+              "text": "Stumbled across the shop one night and decided to give it a try.  Since then, I have came back a few times and brought a few friends over.\n\nChoice of Chicken broth or beef broth noodles, or rice.  I like how the chicken soup base isn't too oily, but also strong flavor.  Choice of different types of noodles, I have tried a few by now and so far so good.  Noodles are served with a hot metal bowl, food will remain hot/warm while you eat.  Price isn't expensive and definitely recommend a try.",
+              "time": 1560586228
+            },
+            {
+              "author_name": "Tiffany Chong",
+              "author_url": "https://www.google.com/maps/contrib/111375586800530096778/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-LpNs28NOC24/AAAAAAAAAAI/AAAAAAAAAtU/2qVpefVKr4o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "5 months ago",
+              "text": "This place was packed but we only had to wait for 10 min! I got the noodles with the shredded chicken and chicken char siu for lunch...Which was delicious and was a much better deal than the regular price menu since it comes with a pop! The noodles came as a mix of the thicker and thinner vermicelli... which was something new! They have different floats with different names like black cow which basically means coke and vanilla ice cream but I didn't try! My friend had the noodles with beef brisket but she found it a bit dry and card! They also gave out complimentary shrimp crackers! The decor was interesting as everything was basically copper or brown :)",
+              "time": 1549627144
+            },
+            {
+              "author_name": "Dana Hui",
+              "author_url": "https://www.google.com/maps/contrib/108447098468438846635/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-yJs5FlnJEj4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc1_MTHQ2DVVislnKxWb6WluFMwOg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "2 months ago",
+              "text": "offering a different dining experience in Mongkok, it's more systematic in terms of nicer decor, well-designed menu, finer touch on setup.  but it's not delivery good value considering the price vs portion size.",
+              "time": 1557736468
+            },
+            {
+              "author_name": "Wai Ting Cheung",
+              "author_url": "https://www.google.com/maps/contrib/103175278938014928763/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-hiJzCPAQAdA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfOXVgShLpr3RBTGiFxgEgT2R-Fkw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 1,
+              "relative_time_description": "3 months ago",
+              "text": "Yell at customers. The restaurant is only half full when I arrived and I saw an empty table. As long as I walked towards the empty table, the restaurant owner yelled at me and insisted me to share the table with other customers. The moment she yelled, I can see that some of the customers are in shock, wondering what happened. She could have asked politely if I mind sharing the table. Instead, she yelled. If you can withstand her poor temper, please feel free to go.",
+              "time": 1555128174
+            },
+            {
+              "author_name": "Cindy kee",
+              "author_url": "https://www.google.com/maps/contrib/100167135208296306479/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-1fcuzaME9Dg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rekg3Bq5495fYfYQwa5lgvmk_xxMw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 2,
+              "relative_time_description": "6 months ago",
+              "text": "Nice food and bad service.\nWe ordered 4 sets. They forgot 2 of our drinks. We brought that up right after paying. Staff A got annoyed immediately and asked us to wait. And then she asked us to approach staff B. Staff B brought us back to staff A. Staff A said we have to pay extra to take away the drinks and blamed us for not reminding her about the drinks. We gave up (I can have as much tea as I want back in office anyway. No point to argue in a 0-cs restaurant.)\nChicken rice was fatty but delicious. Chili paste matched with the chicken rice very well.\nNot going back anytime soon.",
+              "time": 1547098968
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1675581797385545300",
+          "user_ratings_total": 105,
+          "utc_offset": 480,
+          "vicinity": "\u5730\u4e0bc\u92ea\u8fd1, \u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2, Wah Fat Building, Shop C, Ground Floor, Wah Fat Mansion, Nos, Dundas Street, \u865f, 1M-1T Tung Choi Street, Mong Kok",
+          "website": "http://www.facebook.com/lady13kitchen"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJEYniI2oBBDQRVKZGYcTcQBc",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5730\u4e0bc\u92ea\u8fd1",
+              "short_name": "\u5730\u4e0bc\u92ea\u8fd1",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "\u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2",
+              "short_name": "\u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2",
+              "types": [
+                "point_of_interest",
+                "establishment"
+              ]
+            },
+            {
+              "long_name": "Wah Fat Building",
+              "short_name": "Wah Fat Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "1M-1T",
+              "short_name": "1M-1T",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Tung Choi Street",
+              "short_name": "Tung Choi St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Mong Kok",
+              "short_name": "Mong Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Shop C, Ground Floor, Wah Fat Mansion, Nos, Dundas Street, \u865f, \u5730\u4e0bc\u92ea\u8fd1, \u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2, Wah Fat Building, <span class=\"street-address\">1M-1T Tung Choi St</span>, <span class=\"locality\">Mong Kok</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "Shop C, Ground Floor, Wah Fat Mansion, Nos, Dundas Street, \u865f, \u5730\u4e0bc\u92ea\u8fd1, \u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2, Wah Fat Building, 1M-1T Tung Choi St, Mong Kok, \u9999\u6e2f",
+          "formatted_phone_number": "2885 6728",
+          "geometry": {
+            "location": {
+              "lat": 22.3159403,
+              "lng": 114.1711064
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3173023802915,
+                "lng": 114.1725314302915
+              },
+              "southwest": {
+                "lat": 22.31460441970849,
+                "lng": 114.1698334697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "18f1bb2dca4b8aa90686e6c70bcbd546858b380c",
+          "international_phone_number": "+852 2885 6728",
+          "name": "\u5341\u4e09\u59e8\u5eda\u623f",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "1800"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "1700"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1200"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2330"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "1800"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 12:00 \u2013 17:00, 18:00 \u2013 23:30",
+              "\u661f\u671f\u4e8c: 12:00 \u2013 17:00, 18:00 \u2013 23:30",
+              "\u661f\u671f\u4e09: 12:00 \u2013 17:00, 18:00 \u2013 23:30",
+              "\u661f\u671f\u56db: 12:00 \u2013 17:00, 18:00 \u2013 23:30",
+              "\u661f\u671f\u4e94: 12:00 \u2013 17:00, 18:00 \u2013 23:30",
+              "\u661f\u671f\u516d: 12:00 \u2013 17:00, 18:00 \u2013 23:30",
+              "\u661f\u671f\u65e5: 12:00 \u2013 17:00, 18:00 \u2013 23:30"
+            ]
+          },
+          "photos": [
+            {
+              "height": 1131,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAA5U7ZbP6va9ezS2nB4DgpkcsIcFAiZWizhTRO7EBVfyK4YPXusV0966fYHCPng2mUxm7XWm4J5mM0s6qdLH0dLrhc6HI2KBM4cVGtMiAVrM3DgKO1m-XLpHuCAAFonfovEhCHTHvz43WrYBr0_S5om8AJGhS7sNHPuUzVo_ldJfj5RS-JzNXmrg",
+              "width": 1800
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAcChztssk4chnVLAB_gupmasgYsi-j7R0e3a4_XsflLEtKjo0VNroJYU-n28EypmskCxe8eZhDPzozs7qKPo4q8jnG-W9Q1U36xX6SmmSEq5lSnjEhcrEijnBb58LW0u5EhAaQ0KmLT5GBQQ4YB4HYXhIGhTIqbyF8zzzdFmiBQJNSIFF8fUr7A",
+              "width": 3024
+            },
+            {
+              "height": 2762,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAK_0iFJsc3i4O21XQP5ANXLyQk73FQZxuu5yRw2Yu4rH_hAneRzhZiNA8Ulq9Uxgb2gAQU3hdSDe6RaLLmoIAzJkjyMaIztG8p6kqRnFiXccKcchA2bvBbLsx8giA8MYXEhCKeMoBWS_Tc3BqQalJTxtAGhTXTsb77up5PL-GEU6inrQ1tdhksA",
+              "width": 3339
+            },
+            {
+              "height": 3648,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115984890016489606848/photos\">myrOn mAk</a>"
+              ],
+              "photo_reference": "CmRaAAAAU3hsf7bTzOg9RdB736tgY-9c41EvXWj9tb7INgV36vyDZzRtyWdtkEgECXBLof6c4CCRZiiHhcTHvWEWu-f9GFwVlrOgoiA5mTo0Vhrb0Yuu1lsR2kX0gMnw04_FzhmzEhCf3h3BZ52_KQN2peOVuB_SGhQt8Q-HAvJ7ro6vzavHo_h4AhdnKw",
+              "width": 2736
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108951057701823054601/photos\">\u65b9\u6893\u65cb</a>"
+              ],
+              "photo_reference": "CmRaAAAAlHd22CFz4fvOZboQaPdBIzNwTPA2YL3qI1azWu512FjPvvLsI9LuRBAhTtwzsCxd1R7Ry2tigz3WihioeSka5E_qjTf1kMuiyBu6ZE82cNN2A5Y87P2Oiz0ODeHt93oUEhCfELf2Cktkn7hK3TFwGXWEGhR6CsizIY1hgySyuYsXle-02x_1KQ",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114118776566826978542/photos\">Jeff Choi</a>"
+              ],
+              "photo_reference": "CmRaAAAAdX0A1jcR2tR6Rz3OMCG3Lk1kt4vlMHcRQr-9hjJiyma4EfPMCgLJrvYqXm6jCUhsh603j_oroNudgBlBHKipGQUvQsvnXabAB3V5BJLp-yNtxFB-9hTawlcKfqSd-yj-EhCg42HCCXxtKqyVafnmE86SGhT6oozBV1EZGsm5k3lQxpUKmBKcPw",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104332442887706074275/photos\">Lydia Lee</a>"
+              ],
+              "photo_reference": "CmRaAAAA_OEtohyDqcO2GutqQt_jrRAUQbpFFIWV0qKD0vrhIU5YBLfHIk8c07AhMOUosYapdutkduJGLg6E_Bj2BZQE0tp85OU4YDxxil-p1k_s6xSEblIsv1xSNfji5Rpud3umEhCsiU8AkZuY8kTR33IJiGS0GhQA2Ug5WpdFWz98fD45szqXYdV8gA",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113403578024607450705/photos\">Terry Chiang</a>"
+              ],
+              "photo_reference": "CmRZAAAADELKpeMTQewRVGse9veMo3XrNBgZVyDmpoc7p4p8D-aAfL-ZKSZFwB5iyqmu7pXeCO07T2x0rCXhh50VrA4seylF6oMG60HRFrHZNjexsiI05uuI9ZJWw1MMjGK1K88AEhCC_BkHN8sXUWfdnEAx5SDnGhTQF3CE5FtQ7mYPKoY2MgdEtF0u9w",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118311373439685351380/photos\">Charles Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAAULrSU1uvQ1DPvN-4mOyKCnYIkkqmZq6OES20GtCTHTlQxYbM9O2rPuTDlvVZAlQyTF-L33zyd8DlXkRLT8VTrM1k6M_8bnaQQcN5E6J1zu3Xx1VrfUZhs5FER_Mj4gb-EhAichXcHC_ZUax5ohybIhCBGhTg4DE0qqaf4znUXBWwIdPE72dgoA",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111775643899102313577/photos\">Tina Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAApNQHbCR1_Y4-PEbjdyH-GfM6ohnJimyEqbNv6Zh1JmB5IE9XOg-UfPBnBy5UATPGDqvSN6oSEVxPKVKFVW7Jbwxm3MMDBl2ETphUhncGddyajCLENaY2p_szIMEBj3HSEhDV4QQwM7vAgs_drzpoWz7MGhQEC3WqkCraA7XZe2BG2J2KoUgIgw",
+              "width": 3024
+            }
+          ],
+          "place_id": "ChIJEYniI2oBBDQRVKZGYcTcQBc",
+          "plus_code": {
+            "compound_code": "858C+9C \u9999\u6e2f\u65fa\u89d2",
+            "global_code": "7PJP858C+9C"
+          },
+          "rating": 3.7,
+          "reference": "ChIJEYniI2oBBDQRVKZGYcTcQBc",
+          "reviews": [
+            {
+              "author_name": "Sonic Lui",
+              "author_url": "https://www.google.com/maps/contrib/101183106396392544687/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-_Rgg_tN3JDI/AAAAAAAAAAI/AAAAAAAABXo/ukulIBxIBSg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "8 \u500b\u6708\u524d",
+              "text": "\u53c8\u597d\u98df\u53c8\u89aa\u5207\u2764\ufe0f",
+              "time": 1543906196
+            },
+            {
+              "author_name": "angel cheung",
+              "author_url": "https://www.google.com/maps/contrib/107587219882034930430/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-C2Ahk4XL2t8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reZYoTSZFMwkO2jj_G4_CciS7PdSQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "10 \u500b\u6708\u524d",
+              "text": "\u6e6f\u5e95\u6c92\u6709\u5473\u7cbe\ud83d\udc4d \u6dbc\u62cc\u4ec0\u83dc\ud83d\udc4d",
+              "time": 1538320838
+            },
+            {
+              "author_name": "Andie T",
+              "author_url": "https://www.google.com/maps/contrib/103026505857033397924/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-76GlU7K3tWY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rebpaB7rhmbdzX_wDr8sOyX3khv0A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "Stumbled across the shop one night and decided to give it a try.  Since then, I have came back a few times and brought a few friends over.\n\nChoice of Chicken broth or beef broth noodles, or rice.  I like how the chicken soup base isn't too oily, but also strong flavor.  Choice of different types of noodles, I have tried a few by now and so far so good.  Noodles are served with a hot metal bowl, food will remain hot/warm while you eat.  Price isn't expensive and definitely recommend a try.",
+              "time": 1560586228
+            },
+            {
+              "author_name": "Terry Chiang",
+              "author_url": "https://www.google.com/maps/contrib/113403578024607450705/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-sUtkeOdbSoI/AAAAAAAAAAI/AAAAAAAAAXU/0iTzRSJ--HU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u6bcf\u6b21\u7d93\u904e\u90fd\u597d\u591a\u4eba\u6392\u968a\uff0c\u4eca\u665a\u7b97\u5c11\u4eba\uff0c\u9ede\u4e86\u5341\u4e09\u4e48\u9762\u548c\u5927\u4e09\u5143\u98ef\uff0c\u5473\u9053\u53ea\u662f\u666e\u901a\u3002\u4f46\u662f\uff01\u670d\u52d9\u614b\u5ea6\u8d85\u597d\u6240\u4ee5\u6bd4\u8db35\u661f\uff0c\u6210\u65e5\u7747\u4e0bd\u5ba2\u6709\u54a9\u9808\u8981\uff0c\u6bd4\u8c49\u6cb9\uff0c\u7747\u4e0b\u4f7f\u5514\u4f7f\u57f7\u789f\uff0c\u6709\u65b0\u5ba2\u5230\u6bd4\u5f35\u51f3\u4ed4\u653e\u888b\uff0c\u597d\u8010\u5187\u53bb\u904e\u5481\u7d30\u5fc3\u7528\u5fc3\u7684\u98df\u8086",
+              "time": 1554816035
+            },
+            {
+              "author_name": "KITTY CHUNG",
+              "author_url": "https://www.google.com/maps/contrib/106864576054170867128/reviews",
+              "language": "zh",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-L6F3mxWvxIY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfSjDIFAwkV5rljMSzHuSfbf6urBg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 1,
+              "relative_time_description": "6 \u500b\u6708\u524d",
+              "text": "\u4e00\u500b\u4eba\u5165\u5ea7\uff0c\u7121\u8336\u7121\u524d\u83dc\u3002\u8feb\u4f4f\u53eb\u676f\u751c\u5230\u7206$20\u6ab8\u6aac\u67da\u5b50\u871c\u3002 \n\u57cb\u55ae\u9023\u52a0\u4e00\u670d\u52d9\u8cbb$125.\n\u57cb\u55ae\u554f\u500b\u6536\u9280\u5973\u4ed5\uff0c\u53ef\u80fd\u662f\u8001\u95c6\u5a18\u3002\n\u4ffe\u4f62\u554f\u8fd4\u8f49\u982d\uff0c\u7121\u8336\u9ede\u89e3\u5514\u554f\u4f62\u3002\n\u53c8\u8a71\u88dc\u8fd4\u676f\u8336\u3002\u5df2\u7d93\u57cb\u55ae\u4f01\u4fc2\u9580\u53e3\u3002\u4ef2\u8a71\u6253\u5305\u4ffe\u6211\u62ce\u8d70\u3002\u4f69\u670d!\n\u500b\u96de\u8089\u4e49\u71d2\uff0c\u53c8\u6de1\u53c8\u978b\n\u82b1\u9d70\u8543\u8304\u5e7e\u7279\u5225\uff0c\u4e0d\u904e\u5e73\u8543\u8304\u7121\u4e5c\u5473\u3002\u6d6a\u8cbb\u5de6\u500b\u7279\u5f0f\n\u7e3d\u7d50\u3002\u3002\u4e0d\u6703\u518d\u53bb",
+              "time": 1547993081
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1675581797385545300",
+          "user_ratings_total": 105,
+          "utc_offset": 480,
+          "vicinity": "\u5730\u4e0bc\u92ea\u8fd1, \u5bb6\u6a02\u574a\uff0cMTR\u65fa\u89d2E2, Wah Fat Building, Shop C, Ground Floor, Wah Fat Mansion, Nos, Dundas Street, \u865f, 1M-1T Tung Choi Street, Mong Kok",
+          "website": "http://www.facebook.com/lady13kitchen"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -993,6 +1796,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

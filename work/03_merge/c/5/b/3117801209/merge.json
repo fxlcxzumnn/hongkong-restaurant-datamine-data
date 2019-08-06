@@ -283,6 +283,275 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJqaXEyrVVATQRjGo0q3RYgRk": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "45",
+              "short_name": "45",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Yung Shue Wan Main Street",
+              "short_name": "Yung Shue Wan Main St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Lamma Island",
+              "short_name": "Lamma Island",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">45 Yung Shue Wan Main St</span>, <span class=\"locality\">Lamma Island</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "45 Yung Shue Wan Main St, Lamma Island, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.2255771,
+              "lng": 114.1116807
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2269302802915,
+                "lng": 114.1130107802915
+              },
+              "southwest": {
+                "lat": 22.2242323197085,
+                "lng": 114.1103128197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+          "id": "1ab4cf28b3261e273eba0f6374280149b83e842a",
+          "name": "DIESEL'S",
+          "photos": [
+            {
+              "height": 2048,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102318229612884778636/photos\">Frankie CHU</a>"
+              ],
+              "photo_reference": "CmRaAAAAZpSnnHICtbZj6yaPVOpZPGV-FaT3zWy98LdFCg_E_HQC_o65cjesCcx_N4J68ebZdjzbChU_PuHZUli76I8TvbdSsBBmOyk0ZsvEdDCqKMvJXf4PfP923Dzds2iEIFp-EhB9iyH_9B5iypFC_qQP0eg6GhStzs7DZe3dInZddMMCbCS8gI_07w",
+              "width": 1536
+            },
+            {
+              "height": 2618,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100359969274907828677/photos\">Paul Berg</a>"
+              ],
+              "photo_reference": "CmRaAAAA1AYdqTberEM_W5BMlluzJM1btOJsFRhKE_bFauN9YQKzQVpYfSlFsrMAUD5w7PlYHmndUUvoKutrfoGg1VoLxpzgYDOkGGYMySCVpGbXhW2GhAmz__Nw4uO0jYbfUI2MEhCkHytPBiP5fo4Y-BRuO8_1GhS-ECKE-iemoosyGb7GkUKn9_lF1g",
+              "width": 3491
+            },
+            {
+              "height": 1536,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102318229612884778636/photos\">Frankie CHU</a>"
+              ],
+              "photo_reference": "CmRaAAAAOQjWYIUL2fL60RqCpoOJjCv2fl2ZXBlrVouh9QWFN90d7SptxUmn8aDTbUDOMcDQMju1iH7bSKpcwVmWik4kEXSee9kW-nZ9_JJp-0AdcSOTSqiSTQtCoTeu_7lW5rQyEhA3a3_BluDY0Aj4gtUHuqZoGhSFZhfta7J_6zUm5c7q1Zsu48sBOQ",
+              "width": 2048
+            }
+          ],
+          "place_id": "ChIJqaXEyrVVATQRjGo0q3RYgRk",
+          "plus_code": {
+            "compound_code": "64G6+6M Hong Kong",
+            "global_code": "7PJP64G6+6M"
+          },
+          "rating": 4.5,
+          "reference": "ChIJqaXEyrVVATQRjGo0q3RYgRk",
+          "reviews": [
+            {
+              "author_name": "Frankie CHU",
+              "author_url": "https://www.google.com/maps/contrib/102318229612884778636/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-KfAmesgaWL4/AAAAAAAAAAI/AAAAAAAAwoI/G6tQZP4P9QA/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "8 months ago",
+              "text": "Great place for relaxing and have beer with your friends.",
+              "time": 1541985993
+            },
+            {
+              "author_name": "Robin Keep",
+              "author_url": "https://www.google.com/maps/contrib/118408631609260695057/reviews",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-tcCWoekc31I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdUVu7iQVz1IoXpHETnUhFRH1Hr6g/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "a month ago",
+              "text": "",
+              "time": 1560849955
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1837847381055662732",
+          "user_ratings_total": 2,
+          "utc_offset": 480,
+          "vicinity": "45 Yung Shue Wan Main Street, Lamma Island"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJqaXEyrVVATQRjGo0q3RYgRk",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "45",
+              "short_name": "45",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6995\u6a39\u7063\u5927\u8857",
+              "short_name": "\u6995\u6a39\u7063\u5927\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u5357\u4e2b\u5cf6",
+              "short_name": "\u5357\u4e2b\u5cf6",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u5357\u4e2b\u5cf6</span><span class=\"street-address\">\u6995\u6a39\u7063\u5927\u885745\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u5357\u4e2b\u5cf6\u6995\u6a39\u7063\u5927\u885745\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.2255771,
+              "lng": 114.1116807
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2269302802915,
+                "lng": 114.1130107802915
+              },
+              "southwest": {
+                "lat": 22.2242323197085,
+                "lng": 114.1103128197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+          "id": "1ab4cf28b3261e273eba0f6374280149b83e842a",
+          "name": "DIESEL'S",
+          "photos": [
+            {
+              "height": 2048,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102318229612884778636/photos\">Frankie CHU</a>"
+              ],
+              "photo_reference": "CmRaAAAAU0eT1VXYze9zAaqVWsuQwxOvIe-eBZE_oFGjuoR23WP9cQyLAsAwTeWiZ5-XPkpPvKKc8HrP_qFJZwcoE3HVN1PTbaAN252CxL_xbm0SjO0OfkhqhUGBIH7oI2ixIGoPEhD6yrNJjnEn1t7QcsXEyxKcGhSTFToXfCTRgajroNRk3zcbMxdMfg",
+              "width": 1536
+            },
+            {
+              "height": 2618,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100359969274907828677/photos\">Paul Berg</a>"
+              ],
+              "photo_reference": "CmRaAAAAEAveKII1Bp4XS1rD4pSAYL7bum9T_SwejFuLDG7ZAo2Js5z0oxZXFUkRJD8G_lUPoYCPr_tojtAfYVKRGuIZKXftYNpRgfYmE8qoT-ouM9PLSjnbJAWYRSJSUyKOcootEhByAp6JXPwLgKu3wGMLvrUWGhRIMhAy1_ySBnHz6leUpxoS-u3YjA",
+              "width": 3491
+            },
+            {
+              "height": 1536,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102318229612884778636/photos\">Frankie CHU</a>"
+              ],
+              "photo_reference": "CmRaAAAAamRE4rJmIkyj5bRs-URm5D5EXpREB0kLYn8Ifo9L-37iu5tp2VS35MdglizWmkQm-enJbzupCpfMrG4yB9QnIy5L4iRZc99coBa7nBrYofCO8219bLiP68iqMfI9C1coEhD5OIpODKYH59YMgBPnHNQIGhTZaGEDz2-n4Yfl8u4G6T_De4kmyQ",
+              "width": 2048
+            }
+          ],
+          "place_id": "ChIJqaXEyrVVATQRjGo0q3RYgRk",
+          "plus_code": {
+            "compound_code": "64G6+6M \u9999\u6e2f",
+            "global_code": "7PJP64G6+6M"
+          },
+          "rating": 4.5,
+          "reference": "ChIJqaXEyrVVATQRjGo0q3RYgRk",
+          "reviews": [
+            {
+              "author_name": "Frankie CHU",
+              "author_url": "https://www.google.com/maps/contrib/102318229612884778636/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-KfAmesgaWL4/AAAAAAAAAAI/AAAAAAAAwoI/G6tQZP4P9QA/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "8 \u500b\u6708\u524d",
+              "text": "Great place for relaxing and have beer with your friends.",
+              "time": 1541985993
+            },
+            {
+              "author_name": "Robin Keep",
+              "author_url": "https://www.google.com/maps/contrib/118408631609260695057/reviews",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-tcCWoekc31I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdUVu7iQVz1IoXpHETnUhFRH1Hr6g/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "",
+              "time": 1560849955
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=1837847381055662732",
+          "user_ratings_total": 2,
+          "utc_offset": 480,
+          "vicinity": "\u5357\u4e2b\u5cf6\u6995\u6a39\u7063\u5927\u885745\u865f"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -414,6 +683,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

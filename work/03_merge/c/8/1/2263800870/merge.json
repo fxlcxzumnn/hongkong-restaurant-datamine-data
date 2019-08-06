@@ -262,6 +262,576 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJ04qLfrMABDQRVMGbDq3U-SQ": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Harmony House",
+              "short_name": "Harmony House",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "240-246",
+              "short_name": "240-246",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Yu Chau Street",
+              "short_name": "Yu Chau St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Sham Shui Po",
+              "short_name": "Sham Shui Po",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Harmony House, <span class=\"street-address\">240-246 Yu Chau St</span>, <span class=\"locality\">Sham Shui Po</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Harmony House, 240-246 Yu Chau St, Sham Shui Po, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3300671,
+              "lng": 114.1615619
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3313488302915,
+                "lng": 114.1628496302915
+              },
+              "southwest": {
+                "lat": 22.3286508697085,
+                "lng": 114.1601516697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "e051fce64681c29525f76d3235bded33ab5a9b1a",
+          "name": "Harmony House",
+          "photos": [
+            {
+              "height": 3456,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672/photos\">F L</a>"
+              ],
+              "photo_reference": "CmRaAAAAnYJgxjDOYSur9tGLFdWI9yEMWOk1RnWbV5jAG_3lVMEAzst9gQK_7AVCzCE8x3oobTdfdM6-QClqKXRbUan10FF5e0KJ0fO5VPdIFn1nocUnMdGNKTgtrFTwpS79p0R8EhD3f1QEQKf5lEepjy7jICKNGhTs8LUCyR6uDETkbdonJvwEP9fn9w",
+              "width": 4608
+            },
+            {
+              "height": 3968,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672/photos\">F L</a>"
+              ],
+              "photo_reference": "CmRaAAAAblHzzvAJlcnlX8R8bMPtS4tJr98vrLXuh7k-fnD9IiI3NjiTCUw1Yie4UnOoXrxk0klfKS92Qxwhjc7hCbLwvLW-g3KfLvb40Fqon8a9fkk639CC_lowqCIqZpH2UZjLEhAz5w8JXy0AZs_cTNmPYm2PGhSbw5anyMmYDkApJvcoc1Wm9gGkNQ",
+              "width": 2976
+            }
+          ],
+          "place_id": "ChIJ04qLfrMABDQRVMGbDq3U-SQ",
+          "reference": "ChIJ04qLfrMABDQRVMGbDq3U-SQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Harmony+House&ftid=0x340400b37e8b8ad3:0x24f9d4ad0e9bc154",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJ04qLfrMABDQRVMGbDq3U-SQ",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u6db5\u78a7\u6a13",
+              "short_name": "\u6db5\u78a7\u6a13",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "240-246",
+              "short_name": "240-246",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6c5d\u5dde\u8857",
+              "short_name": "\u6c5d\u5dde\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u6df1\u6c34\u57d7",
+              "short_name": "\u6df1\u6c34\u57d7",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u6df1\u6c34\u57d7</span><span class=\"street-address\">\u6c5d\u5dde\u8857240-246\u865f</span>\u6db5\u78a7\u6a13",
+          "formatted_address": "\u9999\u6e2f\u6df1\u6c34\u57d7\u6c5d\u5dde\u8857240-246\u865f\u6db5\u78a7\u6a13",
+          "geometry": {
+            "location": {
+              "lat": 22.3300671,
+              "lng": 114.1615619
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3313488302915,
+                "lng": 114.1628496302915
+              },
+              "southwest": {
+                "lat": 22.3286508697085,
+                "lng": 114.1601516697085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "e051fce64681c29525f76d3235bded33ab5a9b1a",
+          "name": "\u6db5\u78a7\u6a13",
+          "photos": [
+            {
+              "height": 3456,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672/photos\">F L</a>"
+              ],
+              "photo_reference": "CmRaAAAAKUg41TjuFtPA6NYbDW9fCkZgyzE51P-j4ofNQhDR3cvpPOiDCCqriwNYBsWE9c7LLzjfZdVW1b9J88eR18Fyc_Zs3L8L4k0ojLk_01c2WO_YeRXNzwDiRN2pdcTRIcl9EhD3yhlhekwpUivUifBv0QDgGhSOEQFT4XqzHRGZenSC_iRikv0Mag",
+              "width": 4608
+            },
+            {
+              "height": 3968,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672/photos\">F L</a>"
+              ],
+              "photo_reference": "CmRaAAAAWY2NDD8zxUPmM746wc0eoC_6FzexZ4jnquPhxU47dDUQm0K_nWEvCT0usoN0gSGFcb6Up91yW9hNDu2IQG6xsNaoUCbBUQPPt-GYM9x0XOTAv-pQggYJnCtymP21dsykEhCdX77HxgtM4TZ-snW2V_b5GhQXBNkK4PtFPAAhAcOLKl9sq-eOUQ",
+              "width": 2976
+            }
+          ],
+          "place_id": "ChIJ04qLfrMABDQRVMGbDq3U-SQ",
+          "reference": "ChIJ04qLfrMABDQRVMGbDq3U-SQ",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E6%B6%B5%E7%A2%A7%E6%A8%93&ftid=0x340400b37e8b8ad3:0x24f9d4ad0e9bc154",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJI-DtRBsBBDQR6l0XNm5N5sI": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "240\u865f",
+              "short_name": "240\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6c5d\u5345\u8857",
+              "short_name": "\u6c5d\u5345\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u6df1\u6c34\u57d7",
+              "short_name": "\u6df1\u6c34\u57d7",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">Hong Kong</span>, <span class=\"locality\">\u6df1\u6c34\u57d7</span><span class=\"street-address\">\u6c5d\u5345\u8857240\u865f</span>",
+          "formatted_address": "Hong Kong, \u6df1\u6c34\u57d7\u6c5d\u5345\u8857240\u865f",
+          "formatted_phone_number": "6072 2290",
+          "geometry": {
+            "location": {
+              "lat": 22.3301084,
+              "lng": 114.161499
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3314573802915,
+                "lng": 114.1628479802915
+              },
+              "southwest": {
+                "lat": 22.3287594197085,
+                "lng": 114.1601500197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "4d4fb7b6ce1833b9917df23fe0984153d62a8885",
+          "international_phone_number": "+852 6072 2290",
+          "name": "\u6e2f\u716e\u6e2f\u98df",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 7:00 AM \u2013 10:30 PM",
+              "Tuesday: 7:00 AM \u2013 10:30 PM",
+              "Wednesday: 7:00 AM \u2013 10:30 PM",
+              "Thursday: 7:00 AM \u2013 10:30 PM",
+              "Friday: 7:00 AM \u2013 10:30 PM",
+              "Saturday: 7:00 AM \u2013 10:30 PM",
+              "Sunday: 7:00 AM \u2013 10:30 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 505,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108838351445588555319/photos\">\u6e2f\u716e\u6e2f\u98df</a>"
+              ],
+              "photo_reference": "CmRaAAAASOlNyguh0I4ROq4LeeKTftHD_-hn8Wth_CM2SgmctNtqTcMf2iaWnC0tkyCpjbEVwLvMj3RzOcyp3SIiLDJWfUCFvEhFj5JK_n8L0BRtKh24acq5lz6xxMVtKHqeeAQGEhD_rY_OUOuLLL_sQoTioXt1GhQLQtwn2LROqZyuYp0jCo1eHpyglg",
+              "width": 513
+            }
+          ],
+          "place_id": "ChIJI-DtRBsBBDQR6l0XNm5N5sI",
+          "plus_code": {
+            "compound_code": "85J6+2H Sham Shui Po, Hong Kong",
+            "global_code": "7PJP85J6+2H"
+          },
+          "reference": "ChIJI-DtRBsBBDQR6l0XNm5N5sI",
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=14043997623750712810",
+          "utc_offset": 480,
+          "vicinity": "\u6df1\u6c34\u57d7\u6c5d\u5345\u8857240\u865f"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJI-DtRBsBBDQR6l0XNm5N5sI",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "240\u865f",
+              "short_name": "240\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6c5d\u5345\u8857",
+              "short_name": "\u6c5d\u5345\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u6df1\u6c34\u57d7",
+              "short_name": "\u6df1\u6c34\u57d7",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u6df1\u6c34\u57d7</span><span class=\"street-address\">\u6c5d\u5345\u8857240\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u6df1\u6c34\u57d7\u6c5d\u5345\u8857240\u865f",
+          "formatted_phone_number": "6072 2290",
+          "geometry": {
+            "location": {
+              "lat": 22.3301084,
+              "lng": 114.161499
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3314573802915,
+                "lng": 114.1628479802915
+              },
+              "southwest": {
+                "lat": 22.3287594197085,
+                "lng": 114.1601500197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "4d4fb7b6ce1833b9917df23fe0984153d62a8885",
+          "international_phone_number": "+852 6072 2290",
+          "name": "\u6e2f\u716e\u6e2f\u98df",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 07:00 \u2013 22:30",
+              "\u661f\u671f\u4e8c: 07:00 \u2013 22:30",
+              "\u661f\u671f\u4e09: 07:00 \u2013 22:30",
+              "\u661f\u671f\u56db: 07:00 \u2013 22:30",
+              "\u661f\u671f\u4e94: 07:00 \u2013 22:30",
+              "\u661f\u671f\u516d: 07:00 \u2013 22:30",
+              "\u661f\u671f\u65e5: 07:00 \u2013 22:30"
+            ]
+          },
+          "photos": [
+            {
+              "height": 505,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108838351445588555319/photos\">\u6e2f\u716e\u6e2f\u98df</a>"
+              ],
+              "photo_reference": "CmRaAAAAEYOXt73Cyt2j7NwPACNzzp4cKBwf-_zPxUy25Wp4uIXlKVHsTL_vkjNkHvPdyNhdQsP41bCnXTGSjc_FTlcmYspdb9xRX1wB2X_dkCP47z5JLvu-LILNg99DkJYNBHdKEhAhvxCtwkPZAxNZcdPvAzdfGhRKBSPOHFZKflU8f6kFE65QK5HrbQ",
+              "width": 513
+            }
+          ],
+          "place_id": "ChIJI-DtRBsBBDQR6l0XNm5N5sI",
+          "plus_code": {
+            "compound_code": "85J6+2H \u9999\u6e2f\u6df1\u6c34\u57d7",
+            "global_code": "7PJP85J6+2H"
+          },
+          "reference": "ChIJI-DtRBsBBDQR6l0XNm5N5sI",
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=14043997623750712810",
+          "utc_offset": 480,
+          "vicinity": "\u6df1\u6c34\u57d7\u6c5d\u5345\u8857240\u865f"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -441,6 +1011,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

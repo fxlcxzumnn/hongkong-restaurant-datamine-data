@@ -257,6 +257,177 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJB2utH8oABDQR6mgDQlx8cb8": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Lai Ming Building",
+              "short_name": "Lai Ming Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "217-223",
+              "short_name": "217-223",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Tung Choi Street",
+              "short_name": "Tung Choi St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Prince Edward",
+              "short_name": "Prince Edward",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Lai Ming Building, <span class=\"street-address\">217-223 Tung Choi St</span>, <span class=\"locality\">Prince Edward</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Lai Ming Building, 217-223 Tung Choi St, Prince Edward, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3258542,
+              "lng": 114.1690628
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3272167802915,
+                "lng": 114.1704898802915
+              },
+              "southwest": {
+                "lat": 22.3245188197085,
+                "lng": 114.1677919197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "79ce4d8b56294aa2848c84586eae4a5b46655366",
+          "name": "Lai Ming Building",
+          "place_id": "ChIJB2utH8oABDQR6mgDQlx8cb8",
+          "reference": "ChIJB2utH8oABDQR6mgDQlx8cb8",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Lai+Ming+Building&ftid=0x340400ca1fad6b07:0xbf717c5c420368ea",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJB2utH8oABDQR6mgDQlx8cb8",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u9e97\u660e\u5927\u5ec8",
+              "short_name": "\u9e97\u660e\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "217-223",
+              "short_name": "217-223",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u901a\u83dc\u8857",
+              "short_name": "\u901a\u83dc\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u592a\u5b50",
+              "short_name": "\u592a\u5b50",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u592a\u5b50</span><span class=\"street-address\">\u901a\u83dc\u8857217-223\u865f</span>\u9e97\u660e\u5927\u5ec8",
+          "formatted_address": "\u9999\u6e2f\u592a\u5b50\u901a\u83dc\u8857217-223\u865f\u9e97\u660e\u5927\u5ec8",
+          "geometry": {
+            "location": {
+              "lat": 22.3258542,
+              "lng": 114.1690628
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3272167802915,
+                "lng": 114.1704898802915
+              },
+              "southwest": {
+                "lat": 22.3245188197085,
+                "lng": 114.1677919197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "79ce4d8b56294aa2848c84586eae4a5b46655366",
+          "name": "\u9e97\u660e\u5927\u5ec8",
+          "place_id": "ChIJB2utH8oABDQR6mgDQlx8cb8",
+          "reference": "ChIJB2utH8oABDQR6mgDQlx8cb8",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E9%BA%97%E6%98%8E%E5%A4%A7%E5%BB%88&ftid=0x340400ca1fad6b07:0xbf717c5c420368ea",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -339,6 +510,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

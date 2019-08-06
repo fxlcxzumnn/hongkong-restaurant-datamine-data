@@ -409,6 +409,844 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJba5lMVEABDQR2Kn8Mtjp-SM": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Po Ming Building",
+              "short_name": "Po Ming Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "96-106",
+              "short_name": "96-106",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Percival Street",
+              "short_name": "Percival St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Causeway Bay",
+              "short_name": "Causeway Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Po Ming Building, <span class=\"street-address\">96-106 Percival St</span>, <span class=\"locality\">Causeway Bay</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Po Ming Building, 96-106 Percival St, Causeway Bay, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.27849089999999,
+              "lng": 114.1835534
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2798055802915,
+                "lng": 114.1847972802915
+              },
+              "southwest": {
+                "lat": 22.2771076197085,
+                "lng": 114.1820993197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "c33743e43b4dadd9fa56ff6db5ddaa5511abcedb",
+          "name": "Po Ming Building",
+          "photos": [
+            {
+              "height": 4608,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672/photos\">F L</a>"
+              ],
+              "photo_reference": "CmRaAAAAuqmQ4YViK3Z4cox3VIMRoAAkyTH6Z-F-CBOEvYPPaMyTU0BgVhrCA-4wOQc31wl_xJIKvaNNsi9VUpBSjX-nTsJJxPpvJ92wt5p6vvExALMGWi6fhyfRjcKnfmiTjaGtEhAhbm3sEeQiq-3NJ6uLX3zfGhSOV3bsB0ijeiAAL_GVmr2QZguZcg",
+              "width": 3456
+            }
+          ],
+          "place_id": "ChIJba5lMVEABDQR2Kn8Mtjp-SM",
+          "reference": "ChIJba5lMVEABDQR2Kn8Mtjp-SM",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Po+Ming+Building&ftid=0x340400513165ae6d:0x23f9e9d832fca9d8",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJba5lMVEABDQR2Kn8Mtjp-SM",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u5bf6\u660e\u5927\u5ec8",
+              "short_name": "\u5bf6\u660e\u5927\u5ec8",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "96-106",
+              "short_name": "96-106",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u6ce2\u65af\u5bcc\u8857",
+              "short_name": "\u6ce2\u65af\u5bcc\u8857",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u9285\u947c\u7063",
+              "short_name": "\u9285\u947c\u7063",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f\u5cf6",
+              "short_name": "\u9999\u6e2f\u5cf6",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u9285\u947c\u7063</span><span class=\"street-address\">\u6ce2\u65af\u5bcc\u885796-106\u865f</span>\u5bf6\u660e\u5927\u5ec8",
+          "formatted_address": "\u9999\u6e2f\u9285\u947c\u7063\u6ce2\u65af\u5bcc\u885796-106\u865f\u5bf6\u660e\u5927\u5ec8",
+          "geometry": {
+            "location": {
+              "lat": 22.27849089999999,
+              "lng": 114.1835534
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.2798055802915,
+                "lng": 114.1847972802915
+              },
+              "southwest": {
+                "lat": 22.2771076197085,
+                "lng": 114.1820993197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "c33743e43b4dadd9fa56ff6db5ddaa5511abcedb",
+          "name": "\u5bf6\u660e\u5927\u5ec8",
+          "photos": [
+            {
+              "height": 4608,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672/photos\">F L</a>"
+              ],
+              "photo_reference": "CmRaAAAAdL5uq_T1EgKTmVQGrNeHlv2OKvXmHm7NN1YiX4HE14K-7xxI9SBPlZ9MRrVqMq6HIwFW2afg7PqmsOCE9PEKWQa0iRevIXmewkuIMKp_NerPy1dvOTxEsFDzgHfFkI6-EhDS8dDmk1TUGgXuWoXgRvtPGhRqrrQ-DCxEQxZ51J9H4Nnpfbg3xA",
+              "width": 3456
+            }
+          ],
+          "place_id": "ChIJba5lMVEABDQR2Kn8Mtjp-SM",
+          "reference": "ChIJba5lMVEABDQR2Kn8Mtjp-SM",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E5%AF%B6%E6%98%8E%E5%A4%A7%E5%BB%88&ftid=0x340400513165ae6d:0x23f9e9d832fca9d8",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJm3_8hdQBBDQRV8UEOL1au-g": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u865f\u8216",
+              "short_name": "\u865f\u8216",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "Po Ming Building",
+              "short_name": "Po Ming Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "96-106\u865f",
+              "short_name": "96-106\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Percival Street",
+              "short_name": "Percival St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Causeway Bay",
+              "short_name": "Causeway Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u5730\u4e0bE-F, \u865f\u8216, Po Ming Building, <span class=\"street-address\">96-106\u865f Percival St</span>, <span class=\"locality\">Causeway Bay</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "\u5730\u4e0bE-F, \u865f\u8216, Po Ming Building, 96-106\u865f Percival St, Causeway Bay, Hong Kong",
+          "formatted_phone_number": "3996 8646",
+          "geometry": {
+            "location": {
+              "lat": 22.2782304,
+              "lng": 114.1834047
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.27957248029151,
+                "lng": 114.1847335802915
+              },
+              "southwest": {
+                "lat": 22.2768745197085,
+                "lng": 114.1820356197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "f7aeba6a9d7fe44e9f1a97bd008ddef65c677acb",
+          "international_phone_number": "+852 3996 8646",
+          "name": "\u5357\u8a18\u7c89\u9eb5",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0830"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 8:30 AM \u2013 10:30 PM",
+              "Tuesday: 8:30 AM \u2013 10:30 PM",
+              "Wednesday: 8:30 AM \u2013 10:30 PM",
+              "Thursday: 8:30 AM \u2013 10:30 PM",
+              "Friday: 8:30 AM \u2013 10:30 PM",
+              "Saturday: 8:30 AM \u2013 10:30 PM",
+              "Sunday: 8:30 AM \u2013 10:30 PM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117601039797112350029/photos\">Anson Poon</a>"
+              ],
+              "photo_reference": "CmRaAAAA4oeXetH_KzcU0wtUUSs7WhgAi4QRGviKRAWLSWwfh0xTUL4OjbzALz-yMm5lph96kgPu6itR6_n15EsWqnurAtfr3TaqrY8xFEdg41Mr0F8N1YUV5UqMlRA4jvplc1q2EhDWw-Iq5SoDvrN7kwKaunRBGhQyyAca6etlFmqKCDXlNG08P3bj1Q",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111150188905353802633/photos\">Sean Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAMSe1qs0yeWPwx_IBRMAqtIkrr4FQXHexy13GKwtL3VCg1CmXEMc8b1PsqQ-IbAkmNR3yh8TAMplFf-cFfBtTdVRbbsp4h5Gn5xR_zFimMV-drjEoVyxbYg8fIKWOh5gXEhDOpV85wdcav0puW-l-3ssoGhRBwerg7vsuYIBZe0HeKT2YteY_EQ",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112138468558879736003/photos\">Nichts Y</a>"
+              ],
+              "photo_reference": "CmRaAAAA78-qU39kdBzEeQ5uC-YrH-ULDKlmqXCdgIpFdFBEbxrbzjhndyVVMX9RgCzQCRnnd8xB9djfTtTBc6jVlbGXfTPwCZQlm0rL9f74DcqMc6cYsDbBE9pRpOIBYfLsYnpOEhDtqQEWEkfbqpr4_E0zWiW3GhRTQP7ebckO6-nJPIx-LhFrAco8Ow",
+              "width": 3024
+            },
+            {
+              "height": 5333,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114574331091620258237/photos\">hin Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAOdzLbP-RLGDVpm4yss5w5hDMOyus1la1UaWXmgj6EFYs6vtFPG8omcApBpA3ScCMidSuTeHxzTX7XRTvE4AW6WuTttGJ0TJr2VYTZ1r2iN_S3_SIDFqMaF9vW3DGDvgWEhALgJJk3VJCTe2TUJf4l5PCGhSHbmVKGL5IlP5Dxr3zkq-BLn506A",
+              "width": 3000
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111150188905353802633/photos\">Sean Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAALGnvxGEB1j0HvImrAo1ozMamyXKaWz1tI75ZyLHc4HDRDqEvpOCm1xI9lbHUwWRQiCpvkd6tuym_-K81MmKAWrctp_5cF1vjrXZeLmmmtFE0kKfnv0sLgTl4pWEU8kT0EhCmf_euZ33YyAxDYSyRa4sZGhQehEl3qnvSf2UOdPTjTEKPS1Nn7A",
+              "width": 4032
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116989454235048919813/photos\">inova smart</a>"
+              ],
+              "photo_reference": "CmRZAAAAqh_aF1fqyGLuePW6FtXeeMWxD7NQWbEceDE6TCLY3yhWXsYUIaWiIsNnTQ8LqTOg4u7fTKX0t819CI7mfOtWVqnKCpBZN1fgqL2RBhhT_8rctulsoGrNQAuq_Y-8VprQEhB2lV8Ls_HX2T_usHERGTzbGhTYz-_N-BVjBDf3UB0biJVC8nFJZg",
+              "width": 4608
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111150188905353802633/photos\">Sean Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAEMlIhvA9-_cNzVY0Jv2K89WLzYz2hC5boDvitKWpl0un_PsYn8IImOlBnrNhyutxY64S-AC0N6DsJN0LB8P1JMC1IIZ6HPjoQ4EH71KOTy74lCFEOme3nC_JfE8nA3VWEhDvwQbuzsrn-R5c3Z_1j_OfGhQG7Q40lkNxq9hrtRWaJHPWqIIQ_Q",
+              "width": 4032
+            },
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114574331091620258237/photos\">hin Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAlK7_GjYNw8HXTHqERXAvqVgHJi4uH0PRAa3hUnE7ywv0VuTVYLv8MmiNtpNaZ2bR8U1NiQA_yPOR2SBhxEBhddjmqEsySRcn1_cYred4cYGqVAftCqeJAbCZ0jUyDLXEEhD8JEeILZ47_KYe0_69T8I0GhRboDE1EYTXvQ-_rA7u6Lbib999MQ",
+              "width": 5333
+            },
+            {
+              "height": 2340,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106357440625523993540/photos\">Wai Yip Leung</a>"
+              ],
+              "photo_reference": "CmRaAAAAmTM3Utw4x1BSoV4quIv-39Soin8ywoLjHcnnhhxHml1dY51dxu9iAuPNQAXlTBdxvy9Sgk2mddaLzE-rKzuSREbxSCiwtGOQ7yHxZ-SGF2TUCYOHLmNCp18TzYwkv4EMEhCkDZn2uatdspi2XN8szGeFGhT9Mhp1u1asidA3FQdEyG1TFZEOsQ",
+              "width": 4160
+            },
+            {
+              "height": 4608,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116989454235048919813/photos\">inova smart</a>"
+              ],
+              "photo_reference": "CmRZAAAAsS7ScIjjXrHa9g7-lQd7YcODk3dn5FT0VUol04WWz5cEshNSJSHxHc-6UA7GN54Os739GNv9gwoEKniENorzcfBg_pc_oFW1RHMJtMU34sE27F4fPEqeWi-akh9P_VxBEhB_uaM6S6Gko1j_ANOEKrRRGhS1xKewIWovqz7n4TLY-ipxZFz7uA",
+              "width": 2592
+            }
+          ],
+          "place_id": "ChIJm3_8hdQBBDQRV8UEOL1au-g",
+          "plus_code": {
+            "compound_code": "75HM+79 Hong Kong",
+            "global_code": "7PJP75HM+79"
+          },
+          "price_level": 1,
+          "rating": 4,
+          "reference": "ChIJm3_8hdQBBDQRV8UEOL1au-g",
+          "reviews": [
+            {
+              "author_name": "Joseph Chow",
+              "author_url": "https://www.google.com/maps/contrib/112512342640515216166/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-1vlv4UUiVzA/AAAAAAAAAAI/AAAAAAAAIg8/HHLO8Oo8FDs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "2 months ago",
+              "text": "Self service machine not worked.  Octopus machine out of order.  However, the noodle was ready in minute.  Fast and tasty at low price.",
+              "time": 1559484267
+            },
+            {
+              "author_name": "Roy",
+              "author_url": "https://www.google.com/maps/contrib/100277649147846353244/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-aZSNZP9VvcM/AAAAAAAAAAI/AAAAAAAAFYQ/t0W2PNMUY0Y/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "a month ago",
+              "text": "A must try! The noodles are great, clean place, fast serving, and surprisingly very cheap",
+              "time": 1560383541
+            },
+            {
+              "author_name": "chrysader Chiu",
+              "author_url": "https://www.google.com/maps/contrib/118217471575969025847/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/--F8NbFtt64A/AAAAAAAAAAI/AAAAAAAAB8Y/z5m68ZdvZT0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "4 months ago",
+              "text": "fast food noodles and tasting great",
+              "time": 1554532538
+            },
+            {
+              "author_name": "Ben L",
+              "author_url": "https://www.google.com/maps/contrib/111594170385345402835/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-mprwCThMsFk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdw7VcNwHOuAqPZ6K5D-4YZWnvChA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "2 months ago",
+              "text": "Not as good as yesterday's favour",
+              "time": 1557747475
+            },
+            {
+              "author_name": "Delvin Pan",
+              "author_url": "https://www.google.com/maps/contrib/102977825322404545038/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-n81J7oCdZIg/AAAAAAAAAAI/AAAAAAAAKYU/-uLWEzhdHpA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "3 months ago",
+              "text": "Not bad.",
+              "time": 1556860081
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=16770097406179329367",
+          "user_ratings_total": 33,
+          "utc_offset": 480,
+          "vicinity": "\u865f\u8216, Po Ming Building, \u5730\u4e0bE-F, 96-106\u865f Percival Street, Causeway Bay",
+          "website": "https://www.namkee.hk/"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJm3_8hdQBBDQRV8UEOL1au-g",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u865f\u8216",
+              "short_name": "\u865f\u8216",
+              "types": [
+                "subpremise"
+              ]
+            },
+            {
+              "long_name": "Po Ming Building",
+              "short_name": "Po Ming Building",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "96-106\u865f",
+              "short_name": "96-106\u865f",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Percival Street",
+              "short_name": "Percival St",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Causeway Bay",
+              "short_name": "Causeway Bay",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong Island",
+              "short_name": "Hong Kong Island",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "\u5730\u4e0bE-F, \u865f\u8216, Po Ming Building, <span class=\"street-address\">96-106\u865f Percival St</span>, <span class=\"locality\">Causeway Bay</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "\u5730\u4e0bE-F, \u865f\u8216, Po Ming Building, 96-106\u865f Percival St, Causeway Bay, \u9999\u6e2f",
+          "formatted_phone_number": "3996 8646",
+          "geometry": {
+            "location": {
+              "lat": 22.2782304,
+              "lng": 114.1834047
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.27957248029151,
+                "lng": 114.1847335802915
+              },
+              "southwest": {
+                "lat": 22.2768745197085,
+                "lng": 114.1820356197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "f7aeba6a9d7fe44e9f1a97bd008ddef65c677acb",
+          "international_phone_number": "+852 3996 8646",
+          "name": "\u5357\u8a18\u7c89\u9eb5",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 0,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 1,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0830"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "2230"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0830"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 08:30 \u2013 22:30",
+              "\u661f\u671f\u4e8c: 08:30 \u2013 22:30",
+              "\u661f\u671f\u4e09: 08:30 \u2013 22:30",
+              "\u661f\u671f\u56db: 08:30 \u2013 22:30",
+              "\u661f\u671f\u4e94: 08:30 \u2013 22:30",
+              "\u661f\u671f\u516d: 08:30 \u2013 22:30",
+              "\u661f\u671f\u65e5: 08:30 \u2013 22:30"
+            ]
+          },
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117601039797112350029/photos\">Anson Poon</a>"
+              ],
+              "photo_reference": "CmRaAAAAzswPtuM4GwIv8ra5U53rEyD7FzTTVZLdQBQqDrKJfWdFOOKEw3FTMBhIY5m4stmfRUyKRFXyEA29hLN2LdGS3oqY6uIBamnUt_U2GVLkQSbErTBqeaTceDFs3-Ucm0IkEhACoqK-29HQQ2Wy0U9medtxGhTwOiV6p0p9nmxNQ0BNfcYMKay2Yw",
+              "width": 3024
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111150188905353802633/photos\">Sean Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAWU5lajPTcxLNrX1x1ypC3VCnuoSrWNd7C7IR5u6_pumQ5cH8joaoMBxyyBu8OObT6rd-vJRF3s9JKzFyQ22MRderW6FfG-KFdI75pRT8pWkWLTfigeNrFjaJisF1OagYEhCrzZi_VFqOaDDTojbnJSR8GhTCAt2_NclPJ8JViI1WAVx7XY4oNg",
+              "width": 4032
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112138468558879736003/photos\">Nichts Y</a>"
+              ],
+              "photo_reference": "CmRaAAAAd95bqQwYvXWOppr3pMek-Z6Xc-KY4CmKHMR0Qz8nzJUPDGYmTTVKOZ42o3LlX3rJ20UMoehEQnIdJykA9GTeIws6LhlEl89m3V9TZ9cBk0MQyiRd6ytSKWn5Qy4_5lRdEhAEYWvJPW47zziZGR79g9n1GhQRf2UdR_MFoR_75E49kliyLvhcpg",
+              "width": 3024
+            },
+            {
+              "height": 5333,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114574331091620258237/photos\">hin Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAALKForz1ASDxZXARmxxYWVoAD2FDcLhciBeL_vRdXywSNvomMvuZl0LYzT5THWmVu7fbuyHjskjX4UMXC_hdvnWFbg0-Tu_OOJ0K7Pxj9bMosajgJ6aR7g4AbwfPYWw_WEhBcquXfM3s6luDVFC5_6AqBGhRi2zGt-evA8f9WP53TtIDVJMQI-w",
+              "width": 3000
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111150188905353802633/photos\">Sean Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAo9nBQkblMgbcfY5ro-jZn9clx20QrXYsFg45_-Q7JINhvbG8Vez5JQscHdq5viRMKbf2EOcIPGXfHqiINthsJ_6a7cgmsvtFJZUaLa5Qb6FL-s-WX9bPdYGWxCIaw4TzEhAX9N86AGfN7RaMrKwlll64GhQ-thSuskVUYNLTONJjog_Yf5mpLw",
+              "width": 4032
+            },
+            {
+              "height": 2592,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116989454235048919813/photos\">inova smart</a>"
+              ],
+              "photo_reference": "CmRZAAAAFuM1WrMGNdHXzVtqpTb_lz38krnNBAfbVmnZOzCQNzA2uLxAs7V7QGcYRmJNROFTuiJL-l7YJ4YQjkQMFx26eC318htbIr9slDYRDAp6878KQnw4YAMhHj81MKt8Py_dEhCprZIe0a1ZGVQ9zgMTi6O3GhRmU28KCe6aRraKtXrWj0whIPVWIw",
+              "width": 4608
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111150188905353802633/photos\">Sean Lam</a>"
+              ],
+              "photo_reference": "CmRaAAAAfWM9vlnUkivMzHcrFSmwTK9mkvbV--LmrYG42ca-1uhDwTNEPK6dH98N8ozsO5UjT2sL-7Ja4wtOCmbGxPPZqAEVhJxcucjID67UuchhKVXPXYuJ_abVqfpvJEIrcDagEhCRkoEiZJpdxa3jfenxT8iOGhSDF1Oml79Tqb648PsxfvvD557D8w",
+              "width": 4032
+            },
+            {
+              "height": 3000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114574331091620258237/photos\">hin Chiu</a>"
+              ],
+              "photo_reference": "CmRaAAAAzDDGPL2TkTDWzvQpijrdm_bRwCP07Tc0cJPivIgb8lEIQeL1baqfPW3Z47hQkdlco8SeOpI4MV_DBePiH5c4YTlv-mpy3x1iCWG7Nq76eY2yZMbYf3lz2TK1ErKR4-apEhCgsiTIXfKSSi-LF_cHf0KRGhQmW7wOUuFS5JwADKVUL39fceNiHw",
+              "width": 5333
+            },
+            {
+              "height": 2340,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106357440625523993540/photos\">Wai Yip Leung</a>"
+              ],
+              "photo_reference": "CmRaAAAAUFwN_KIeeKN7VUUgclpVrWnE6xJ0lz8Z513HcfxvBjdnvlm6TucIuLnV-qhbQBAg-gCyFA0Nyvv60Ur46okliLNhpal8QvbL83tXpb5vouRsAbOE6is3zIKGyCFy-_V6EhDO2UgTGnZ9s9S1gku-YuGLGhQEZpRRKfr6KSn5DcBiuUBbXWIz4g",
+              "width": 4160
+            },
+            {
+              "height": 4608,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116989454235048919813/photos\">inova smart</a>"
+              ],
+              "photo_reference": "CmRZAAAAFOXQHV48TGQP3PjPAgdCdKNUYB3jtIDfixhILg95ZMJICXzhDM4m04FfEg04mO4mODxBuGTzUEnlcMvGplFAC6mynA_67k6ub8T0CQYo89ex6gXEIgPK4sjACwIJhEEsEhBvdNPCZWTXb8CMAA_MoeXIGhSsooiz2wSKqJCPTetbxxkUDREf4Q",
+              "width": 2592
+            }
+          ],
+          "place_id": "ChIJm3_8hdQBBDQRV8UEOL1au-g",
+          "plus_code": {
+            "compound_code": "75HM+79 \u9999\u6e2f",
+            "global_code": "7PJP75HM+79"
+          },
+          "price_level": 1,
+          "rating": 4,
+          "reference": "ChIJm3_8hdQBBDQRV8UEOL1au-g",
+          "reviews": [
+            {
+              "author_name": "Joseph Chow",
+              "author_url": "https://www.google.com/maps/contrib/112512342640515216166/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-1vlv4UUiVzA/AAAAAAAAAAI/AAAAAAAAIg8/HHLO8Oo8FDs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "2 \u500b\u6708\u524d",
+              "text": "Self service machine not worked.  Octopus machine out of order.  However, the noodle was ready in minute.  Fast and tasty at low price.",
+              "time": 1559484267
+            },
+            {
+              "author_name": "Roy",
+              "author_url": "https://www.google.com/maps/contrib/100277649147846353244/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-aZSNZP9VvcM/AAAAAAAAAAI/AAAAAAAAFYQ/t0W2PNMUY0Y/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "A must try! The noodles are great, clean place, fast serving, and surprisingly very cheap",
+              "time": 1560383541
+            },
+            {
+              "author_name": "Anson Poon",
+              "author_url": "https://www.google.com/maps/contrib/117601039797112350029/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-m10s5KEGK78/AAAAAAAAAAI/AAAAAAAAAxc/MfaFZ4hWk1M/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "4 \u500b\u6708\u524d",
+              "text": "\u98df\u89aa\u90fd\u662f\u62db\u724c\u6cb3\uff0c\u4eca\u65e5\u8f49\u4e00\u8f49\uff01\u98df\u7c73\u7c89\u5e95\u5566\uff01",
+              "time": 1553177145
+            },
+            {
+              "author_name": "hin Chiu",
+              "author_url": "https://www.google.com/maps/contrib/114574331091620258237/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-dP1TcxC3tHQ/AAAAAAAAAAI/AAAAAAAAAC0/7_73abcQMOg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "3 \u500b\u6708\u524d",
+              "text": "\u9b5a\u86cb\u7c89\u597d\u98df \u7c73\u7dda\u4e00\u822c",
+              "time": 1557101872
+            },
+            {
+              "author_name": "KongKi Chan",
+              "author_url": "https://www.google.com/maps/contrib/101533121940551813309/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-fw323KpDOUU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd_IzVHYjB6978z2qBajsqWIdczoQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "5 \u500b\u6708\u524d",
+              "text": "\u90fd\u7b97\u5514\u932f\u35ce\uff01",
+              "time": 1549453618
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=16770097406179329367",
+          "user_ratings_total": 33,
+          "utc_offset": 480,
+          "vicinity": "\u865f\u8216, Po Ming Building, \u5730\u4e0bE-F, 96-106\u865f Percival Street, Causeway Bay",
+          "website": "https://www.namkee.hk/"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -730,6 +1568,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

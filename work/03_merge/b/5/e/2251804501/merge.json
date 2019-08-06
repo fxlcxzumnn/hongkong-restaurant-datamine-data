@@ -10,10 +10,40 @@
     "SS_TC": "\u5927\u5e2b\u5085\u7ca5\u54c1",
     "TYPE": "RL"
   },
-  "geocode_en": {
+  "geocode_tc": {
     "address_components": [
       {
-        "long_name": "Hong Kong",
+        "long_name": "311",
+        "short_name": "311",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "\u725b\u982d\u89d2\u9053",
+        "short_name": "\u725b\u982d\u89d2\u9053",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "\u725b\u982d\u89d2",
+        "short_name": "\u725b\u982d\u89d2",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "\u4e5d\u9f8d",
+        "short_name": "\u4e5d\u9f8d",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "\u9999\u6e2f",
         "short_name": "HK",
         "types": [
           "country",
@@ -21,32 +51,34 @@
         ]
       }
     ],
-    "formatted_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, Hong Kong",
+    "formatted_address": "\u9999\u6e2f\u725b\u982d\u89d2\u725b\u982d\u89d2\u9053311\u865f",
     "geometry": {
       "location": {
-        "lat": 22.31507,
-        "lng": 114.221939
+        "lat": 22.3150325,
+        "lng": 114.2218075
       },
-      "location_type": "GEOMETRIC_CENTER",
+      "location_type": "ROOFTOP",
       "viewport": {
         "northeast": {
-          "lat": 22.3164189802915,
-          "lng": 114.2232879802915
+          "lat": 22.3163814802915,
+          "lng": 114.2231564802915
         },
         "southwest": {
-          "lat": 22.3137210197085,
-          "lng": 114.2205900197085
+          "lat": 22.31368351970849,
+          "lng": 114.2204585197085
         }
       }
     },
-    "place_id": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+    "place_id": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
     "plus_code": {
-      "compound_code": "868C+2Q Hong Kong",
-      "global_code": "7PJP868C+2Q"
+      "compound_code": "868C+2P \u9999\u6e2f",
+      "global_code": "7PJP868C+2P"
     },
     "types": [
       "establishment",
-      "point_of_interest"
+      "food",
+      "point_of_interest",
+      "restaurant"
     ]
   },
   "licno": "2251804501",
@@ -55,11 +87,17 @@
     "result": {
       "address_components": [
         {
-          "long_name": "Hong Kong",
-          "short_name": "HK",
+          "long_name": "311",
+          "short_name": "311",
           "types": [
-            "country",
-            "political"
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Ngau Tau Kok Road",
+          "short_name": "Ngau Tau Kok Rd",
+          "types": [
+            "route"
           ]
         },
         {
@@ -77,63 +115,1097 @@
             "administrative_area_level_1",
             "political"
           ]
+        },
+        {
+          "long_name": "Hong Kong",
+          "short_name": "HK",
+          "types": [
+            "country",
+            "political"
+          ]
         }
       ],
-      "adr_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 &amp; 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, <span class=\"locality\">Ngau Tau Kok</span>, <span class=\"country-name\">Hong Kong</span>",
-      "formatted_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, Ngau Tau Kok, Hong Kong",
+      "adr_address": "<span class=\"street-address\">311 Ngau Tau Kok Rd</span>, <span class=\"locality\">Ngau Tau Kok</span>, <span class=\"country-name\">Hong Kong</span>",
+      "formatted_address": "311 Ngau Tau Kok Rd, Ngau Tau Kok, Hong Kong",
+      "formatted_phone_number": "2790 9317",
       "geometry": {
         "location": {
-          "lat": 22.31507,
-          "lng": 114.221939
+          "lat": 22.3150325,
+          "lng": 114.2218075
         },
         "viewport": {
           "northeast": {
-            "lat": 22.3164189802915,
-            "lng": 114.2232879802915
+            "lat": 22.3163344802915,
+            "lng": 114.2231604802915
           },
           "southwest": {
-            "lat": 22.3137210197085,
-            "lng": 114.2205900197085
+            "lat": 22.31363651970849,
+            "lng": 114.2204625197085
           }
         }
       },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-      "id": "bfb673a1e1a385fc4a55021b327816349b1571d1",
-      "name": "\u5927\u5e2b\u5085\u7ca5\u54c1",
-      "place_id": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
-      "plus_code": {
-        "compound_code": "868C+2Q Hong Kong",
-        "global_code": "7PJP868C+2Q"
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "411c38bebd44109dd8c2b4dc59fd97da8487fd50",
+      "international_phone_number": "+852 2790 9317",
+      "name": "Master Congee",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "0000"
+            },
+            "open": {
+              "day": 0,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0000"
+            },
+            "open": {
+              "day": 1,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0000"
+            },
+            "open": {
+              "day": 2,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0000"
+            },
+            "open": {
+              "day": 3,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0000"
+            },
+            "open": {
+              "day": 4,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0000"
+            },
+            "open": {
+              "day": 5,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0000"
+            },
+            "open": {
+              "day": 6,
+              "time": "0700"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 7:00 AM \u2013 12:00 AM",
+          "Tuesday: 7:00 AM \u2013 12:00 AM",
+          "Wednesday: 7:00 AM \u2013 12:00 AM",
+          "Thursday: 7:00 AM \u2013 12:00 AM",
+          "Friday: 7:00 AM \u2013 12:00 AM",
+          "Saturday: 7:00 AM \u2013 12:00 AM",
+          "Sunday: 7:00 AM \u2013 12:00 AM"
+        ]
       },
-      "rating": 4,
-      "reference": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+      "photos": [
+        {
+          "height": 2202,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+          ],
+          "photo_reference": "CmRaAAAAL3BPU0rkDCgJDu-8Wzq1zqeq4Mbn39uuh8a5XmRUSoHYwmCVzDKupAtotdG3RMu2-YjG_KuhK-5C2ewsFlA4aLnh71dCh8dfmjVndeeSLsc8oGYcFEZn5kKmZp-wsqXYEhAhNPj3DIvxR8-6abdVP2ZlGhRpg8Eb8Z4tjopgIkjuI7xRnWHNKA",
+          "width": 3940
+        },
+        {
+          "height": 2164,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+          ],
+          "photo_reference": "CmRaAAAA3rGpbPx0lkvRqpDvyMvPvkqcc7NiMgWnmNQEXsVS-jDGFSGED5TBsN-o1yRaGoeEjpO0awr-SDbUXqyLH3LuDtfY5K12fnSwQu2KNsR9CoM9Y5FaGEF5A_rVoPJK3ShTEhDIJ_V2-sjNdhk_vJ1HcALTGhS60ZIATM8-JaWpMg0mU2CM-g0oYA",
+          "width": 3917
+        },
+        {
+          "height": 3104,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+          ],
+          "photo_reference": "CmRaAAAAYr6bEyjQWSgO_zn6ixq-FWz4nUNSvKGUzsP_-lKZ9MZk660VaCBNrQYUbnqnKXGFIau6GnvrbGzEV1havSCmfucYFrnN2WF1Jc-2nEN9GtVsk2qaBQowBwkmKPZSuaHVEhAdjaJ5CRvNea6OnjYF615uGhQSxfykYWLTpE8SWfhxkpm5bc6zfQ",
+          "width": 1746
+        },
+        {
+          "height": 1746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+          ],
+          "photo_reference": "CmRaAAAAhEhACcT3jRRfWKgFz7raDks9gLsyDaK6pJY8U261j4l6BBrr-AOhz20NNMomM2ePIcM1uo_TnpM_JVicjwLf9q3WH-6WFgYMSa_aqsWaRcYxbzL63kCGJOWq-poDYTwaEhDwDueRwXKtftSQHluDFYKhGhSl_zawJi3BY9_tTP3PnBCcRmrQ8g",
+          "width": 3104
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+          ],
+          "photo_reference": "CmRaAAAAdxuhzLmuWiQV-OAt6zSagjNc39MLewyyz3PrB4Kcv_UaBJpFKKRRYari6rU-AWjWWj_jovfBVpaa-zkX_x8oN1zpfFQMajxXivqk3V-7PbX9rLhY14aAkwAiufYK46TUEhAeI8Q_xVB8Q5KEAAl297TGGhSowjGvOZkPdFYAwNvDrFVm325TlA",
+          "width": 3024
+        },
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116326193914483259854/photos\">Vivek Duddempudi</a>"
+          ],
+          "photo_reference": "CmRaAAAAyJqm0VX0F21YnvOoFWn7u67x5UOTpg3zOHzBL4eo-ET74kh1IbsTQXFyBvpVZKOrJoh7Wt5MJW8SlgybsD-qmhr7mIptTAAipO2EOkmty4eIJJnWrmso_RdWGyKojGsfEhDoH4lnoJw6HhxHzET7fla7GhSCWtIViT3oaKx0xcttGS1L19Odbw",
+          "width": 4640
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111351341999690686224/photos\">\u5e78\u798f\u7537</a>"
+          ],
+          "photo_reference": "CmRaAAAAwks1LxPmKVfgpe7-SLPsSXdrCq02h4z6GWrH9W4WfKoZqdRRTgORlJFWpwxr4P1eU9kt8L39ufuWTB_h4Xgp4JFGMfTP9cRmDQBielZdWschvvgO43xNFSnov8xcLyRVEhCYvFncLfxRTKXutKc8_k-UGhQARzZUEua1js64Y9Y2JYTtxSdaMA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+          ],
+          "photo_reference": "CmRaAAAAadVG47nBc5lAmo6gw8C59IGRAD5-3C4RiN5HnAOaZeg7CgA_U2mU8tKeAFLJwigfqSbu1FSuppHtL3YWhVYfnmVo1DmTVFovPg1VhifYjyeUDn0fIbZZZuO_EfyZ-NAxEhDO0N5Ak25BhMx_PD7GI8XOGhR_2Fpj_jZ3HTCcMnXIqvbr2IVvAg",
+          "width": 4032
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102141947751460974882/photos\">jacky au yeung</a>"
+          ],
+          "photo_reference": "CmRaAAAA55IAmEceTgPls0yzbCjkxY3V2cryvJiiBqyqzR0JaFWRq5d3uXveKNjOym6344QjnMyalGjBk2vl_Qo26UJd5uS9BL4BL3czrrOzsZvNrM3UuBZEUAf5wPkTiTobqjoNEhBw39t4SdX-JSsKCTDkPPUzGhRhXJinF3o6KlcPplG6tD3_9Nph9A",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103636505463356734038/photos\">Martin Chan</a>"
+          ],
+          "photo_reference": "CmRaAAAAEA_5YqVh5EXoyLMAT58z9TvuvsxSmzo4HSZNxqVUvA509Q9X9h8YtN_VoLiqP9bVMoqB4K6zm1Wb2XRNGpZ3OFwSZOgV2REMRP4ukw5TDO13PQh78udMWSpMKsO-sH1REhCUKE4-udbagW2-4QSZdr5fGhRRf4bLFHQOa-d5VMiF_zkFKI5xHw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
+      "plus_code": {
+        "compound_code": "868C+2P Hong Kong",
+        "global_code": "7PJP868C+2P"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
       "reviews": [
         {
-          "author_name": "Wei Xiang Perh",
-          "author_url": "https://www.google.com/maps/contrib/106071961454033068753/reviews",
-          "profile_photo_url": "https://lh3.googleusercontent.com/-AkgVpilcS5Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcoBAJB_ZWlwO1aQtapoQHj914bgA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "author_name": "wong Davis",
+          "author_url": "https://www.google.com/maps/contrib/110137848015752448223/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-4CB68b34rbc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcQdAhE71eCkX2ghyFlo2jKjN0oeg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
           "rating": 4,
-          "relative_time_description": "2 years ago",
-          "text": "",
-          "time": 1482453580
+          "relative_time_description": "7 months ago",
+          "text": "Taste quite good and the price is reasonable. But seats are quite limited and crowded.",
+          "time": 1545284066
+        },
+        {
+          "author_name": "Fuyim Poon",
+          "author_url": "https://www.google.com/maps/contrib/101168341686911725198/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-WiL8fY1m-P4/AAAAAAAAAAI/AAAAAAAAAAw/6doD4RgHemU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "a month ago",
+          "text": "Not very exciting!",
+          "time": 1562138330
+        },
+        {
+          "author_name": "Ski Goer",
+          "author_url": "https://www.google.com/maps/contrib/104621730656249097380/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-8HEfTfZzo5g/AAAAAAAAAAI/AAAAAAAAACo/sCxfhu1cuaY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a year ago",
+          "text": "Great neighborhood price and good congee plus more. \u70b8\u5169 crispy and it is hard to find nowadays. Congee served really hot and with good portion.",
+          "time": 1524036247
+        },
+        {
+          "author_name": "Gary Chiu",
+          "author_url": "https://www.google.com/maps/contrib/101133811765839683852/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-tABCCCZkvu8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcafR71356doZolcxfn_G2HNUPJMg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "3 months ago",
+          "text": "Taste no good",
+          "time": 1556353618
+        },
+        {
+          "author_name": "Ken Wan",
+          "author_url": "https://www.google.com/maps/contrib/109726796055597487623/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-BtYcZ7s0MFg/AAAAAAAAAAI/AAAAAAAAADk/KKurTvz8qQs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "8 months ago",
+          "text": "So far so good",
+          "time": 1542775258
         }
       ],
       "scope": "GOOGLE",
       "types": [
+        "restaurant",
+        "food",
         "point_of_interest",
         "establishment"
       ],
-      "url": "https://maps.google.com/?cid=515553301214837904",
-      "user_ratings_total": 1,
+      "url": "https://maps.google.com/?cid=11681801739133392515",
+      "user_ratings_total": 269,
       "utc_offset": 480,
-      "vicinity": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon"
+      "vicinity": "311 Ngau Tau Kok Road, Ngau Tau Kok"
     },
     "status": "OK"
+  },
+  "place_id_to_place_data_dict": {
+    "ChIJg9Qt2k4BBDQRgxaW9ckYHqI": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "311",
+              "short_name": "311",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Ngau Tau Kok Road",
+              "short_name": "Ngau Tau Kok Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Ngau Tau Kok",
+              "short_name": "Ngau Tau Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">311 Ngau Tau Kok Rd</span>, <span class=\"locality\">Ngau Tau Kok</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "311 Ngau Tau Kok Rd, Ngau Tau Kok, Hong Kong",
+          "formatted_phone_number": "2790 9317",
+          "geometry": {
+            "location": {
+              "lat": 22.3150325,
+              "lng": 114.2218075
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3163344802915,
+                "lng": 114.2231604802915
+              },
+              "southwest": {
+                "lat": 22.31363651970849,
+                "lng": 114.2204625197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "411c38bebd44109dd8c2b4dc59fd97da8487fd50",
+          "international_phone_number": "+852 2790 9317",
+          "name": "Master Congee",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "Monday: 7:00 AM \u2013 12:00 AM",
+              "Tuesday: 7:00 AM \u2013 12:00 AM",
+              "Wednesday: 7:00 AM \u2013 12:00 AM",
+              "Thursday: 7:00 AM \u2013 12:00 AM",
+              "Friday: 7:00 AM \u2013 12:00 AM",
+              "Saturday: 7:00 AM \u2013 12:00 AM",
+              "Sunday: 7:00 AM \u2013 12:00 AM"
+            ]
+          },
+          "photos": [
+            {
+              "height": 2202,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+              ],
+              "photo_reference": "CmRaAAAAL3BPU0rkDCgJDu-8Wzq1zqeq4Mbn39uuh8a5XmRUSoHYwmCVzDKupAtotdG3RMu2-YjG_KuhK-5C2ewsFlA4aLnh71dCh8dfmjVndeeSLsc8oGYcFEZn5kKmZp-wsqXYEhAhNPj3DIvxR8-6abdVP2ZlGhRpg8Eb8Z4tjopgIkjuI7xRnWHNKA",
+              "width": 3940
+            },
+            {
+              "height": 2164,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+              ],
+              "photo_reference": "CmRaAAAA3rGpbPx0lkvRqpDvyMvPvkqcc7NiMgWnmNQEXsVS-jDGFSGED5TBsN-o1yRaGoeEjpO0awr-SDbUXqyLH3LuDtfY5K12fnSwQu2KNsR9CoM9Y5FaGEF5A_rVoPJK3ShTEhDIJ_V2-sjNdhk_vJ1HcALTGhS60ZIATM8-JaWpMg0mU2CM-g0oYA",
+              "width": 3917
+            },
+            {
+              "height": 3104,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+              ],
+              "photo_reference": "CmRaAAAAYr6bEyjQWSgO_zn6ixq-FWz4nUNSvKGUzsP_-lKZ9MZk660VaCBNrQYUbnqnKXGFIau6GnvrbGzEV1havSCmfucYFrnN2WF1Jc-2nEN9GtVsk2qaBQowBwkmKPZSuaHVEhAdjaJ5CRvNea6OnjYF615uGhQSxfykYWLTpE8SWfhxkpm5bc6zfQ",
+              "width": 1746
+            },
+            {
+              "height": 1746,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+              ],
+              "photo_reference": "CmRaAAAAhEhACcT3jRRfWKgFz7raDks9gLsyDaK6pJY8U261j4l6BBrr-AOhz20NNMomM2ePIcM1uo_TnpM_JVicjwLf9q3WH-6WFgYMSa_aqsWaRcYxbzL63kCGJOWq-poDYTwaEhDwDueRwXKtftSQHluDFYKhGhSl_zawJi3BY9_tTP3PnBCcRmrQ8g",
+              "width": 3104
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+              ],
+              "photo_reference": "CmRaAAAAdxuhzLmuWiQV-OAt6zSagjNc39MLewyyz3PrB4Kcv_UaBJpFKKRRYari6rU-AWjWWj_jovfBVpaa-zkX_x8oN1zpfFQMajxXivqk3V-7PbX9rLhY14aAkwAiufYK46TUEhAeI8Q_xVB8Q5KEAAl297TGGhSowjGvOZkPdFYAwNvDrFVm325TlA",
+              "width": 3024
+            },
+            {
+              "height": 3480,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116326193914483259854/photos\">Vivek Duddempudi</a>"
+              ],
+              "photo_reference": "CmRaAAAAyJqm0VX0F21YnvOoFWn7u67x5UOTpg3zOHzBL4eo-ET74kh1IbsTQXFyBvpVZKOrJoh7Wt5MJW8SlgybsD-qmhr7mIptTAAipO2EOkmty4eIJJnWrmso_RdWGyKojGsfEhDoH4lnoJw6HhxHzET7fla7GhSCWtIViT3oaKx0xcttGS1L19Odbw",
+              "width": 4640
+            },
+            {
+              "height": 2268,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111351341999690686224/photos\">\u5e78\u798f\u7537</a>"
+              ],
+              "photo_reference": "CmRaAAAAwks1LxPmKVfgpe7-SLPsSXdrCq02h4z6GWrH9W4WfKoZqdRRTgORlJFWpwxr4P1eU9kt8L39ufuWTB_h4Xgp4JFGMfTP9cRmDQBielZdWschvvgO43xNFSnov8xcLyRVEhCYvFncLfxRTKXutKc8_k-UGhQARzZUEua1js64Y9Y2JYTtxSdaMA",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+              ],
+              "photo_reference": "CmRaAAAAadVG47nBc5lAmo6gw8C59IGRAD5-3C4RiN5HnAOaZeg7CgA_U2mU8tKeAFLJwigfqSbu1FSuppHtL3YWhVYfnmVo1DmTVFovPg1VhifYjyeUDn0fIbZZZuO_EfyZ-NAxEhDO0N5Ak25BhMx_PD7GI8XOGhR_2Fpj_jZ3HTCcMnXIqvbr2IVvAg",
+              "width": 4032
+            },
+            {
+              "height": 2080,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102141947751460974882/photos\">jacky au yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAA55IAmEceTgPls0yzbCjkxY3V2cryvJiiBqyqzR0JaFWRq5d3uXveKNjOym6344QjnMyalGjBk2vl_Qo26UJd5uS9BL4BL3czrrOzsZvNrM3UuBZEUAf5wPkTiTobqjoNEhBw39t4SdX-JSsKCTDkPPUzGhRhXJinF3o6KlcPplG6tD3_9Nph9A",
+              "width": 4160
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103636505463356734038/photos\">Martin Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAAEA_5YqVh5EXoyLMAT58z9TvuvsxSmzo4HSZNxqVUvA509Q9X9h8YtN_VoLiqP9bVMoqB4K6zm1Wb2XRNGpZ3OFwSZOgV2REMRP4ukw5TDO13PQh78udMWSpMKsO-sH1REhCUKE4-udbagW2-4QSZdr5fGhRRf4bLFHQOa-d5VMiF_zkFKI5xHw",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
+          "plus_code": {
+            "compound_code": "868C+2P Hong Kong",
+            "global_code": "7PJP868C+2P"
+          },
+          "price_level": 1,
+          "rating": 3.5,
+          "reference": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
+          "reviews": [
+            {
+              "author_name": "wong Davis",
+              "author_url": "https://www.google.com/maps/contrib/110137848015752448223/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-4CB68b34rbc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcQdAhE71eCkX2ghyFlo2jKjN0oeg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "7 months ago",
+              "text": "Taste quite good and the price is reasonable. But seats are quite limited and crowded.",
+              "time": 1545284066
+            },
+            {
+              "author_name": "Fuyim Poon",
+              "author_url": "https://www.google.com/maps/contrib/101168341686911725198/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-WiL8fY1m-P4/AAAAAAAAAAI/AAAAAAAAAAw/6doD4RgHemU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "a month ago",
+              "text": "Not very exciting!",
+              "time": 1562138330
+            },
+            {
+              "author_name": "Ski Goer",
+              "author_url": "https://www.google.com/maps/contrib/104621730656249097380/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-8HEfTfZzo5g/AAAAAAAAAAI/AAAAAAAAACo/sCxfhu1cuaY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "a year ago",
+              "text": "Great neighborhood price and good congee plus more. \u70b8\u5169 crispy and it is hard to find nowadays. Congee served really hot and with good portion.",
+              "time": 1524036247
+            },
+            {
+              "author_name": "Gary Chiu",
+              "author_url": "https://www.google.com/maps/contrib/101133811765839683852/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-tABCCCZkvu8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcafR71356doZolcxfn_G2HNUPJMg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 1,
+              "relative_time_description": "3 months ago",
+              "text": "Taste no good",
+              "time": 1556353618
+            },
+            {
+              "author_name": "Ken Wan",
+              "author_url": "https://www.google.com/maps/contrib/109726796055597487623/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-BtYcZ7s0MFg/AAAAAAAAAAI/AAAAAAAAADk/KKurTvz8qQs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "8 months ago",
+              "text": "So far so good",
+              "time": 1542775258
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=11681801739133392515",
+          "user_ratings_total": 269,
+          "utc_offset": 480,
+          "vicinity": "311 Ngau Tau Kok Road, Ngau Tau Kok"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "311",
+              "short_name": "311",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u725b\u982d\u89d2\u9053",
+              "short_name": "\u725b\u982d\u89d2\u9053",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u725b\u982d\u89d2",
+              "short_name": "\u725b\u982d\u89d2",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u4e5d\u9f8d",
+              "short_name": "\u4e5d\u9f8d",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u725b\u982d\u89d2</span><span class=\"street-address\">\u725b\u982d\u89d2\u9053311\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u725b\u982d\u89d2\u725b\u982d\u89d2\u9053311\u865f",
+          "formatted_phone_number": "2790 9317",
+          "geometry": {
+            "location": {
+              "lat": 22.3150325,
+              "lng": 114.2218075
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3163344802915,
+                "lng": 114.2231604802915
+              },
+              "southwest": {
+                "lat": 22.31363651970849,
+                "lng": 114.2204625197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "411c38bebd44109dd8c2b4dc59fd97da8487fd50",
+          "international_phone_number": "+852 2790 9317",
+          "name": "\u5927\u5e2b\u5085\u7ca5\u54c1",
+          "opening_hours": {
+            "open_now": true,
+            "periods": [
+              {
+                "close": {
+                  "day": 1,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 0,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 2,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 1,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 3,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 2,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 4,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 3,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 5,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 4,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 6,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 5,
+                  "time": "0700"
+                }
+              },
+              {
+                "close": {
+                  "day": 0,
+                  "time": "0000"
+                },
+                "open": {
+                  "day": 6,
+                  "time": "0700"
+                }
+              }
+            ],
+            "weekday_text": [
+              "\u661f\u671f\u4e00: 07:00 \u2013 00:00",
+              "\u661f\u671f\u4e8c: 07:00 \u2013 00:00",
+              "\u661f\u671f\u4e09: 07:00 \u2013 00:00",
+              "\u661f\u671f\u56db: 07:00 \u2013 00:00",
+              "\u661f\u671f\u4e94: 07:00 \u2013 00:00",
+              "\u661f\u671f\u516d: 07:00 \u2013 00:00",
+              "\u661f\u671f\u65e5: 07:00 \u2013 00:00"
+            ]
+          },
+          "photos": [
+            {
+              "height": 2202,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+              ],
+              "photo_reference": "CmRaAAAAdMaQX_Lf_LNujE27W5d2_vr1JrS3lTChB_8xDk125-Pl2YK4lzFiiCY8clz0MAV7hVEan_KhULK0er_w3VPgmXLlfOuzsXFBPTqWn8lIBh4btMJ7EacxBZkbANZUipWgEhD6DCs9gDG8dzohdJ7RVTV2GhT3UH5WML3KmW4ug9nF-Y78BYpxrw",
+              "width": 3940
+            },
+            {
+              "height": 2164,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+              ],
+              "photo_reference": "CmRaAAAAFL2KVNZoFjyYzOY48sYNZCzGEf2CgPNZy6yl-v-wbrIJGv6Ko5muA_KQN1Ib5fnV-xaMH8RSVSYY-juyMbQxgjx8CLe0r3PgMTBYyigeF-oVIKDvKeRoeHfPr3NPOocNEhDVhV081txyWhj0BmTPWzGcGhTmhC2gDYyipZmygKDGB4RxSn6dIQ",
+              "width": 3917
+            },
+            {
+              "height": 3104,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+              ],
+              "photo_reference": "CmRaAAAArFI4De3HLxl0hsSL2_0-Z2LCf8EY8bMOPaxf1jRNTI2GFMzPlvBZ6yH-RiP-8hF_ECt9vt9rwFfSvDFfqSPWfGQEAklYq7UEd-ZYxYleNx3RaEjr4B5NcWXdfuwx-4XyEhA5Kqc267GhIIau35durF0bGhQ0QlBybenc-90_qClzvnBD2lUQDQ",
+              "width": 1746
+            },
+            {
+              "height": 1746,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+              ],
+              "photo_reference": "CmRaAAAAl2saNaiw5MLshLBuM-oGSybNUZ4_v7KQl__eI9Z_cWoCXWUnXhwjCD1ceLRCjB0muQGremnPqKjgLhRJPf9BlDUa7-7OD3pTZPMVIGSR0OkfLtdVe9SYi5EIEuW42vI3EhA329ckSXc6Qmun5EddPEllGhR2SIRaQZwIBi7VpnltlgBGDKfDqA",
+              "width": 3104
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+              ],
+              "photo_reference": "CmRaAAAAMMWNnliGzoFSUATiassJdm4-qpHVNtIEEee2z-wxAZEQRJLZcjb95AdoeOTWu6MU6I7hEvqxXGL8CSwQe0vIHn1sMfPb7MW_2jwaCvOmiOMkynXQEb97T6b7C7Uk1M04EhAmjHTiPSGbaVIiWMj8WY5XGhRrDEt9Q2qu7MdKwZRFA5CYKIeOpw",
+              "width": 3024
+            },
+            {
+              "height": 3480,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116326193914483259854/photos\">Vivek Duddempudi</a>"
+              ],
+              "photo_reference": "CmRaAAAA6ng66WsUpRhfCF4VBEHw0Faqbezf6Xaj40TdnSIDF8kmjezPJQCCKRAD2a9xbv05qia7UIjXIlCt1iJ9qjFM8W-9oNN6ZzYt13VZemjpHwUIoCYFN81OYtsQmudzn6mHEhCM0q7rBQaTd5wCudiFYTUjGhQ5B64ClrtSvhNpPmffC7XW_zMF3A",
+              "width": 4640
+            },
+            {
+              "height": 2268,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111351341999690686224/photos\">\u5e78\u798f\u7537</a>"
+              ],
+              "photo_reference": "CmRaAAAAPntPlpuHZf2_259zl7buDauPdkMXTZMUf4xJ-27Yyy_YOZBSQ-m_uA1v0LbkajXXpjpktFqvOEZC5JsqvUG205fa2_N3bVFjm1ZuYCg2BOftT82dyihfE6yCbG5_kpXXEhDod7Yg5-Q9VMz0F499KQnuGhS3CctqRmUWfu5Ajl-_CBRJ7qoMbA",
+              "width": 4032
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+              ],
+              "photo_reference": "CmRaAAAAq5-P7dlIJKkMlKDO7psq6IC7nCi6MDv_bWkEMz3JPK6eClfvMuEabxtHWDzZmKeTvog2rpnBkLyeoGYdmv1SkeRH4tDXEVZZ2w7ZQsJQnrGihLZqdrlJxRc8gb9zsZJXEhAXnW-xLLBgcyN_7t8epLU4GhRPMHMpKv9BRLh6Aola3MmG4MGKgg",
+              "width": 4032
+            },
+            {
+              "height": 2080,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102141947751460974882/photos\">jacky au yeung</a>"
+              ],
+              "photo_reference": "CmRaAAAAcPXYmB-xXa6tRUGOxSsVmM3ESON1vXfGzcIUgg0aTbe6NAf9X3yc4L3-xpSAakHTcJU5b59oIq6AfNDH9YS9rVfhLRU-Gjeybm9XVQJPfSO79ji57bX6ibzyacW_pf48EhDnlYX_8OypNtV3ntGXgU5rGhTJV3uhKxTFbT2b1YI3IQ_U3JrWjw",
+              "width": 4160
+            },
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103636505463356734038/photos\">Martin Chan</a>"
+              ],
+              "photo_reference": "CmRaAAAAvfF8vZIfp03MtEdImOuH9BZKbdRICpWqac8HnvBtYLWqWeBLE7PmjrRruqgNUc2aEniyjyoHpKu2ku-EtzIPW3OvDWydao3gc_o0vqWDubVfCMDgsI_vSD_BHvlQv5OFEhD1YvcoIcx4R7NStrbYYWznGhT-MyjU3ExnO9mdvRoHup6m9yW4ig",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
+          "plus_code": {
+            "compound_code": "868C+2P \u9999\u6e2f",
+            "global_code": "7PJP868C+2P"
+          },
+          "price_level": 1,
+          "rating": 3.5,
+          "reference": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
+          "reviews": [
+            {
+              "author_name": "Y.H Andy Chung",
+              "author_url": "https://www.google.com/maps/contrib/104744495387825397744/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-u_c-IRcfmqs/AAAAAAAAAAI/AAAAAAAAADg/hw8dM1pH8RM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "1 \u9031\u524d",
+              "text": "\u5730\u65b9\u5927\u5c11\u4e86 \u611f\u89ba\u4e0a\u8feb\u4eba\u5403\u98fd\u8981\u7acb\u5373\u8d70\u7684",
+              "time": 1563975580
+            },
+            {
+              "author_name": "PAUL CP",
+              "author_url": "https://www.google.com/maps/contrib/113159723125904860286/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh6.googleusercontent.com/-X1AXhRc2jis/AAAAAAAAAAI/AAAAAAAACKI/C63vPZ-n8wk/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 \u500b\u6708\u524d",
+              "text": "\u83dc\u4e7e\u8c6c\u9aa8\u7ca5\u4e0d\u932f\uff0c\u8525\u82b1\u70b8\u5169\u8178\u662f\u65b0\u9bae\u5373\u5236(\u666e\u901a\u7248\u597d\u50cf\u4e0d\u662f\u5373\u5236)\uff0c\u53e3\u611f\u5f88\u8b9a\uff01\u53e6\u9019\u88cf\u7684\u725b\u8137\u9165\u5927\u71b1\u8ce3\uff0c\u61c9\u8a72\u5f88\u597d\u98df\uff0c\u7559\u5f85\u4e0b\u6b21\u518d\u8a66\u3002",
+              "time": 1558859761
+            },
+            {
+              "author_name": "\u5e78\u798f\u7537",
+              "author_url": "https://www.google.com/maps/contrib/111351341999690686224/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh5.googleusercontent.com/-yZ3dRhM15P8/AAAAAAAAAAI/AAAAAAAALgU/Y31OFEXxSJo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+              "rating": 3,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "\u4eca\u65e5\u7aef\u5348\u7bc0\uff0c\u7279\u767b\u569f\u98df\u9e79\u8089\u7cbd\uff0c\u8cea\u611f\u9b06\u9b06\u8edf\u8edf\uff0c\u9084\u53ef\u4ee5\uff0c\u5473\u9053\u4e2d\u5eb8\uff0c\u6c92\u9e79\u8089\u7cbd\u7684\u9999\u5473\u3002",
+              "time": 1559935216
+            },
+            {
+              "author_name": "Yafei Lee",
+              "author_url": "https://www.google.com/maps/contrib/116996442414726528453/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-KXsrEv4yKts/AAAAAAAAAAI/AAAAAAAA6oY/r8f3R4Ny9DQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "2 \u9031\u524d",
+              "text": "\u7ca5\u672c\u8eab\u5f88\u7dbf\u5bc6\u597d\u5403 \u8247\u4ed4\u7ca5\u6599\u5f88\u591a",
+              "time": 1563709890
+            },
+            {
+              "author_name": "Zhicheng Shen",
+              "author_url": "https://www.google.com/maps/contrib/102844324474495602459/reviews",
+              "language": "zh-Hant",
+              "profile_photo_url": "https://lh4.googleusercontent.com/-Mlg_Pu7h-n0/AAAAAAAAAAI/AAAAAAAAAB0/Wlmo-CHU9GI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+              "rating": 5,
+              "relative_time_description": "1 \u500b\u6708\u524d",
+              "text": "\u50f9\u683c\u76f8\u5b9c\uff0c\u7ca5\u54c1\u8cea\u7d20\u9ad8\uff0c\u8857\u574a\u92ea\u74b0\u5883\u8f15\u9b06",
+              "time": 1560611276
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=11681801739133392515",
+          "user_ratings_total": 269,
+          "utc_offset": 480,
+          "vicinity": "\u725b\u982d\u89d2\u725b\u982d\u89d2\u9053311\u865f"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "ChIJoQ6m0E4BBDQRkLyw9f6cJwc": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Ngau Tau Kok",
+              "short_name": "Ngau Tau Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 &amp; 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, <span class=\"locality\">Ngau Tau Kok</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, Ngau Tau Kok, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.31507,
+              "lng": 114.221939
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3164189802915,
+                "lng": 114.2232879802915
+              },
+              "southwest": {
+                "lat": 22.3137210197085,
+                "lng": 114.2205900197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "bfb673a1e1a385fc4a55021b327816349b1571d1",
+          "name": "\u5927\u5e2b\u5085\u7ca5\u54c1",
+          "place_id": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+          "plus_code": {
+            "compound_code": "868C+2Q Hong Kong",
+            "global_code": "7PJP868C+2Q"
+          },
+          "rating": 4,
+          "reference": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+          "reviews": [
+            {
+              "author_name": "Wei Xiang Perh",
+              "author_url": "https://www.google.com/maps/contrib/106071961454033068753/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-AkgVpilcS5Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcoBAJB_ZWlwO1aQtapoQHj914bgA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 years ago",
+              "text": "",
+              "time": 1482453580
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=515553301214837904",
+          "user_ratings_total": 1,
+          "utc_offset": 480,
+          "vicinity": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Ngau Tau Kok",
+              "short_name": "Ngau Tau Kok",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kowloon",
+              "short_name": "Kowloon",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 &amp; 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, <span class=\"locality\">Ngau Tau Kok</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
+          "formatted_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, Ngau Tau Kok, \u9999\u6e2f",
+          "geometry": {
+            "location": {
+              "lat": 22.31507,
+              "lng": 114.221939
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3164189802915,
+                "lng": 114.2232879802915
+              },
+              "southwest": {
+                "lat": 22.3137210197085,
+                "lng": 114.2205900197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id": "bfb673a1e1a385fc4a55021b327816349b1571d1",
+          "name": "\u5927\u5e2b\u5085\u7ca5\u54c1",
+          "place_id": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+          "plus_code": {
+            "compound_code": "868C+2Q \u9999\u6e2f",
+            "global_code": "7PJP868C+2Q"
+          },
+          "rating": 4,
+          "reference": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+          "reviews": [
+            {
+              "author_name": "Wei Xiang Perh",
+              "author_url": "https://www.google.com/maps/contrib/106071961454033068753/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/-AkgVpilcS5Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcoBAJB_ZWlwO1aQtapoQHj914bgA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+              "rating": 4,
+              "relative_time_description": "2 \u5e74\u524d",
+              "text": "",
+              "time": 1482453580
+            }
+          ],
+          "scope": "GOOGLE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=515553301214837904",
+          "user_ratings_total": 1,
+          "utc_offset": 480,
+          "vicinity": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    }
   },
   "place_tc": {
     "html_attributions": [],
     "result": {
       "address_components": [
+        {
+          "long_name": "311",
+          "short_name": "311",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "\u725b\u982d\u89d2\u9053",
+          "short_name": "\u725b\u982d\u89d2\u9053",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "\u725b\u982d\u89d2",
+          "short_name": "\u725b\u982d\u89d2",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "\u4e5d\u9f8d",
+          "short_name": "\u4e5d\u9f8d",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
         {
           "long_name": "\u9999\u6e2f",
           "short_name": "HK",
@@ -141,75 +1213,271 @@
             "country",
             "political"
           ]
-        },
-        {
-          "long_name": "Ngau Tau Kok",
-          "short_name": "Ngau Tau Kok",
-          "types": [
-            "neighborhood",
-            "political"
-          ]
-        },
-        {
-          "long_name": "Kowloon",
-          "short_name": "Kowloon",
-          "types": [
-            "administrative_area_level_1",
-            "political"
-          ]
         }
       ],
-      "adr_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 &amp; 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, <span class=\"locality\">Ngau Tau Kok</span>, <span class=\"country-name\">\u9999\u6e2f</span>",
-      "formatted_address": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon, Ngau Tau Kok, \u9999\u6e2f",
+      "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u725b\u982d\u89d2</span><span class=\"street-address\">\u725b\u982d\u89d2\u9053311\u865f</span>",
+      "formatted_address": "\u9999\u6e2f\u725b\u982d\u89d2\u725b\u982d\u89d2\u9053311\u865f",
+      "formatted_phone_number": "2790 9317",
       "geometry": {
         "location": {
-          "lat": 22.31507,
-          "lng": 114.221939
+          "lat": 22.3150325,
+          "lng": 114.2218075
         },
         "viewport": {
           "northeast": {
-            "lat": 22.3164189802915,
-            "lng": 114.2232879802915
+            "lat": 22.3163344802915,
+            "lng": 114.2231604802915
           },
           "southwest": {
-            "lat": 22.3137210197085,
-            "lng": 114.2205900197085
+            "lat": 22.31363651970849,
+            "lng": 114.2204625197085
           }
         }
       },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-      "id": "bfb673a1e1a385fc4a55021b327816349b1571d1",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "411c38bebd44109dd8c2b4dc59fd97da8487fd50",
+      "international_phone_number": "+852 2790 9317",
       "name": "\u5927\u5e2b\u5085\u7ca5\u54c1",
-      "place_id": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
-      "plus_code": {
-        "compound_code": "868C+2Q \u9999\u6e2f",
-        "global_code": "7PJP868C+2Q"
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "0000"
+            },
+            "open": {
+              "day": 0,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0000"
+            },
+            "open": {
+              "day": 1,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0000"
+            },
+            "open": {
+              "day": 2,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0000"
+            },
+            "open": {
+              "day": 3,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0000"
+            },
+            "open": {
+              "day": 4,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0000"
+            },
+            "open": {
+              "day": 5,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0000"
+            },
+            "open": {
+              "day": 6,
+              "time": "0700"
+            }
+          }
+        ],
+        "weekday_text": [
+          "\u661f\u671f\u4e00: 07:00 \u2013 00:00",
+          "\u661f\u671f\u4e8c: 07:00 \u2013 00:00",
+          "\u661f\u671f\u4e09: 07:00 \u2013 00:00",
+          "\u661f\u671f\u56db: 07:00 \u2013 00:00",
+          "\u661f\u671f\u4e94: 07:00 \u2013 00:00",
+          "\u661f\u671f\u516d: 07:00 \u2013 00:00",
+          "\u661f\u671f\u65e5: 07:00 \u2013 00:00"
+        ]
       },
-      "rating": 4,
-      "reference": "ChIJoQ6m0E4BBDQRkLyw9f6cJwc",
+      "photos": [
+        {
+          "height": 2202,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+          ],
+          "photo_reference": "CmRaAAAAdMaQX_Lf_LNujE27W5d2_vr1JrS3lTChB_8xDk125-Pl2YK4lzFiiCY8clz0MAV7hVEan_KhULK0er_w3VPgmXLlfOuzsXFBPTqWn8lIBh4btMJ7EacxBZkbANZUipWgEhD6DCs9gDG8dzohdJ7RVTV2GhT3UH5WML3KmW4ug9nF-Y78BYpxrw",
+          "width": 3940
+        },
+        {
+          "height": 2164,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113159723125904860286/photos\">PAUL CP</a>"
+          ],
+          "photo_reference": "CmRaAAAAFL2KVNZoFjyYzOY48sYNZCzGEf2CgPNZy6yl-v-wbrIJGv6Ko5muA_KQN1Ib5fnV-xaMH8RSVSYY-juyMbQxgjx8CLe0r3PgMTBYyigeF-oVIKDvKeRoeHfPr3NPOocNEhDVhV081txyWhj0BmTPWzGcGhTmhC2gDYyipZmygKDGB4RxSn6dIQ",
+          "width": 3917
+        },
+        {
+          "height": 3104,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+          ],
+          "photo_reference": "CmRaAAAArFI4De3HLxl0hsSL2_0-Z2LCf8EY8bMOPaxf1jRNTI2GFMzPlvBZ6yH-RiP-8hF_ECt9vt9rwFfSvDFfqSPWfGQEAklYq7UEd-ZYxYleNx3RaEjr4B5NcWXdfuwx-4XyEhA5Kqc267GhIIau35durF0bGhQ0QlBybenc-90_qClzvnBD2lUQDQ",
+          "width": 1746
+        },
+        {
+          "height": 1746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103648629184860562700/photos\">Simon Ma</a>"
+          ],
+          "photo_reference": "CmRaAAAAl2saNaiw5MLshLBuM-oGSybNUZ4_v7KQl__eI9Z_cWoCXWUnXhwjCD1ceLRCjB0muQGremnPqKjgLhRJPf9BlDUa7-7OD3pTZPMVIGSR0OkfLtdVe9SYi5EIEuW42vI3EhA329ckSXc6Qmun5EddPEllGhR2SIRaQZwIBi7VpnltlgBGDKfDqA",
+          "width": 3104
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+          ],
+          "photo_reference": "CmRaAAAAMMWNnliGzoFSUATiassJdm4-qpHVNtIEEee2z-wxAZEQRJLZcjb95AdoeOTWu6MU6I7hEvqxXGL8CSwQe0vIHn1sMfPb7MW_2jwaCvOmiOMkynXQEb97T6b7C7Uk1M04EhAmjHTiPSGbaVIiWMj8WY5XGhRrDEt9Q2qu7MdKwZRFA5CYKIeOpw",
+          "width": 3024
+        },
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116326193914483259854/photos\">Vivek Duddempudi</a>"
+          ],
+          "photo_reference": "CmRaAAAA6ng66WsUpRhfCF4VBEHw0Faqbezf6Xaj40TdnSIDF8kmjezPJQCCKRAD2a9xbv05qia7UIjXIlCt1iJ9qjFM8W-9oNN6ZzYt13VZemjpHwUIoCYFN81OYtsQmudzn6mHEhCM0q7rBQaTd5wCudiFYTUjGhQ5B64ClrtSvhNpPmffC7XW_zMF3A",
+          "width": 4640
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111351341999690686224/photos\">\u5e78\u798f\u7537</a>"
+          ],
+          "photo_reference": "CmRaAAAAPntPlpuHZf2_259zl7buDauPdkMXTZMUf4xJ-27Yyy_YOZBSQ-m_uA1v0LbkajXXpjpktFqvOEZC5JsqvUG205fa2_N3bVFjm1ZuYCg2BOftT82dyihfE6yCbG5_kpXXEhDod7Yg5-Q9VMz0F499KQnuGhS3CctqRmUWfu5Ajl-_CBRJ7qoMbA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104621730656249097380/photos\">Ski Goer</a>"
+          ],
+          "photo_reference": "CmRaAAAAq5-P7dlIJKkMlKDO7psq6IC7nCi6MDv_bWkEMz3JPK6eClfvMuEabxtHWDzZmKeTvog2rpnBkLyeoGYdmv1SkeRH4tDXEVZZ2w7ZQsJQnrGihLZqdrlJxRc8gb9zsZJXEhAXnW-xLLBgcyN_7t8epLU4GhRPMHMpKv9BRLh6Aola3MmG4MGKgg",
+          "width": 4032
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102141947751460974882/photos\">jacky au yeung</a>"
+          ],
+          "photo_reference": "CmRaAAAAcPXYmB-xXa6tRUGOxSsVmM3ESON1vXfGzcIUgg0aTbe6NAf9X3yc4L3-xpSAakHTcJU5b59oIq6AfNDH9YS9rVfhLRU-Gjeybm9XVQJPfSO79ji57bX6ibzyacW_pf48EhDnlYX_8OypNtV3ntGXgU5rGhTJV3uhKxTFbT2b1YI3IQ_U3JrWjw",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103636505463356734038/photos\">Martin Chan</a>"
+          ],
+          "photo_reference": "CmRaAAAAvfF8vZIfp03MtEdImOuH9BZKbdRICpWqac8HnvBtYLWqWeBLE7PmjrRruqgNUc2aEniyjyoHpKu2ku-EtzIPW3OvDWydao3gc_o0vqWDubVfCMDgsI_vSD_BHvlQv5OFEhD1YvcoIcx4R7NStrbYYWznGhT-MyjU3ExnO9mdvRoHup6m9yW4ig",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
+      "plus_code": {
+        "compound_code": "868C+2P \u9999\u6e2f",
+        "global_code": "7PJP868C+2P"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJg9Qt2k4BBDQRgxaW9ckYHqI",
       "reviews": [
         {
-          "author_name": "Wei Xiang Perh",
-          "author_url": "https://www.google.com/maps/contrib/106071961454033068753/reviews",
-          "profile_photo_url": "https://lh3.googleusercontent.com/-AkgVpilcS5Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcoBAJB_ZWlwO1aQtapoQHj914bgA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "author_name": "Y.H Andy Chung",
+          "author_url": "https://www.google.com/maps/contrib/104744495387825397744/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-u_c-IRcfmqs/AAAAAAAAAAI/AAAAAAAAADg/hw8dM1pH8RM/s128-c0x00000000-cc-rp-mo/photo.jpg",
           "rating": 4,
-          "relative_time_description": "2 \u5e74\u524d",
-          "text": "",
-          "time": 1482453580
+          "relative_time_description": "1 \u9031\u524d",
+          "text": "\u5730\u65b9\u5927\u5c11\u4e86 \u611f\u89ba\u4e0a\u8feb\u4eba\u5403\u98fd\u8981\u7acb\u5373\u8d70\u7684",
+          "time": 1563975580
+        },
+        {
+          "author_name": "PAUL CP",
+          "author_url": "https://www.google.com/maps/contrib/113159723125904860286/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-X1AXhRc2jis/AAAAAAAAAAI/AAAAAAAACKI/C63vPZ-n8wk/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 \u500b\u6708\u524d",
+          "text": "\u83dc\u4e7e\u8c6c\u9aa8\u7ca5\u4e0d\u932f\uff0c\u8525\u82b1\u70b8\u5169\u8178\u662f\u65b0\u9bae\u5373\u5236(\u666e\u901a\u7248\u597d\u50cf\u4e0d\u662f\u5373\u5236)\uff0c\u53e3\u611f\u5f88\u8b9a\uff01\u53e6\u9019\u88cf\u7684\u725b\u8137\u9165\u5927\u71b1\u8ce3\uff0c\u61c9\u8a72\u5f88\u597d\u98df\uff0c\u7559\u5f85\u4e0b\u6b21\u518d\u8a66\u3002",
+          "time": 1558859761
+        },
+        {
+          "author_name": "\u5e78\u798f\u7537",
+          "author_url": "https://www.google.com/maps/contrib/111351341999690686224/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-yZ3dRhM15P8/AAAAAAAAAAI/AAAAAAAALgU/Y31OFEXxSJo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "\u4eca\u65e5\u7aef\u5348\u7bc0\uff0c\u7279\u767b\u569f\u98df\u9e79\u8089\u7cbd\uff0c\u8cea\u611f\u9b06\u9b06\u8edf\u8edf\uff0c\u9084\u53ef\u4ee5\uff0c\u5473\u9053\u4e2d\u5eb8\uff0c\u6c92\u9e79\u8089\u7cbd\u7684\u9999\u5473\u3002",
+          "time": 1559935216
+        },
+        {
+          "author_name": "Yafei Lee",
+          "author_url": "https://www.google.com/maps/contrib/116996442414726528453/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-KXsrEv4yKts/AAAAAAAAAAI/AAAAAAAA6oY/r8f3R4Ny9DQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 \u9031\u524d",
+          "text": "\u7ca5\u672c\u8eab\u5f88\u7dbf\u5bc6\u597d\u5403 \u8247\u4ed4\u7ca5\u6599\u5f88\u591a",
+          "time": 1563709890
+        },
+        {
+          "author_name": "Zhicheng Shen",
+          "author_url": "https://www.google.com/maps/contrib/102844324474495602459/reviews",
+          "language": "zh-Hant",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-Mlg_Pu7h-n0/AAAAAAAAAAI/AAAAAAAAAB0/Wlmo-CHU9GI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "1 \u500b\u6708\u524d",
+          "text": "\u50f9\u683c\u76f8\u5b9c\uff0c\u7ca5\u54c1\u8cea\u7d20\u9ad8\uff0c\u8857\u574a\u92ea\u74b0\u5883\u8f15\u9b06",
+          "time": 1560611276
         }
       ],
       "scope": "GOOGLE",
       "types": [
+        "restaurant",
+        "food",
         "point_of_interest",
         "establishment"
       ],
-      "url": "https://maps.google.com/?cid=515553301214837904",
-      "user_ratings_total": 1,
+      "url": "https://maps.google.com/?cid=11681801739133392515",
+      "user_ratings_total": 269,
       "utc_offset": 480,
-      "vicinity": "Shop D, G/F, Kwun Tong Lap Shing Building, Nos 305-325 & 325A Ngau Tau Kok Road, Kwun Tong, Kowloon"
+      "vicinity": "\u725b\u982d\u89d2\u725b\u982d\u89d2\u9053311\u865f"
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }

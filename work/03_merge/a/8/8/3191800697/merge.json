@@ -186,6 +186,543 @@
     },
     "status": "OK"
   },
+  "place_id_to_place_data_dict": {
+    "ChIJM4yeqpv4AzQRrQ4JTev74yY": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "7a",
+              "short_name": "7a",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Ping Lai Path",
+              "short_name": "Ping Lai Path",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Shek Lei",
+              "short_name": "Shek Lei",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">7a Ping Lai Path</span>, <span class=\"locality\">Shek Lei</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "7a Ping Lai Path, Shek Lei, Hong Kong",
+          "formatted_phone_number": "9718 7205",
+          "geometry": {
+            "location": {
+              "lat": 22.3674261,
+              "lng": 114.1351289
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3687698802915,
+                "lng": 114.1364785802915
+              },
+              "southwest": {
+                "lat": 22.3660719197085,
+                "lng": 114.1337806197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "db59af55e9d093b66fea0982f09c4f8d6e8248d0",
+          "international_phone_number": "+852 9718 7205",
+          "name": "Here Restaurant",
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109674494126215119830/photos\">Na Me</a>"
+              ],
+              "photo_reference": "CmRaAAAAy3AUSUzTGNAZ47-X7acAOCpKffnqrjnwv6FQru7U97UShRf7o0LGBmUXFl5llvWoGiOmbSDmf8fUY7INrvi7Aq8VKgYkqxo_sksqpTU5ULVVGC0RbgE51rJWv5tibd_NEhC1GVkaPI96MO8PqiRbDGWAGhRh3TJegJaFUyksvhtuJeiXo21UyQ",
+              "width": 3024
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109674494126215119830/photos\">Na Me</a>"
+              ],
+              "photo_reference": "CmRaAAAAz3pKtGSAGtC2iNyQq3S-YeojU-JciwhBUFt2oCj45fY_IqekULQrFm8wuUh7N3K2JzQT7wNyWgzpMKn3LeSFGgp3SU46fUItED96QAyTH3jN_4W9-j7I99sMY6iZlpf3EhD_lHygFidVI-17fLX5ZvaPGhRSzRwy05URxsSz7gKJDK6EK3v-JQ",
+              "width": 3024
+            }
+          ],
+          "place_id": "ChIJM4yeqpv4AzQRrQ4JTev74yY",
+          "plus_code": {
+            "compound_code": "948P+X3 Hong Kong",
+            "global_code": "7PJP948P+X3"
+          },
+          "reference": "ChIJM4yeqpv4AzQRrQ4JTev74yY",
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=2802360381182906029",
+          "utc_offset": 480,
+          "vicinity": "7a Ping Lai Path, Shek Lei"
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJM4yeqpv4AzQRrQ4JTev74yY",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "7a",
+              "short_name": "7a",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5c4f\u9e97\u5f91",
+              "short_name": "\u5c4f\u9e97\u5f91",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u77f3\u7c6c",
+              "short_name": "\u77f3\u7c6c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u77f3\u7c6c</span><span class=\"street-address\">\u5c4f\u9e97\u5f917a\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u77f3\u7c6c\u5c4f\u9e97\u5f917a\u865f",
+          "formatted_phone_number": "9718 7205",
+          "geometry": {
+            "location": {
+              "lat": 22.3674261,
+              "lng": 114.1351289
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3687698802915,
+                "lng": 114.1364785802915
+              },
+              "southwest": {
+                "lat": 22.3660719197085,
+                "lng": 114.1337806197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+          "id": "db59af55e9d093b66fea0982f09c4f8d6e8248d0",
+          "international_phone_number": "+852 9718 7205",
+          "name": "\u5462\u5ea6",
+          "photos": [
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109674494126215119830/photos\">Na Me</a>"
+              ],
+              "photo_reference": "CmRaAAAAZyjuFbXn4Kr-AzEoVoLQF0H_JYuP33e0vKOp8T7Dqg15BCUFoxcQ0_o9M6u65LP8fS_e54PKci0WF8W57iJ3EePfASFLsyl9bv4ltm9TbMaE9tqk6kXzQ3AK9ebIKd8iEhDewJtRuQQg8jI_nGJJz4lHGhRtb9mr634If-brlujhtvj8udlGow",
+              "width": 3024
+            },
+            {
+              "height": 4032,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109674494126215119830/photos\">Na Me</a>"
+              ],
+              "photo_reference": "CmRaAAAAO4QFoBE_vADogCz4fSUlDgbYcZ9XU7O-2kZrDG_ytWls8F_ovplLPlouyormz3NTWOEsMiCfwM275hM65l5aaoXw4WynVRcr_hPPxrAk1o1JSRh76zT3LZt5GT3aHbjFEhDEx6qpIH1G5T-6mojh1Sm5GhTFAc2XODxklXcyREanqRK4dSauBw",
+              "width": 3024
+            }
+          ],
+          "place_id": "ChIJM4yeqpv4AzQRrQ4JTev74yY",
+          "plus_code": {
+            "compound_code": "948P+X3 \u9999\u6e2f",
+            "global_code": "7PJP948P+X3"
+          },
+          "reference": "ChIJM4yeqpv4AzQRrQ4JTev74yY",
+          "scope": "GOOGLE",
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "url": "https://maps.google.com/?cid=2802360381182906029",
+          "utc_offset": 480,
+          "vicinity": "\u77f3\u7c6c\u5c4f\u9e97\u5f917a\u865f"
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    },
+    "ChIJwQAyB5v4AzQRQNe97xNetPg": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "Kwai Fung House",
+              "short_name": "Kwai Fung House",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "456",
+              "short_name": "456",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Castle Peak Road",
+              "short_name": "Castle Peak Rd",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Shek Lei",
+              "short_name": "Shek Lei",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "Kwai Fung House, <span class=\"street-address\">456 Castle Peak Rd</span>, <span class=\"locality\">Shek Lei</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "Kwai Fung House, 456 Castle Peak Rd, Shek Lei, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3675107,
+              "lng": 114.1353657
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3688596802915,
+                "lng": 114.1367146802915
+              },
+              "southwest": {
+                "lat": 22.3661617197085,
+                "lng": 114.1340167197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "24d6362a4f9436a1e575764fb1cb042144beb54d",
+          "name": "Kwai Fung House",
+          "place_id": "ChIJwQAyB5v4AzQRQNe97xNetPg",
+          "reference": "ChIJwQAyB5v4AzQRQNe97xNetPg",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=Kwai+Fung+House&ftid=0x3403f89b073200c1:0xf8b45e13efbdd740",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "ChIJwQAyB5v4AzQRQNe97xNetPg",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "\u8475\u8c50\u6a13",
+              "short_name": "\u8475\u8c50\u6a13",
+              "types": [
+                "premise"
+              ]
+            },
+            {
+              "long_name": "456",
+              "short_name": "456",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u9752\u5c71\u516c\u8def\u8475\u6d8c\u6bb5",
+              "short_name": "\u9752\u5c71\u516c\u8def\u8475\u6d8c\u6bb5",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u77f3\u7c6c",
+              "short_name": "\u77f3\u7c6c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u77f3\u7c6c</span><span class=\"street-address\">\u9752\u5c71\u516c\u8def\u8475\u6d8c\u6bb5456\u865f</span>\u8475\u8c50\u6a13",
+          "formatted_address": "\u9999\u6e2f\u77f3\u7c6c\u9752\u5c71\u516c\u8def\u8475\u6d8c\u6bb5456\u865f\u8475\u8c50\u6a13",
+          "geometry": {
+            "location": {
+              "lat": 22.3675107,
+              "lng": 114.1353657
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3688596802915,
+                "lng": 114.1367146802915
+              },
+              "southwest": {
+                "lat": 22.3661617197085,
+                "lng": 114.1340167197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "24d6362a4f9436a1e575764fb1cb042144beb54d",
+          "name": "\u8475\u8c50\u6a13",
+          "place_id": "ChIJwQAyB5v4AzQRQNe97xNetPg",
+          "reference": "ChIJwQAyB5v4AzQRQNe97xNetPg",
+          "scope": "GOOGLE",
+          "types": [
+            "premise"
+          ],
+          "url": "https://maps.google.com/?q=%E8%91%B5%E8%B1%90%E6%A8%93&ftid=0x3403f89b073200c1:0xf8b45e13efbdd740",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564978718,
+      "version": "1564966095"
+    },
+    "EiQ3IFBpbmcgTGFpIFBhdGgsIFNoZWsgTGVpLCBIb25nIEtvbmciGhIYChQKEgmrn1QHm_gDNBEEuHy6MmZ9uxAH": {
+      "place_en": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "7",
+              "short_name": "7",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "Ping Lai Path",
+              "short_name": "Ping Lai Path",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "Shek Lei",
+              "short_name": "Shek Lei",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "New Territories",
+              "short_name": "New Territories",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Hong Kong",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"street-address\">7 Ping Lai Path</span>, <span class=\"locality\">Shek Lei</span>, <span class=\"country-name\">Hong Kong</span>",
+          "formatted_address": "7 Ping Lai Path, Shek Lei, Hong Kong",
+          "geometry": {
+            "location": {
+              "lat": 22.3675256,
+              "lng": 114.1352934
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3688161802915,
+                "lng": 114.1366498802915
+              },
+              "southwest": {
+                "lat": 22.3661182197085,
+                "lng": 114.1339519197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "b2ce2a9863456e53302ecd9a2aca11766cf4fa52",
+          "name": "7 Ping Lai Path",
+          "place_id": "EiQ3IFBpbmcgTGFpIFBhdGgsIFNoZWsgTGVpLCBIb25nIEtvbmciGhIYChQKEgmrn1QHm_gDNBEEuHy6MmZ9uxAH",
+          "reference": "EiQ3IFBpbmcgTGFpIFBhdGgsIFNoZWsgTGVpLCBIb25nIEtvbmciGhIYChQKEgmrn1QHm_gDNBEEuHy6MmZ9uxAH",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=7+Ping+Lai+Path,+Shek+Lei,+Hong+Kong&ftid=0x3403f89b07549fab:0x893548a14230326f",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "place_id": "EiQ3IFBpbmcgTGFpIFBhdGgsIFNoZWsgTGVpLCBIb25nIEtvbmciGhIYChQKEgmrn1QHm_gDNBEEuHy6MmZ9uxAH",
+      "place_tc": {
+        "html_attributions": [],
+        "result": {
+          "address_components": [
+            {
+              "long_name": "7",
+              "short_name": "7",
+              "types": [
+                "street_number"
+              ]
+            },
+            {
+              "long_name": "\u5c4f\u9e97\u5f91",
+              "short_name": "\u5c4f\u9e97\u5f91",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "\u77f3\u7c6c",
+              "short_name": "\u77f3\u7c6c",
+              "types": [
+                "neighborhood",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u65b0\u754c",
+              "short_name": "\u65b0\u754c",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "\u9999\u6e2f",
+              "short_name": "HK",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "adr_address": "<span class=\"country-name\">\u9999\u6e2f</span><span class=\"locality\">\u77f3\u7c6c</span><span class=\"street-address\">\u5c4f\u9e97\u5f917\u865f</span>",
+          "formatted_address": "\u9999\u6e2f\u77f3\u7c6c\u5c4f\u9e97\u5f917\u865f",
+          "geometry": {
+            "location": {
+              "lat": 22.3675256,
+              "lng": 114.1352934
+            },
+            "viewport": {
+              "northeast": {
+                "lat": 22.3688161802915,
+                "lng": 114.1366498802915
+              },
+              "southwest": {
+                "lat": 22.3661182197085,
+                "lng": 114.1339519197085
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+          "id": "b2ce2a9863456e53302ecd9a2aca11766cf4fa52",
+          "name": "\u5c4f\u9e97\u5f917\u865f",
+          "place_id": "EiQ3IFBpbmcgTGFpIFBhdGgsIFNoZWsgTGVpLCBIb25nIEtvbmciGhIYChQKEgmrn1QHm_gDNBEEuHy6MmZ9uxAH",
+          "reference": "EiQ3IFBpbmcgTGFpIFBhdGgsIFNoZWsgTGVpLCBIb25nIEtvbmciGhIYChQKEgmrn1QHm_gDNBEEuHy6MmZ9uxAH",
+          "scope": "GOOGLE",
+          "types": [
+            "street_address"
+          ],
+          "url": "https://maps.google.com/?q=%E9%A6%99%E6%B8%AF%E7%9F%B3%E7%B1%AC%E5%B1%8F%E9%BA%97%E5%BE%917%E8%99%9F&ftid=0x3403f89b07549fab:0x893548a14230326f",
+          "utc_offset": 480
+        },
+        "status": "OK"
+      },
+      "timestamp": 1564998366,
+      "version": "1564966095"
+    }
+  },
   "place_tc": {
     "html_attributions": [],
     "result": {
@@ -289,6 +826,6 @@
     },
     "status": "OK"
   },
-  "timestamp": 1565104433,
-  "version": "1565104415"
+  "timestamp": 1565110398,
+  "version": "1565110382"
 }
